@@ -142,6 +142,12 @@ TEMPLATE_CACHE_DIR=.my-templates
 
 Want to add a new template? Generate it using the [shopware-catalog-generator](https://github.com/shopwareLabs/shopware-catalog-generator) and submit a pull request with the complete `generated/sales-channels/{your-store}/` directory.
 
+When regenerating all templates, squash the history to keep the repo size small using the [`reset-templates-history.sh`](https://github.com/shopwareLabs/shopware-catalog-generator/blob/main/scripts/reset-templates-history.sh) script from the generator:
+
+```bash
+bash scripts/reset-templates-history.sh /path/to/shopware-catalog-templates
+```
+
 For details on building, testing, and extending the generator itself, see the [shopware-catalog-generator README](https://github.com/shopwareLabs/shopware-catalog-generator#readme).
 
 ## Related Projects
