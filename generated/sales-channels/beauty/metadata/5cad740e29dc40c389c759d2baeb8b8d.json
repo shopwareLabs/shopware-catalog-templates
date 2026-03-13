@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "A sleek mascara tube in black, viewed from the side, with a bold 'waterproof' label and dramatic brush style, set on a minimal background."
+    },
+    {
+      "view": "front",
+      "prompt": "A lengthening mascara standing upright, with brush extended to show the bristles and intense black color, on a plain white backdrop."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Type",
+      "value": "Lengthening",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "9595ef5e741c4d429cc2cea032a8ae63"
+    },
+    {
+      "group": "Formula",
+      "value": "Waterproof",
+      "groupId": "a5f0c5d1d4784a2c865fb4cba8c36859",
+      "optionId": "1b867b7cac574b01b5ba2524b8bf0bcb"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.31,
+  "width": 974,
+  "height": 1100,
+  "length": 1907,
+  "ean": "4116525863580",
+  "manufacturerNumber": "MPN-BOM3YO1S",
+  "manufacturerName": "Artisan Studio",
+  "baseImagePrompt": "Lengthening Mascara - Black - Waterproof"
+}

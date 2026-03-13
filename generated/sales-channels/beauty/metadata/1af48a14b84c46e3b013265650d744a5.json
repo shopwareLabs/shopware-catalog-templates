@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a pink teardrop makeup sponge with smooth texture on a white background"
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a pink teardrop-shaped blending sponge showing its contour-friendly design"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Hand holding a pink makeup sponge over a vanity table with cosmetic products, soft natural lighting"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Pink",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "90fcd63d0e5e483299bf7bd9254efbf4"
+    },
+    {
+      "group": "Material",
+      "value": "Latex-Free Foam",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "176cb7f76aaa4c2183d1bf25532f258f"
+    },
+    {
+      "group": "Type",
+      "value": "Blending Sponge",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "44251b592b5744fb91278d3e2dcb6bec"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 16.28,
+  "width": 1464,
+  "height": 338,
+  "length": 952,
+  "ean": "8820507141707",
+  "manufacturerNumber": "MPN-XU3OFN72",
+  "manufacturerName": "Artisan Living",
+  "baseImagePrompt": "Makeup Sponge - Pink - Teardrop Shape, Latex-Free Foam construction"
+}

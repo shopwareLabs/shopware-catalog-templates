@@ -1,0 +1,45 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a wooden garden bench with a natural finish, set along a garden path surrounded by blooming flowers and lush greenery."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Finish",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "d8a9fa0a796d4f2281e4036a7873612b"
+    },
+    {
+      "group": "Material",
+      "value": "Wood",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "1ebe5078de5947ee89cdccfd9e6d19e0"
+    },
+    {
+      "group": "Type",
+      "value": "Garden Bench",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "5d853043858340f091dff471529f8913"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.62,
+  "width": 1429,
+  "height": 884,
+  "length": 1823,
+  "ean": "8951133282127",
+  "manufacturerNumber": "MPN-J9KXOA1O",
+  "maxPurchase": 10,
+  "manufacturerName": "Premium Designs",
+  "baseImagePrompt": "Garden Bench - Natural Finish - Wood"
+}

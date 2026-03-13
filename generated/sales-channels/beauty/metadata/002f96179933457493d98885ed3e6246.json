@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of thin brow pencil in medium brown shade, precision tip visible next to built-in spoolie brush, clean white background"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Medium Brown",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "7b273c813833479493dd0584cfc21c03"
+    },
+    {
+      "group": "Tip Type",
+      "value": "Precision",
+      "groupId": "defa180f625848638bfc076bfa0db770",
+      "optionId": "762307aa946a407bb1d185edf5f9247c"
+    },
+    {
+      "group": "Smudge-Proof",
+      "value": "Yes",
+      "groupId": "3cf11bfc4aa04bc3a6e588f0ca7c6ba6",
+      "optionId": "6842958987a449bbbbb26036db7f7c03"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.75,
+  "width": 1327,
+  "height": 1032,
+  "length": 281,
+  "ean": "4523242621988",
+  "manufacturerNumber": "MPN-JVWLVKH6",
+  "manufacturerName": "Artisan Studio",
+  "baseImagePrompt": "Brow Pencil - Medium Brown - Precision Tip"
+}

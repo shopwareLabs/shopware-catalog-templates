@@ -1,0 +1,49 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Box packaging for a grey portable reflection filter with product photo and branding."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a grey portable reflection filter mounted on a microphone stand."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Grey",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "75df4a0d40dd4db0924682fdc770ca85"
+    },
+    {
+      "group": "Type",
+      "value": "Reflection Filter",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "40ff7a8143614c5b9ebf0cbd631d391a"
+    },
+    {
+      "group": "Portability",
+      "value": "Portable",
+      "groupId": "d7e51e516d4f4c03b940799c83a501c9",
+      "optionId": "b008e6b5adcb4cd7a6fafed9b9392390"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.95,
+  "width": 62,
+  "height": 340,
+  "length": 1435,
+  "ean": "5509341991220",
+  "manufacturerNumber": "MPN-MCNNXWYI",
+  "manufacturerName": "Premium Home",
+  "baseImagePrompt": "Reflection Filter - Portable - Grey"
+}

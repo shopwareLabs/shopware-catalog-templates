@@ -1,0 +1,72 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A guitarist stringing a guitar with nickel plated light gauge strings in a studio or practice environment"
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Guitar Strings",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "9c5b3e256c27403f9b466aa956c240bd"
+    },
+    {
+      "group": "Gauge",
+      "value": "Light",
+      "groupId": "845e551c4dff4c3b8a2a5a26b99acd54",
+      "optionId": "e4674397309749aa8adae6a5c4d81d83"
+    },
+    {
+      "group": "Material",
+      "value": "Nickel Plated Steel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "9968ed19d85643f5a845bf5e131bcbd0"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.31,
+  "width": 1086,
+  "height": 595,
+  "length": 1188,
+  "ean": "4438909092721",
+  "manufacturerNumber": "MPN-PQ904C10",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Guitar Strings - Light Gauge - Nickel Plated, Nickel Plated Steel construction",
+  "variantConfigs": [
+    {
+      "group": "Gauge",
+      "selectedOptions": [
+        "Heavy (12-54)",
+        "Light (10-46)"
+      ],
+      "priceModifiers": {
+        "Heavy (12-54)": 1.15,
+        "Light (10-46)": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Nickel Plated Steel",
+        "Pure Nickel",
+        "Coated Steel",
+        "Stainless Steel"
+      ],
+      "priceModifiers": {
+        "Nickel Plated Steel": 1,
+        "Pure Nickel": 1.1,
+        "Coated Steel": 1.1,
+        "Stainless Steel": 1.05
+      }
+    }
+  ]
+}

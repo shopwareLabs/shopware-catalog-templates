@@ -1,0 +1,23 @@
+{
+  "name": "Coverage",
+  "slug": "coverage",
+  "displayType": "text",
+  "options": [
+    "Sheer",
+    "Light",
+    "Medium",
+    "Medium-Full",
+    "Full",
+    "Buildable"
+  ],
+  "priceModifiers": {
+    "Sheer": 0.9,
+    "Light": 1,
+    "Medium": 1.1,
+    "Medium-Full": 1.1,
+    "Full": 1.1,
+    "Buildable": 1.1
+  },
+  "createdAt": "2026-03-13T08:39:36.607Z",
+  "source": "ai-generated"
+}

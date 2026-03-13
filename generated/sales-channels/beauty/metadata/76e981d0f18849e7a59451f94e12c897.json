@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Tube of BB Cream in soft beige packaging labeled 'Light Beige SPF 30', modern lightweight design, upright on a white background"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, natural-lit scene of BB Cream being applied to the back of a hand for even tone, minimalist vanity setting"
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing tube of BB Cream with clear label showing shade and SPF, elegant and accessible look"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Light Beige",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "05c814f30afc412ca22a2c38f03d58d6"
+    },
+    {
+      "group": "Coverage",
+      "value": "Sheer to Medium",
+      "groupId": "2885aa8a292340699950d7d001b624a7",
+      "optionId": "28ca2327f1e944a995cb85cc2a60e2ae"
+    },
+    {
+      "group": "SPF",
+      "value": "30",
+      "groupId": "2b069bfb3fe441b3b248fea7da488a77",
+      "optionId": "025f9f2657374416ad913fe84092ba6b"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.96,
+  "width": 90,
+  "height": 468,
+  "length": 482,
+  "ean": "5123050311898",
+  "manufacturerNumber": "MPN-60T2PI22",
+  "manufacturerName": "Artisan Studio",
+  "baseImagePrompt": "BB Cream - Light Beige - SPF 30"
+}

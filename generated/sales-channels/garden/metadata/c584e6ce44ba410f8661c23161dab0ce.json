@@ -1,0 +1,39 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "A detailed close-up of granular all-purpose fertilizer, showing the texture and mix of tan and brown granules poured onto soil."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Granular",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f8c8fc5a09aa4e4a83257f5537790228"
+    },
+    {
+      "group": "Size",
+      "value": "5kg",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "4c589ddaaafa4ce28ea107e7183a85d2"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.85,
+  "width": 362,
+  "height": 504,
+  "length": 889,
+  "ean": "9250861962844",
+  "manufacturerNumber": "MPN-8WUJI818",
+  "manufacturerName": "Premium Co.",
+  "baseImagePrompt": "Granular All-Purpose Fertilizer - 5kg"
+}

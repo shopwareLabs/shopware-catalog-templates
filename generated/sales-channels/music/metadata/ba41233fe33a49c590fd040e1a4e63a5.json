@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A violinist performing with a violin, focus on the strings in a concert setting"
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of silver wound violin strings, showing fine construction and synthetic core under tension"
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a violin with new silver wound strings, positioned for tuning"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Core Material",
+      "value": "Synthetic",
+      "groupId": "862a5d6d4b2349899bdbfed0ad480f7b",
+      "optionId": "3ec67d63ef054bc181c1b17f921d9080"
+    },
+    {
+      "group": "Winding",
+      "value": "Silver",
+      "groupId": "a54a4ec64e77459c8e52632d0760611d",
+      "optionId": "c51db58b88cd4eb983c919c6ba83cb61"
+    },
+    {
+      "group": "Size",
+      "value": "4/4 Full",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "256fdbe6342c43ea98cb196ad640766d"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.83,
+  "width": 1039,
+  "height": 91,
+  "length": 1992,
+  "ean": "3715975881802",
+  "manufacturerNumber": "MPN-4EYQ6VGT",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Violin String Set - Synthetic Core - Silver Wound"
+}

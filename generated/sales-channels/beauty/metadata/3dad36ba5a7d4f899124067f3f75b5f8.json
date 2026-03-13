@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Blister pack packaging of stainless steel nail clippers, silver color, clear minimalist design"
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro shot of the precision edge of silver stainless steel nail clippers"
+    },
+    {
+      "view": "front",
+      "prompt": "Clear front view of silver nail clippers on a white surface, lever open"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "c455e1317d4d4f449c137b646c6059f2"
+    },
+    {
+      "group": "Material",
+      "value": "Stainless Steel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "aa6fe7c688da4068890c6d26dbe9a5c9"
+    },
+    {
+      "group": "Type",
+      "value": "Nail Clippers",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "d15a48d94bd04fe9afc57264c4bff28c"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.82,
+  "width": 788,
+  "height": 426,
+  "length": 321,
+  "ean": "1833322614865",
+  "manufacturerNumber": "MPN-WJX2UW1C",
+  "manufacturerName": "Artisan Living",
+  "baseImagePrompt": "Nail Clippers - Silver - Precision Edge, Stainless Steel construction"
+}

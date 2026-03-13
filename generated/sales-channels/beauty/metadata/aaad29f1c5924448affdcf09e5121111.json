@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a white cleansing brush with dense soft bristles and ergonomic plastic handle"
+    },
+    {
+      "view": "detail",
+      "prompt": "Extreme close-up showing the soft bristle texture of a white facial cleansing brush"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "bd4f935ee23842d3b0bae7f95a335ef4"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles, Plastic",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "b352a803b60144a284d424a06c146568"
+    },
+    {
+      "group": "Type",
+      "value": "Cleansing Brush",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "4af18b278cc54fd9a0601477989d0b14"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.31,
+  "width": 1313,
+  "height": 147,
+  "length": 1254,
+  "ean": "2971100882323",
+  "manufacturerNumber": "MPN-LDGOMB14",
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Cleansing Brush - White - Soft Bristles, Synthetic Bristles, Plastic construction"
+}

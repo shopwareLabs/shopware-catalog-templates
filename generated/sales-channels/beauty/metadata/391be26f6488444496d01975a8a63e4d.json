@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a clear plastic bottle labeled 'Micellar Water - Sensitive Skin - 200ml', soft light, minimal aqua blue accents, gentle skincare branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Micellar Water",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "9cf841ef7d9c462396369766a4c1ed45"
+    },
+    {
+      "group": "Size",
+      "value": "200ml",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "cff7ebbb6ab643c7ba7a36eda2d39e47"
+    },
+    {
+      "group": "Skin Type",
+      "value": "Sensitive",
+      "groupId": "3f4b33a227ca4977ad4a6b9de28a0ed4",
+      "optionId": "8826af132dfa4f26ba782fe644a980a3"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 11.58,
+  "width": 624,
+  "height": 224,
+  "length": 1005,
+  "ean": "9918877562266",
+  "manufacturerNumber": "MPN-Y7GDY714",
+  "manufacturerName": "Artisan Co.",
+  "baseImagePrompt": "Micellar Water - Sensitive Skin - 200ml"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a 49-key MIDI controller keyboard with velocity-sensitive keys, control knobs, and pads, on a reflective studio surface."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "MIDI controller in use on a modern home studio desk, surrounded by a computer and other recording gear, warm lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Keys",
+      "value": "49",
+      "groupId": "78635380efa34486b12d44e316da042d",
+      "optionId": "ecb8b0e028e6402c9cd47fbee1feec18"
+    },
+    {
+      "group": "Type",
+      "value": "MIDI Controller",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "01a06cccfd514df5a7faddec55865a6a"
+    },
+    {
+      "group": "Key Sensitivity",
+      "value": "Velocity Sensitive",
+      "groupId": "3f57ee98fb734a5692f91215c2f57e1e",
+      "optionId": "0994d7d27d8346528193ebfa2658f956"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.75,
+  "width": 709,
+  "height": 158,
+  "length": 627,
+  "ean": "1196721324057",
+  "manufacturerNumber": "MPN-Q357ZX10",
+  "manufacturerName": "Artisan Designs",
+  "baseImagePrompt": "MIDI Controller - 49 Keys - Velocity Sensitive"
+}

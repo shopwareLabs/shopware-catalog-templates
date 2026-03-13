@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A sleek 50ml cosmetic jar labeled 'Gel Moisturizer - Lightweight', translucent gel visible inside, modern clean design, white backdrop."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Moisturizer",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f95f26f5c4b64e1aac3f4ac2a9e88a7c"
+    },
+    {
+      "group": "Size",
+      "value": "50ml",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "b356f9ac8760418690add4358524b44a"
+    },
+    {
+      "group": "Texture",
+      "value": "Lightweight Gel",
+      "groupId": "00248ac5a3644628ab27f229be94d624",
+      "optionId": "e78c082d5f454478b76a8a1cfd6999ba"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 18.07,
+  "width": 1067,
+  "height": 998,
+  "length": 779,
+  "ean": "4946088460830",
+  "manufacturerNumber": "MPN-NKCAQAD1",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Gel Moisturizer - Lightweight - 50ml"
+}

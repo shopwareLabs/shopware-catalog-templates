@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A retail package containing 12 charcoal gray foam acoustic panels, branding and product details prominently displayed."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A modern home studio with charcoal gray acoustic panels arranged on the wall behind a desk and recording equipment."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-on view showing the texture and pattern of an individual charcoal gray acoustic foam panel."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal Gray",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "236bb3fe4a044ffc91853a37b131eebd"
+    },
+    {
+      "group": "Size",
+      "value": "12-Piece Set",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "1468446a90b8459890f6aa2435ba8618"
+    },
+    {
+      "group": "Type",
+      "value": "Foam Panel",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "fa2e849f176d467c9ce8f68f7305adbc"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.76,
+  "width": 957,
+  "height": 186,
+  "length": 1603,
+  "ean": "5590710544543",
+  "manufacturerNumber": "MPN-U9X0G7UW",
+  "manufacturerName": "Premium Home",
+  "baseImagePrompt": "Acoustic Panel Set - Charcoal Gray - 12-Piece"
+}

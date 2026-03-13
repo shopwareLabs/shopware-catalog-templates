@@ -1,0 +1,49 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Box packaging showing a set of charcoal hexagonal acoustic foam panels."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Modern recording studio with walls decorated in charcoal hexagon acoustic panels for sound treatment."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "42545eeb65a445458e6e5e2274b46ea1"
+    },
+    {
+      "group": "Type",
+      "value": "Hexagon Panel",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "2dbd697b13a0439da1bfe977cb489e81"
+    },
+    {
+      "group": "Count",
+      "value": "12 Pack",
+      "groupId": "eb3f853794d94805b256104500035a41",
+      "optionId": "7922177197f341a0be427fa207a6c371"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.61,
+  "width": 333,
+  "height": 37,
+  "length": 937,
+  "ean": "8363543531182",
+  "manufacturerNumber": "MPN-N61TDM9C",
+  "manufacturerName": "Premium Home",
+  "baseImagePrompt": "Acoustic Panel Set - Hexagon - Charcoal"
+}

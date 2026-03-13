@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Eco-friendly cardboard packaging for live rose bush, large size, featuring a photo of red blooms and care tags"
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a large red rose bush with multiple blossoms and dense green foliage, outdoors in garden soil"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Red",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "6e9e7c954477496ab70923f246c2f909"
+    },
+    {
+      "group": "Size",
+      "value": "Large",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "a4fe961f863e4ccd8e2be58ad9dd6dfb"
+    },
+    {
+      "group": "Type",
+      "value": "Flowering Shrub",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "a66c0576be6b4c728c32df8ef0003bba"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.95,
+  "width": 209,
+  "height": 1074,
+  "length": 212,
+  "ean": "9228551343006",
+  "manufacturerNumber": "MPN-K602RK1S",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Rose Bush - Red - Large"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of compact lavender plant in full purple blossom, silver-green foliage, planted in garden border"
+    },
+    {
+      "view": "side",
+      "prompt": "Side angle of compact lavender bush showing dense blooms and tidy shape in a landscaped setting"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Purple",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "927fa42cf09f4549b4a6f5251050a616"
+    },
+    {
+      "group": "Size",
+      "value": "Compact",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "014017f1dd774740a15e374fcf79d2e2"
+    },
+    {
+      "group": "Type",
+      "value": "Perennial",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "bcf93d4465b34c99a54ed56f4fb87084"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.63,
+  "width": 1215,
+  "height": 775,
+  "length": 1513,
+  "ean": "6380194673131",
+  "manufacturerNumber": "MPN-HNWI9Q10",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Lavender Plant - Purple - Compact"
+}

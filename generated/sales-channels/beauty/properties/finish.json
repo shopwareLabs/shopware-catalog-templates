@@ -1,0 +1,27 @@
+{
+  "name": "Finish",
+  "slug": "finish",
+  "displayType": "text",
+  "options": [
+    "Matte",
+    "Velvet",
+    "Satin",
+    "Glossy",
+    "Metallic",
+    "Sheer",
+    "Cream",
+    "Powder"
+  ],
+  "priceModifiers": {
+    "Matte": 1,
+    "Velvet": 1.1,
+    "Satin": 1.1,
+    "Glossy": 1,
+    "Metallic": 1.1,
+    "Sheer": 0.9,
+    "Cream": 1,
+    "Powder": 1
+  },
+  "createdAt": "2026-03-13T08:39:28.715Z",
+  "source": "ai-generated"
+}

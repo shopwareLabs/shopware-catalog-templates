@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side angle of a black foldable guitar stand holding an acoustic guitar against a plain white background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Foldable black guitar stand holding an electric guitar in a cozy home studio environment with soft lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Material",
+      "value": "Metal",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "701d4fee4f314b2c89df78385b3b117e"
+    },
+    {
+      "group": "Type",
+      "value": "Foldable Stand",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f1a3c88c61cd4f6ab279f7b1a479bc19"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.08,
+  "width": 1068,
+  "height": 1177,
+  "length": 467,
+  "ean": "2177700982979",
+  "manufacturerNumber": "MPN-HA7OSB18",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Guitar Stand - Foldable - Black, Metal construction"
+}

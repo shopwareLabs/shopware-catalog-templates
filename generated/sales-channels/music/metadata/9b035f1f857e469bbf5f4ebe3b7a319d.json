@@ -1,0 +1,54 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A modern living room setting with an ebony digital piano placed prominently, being played by an adult. Warm, inviting atmosphere."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of an 88-key digital piano with a glossy ebony finish in a bright, minimalist room."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Packaging box of a digital piano labeled 'Digital Piano - 88 Keys - Ebony Finish', sleek and secure packaging design displayed."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Ebony",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "fbe752b052e446b786034b2a617619b3"
+    },
+    {
+      "group": "Size",
+      "value": "Full Size (88 keys)",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "5edde534bcb84086b6321fd7e09efc40"
+    },
+    {
+      "group": "Type",
+      "value": "Digital Piano",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "a1c3b18576cd48f48f5d95f5a159574c"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.54,
+  "width": 402,
+  "height": 623,
+  "length": 1705,
+  "ean": "3304420393047",
+  "manufacturerNumber": "MPN-CFLYZS1W",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Digital Piano - 88 Keys - Ebony Finish"
+}

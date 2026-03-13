@@ -1,0 +1,23 @@
+{
+  "name": "Type",
+  "slug": "type",
+  "displayType": "text",
+  "options": [
+    "Serum",
+    "Cream",
+    "Oil",
+    "Gel",
+    "Lotion",
+    "Emulsion"
+  ],
+  "priceModifiers": {
+    "Serum": 1.1,
+    "Cream": 1,
+    "Oil": 1.1,
+    "Gel": 0.9,
+    "Lotion": 1,
+    "Emulsion": 1
+  },
+  "createdAt": "2026-03-13T08:39:24.410Z",
+  "source": "ai-generated"
+}

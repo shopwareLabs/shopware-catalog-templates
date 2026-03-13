@@ -1,0 +1,45 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "A slim tube of tinted eyebrow gel in medium brown, shown from the side, with a precision spoolie applicator beside it, on a soft light background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Brown",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "88114ae24b7846a0b477b97dbdd9b444"
+    },
+    {
+      "group": "Finish",
+      "value": "Tinted",
+      "groupId": "8c734297967c4dfe8b1d5c8556bd988c",
+      "optionId": "e29432a838d2487385b977dfa9218b08"
+    },
+    {
+      "group": "Type",
+      "value": "Gel",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "44b0731693854fa9bf0498f4b94e65e5"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.29,
+  "width": 509,
+  "height": 1106,
+  "length": 679,
+  "ean": "0761551463927",
+  "manufacturerNumber": "MPN-Z3W28O14",
+  "manufacturerName": "Premium Craft",
+  "baseImagePrompt": "Eyebrow Gel - Medium Brown - Tinted"
+}

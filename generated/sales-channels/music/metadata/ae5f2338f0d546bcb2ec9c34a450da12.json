@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Soft yellow microfiber cleaning cloth neatly folded on a white background"
+    },
+    {
+      "view": "side",
+      "prompt": "Side angle of a folded yellow cleaning cloth showing fabric texture"
+    },
+    {
+      "view": "packaging",
+      "prompt": "Clear packaging of yellow microfiber cleaning cloth with branding"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Yellow",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "00197edf5e0c4139a499e894b1262f1d"
+    },
+    {
+      "group": "Material",
+      "value": "Microfiber",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "133b037f53124404b04f297cad3df505"
+    },
+    {
+      "group": "Type",
+      "value": "Cleaning Cloth",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "a6160d49733d450aa1bfb27eaeeec4d3"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 13.03,
+  "width": 577,
+  "height": 1079,
+  "length": 1211,
+  "ean": "6211215361334",
+  "manufacturerNumber": "MPN-J75I1RHI",
+  "maxPurchase": 20,
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Microfiber Cleaning Cloth - Yellow - Soft Touch"
+}

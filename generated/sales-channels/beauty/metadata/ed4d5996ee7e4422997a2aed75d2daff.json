@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A sleek blue jar with silver accents, labeled 'Hyaluronic Acid Gel Moisturizer', elegant and minimal design."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile showing the gel's blue translucent texture inside the open jar."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A young adult lightly applying the gel moisturizer to their cheek in a sunlit room, fresh and modern mood."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Gel Moisturizer",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "7cd18a9ef39a4711b17abb464d920c50"
+    },
+    {
+      "group": "Size",
+      "value": "50ml",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "b356f9ac8760418690add4358524b44a"
+    },
+    {
+      "group": "Color",
+      "value": "Blue",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "15f0404cc2e94fc4a5424839353fbbd8"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.87,
+  "width": 689,
+  "height": 455,
+  "length": 1311,
+  "ean": "9745185913417",
+  "manufacturerNumber": "MPN-UW7PUG14",
+  "manufacturerName": "Artisan Co.",
+  "baseImagePrompt": "Gel Moisturizer - Hyaluronic Acid - Lightweight, Blue finish"
+}

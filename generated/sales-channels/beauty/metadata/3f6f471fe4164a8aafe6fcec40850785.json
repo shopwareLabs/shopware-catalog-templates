@@ -1,0 +1,49 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of a silver stainless steel foot file showing ergonomic handle and dual grit surface"
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of the dual gritty texture on the silver foot file's exfoliating surface"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "c455e1317d4d4f449c137b646c6059f2"
+    },
+    {
+      "group": "Material",
+      "value": "Stainless Steel, Plastic",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "757b81d8daa3499dbcf34a2be374f41e"
+    },
+    {
+      "group": "Type",
+      "value": "Foot File",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "585f8e90018846148573262f20914fa2"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.45,
+  "width": 912,
+  "height": 226,
+  "length": 1489,
+  "ean": "7383004091063",
+  "manufacturerNumber": "MPN-4WKLHVGB",
+  "manufacturerName": "Artisan Living",
+  "baseImagePrompt": "Foot File - Silver - Dual Grit, Stainless Steel, Plastic construction"
+}

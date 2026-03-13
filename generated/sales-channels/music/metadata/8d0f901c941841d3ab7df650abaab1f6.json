@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Black adjustable music stand fully extended on white background"
+    },
+    {
+      "view": "packaging",
+      "prompt": "Box packaging for black adjustable music stand with product illustration"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Musician reading from black adjustable stand during band practice indoors"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Music Stand",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f2dc11068c7b498c9c5fa9d6bda96aeb"
+    },
+    {
+      "group": "Material",
+      "value": "Metal",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "701d4fee4f314b2c89df78385b3b117e"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.99,
+  "width": 579,
+  "height": 187,
+  "length": 1881,
+  "ean": "8670450492384",
+  "manufacturerNumber": "MPN-9GTPMC1G",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Music Stand - Adjustable - Black, Metal construction"
+}

@@ -1,0 +1,57 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "close-up of granular plant fertilizer spilling from a pouch, with visible texture and nutrient mix"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "gardener sprinkling fertilizer granules around flowering plants in a lush garden bed"
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Universal",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "a803c38775774ea0a19a11a210784e45"
+    },
+    {
+      "group": "Size",
+      "value": "1kg",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "03ba2f4460694488b2cca9c4a46cac37"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 6.16,
+  "width": 1073,
+  "height": 368,
+  "length": 840,
+  "ean": "5441705496418",
+  "manufacturerNumber": "MPN-8PYNMFGX",
+  "manufacturerName": "Artisan Craft",
+  "baseImagePrompt": "Plant Fertilizer - Universal - 1kg",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "125ft",
+        "25ft",
+        "150ft"
+      ],
+      "priceModifiers": {
+        "125ft": 1.3,
+        "25ft": 0.9,
+        "150ft": 1.4
+      }
+    }
+  ]
+}

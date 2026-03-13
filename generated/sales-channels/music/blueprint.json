@@ -1,0 +1,4121 @@
+{
+  "version": "1.0",
+  "salesChannel": {
+    "name": "music",
+    "description": "Musical instruments and accessories for musicians of all levels",
+    "baseUrl": "http://music.localhost:8000"
+  },
+  "categories": [
+    {
+      "id": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "name": "Top Category 1",
+      "description": "Placeholder description for Top Category 1",
+      "level": 1,
+      "hasImage": false,
+      "children": [
+        {
+          "id": "b4003a38f94f4944b6b41cbdab607b58",
+          "name": "Category L2-1",
+          "description": "Placeholder description for Category L2-1",
+          "parentId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "c4d491faa69e43adb7361d7ec399ac40",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "b4003a38f94f4944b6b41cbdab607b58",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "b4e9d9988d7e43d697fc91f56d4495a4",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "b4003a38f94f4944b6b41cbdab607b58",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "3368281b5c6347e399b5dcbc58e28415",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "b4003a38f94f4944b6b41cbdab607b58",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "15e62691b20c4516b2ff6d4f282d6c73",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "b4003a38f94f4944b6b41cbdab607b58",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "83c56c0ea0f74546a6d2396f6caeb373",
+          "name": "Category L2-2",
+          "description": "Placeholder description for Category L2-2",
+          "parentId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "73c0dfde4146402ea64c040fa431d813",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "83c56c0ea0f74546a6d2396f6caeb373",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "7ac0654003d647158dc4c843aa06d1b7",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "83c56c0ea0f74546a6d2396f6caeb373",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "7667f64435bd4421a6b52ec71e5fba1c",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "83c56c0ea0f74546a6d2396f6caeb373",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "cee441ccd1c148249000dc25c79f83cb",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "83c56c0ea0f74546a6d2396f6caeb373",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6abac51d5e7443c4bd0f68be1bed3c6f",
+          "name": "Category L2-3",
+          "description": "Placeholder description for Category L2-3",
+          "parentId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "60ac2925874640d4ac2e48069c228216",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "6abac51d5e7443c4bd0f68be1bed3c6f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "be21a47861d14963b08f1197283c2047",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "6abac51d5e7443c4bd0f68be1bed3c6f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "cb0ec7408bd74b3eafb8de57c3f31d71",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "6abac51d5e7443c4bd0f68be1bed3c6f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "db647a6b65824f30847eff6d835ef99d",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "6abac51d5e7443c4bd0f68be1bed3c6f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c742dd6d2cfe48c5b64d85cffcbf3221",
+          "name": "Category L2-4",
+          "description": "Placeholder description for Category L2-4",
+          "parentId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+          "level": 2,
+          "hasImage": true,
+          "children": [
+            {
+              "id": "5441fd230f534b30b8b9e5d8bcd6cc20",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "c742dd6d2cfe48c5b64d85cffcbf3221",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "b076b462910a40a0b97be9410ded9683",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "c742dd6d2cfe48c5b64d85cffcbf3221",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "a79e585cd1b944e2a3e033095cc2ca13",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "c742dd6d2cfe48c5b64d85cffcbf3221",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22abfe45177c43809f90a510f2ccb53e",
+      "name": "Top Category 2",
+      "description": "Placeholder description for Top Category 2",
+      "level": 1,
+      "hasImage": false,
+      "children": [
+        {
+          "id": "69bef45e4a91440a981dbee783610466",
+          "name": "Category L2-1",
+          "description": "Placeholder description for Category L2-1",
+          "parentId": "22abfe45177c43809f90a510f2ccb53e",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "62d2ffca112c4ee982889fd869a2e75e",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "69bef45e4a91440a981dbee783610466",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "dbab928b4ad84114bf830dd097300da8",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "69bef45e4a91440a981dbee783610466",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "bfefa302afcb4233b9b49b18345a1925",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "69bef45e4a91440a981dbee783610466",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "59b075685a6e48f3881222618be2df1f",
+          "name": "Category L2-2",
+          "description": "Placeholder description for Category L2-2",
+          "parentId": "22abfe45177c43809f90a510f2ccb53e",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "e297ad2b6f614524b6a1ca87d78a12c2",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "59b075685a6e48f3881222618be2df1f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "4533956213f64772a0913b3fcc021373",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "59b075685a6e48f3881222618be2df1f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "61a6c4d8e7dd497d82a105c4d3c28365",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "59b075685a6e48f3881222618be2df1f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "0aeb3fbe7b5041ef88ae43415877c02b",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "59b075685a6e48f3881222618be2df1f",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "1ca9707981704234bb5efa723fa1d83f",
+              "name": "Category L3-5",
+              "description": "Placeholder description for Category L3-5",
+              "parentId": "59b075685a6e48f3881222618be2df1f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "42d95fc60136431d9646366cb6a426a6",
+          "name": "Category L2-3",
+          "description": "Placeholder description for Category L2-3",
+          "parentId": "22abfe45177c43809f90a510f2ccb53e",
+          "level": 2,
+          "hasImage": true,
+          "children": [
+            {
+              "id": "f1d215cf64c34baf8a3aaaa91d3083ee",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "42d95fc60136431d9646366cb6a426a6",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "3a36e5a39d0042e48b3da659ae557c1c",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "42d95fc60136431d9646366cb6a426a6",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "370d88e8555344b893a06145a7b1cec1",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "42d95fc60136431d9646366cb6a426a6",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "1a3fbc2356bd4fdb875b820ae507a75d",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "42d95fc60136431d9646366cb6a426a6",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53c1b74078cd483a92eac063be6a1125",
+      "name": "Top Category 3",
+      "description": "Placeholder description for Top Category 3",
+      "level": 1,
+      "hasImage": false,
+      "children": [
+        {
+          "id": "6028270a117a4f0aacc9b20e6378a1cc",
+          "name": "Category L2-1",
+          "description": "Placeholder description for Category L2-1",
+          "parentId": "53c1b74078cd483a92eac063be6a1125",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "2d69eec8a03e4d969491a2eca3468af2",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "6028270a117a4f0aacc9b20e6378a1cc",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "6aaed1d804d94134b377345388fbf325",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "6028270a117a4f0aacc9b20e6378a1cc",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "634d092767084ddebeb69656ca901a0e",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "6028270a117a4f0aacc9b20e6378a1cc",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "59343c08f1534de78dc0f1e25acc5bec",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "6028270a117a4f0aacc9b20e6378a1cc",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b9ac76e44d8b4965b5409d1efc6376d0",
+          "name": "Category L2-2",
+          "description": "Placeholder description for Category L2-2",
+          "parentId": "53c1b74078cd483a92eac063be6a1125",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "52baf1a8f32b4458a6b038d2d509ef08",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "b9ac76e44d8b4965b5409d1efc6376d0",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "55296cbe92a849738c38c176e427bbba",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "b9ac76e44d8b4965b5409d1efc6376d0",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "e34dc826fdc84659accc490bca3f13af",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "b9ac76e44d8b4965b5409d1efc6376d0",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "2f04940b1dbc4f5ab8e93f53b0676f46",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "b9ac76e44d8b4965b5409d1efc6376d0",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3a1e3b86d11641aab7e3f3d2e4c0c239",
+          "name": "Category L2-3",
+          "description": "Placeholder description for Category L2-3",
+          "parentId": "53c1b74078cd483a92eac063be6a1125",
+          "level": 2,
+          "hasImage": true,
+          "children": [
+            {
+              "id": "c8da555de7a04310ba0c69eb52b69dc7",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "3a1e3b86d11641aab7e3f3d2e4c0c239",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "5bd1417e48344833a4ffe68426c6cd85",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "3a1e3b86d11641aab7e3f3d2e4c0c239",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "bbd7866e3dc04ff7bc5e167d1ed7c0f4",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "3a1e3b86d11641aab7e3f3d2e4c0c239",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fd7f1875a8df4b3ba3bfc542dbcd408f",
+          "name": "Category L2-4",
+          "description": "Placeholder description for Category L2-4",
+          "parentId": "53c1b74078cd483a92eac063be6a1125",
+          "level": 2,
+          "hasImage": false,
+          "children": [
+            {
+              "id": "3e97e8b34e91403c99e0ea4a8b1026f5",
+              "name": "Category L3-1",
+              "description": "Placeholder description for Category L3-1",
+              "parentId": "fd7f1875a8df4b3ba3bfc542dbcd408f",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "a277182cbe2746af9082e6fadaaa6193",
+              "name": "Category L3-2",
+              "description": "Placeholder description for Category L3-2",
+              "parentId": "fd7f1875a8df4b3ba3bfc542dbcd408f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            },
+            {
+              "id": "aa0f2831219d43dab163a2085eda356f",
+              "name": "Category L3-3",
+              "description": "Placeholder description for Category L3-3",
+              "parentId": "fd7f1875a8df4b3ba3bfc542dbcd408f",
+              "level": 3,
+              "hasImage": true,
+              "children": []
+            },
+            {
+              "id": "67d64cac87b44ed4af2a876060c04bb2",
+              "name": "Category L3-4",
+              "description": "Placeholder description for Category L3-4",
+              "parentId": "fd7f1875a8df4b3ba3bfc542dbcd408f",
+              "level": 3,
+              "hasImage": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "02b90a75d63042fa9415ef150e3ba633",
+      "name": "Product 1",
+      "description": "Placeholder description for Product 1",
+      "price": 57.03,
+      "stock": 80,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 2.74,
+        "width": 457,
+        "height": 584,
+        "length": 1898,
+        "ean": "1607942203460",
+        "manufacturerNumber": "MPN-ODFIZD1S",
+        "minPurchase": 10,
+        "purchaseSteps": 10
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "c030e23999504add99243445732f37fd",
+      "name": "Product 2",
+      "description": "Placeholder description for Product 2",
+      "price": 269.62,
+      "stock": 57,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 3.83,
+        "width": 935,
+        "height": 570,
+        "length": 1917,
+        "ean": "3193003883880",
+        "manufacturerNumber": "MPN-W4GU7S1C",
+        "maxPurchase": 10
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "361939993e3240c9a3ada4728a4003f1",
+      "name": "Product 3",
+      "description": "Placeholder description for Product 3",
+      "price": 109.53,
+      "stock": 43,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 20.94,
+        "width": 1220,
+        "height": 301,
+        "length": 1025,
+        "ean": "4912716798644",
+        "manufacturerNumber": "MPN-JYK65GLQ"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "d18e807b541c4ac3bc6df56a74bc48c3",
+      "name": "Product 4",
+      "description": "Placeholder description for Product 4",
+      "price": 154.04,
+      "stock": 80,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": true,
+        "salePercentage": 0.25,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 6,
+        "width": 1047,
+        "height": 95,
+        "length": 549,
+        "ean": "0024436013724",
+        "manufacturerNumber": "MPN-DTXFDF1C"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "f2095442d6e84609b82de7fb6647dc92",
+      "name": "Product 5",
+      "description": "Placeholder description for Product 5",
+      "price": 158.54,
+      "stock": 33,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 17.23,
+        "width": 140,
+        "height": 962,
+        "length": 1958,
+        "ean": "9654971173020",
+        "manufacturerNumber": "MPN-S5UWDP1K"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "16e2fb9a40ac43a4888df6e30486c896",
+      "name": "Product 6",
+      "description": "Placeholder description for Product 6",
+      "price": 268.28,
+      "stock": 58,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 9.46,
+        "width": 1066,
+        "height": 76,
+        "length": 1877,
+        "ean": "0325577651982",
+        "manufacturerNumber": "MPN-FYLEXPPQ"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "1ddac6aae2404018801e271e3172992c",
+      "name": "Product 7",
+      "description": "Placeholder description for Product 7",
+      "price": 149.75,
+      "stock": 35,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 3.17,
+        "width": 484,
+        "height": 1032,
+        "length": 492,
+        "ean": "6458687823339",
+        "manufacturerNumber": "MPN-7H9IDI1W"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "00f7f017a808438c9910ce116733beeb",
+      "name": "Product 8",
+      "description": "Placeholder description for Product 8",
+      "price": 84.8,
+      "stock": 52,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 9.81,
+        "width": 1334,
+        "height": 110,
+        "length": 617,
+        "ean": "4052021722702",
+        "manufacturerNumber": "MPN-9A0HH4RZ"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "7773c700e25f427e934e62144dcc1451",
+      "name": "Product 9",
+      "description": "Placeholder description for Product 9",
+      "price": 255.9,
+      "stock": 40,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 4.83,
+        "width": 349,
+        "height": 84,
+        "length": 1651,
+        "ean": "1655383124677",
+        "manufacturerNumber": "MPN-WGBTOX1C"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "a6acc7fc6605425b94cdd58a24c391e8",
+      "name": "Product 10",
+      "description": "Placeholder description for Product 10",
+      "price": 246.87,
+      "stock": 27,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 19.41,
+        "width": 317,
+        "height": 1030,
+        "length": 1966,
+        "ean": "1168922314649",
+        "manufacturerNumber": "MPN-2QA9CW1O"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "d0c824841b9d4f47983b45531bfb2401",
+      "name": "Product 11",
+      "description": "Placeholder description for Product 11",
+      "price": 117.1,
+      "stock": 96,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": true,
+        "salePercentage": 0.3,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 18.38,
+        "width": 1240,
+        "height": 172,
+        "length": 1821,
+        "ean": "5355452963812",
+        "manufacturerNumber": "MPN-YH8G2P1W"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "00a067773cbd4b0a8d49a206b915032a",
+      "name": "Product 12",
+      "description": "Placeholder description for Product 12",
+      "price": 118.82,
+      "stock": 69,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 16.82,
+        "width": 1316,
+        "height": 269,
+        "length": 350,
+        "ean": "4221817602911",
+        "manufacturerNumber": "MPN-1C2R6YVE"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "9ab228bbe62d4ee5a9e7729bce044e5e",
+      "name": "Product 13",
+      "description": "Placeholder description for Product 13",
+      "price": 284.14,
+      "stock": 100,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 2.53,
+        "width": 898,
+        "height": 550,
+        "length": 473,
+        "ean": "7855831428935",
+        "manufacturerNumber": "MPN-Q0JPZ325"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "ceae568865724cbc98a58ccae61488a2",
+      "name": "Product 14",
+      "description": "Placeholder description for Product 14",
+      "price": 242.65,
+      "stock": 12,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 6.78,
+        "width": 118,
+        "height": 845,
+        "length": 1318,
+        "ean": "8926210513104",
+        "manufacturerNumber": "MPN-BABI3G1W",
+        "minPurchase": 2,
+        "purchaseSteps": 2
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "1c196127577c48c2aa0f65d36aaf47e3",
+      "name": "Product 15",
+      "description": "Placeholder description for Product 15",
+      "price": 288.67,
+      "stock": 731,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": true,
+        "salePercentage": 0.1,
+        "hasTieredPricing": true,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 16.28,
+        "width": 390,
+        "height": 366,
+        "length": 626,
+        "ean": "4711234193586",
+        "manufacturerNumber": "MPN-RLAHQS18"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "e1ff226f0b634a048f8a5b1de2a1de83",
+      "name": "Product 16",
+      "description": "Placeholder description for Product 16",
+      "price": 36.05,
+      "stock": 72,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": true,
+        "salePercentage": 0.3,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 20.05,
+        "width": 357,
+        "height": 622,
+        "length": 1832,
+        "ean": "4879172616540",
+        "manufacturerNumber": "MPN-DHUVO2JD",
+        "minPurchase": 5,
+        "purchaseSteps": 5
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "36731e6d181e42c185b6e53aff9f75c7",
+      "name": "Product 17",
+      "description": "Placeholder description for Product 17",
+      "price": 222.79,
+      "stock": 82,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 21.17,
+        "width": 141,
+        "height": 710,
+        "length": 298,
+        "ean": "0766512083541",
+        "manufacturerNumber": "MPN-35LPVQ1W"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "552856b3d50d4d57b0c9e9a31ff01381",
+      "name": "Product 18",
+      "description": "Placeholder description for Product 18",
+      "price": 251.59,
+      "stock": 25,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 23.95,
+        "width": 1163,
+        "height": 811,
+        "length": 732,
+        "ean": "7311750024615",
+        "manufacturerNumber": "MPN-K5NWGX1O",
+        "minPurchase": 5,
+        "purchaseSteps": 5
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "67ab6a382fa7420398ab0035cc46a8c9",
+      "name": "Product 19",
+      "description": "Placeholder description for Product 19",
+      "price": 218.87,
+      "stock": 38,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 5.67,
+        "width": 949,
+        "height": 1192,
+        "length": 481,
+        "ean": "0156561536363",
+        "manufacturerNumber": "MPN-F6EDT5X8"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "f8bdcf28597b47439fa3c86fb1253d13",
+      "name": "Product 20",
+      "description": "Placeholder description for Product 20",
+      "price": 218.82,
+      "stock": 57,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 21.84,
+        "width": 912,
+        "height": 1088,
+        "length": 514,
+        "ean": "7678338443474",
+        "manufacturerNumber": "MPN-2D221L1S"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "53a879be39194d5eab84e3b01cb95170",
+      "name": "Product 21",
+      "description": "Placeholder description for Product 21",
+      "price": 50.56,
+      "stock": 825,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 21.93,
+        "width": 1268,
+        "height": 485,
+        "length": 299,
+        "ean": "7489215041092",
+        "manufacturerNumber": "MPN-6ULK8NYW"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "351ed6cf588543519e6ced521b73326a",
+      "name": "Product 22",
+      "description": "Placeholder description for Product 22",
+      "price": 118.51,
+      "stock": 20,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 6.66,
+        "width": 291,
+        "height": 1031,
+        "length": 148,
+        "ean": "0505387612506",
+        "manufacturerNumber": "MPN-NBFOUZ5C"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "0f9adc6c93104e0aa46a9cf8917ca7b9",
+      "name": "Product 23",
+      "description": "Placeholder description for Product 23",
+      "price": 20.63,
+      "stock": 30,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": true,
+        "salePercentage": 0.2,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 2.97,
+        "width": 697,
+        "height": 946,
+        "length": 1164,
+        "ean": "2082146411771",
+        "manufacturerNumber": "MPN-FNFJYITK"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "2a9a0bff1d8c497fb05869963eaa5ab7",
+      "name": "Product 24",
+      "description": "Placeholder description for Product 24",
+      "price": 160.25,
+      "stock": 96,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 22.2,
+        "width": 1161,
+        "height": 331,
+        "length": 1711,
+        "ean": "3749699266850",
+        "manufacturerNumber": "MPN-0A92FAWY"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "9b035f1f857e469bbf5f4ebe3b7a319d",
+      "name": "Product 25",
+      "description": "Placeholder description for Product 25",
+      "price": 103.05,
+      "stock": 20,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 8.54,
+        "width": 402,
+        "height": 623,
+        "length": 1705,
+        "ean": "3304420393047",
+        "manufacturerNumber": "MPN-CFLYZS1W",
+        "minPurchase": 10,
+        "purchaseSteps": 10
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "5d43523bbbf24643ad6dce062a86f9f4",
+      "name": "Product 26",
+      "description": "Placeholder description for Product 26",
+      "price": 82.95,
+      "stock": 3,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 22.53,
+        "width": 295,
+        "height": 203,
+        "length": 229,
+        "ean": "2734095672115",
+        "manufacturerNumber": "MPN-DGSZNCF7"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "cd310bf2cedb406aaceaf31d374d2757",
+      "name": "Product 27",
+      "description": "Placeholder description for Product 27",
+      "price": 74.63,
+      "stock": 90,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 12.49,
+        "width": 1223,
+        "height": 264,
+        "length": 517,
+        "ean": "7884708993665",
+        "manufacturerNumber": "MPN-Q1GC4U10"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "dd7c63f261764134af24a66f88330a48",
+      "name": "Product 28",
+      "description": "Placeholder description for Product 28",
+      "price": 194.88,
+      "stock": 83,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 19.41,
+        "width": 811,
+        "height": 196,
+        "length": 602,
+        "ean": "8232408942534",
+        "manufacturerNumber": "MPN-P2W9B514",
+        "minPurchase": 3,
+        "purchaseSteps": 3
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "8fd5013673df413885047105e2886577",
+      "name": "Product 29",
+      "description": "Placeholder description for Product 29",
+      "price": 21.42,
+      "stock": 78,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 9.44,
+        "width": 238,
+        "height": 49,
+        "length": 214,
+        "ean": "1726226487638",
+        "manufacturerNumber": "MPN-UQYIR0HS"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "b4edd92d4f574ef89993fd59579e671a",
+      "name": "Product 30",
+      "description": "Placeholder description for Product 30",
+      "price": 54.08,
+      "stock": 81,
+      "primaryCategoryId": "b789bbb7e6cc4aa58c598b7d6d355dbc",
+      "categoryIds": [
+        "b789bbb7e6cc4aa58c598b7d6d355dbc"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 16,
+        "width": 457,
+        "height": 455,
+        "length": 395,
+        "ean": "0148348124719",
+        "manufacturerNumber": "MPN-77ZJRX1S"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "ac10f2c944d94b999a9425413942f549",
+      "name": "Product 1",
+      "description": "Placeholder description for Product 1",
+      "price": 104.97,
+      "stock": 18,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 4.85,
+        "width": 1293,
+        "height": 1045,
+        "length": 527,
+        "ean": "9210818192823",
+        "manufacturerNumber": "MPN-4XJE9C1C"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "c1e447a098d84136bec71b55379df5ec",
+      "name": "Product 2",
+      "description": "Placeholder description for Product 2",
+      "price": 287.2,
+      "stock": 27,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 10.69,
+        "width": 774,
+        "height": 174,
+        "length": 848,
+        "ean": "4787242986380",
+        "manufacturerNumber": "MPN-FFNBRET0"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "2d013dec47b845fb832494a021a403c4",
+      "name": "Product 3",
+      "description": "Placeholder description for Product 3",
+      "price": 219.92,
+      "stock": 42,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 4.6,
+        "width": 187,
+        "height": 64,
+        "length": 837,
+        "ean": "1771413432090",
+        "manufacturerNumber": "MPN-IWU1R21K"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "78594cba850241efba5390dbedfa5137",
+      "name": "Product 4",
+      "description": "Placeholder description for Product 4",
+      "price": 174.21,
+      "stock": 89,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 14.08,
+        "width": 1068,
+        "height": 1177,
+        "length": 467,
+        "ean": "2177700982979",
+        "manufacturerNumber": "MPN-HA7OSB18"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "324d8a775d364964b1cc5b2f66b88302",
+      "name": "Product 5",
+      "description": "Placeholder description for Product 5",
+      "price": 29.32,
+      "stock": 7,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": true,
+        "salePercentage": 0.2,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 10.03,
+        "width": 1057,
+        "height": 510,
+        "length": 1105,
+        "ean": "6891928372966",
+        "manufacturerNumber": "MPN-BOWAA91W"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "600a0efb99c04e6a9e9ca17b309c6659",
+      "name": "Product 6",
+      "description": "Placeholder description for Product 6",
+      "price": 209.51,
+      "stock": 46,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 22,
+        "width": 1046,
+        "height": 718,
+        "length": 850,
+        "ean": "3073590231052",
+        "manufacturerNumber": "MPN-AXFGULQI"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "08f1796ebd044474833e4031cdaf32f4",
+      "name": "Product 7",
+      "description": "Placeholder description for Product 7",
+      "price": 170.81,
+      "stock": 58,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 11.71,
+        "width": 805,
+        "height": 909,
+        "length": 1982,
+        "ean": "1615400062443",
+        "manufacturerNumber": "MPN-OM60071W"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "a7a13b400c9d4ac2b40e2f3a95e643be",
+      "name": "Product 8",
+      "description": "Placeholder description for Product 8",
+      "price": 154.66,
+      "stock": 27,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": true,
+        "salePercentage": 0.15,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 10.85,
+        "width": 1053,
+        "height": 892,
+        "length": 637,
+        "ean": "1635581092466",
+        "manufacturerNumber": "MPN-CNNOZB14",
+        "maxPurchase": 3
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "fde8a9f5c3544f7c814849f89c831f2a",
+      "name": "Product 9",
+      "description": "Placeholder description for Product 9",
+      "price": 71.13,
+      "stock": 74,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 20.79,
+        "width": 322,
+        "height": 27,
+        "length": 1207,
+        "ean": "4785137573356",
+        "manufacturerNumber": "MPN-N5505Q1G",
+        "maxPurchase": 10
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "b2907ff25ab1430c9b99e1a5db37edf1",
+      "name": "Product 10",
+      "description": "Placeholder description for Product 10",
+      "price": 78.79,
+      "stock": 942,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": true,
+        "weight": 16.65,
+        "width": 440,
+        "height": 29,
+        "length": 685,
+        "ean": "8750456014770",
+        "manufacturerNumber": "MPN-VN8XWV14"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "197729f6e85c45288e3a66acd70f6c10",
+      "name": "Product 11",
+      "description": "Placeholder description for Product 11",
+      "price": 24.71,
+      "stock": 917,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 13.34,
+        "width": 250,
+        "height": 735,
+        "length": 610,
+        "ean": "3140755453083",
+        "manufacturerNumber": "MPN-0L2YMM1C"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "8d0f901c941841d3ab7df650abaab1f6",
+      "name": "Product 12",
+      "description": "Placeholder description for Product 12",
+      "price": 245,
+      "stock": 26,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 24.99,
+        "width": 579,
+        "height": 187,
+        "length": 1881,
+        "ean": "8670450492384",
+        "manufacturerNumber": "MPN-9GTPMC1G"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "ae5f2338f0d546bcb2ec9c34a450da12",
+      "name": "Product 13",
+      "description": "Placeholder description for Product 13",
+      "price": 205.72,
+      "stock": 53,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": true,
+        "weight": 13.03,
+        "width": 577,
+        "height": 1079,
+        "length": 1211,
+        "ean": "6211215361334",
+        "manufacturerNumber": "MPN-J75I1RHI",
+        "maxPurchase": 20
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "1f0f194eaa244730bbc9a62cfc9c0fe1",
+      "name": "Product 14",
+      "description": "Placeholder description for Product 14",
+      "price": 53.42,
+      "stock": 33,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 7.66,
+        "width": 372,
+        "height": 845,
+        "length": 172,
+        "ean": "3562882182085",
+        "manufacturerNumber": "MPN-0H0QIA1G"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "021d209329814bc0811d67cb07816cfc",
+      "name": "Product 15",
+      "description": "Placeholder description for Product 15",
+      "price": 255.18,
+      "stock": 85,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 17.18,
+        "width": 1247,
+        "height": 413,
+        "length": 1148,
+        "ean": "4850157923914",
+        "manufacturerNumber": "MPN-9Q99JI1C"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "8f1d90f3a51f4c158b46e27eaa41e75a",
+      "name": "Product 16",
+      "description": "Placeholder description for Product 16",
+      "price": 92.38,
+      "stock": 658,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 17.81,
+        "width": 595,
+        "height": 1196,
+        "length": 1477,
+        "ean": "5911118492203",
+        "manufacturerNumber": "MPN-EHF8RC1K"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "1dffdaef916a4039a857e9e20c2a5744",
+      "name": "Product 17",
+      "description": "Placeholder description for Product 17",
+      "price": 46.69,
+      "stock": 34,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": true,
+        "salePercentage": 0.2,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 23.9,
+        "width": 1160,
+        "height": 728,
+        "length": 1029,
+        "ean": "4724275101106",
+        "manufacturerNumber": "MPN-3QAQSGH3",
+        "maxPurchase": 10
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "c8267eb4cdb9458588bebe072bf8f4d8",
+      "name": "Product 18",
+      "description": "Placeholder description for Product 18",
+      "price": 176.54,
+      "stock": 22,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 24.39,
+        "width": 329,
+        "height": 559,
+        "length": 121,
+        "ean": "4378929803771",
+        "manufacturerNumber": "MPN-39LA3F14"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "425060a408654cb897fe93ce5638fcab",
+      "name": "Product 19",
+      "description": "Placeholder description for Product 19",
+      "price": 214.97,
+      "stock": 849,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 20.66,
+        "width": 388,
+        "height": 938,
+        "length": 1456,
+        "ean": "7014188390788",
+        "manufacturerNumber": "MPN-EX7YIFMI"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "a48ecfd1fa784129aa78d873ed1e7445",
+      "name": "Product 20",
+      "description": "Placeholder description for Product 20",
+      "price": 45.25,
+      "stock": 95,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 12.83,
+        "width": 1441,
+        "height": 277,
+        "length": 1083,
+        "ean": "6178573972308",
+        "manufacturerNumber": "MPN-TA4C7A1W"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "3b33248e6d2c4b3893e73a2ea0b56cb2",
+      "name": "Product 21",
+      "description": "Placeholder description for Product 21",
+      "price": 226.09,
+      "stock": 68,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 19.31,
+        "width": 1086,
+        "height": 595,
+        "length": 1188,
+        "ean": "4438909092721",
+        "manufacturerNumber": "MPN-PQ904C10"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "82b87d85550345a09c861514202fdf36",
+      "name": "Product 22",
+      "description": "Placeholder description for Product 22",
+      "price": 123.11,
+      "stock": 88,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 13.91,
+        "width": 124,
+        "height": 1061,
+        "length": 422,
+        "ean": "7877335383893",
+        "manufacturerNumber": "MPN-IWRGFR18"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "5568e6cd26d54d3591f61debd7e06bc1",
+      "name": "Product 23",
+      "description": "Placeholder description for Product 23",
+      "price": 128.84,
+      "stock": 88,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 10,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 8.7,
+        "width": 1169,
+        "height": 246,
+        "length": 574,
+        "ean": "5832016024023",
+        "manufacturerNumber": "MPN-W267KX1C"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "ecc0414fc1c64c48a62836bf13e30eb5",
+      "name": "Product 24",
+      "description": "Placeholder description for Product 24",
+      "price": 198.87,
+      "stock": 4,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 7.74,
+        "width": 166,
+        "height": 845,
+        "length": 1280,
+        "ean": "2430462355437",
+        "manufacturerNumber": "MPN-3BEFJIUD"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "ed7fe0b6f8da469e96adf7c13c59399a",
+      "name": "Product 25",
+      "description": "Placeholder description for Product 25",
+      "price": 249.49,
+      "stock": 42,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 8.61,
+        "width": 609,
+        "height": 21,
+        "length": 1439,
+        "ean": "1029655551612",
+        "manufacturerNumber": "MPN-8S15QPCJ"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "a5f8c93e00504f6792a184339149c976",
+      "name": "Product 26",
+      "description": "Placeholder description for Product 26",
+      "price": 100.1,
+      "stock": 12,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 19.38,
+        "width": 69,
+        "height": 610,
+        "length": 153,
+        "ean": "3695126793096",
+        "manufacturerNumber": "MPN-67ACRT1K"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "8812db39eb3d447ba7be67680d577f37",
+      "name": "Product 27",
+      "description": "Placeholder description for Product 27",
+      "price": 40.57,
+      "stock": 17,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 4.32,
+        "width": 1421,
+        "height": 189,
+        "length": 1137,
+        "ean": "1058024001212",
+        "manufacturerNumber": "MPN-4YGVLGON"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "e95bfdb95eb94cb59674194b87e709de",
+      "name": "Product 28",
+      "description": "Placeholder description for Product 28",
+      "price": 294.48,
+      "stock": 68,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 10.03,
+        "width": 226,
+        "height": 705,
+        "length": 1295,
+        "ean": "4845315282576",
+        "manufacturerNumber": "MPN-PRM0QA10"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "36bcfc497768435ca838b13e6c121f7d",
+      "name": "Product 29",
+      "description": "Placeholder description for Product 29",
+      "price": 92.83,
+      "stock": 49,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 20.69,
+        "width": 824,
+        "height": 443,
+        "length": 101,
+        "ean": "2331041973595",
+        "manufacturerNumber": "MPN-LUOAPQ1W",
+        "minPurchase": 5,
+        "purchaseSteps": 5
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "ba41233fe33a49c590fd040e1a4e63a5",
+      "name": "Product 30",
+      "description": "Placeholder description for Product 30",
+      "price": 132.87,
+      "stock": 17,
+      "primaryCategoryId": "22abfe45177c43809f90a510f2ccb53e",
+      "categoryIds": [
+        "22abfe45177c43809f90a510f2ccb53e"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 4.83,
+        "width": 1039,
+        "height": 91,
+        "length": 1992,
+        "ean": "3715975881802",
+        "manufacturerNumber": "MPN-4EYQ6VGT"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "38fad2c121d644a499c86551e6a5a3a3",
+      "name": "Product 1",
+      "description": "Placeholder description for Product 1",
+      "price": 241.57,
+      "stock": 44,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 4.3,
+        "width": 200,
+        "height": 1175,
+        "length": 1529,
+        "ean": "9091495422461",
+        "manufacturerNumber": "MPN-WR46511O"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "0547da0af0b44118a8205834063e1ec8",
+      "name": "Product 2",
+      "description": "Placeholder description for Product 2",
+      "price": 265.47,
+      "stock": 57,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 21.58,
+        "width": 578,
+        "height": 861,
+        "length": 1518,
+        "ean": "4787973562334",
+        "manufacturerNumber": "MPN-JEWZV71S"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "2d839d4305a24b2c92df70c66ccbbafa",
+      "name": "Product 3",
+      "description": "Placeholder description for Product 3",
+      "price": 77.77,
+      "stock": 636,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 7.76,
+        "width": 236,
+        "height": 431,
+        "length": 111,
+        "ean": "7277531328382",
+        "manufacturerNumber": "MPN-A3ZQT3YM"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "ea8fff0e87124fb2b08654a38f4a4306",
+      "name": "Product 4",
+      "description": "Placeholder description for Product 4",
+      "price": 35.8,
+      "stock": 26,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 7.16,
+        "width": 937,
+        "height": 884,
+        "length": 558,
+        "ean": "8532949081120",
+        "manufacturerNumber": "MPN-Z3JBXTLT"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "1abef8969efa4808a05464f51073317e",
+      "name": "Product 5",
+      "description": "Placeholder description for Product 5",
+      "price": 123.24,
+      "stock": 41,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 14.75,
+        "width": 709,
+        "height": 158,
+        "length": 627,
+        "ean": "1196721324057",
+        "manufacturerNumber": "MPN-Q357ZX10"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "ffbc110d3fe94d65a76bac6acd6e65c7",
+      "name": "Product 6",
+      "description": "Placeholder description for Product 6",
+      "price": 15.79,
+      "stock": 653,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": true,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 19.66,
+        "width": 1187,
+        "height": 66,
+        "length": 1948,
+        "ean": "7569049821869",
+        "manufacturerNumber": "MPN-KZOOBLOY"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "3c643161844c4869994d4c93b7002098",
+      "name": "Product 7",
+      "description": "Placeholder description for Product 7",
+      "price": 269.5,
+      "stock": 69,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": true,
+        "salePercentage": 0.3,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 22.93,
+        "width": 1252,
+        "height": 332,
+        "length": 501,
+        "ean": "4719494304773",
+        "manufacturerNumber": "MPN-FKRAQU1K"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "d0e21b89a26f41ac8cd8ae4472ec014f",
+      "name": "Product 8",
+      "description": "Placeholder description for Product 8",
+      "price": 10.62,
+      "stock": 88,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": true,
+        "weight": 11.6,
+        "width": 909,
+        "height": 929,
+        "length": 1690,
+        "ean": "2122024252154",
+        "manufacturerNumber": "MPN-DK8UQ51G"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "afb271855b0645c4b2556288582d5c71",
+      "name": "Product 9",
+      "description": "Placeholder description for Product 9",
+      "price": 197.23,
+      "stock": 61,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 18.54,
+        "width": 664,
+        "height": 40,
+        "length": 1171,
+        "ean": "4719760830890",
+        "manufacturerNumber": "MPN-VS3NA61M"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "c98520b5415c47b78e44456197f4c4a8",
+      "name": "Product 10",
+      "description": "Placeholder description for Product 10",
+      "price": 208.46,
+      "stock": 0,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 2.73,
+        "width": 355,
+        "height": 1019,
+        "length": 311,
+        "ean": "4446828973991",
+        "manufacturerNumber": "MPN-5ONETQ1C"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "e3a2263856e148eea39b369b4ce81460",
+      "name": "Product 11",
+      "description": "Placeholder description for Product 11",
+      "price": 35.95,
+      "stock": 98,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 1.77,
+        "width": 1113,
+        "height": 111,
+        "length": 1174,
+        "ean": "3391290092088",
+        "manufacturerNumber": "MPN-WT05ZB1K"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "febac9a3625543a381632cbaa4a4fe38",
+      "name": "Product 12",
+      "description": "Placeholder description for Product 12",
+      "price": 143.26,
+      "stock": 10,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 13.88,
+        "width": 256,
+        "height": 718,
+        "length": 394,
+        "ean": "7366881013465",
+        "manufacturerNumber": "MPN-S6ESAF1O"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "1151948a8d7448b4958ed45baae8ba79",
+      "name": "Product 13",
+      "description": "Placeholder description for Product 13",
+      "price": 149.44,
+      "stock": 70,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 23.15,
+        "width": 1033,
+        "height": 1171,
+        "length": 1114,
+        "ean": "9271131054342",
+        "manufacturerNumber": "MPN-CBNGA8C7"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "8228cf84a92a484da5d5bf5110ec0568",
+      "name": "Product 14",
+      "description": "Placeholder description for Product 14",
+      "price": 79.73,
+      "stock": 22,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": true,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 6.46,
+        "width": 324,
+        "height": 288,
+        "length": 189,
+        "ean": "9646962171610",
+        "manufacturerNumber": "MPN-KYTOBSOR"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "18fc5450b0a94d21b98a75d944077049",
+      "name": "Product 15",
+      "description": "Placeholder description for Product 15",
+      "price": 220.05,
+      "stock": 34,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": true,
+        "salePercentage": 0.25,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 19.86,
+        "width": 107,
+        "height": 752,
+        "length": 77,
+        "ean": "9378477273601",
+        "manufacturerNumber": "MPN-22FENP1S",
+        "minPurchase": 2,
+        "purchaseSteps": 2,
+        "maxPurchase": 50
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "c2ca7bc51826443c8a0d096b024d8011",
+      "name": "Product 16",
+      "description": "Placeholder description for Product 16",
+      "price": 18.25,
+      "stock": 89,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": true,
+        "isShippingFree": false,
+        "weight": 3.77,
+        "width": 1103,
+        "height": 680,
+        "length": 1772,
+        "ean": "7173835701619",
+        "manufacturerNumber": "MPN-W319SH4S"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "7fe9294fb6b94cd0a8b039095291b2bd",
+      "name": "Product 17",
+      "description": "Placeholder description for Product 17",
+      "price": 100.21,
+      "stock": 43,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 11.68,
+        "width": 373,
+        "height": 1141,
+        "length": 1745,
+        "ean": "9126843861415",
+        "manufacturerNumber": "MPN-6F5BURYZ"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "61fa289c28764d8aa2576b6261ee9f9d",
+      "name": "Product 18",
+      "description": "Placeholder description for Product 18",
+      "price": 73.86,
+      "stock": 21,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 4.02,
+        "width": 664,
+        "height": 529,
+        "length": 1509,
+        "ean": "0415620811934",
+        "manufacturerNumber": "MPN-P9ZOIJRW"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "67879460568f4037a187909ba9aa9617",
+      "name": "Product 19",
+      "description": "Placeholder description for Product 19",
+      "price": 74.89,
+      "stock": 69,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 1,
+        "hasSalesPrice": true,
+        "salePercentage": 0.25,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 24.61,
+        "width": 333,
+        "height": 37,
+        "length": 937,
+        "ean": "8363543531182",
+        "manufacturerNumber": "MPN-N61TDM9C"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "4bdf30b1007c4e3ebee4f84379328f4c",
+      "name": "Product 20",
+      "description": "Placeholder description for Product 20",
+      "price": 159.23,
+      "stock": 41,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 11.71,
+        "width": 1174,
+        "height": 694,
+        "length": 1134,
+        "ean": "4252808483530",
+        "manufacturerNumber": "MPN-9RX1NR18",
+        "maxPurchase": 3
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "89bbfa07536247929d277e0c7a54ee94",
+      "name": "Product 21",
+      "description": "Placeholder description for Product 21",
+      "price": 150.46,
+      "stock": 93,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 5.44,
+        "width": 771,
+        "height": 1019,
+        "length": 276,
+        "ean": "6641541714465",
+        "manufacturerNumber": "MPN-3WZ2U2L8"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "d11e649a0c734b22820357262aecac28",
+      "name": "Product 22",
+      "description": "Placeholder description for Product 22",
+      "price": 57.9,
+      "stock": 61,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": true,
+        "salePercentage": 0.15,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 20.33,
+        "width": 501,
+        "height": 1046,
+        "length": 971,
+        "ean": "0378324990452",
+        "manufacturerNumber": "MPN-ZS6YFGPN",
+        "maxPurchase": 5
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "5e9551b4857b473a88a58c798bfb43a3",
+      "name": "Product 23",
+      "description": "Placeholder description for Product 23",
+      "price": 41.24,
+      "stock": 24,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": true,
+        "salePercentage": 0.2,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 15.95,
+        "width": 62,
+        "height": 340,
+        "length": 1435,
+        "ean": "5509341991220",
+        "manufacturerNumber": "MPN-MCNNXWYI"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "c7e24391217149f2850d4eedff0d9f5a",
+      "name": "Product 24",
+      "description": "Placeholder description for Product 24",
+      "price": 55.74,
+      "stock": 86,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 1,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 2,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 16.93,
+        "width": 1281,
+        "height": 447,
+        "length": 1782,
+        "ean": "4827196793785",
+        "manufacturerNumber": "MPN-TOYQRT1O"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "f41240db92aa4dbf8820234e41059ba7",
+      "name": "Product 25",
+      "description": "Placeholder description for Product 25",
+      "price": 170.54,
+      "stock": 19,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "detail",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": true,
+        "salePercentage": 0.1,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 15.19,
+        "width": 60,
+        "height": 682,
+        "length": 1949,
+        "ean": "1844119354116",
+        "manufacturerNumber": "MPN-S3WYW8GQ"
+      },
+      "deliveryTimeIndex": 0
+    },
+    {
+      "id": "81a46a3b34904418857963a447ed20dc",
+      "name": "Product 26",
+      "description": "Placeholder description for Product 26",
+      "price": 223.34,
+      "stock": 11,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "packaging",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 1.76,
+        "width": 957,
+        "height": 186,
+        "length": 1603,
+        "ean": "5590710544543",
+        "manufacturerNumber": "MPN-U9X0G7UW"
+      },
+      "deliveryTimeIndex": 1
+    },
+    {
+      "id": "bd3aa1f62ea647e4be83a0282569fbc8",
+      "name": "Product 27",
+      "description": "Placeholder description for Product 27",
+      "price": 124.7,
+      "stock": 75,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 0,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 1.37,
+        "width": 561,
+        "height": 667,
+        "length": 1180,
+        "ean": "0854079114973",
+        "manufacturerNumber": "MPN-P9ER4W1S"
+      },
+      "deliveryTimeIndex": 2
+    },
+    {
+      "id": "1ade55c23f2a4fdf9f379ced46d98da3",
+      "name": "Product 28",
+      "description": "Placeholder description for Product 28",
+      "price": 201.79,
+      "stock": 63,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "detail",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": true,
+        "properties": [],
+        "reviewCount": 5,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 17.89,
+        "width": 938,
+        "height": 256,
+        "length": 174,
+        "ean": "1660984124551",
+        "manufacturerNumber": "MPN-0FOXJ30X"
+      },
+      "deliveryTimeIndex": 3
+    },
+    {
+      "id": "3bb156a18c0f496fbc3e376f812086d6",
+      "name": "Product 29",
+      "description": "Placeholder description for Product 29",
+      "price": 89.2,
+      "stock": 88,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 3,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "lifestyle",
+            "prompt": ""
+          },
+          {
+            "view": "front",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 3,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 24.57,
+        "width": 893,
+        "height": 835,
+        "length": 1068,
+        "ean": "3054056964509",
+        "manufacturerNumber": "MPN-Y7BOIBIK"
+      },
+      "deliveryTimeIndex": 4
+    },
+    {
+      "id": "43d0dbc993804598a8694747d123cee2",
+      "name": "Product 30",
+      "description": "Placeholder description for Product 30",
+      "price": 125.5,
+      "stock": 67,
+      "primaryCategoryId": "53c1b74078cd483a92eac063be6a1125",
+      "categoryIds": [
+        "53c1b74078cd483a92eac063be6a1125"
+      ],
+      "metadata": {
+        "imageCount": 2,
+        "imageDescriptions": [
+          {
+            "view": "side",
+            "prompt": ""
+          },
+          {
+            "view": "packaging",
+            "prompt": ""
+          }
+        ],
+        "isVariant": false,
+        "properties": [],
+        "reviewCount": 8,
+        "hasSalesPrice": false,
+        "hasTieredPricing": false,
+        "isTopseller": false,
+        "isNew": false,
+        "isShippingFree": false,
+        "weight": 6.77,
+        "width": 610,
+        "height": 256,
+        "length": 1152,
+        "ean": "8478380202130",
+        "manufacturerNumber": "MPN-PFR5FXJ4",
+        "maxPurchase": 3
+      },
+      "deliveryTimeIndex": 0
+    }
+  ],
+  "createdAt": "2026-03-13T07:59:26.243Z"
+}

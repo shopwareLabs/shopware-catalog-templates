@@ -1,0 +1,25 @@
+{
+  "name": "Connectivity",
+  "slug": "connectivity",
+  "displayType": "text",
+  "options": [
+    "USB-C",
+    "USB-A",
+    "Thunderbolt 3",
+    "Thunderbolt 4",
+    "Combo (USB-C/Thunderbolt)",
+    "Bluetooth",
+    "Optical ADAT"
+  ],
+  "priceModifiers": {
+    "USB-C": 1,
+    "USB-A": 0.95,
+    "Thunderbolt 3": 1.1,
+    "Thunderbolt 4": 1.15,
+    "Combo (USB-C/Thunderbolt)": 1.2,
+    "Bluetooth": 1.05,
+    "Optical ADAT": 1.08
+  },
+  "createdAt": "2026-03-13T08:00:44.999Z",
+  "source": "ai-generated"
+}

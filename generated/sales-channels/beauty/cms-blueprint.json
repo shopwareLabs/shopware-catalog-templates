@@ -1,0 +1,511 @@
+{
+  "salesChannelName": "beauty",
+  "pages": [
+    {
+      "name": "Text Elements",
+      "processor": "cms-text",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Discover Your Glow</h1><p style=\"text-align: center;\">Welcome to beauty—your home for premium skincare, makeup, and beauty essentials for every skin type and style.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Simple Beauty Text Block</h2><p>This basic text block is ideal for sharing tips, highlighting new products, or outlining skincare routines. Use HTML formatting to enhance your content with lists, headings, bold highlights, and links to your favorite items.</p><ul><li>Showcase product benefits with HTML formatting</li><li>Perfect for ingredient lists or routine steps</li><li>Flexible for any beauty content</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Beauty Highlight Teaser</h2><p style=\"text-align: center;\"><i>Ideal for introducing collections, spotlighting bestsellers, or sharing skincare wisdom</i></p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Skincare Solutions</h3><p>Use this column to compare different moisturizers, feature before &amp; after results, or organize details about our gentle, effective formulas side by side.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Makeup &amp; More</h3><p>Highlight trending makeup must-haves or seasonal beauty kits. On mobile devices, each column stacks for easy browsing and finding your new favorites.</p>"
+                }
+              ]
+            },
+            {
+              "type": "html",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Elements",
+      "processor": "cms-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Image Features</h1><p style=\"text-align: center;\">Showcase your favorite skincare and makeup picks in stunning visual displays</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Shop the Look Carousel</h2><p>Browse curated beauty collections with an interactive image slider. Enjoy smooth navigation, auto-play, and customizable viewing options to discover new trends and must-have products.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-slider",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Product Image Gallery</h2><p>View high-resolution images with thumbnail previews, zoom-in details, and full-screen mode. Ideal for exploring product textures, shades, and packaging up close.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-gallery",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Elements",
+      "processor": "cms-video",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty in Motion</h1><p style=\"text-align: center;\">Bring your skincare and makeup tutorials to life by embedding videos from YouTube and Vimeo on your CMS pages</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">YouTube Tutorial</h2><p style=\"text-align: center;\">Watch our skincare routine for a radiant, healthy complexion</p>"
+                }
+              ]
+            },
+            {
+              "type": "youtube-video",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Inspiration</h2><p style=\"text-align: center;\">Discover how to create the perfect look with our featured beauty tips</p>"
+                }
+              ]
+            },
+            {
+              "type": "vimeo-video",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text & Images",
+      "processor": "cms-text-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Text & Images</h1><p style=\"text-align: center;\">Discover how to showcase your favorite beauty products with inspiring layouts and stunning visuals.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Image-Text Block</h2><p>This setup highlights your chosen product with an image on the left and details on the right. Showcase skincare must-haves, bestseller spotlights, or expert tips alongside beautiful visuals.</p><p>The image scales fluidly to match the content, ensuring your beauty essentials always look their best.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Reversed Layout</h2><p>Place text on the left and an image on the right for a fresh, modern look. Alternate this style to balance product information and lifestyle photography for your beauty story.</p><p>Mixing layouts keeps the browsing experience fresh while highlighting new arrivals and seasonal picks.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center;\">Center Text</h2><p style=\"text-align: center;\">With images on either side, put the focus on your signature collections or brand philosophy in the center. This style is ideal for sharing what makes your beauty store unique.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 4,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Gentle Skincare</h3><p style=\"text-align: center;\">Explore nourishing cleansers and soothing moisturizers, formulated for sensitive and all skin types.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Flawless Makeup</h3><p style=\"text-align: center;\">Find trending cosmetics for every complexion, from luminous foundations to bold lip colors.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Glow Essentials</h3><p style=\"text-align: center;\">Complete your beauty ritual with serums, masks, and tools for a radiant, healthy glow.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-on-image",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\"><h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Unveil Your Radiance</h2><p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">Let your natural beauty shine. Explore our curated collections designed to inspire confidence and self-care in every routine.</p></div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commerce Elements",
+      "processor": "cms-commerce",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Collection Highlights</h1><p style=\"text-align: center;\">Showcase luxurious skincare, makeup, and wellness essentials with gorgeous shopping features</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Glow Picks</h2><p style=\"text-align: center;\">Handpicked beauty favorites in a sleek three-column display</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-three-column",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Beauty Carousel</h2><p style=\"text-align: center;\">Swipe through trending skincare and makeup with easy-to-use navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Gallery &amp; Quick Add</h2><p style=\"text-align: center;\">Explore product images and add glow-boosting essentials to your cart instantly</p>"
+                }
+              ]
+            },
+            {
+              "type": "gallery-buybox",
+              "position": 6,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 7,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Shop by Category</h2><p style=\"text-align: center;\">Browse skincare, makeup, and more with streamlined category navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "category-navigation",
+              "position": 8,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Elements",
+      "processor": "cms-form",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Forms</h1><p style=\"text-align: center;\">Seamless forms to connect and enhance your beauty journey</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Get in Touch</h2><p style=\"text-align: center;\">Reach out with questions about skincare, makeup advice, or product details</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Glow Newsletter Signup</h2><p style=\"text-align: center;\">Stay updated on beauty trends, exclusive offers, and product launches</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMS Element Showcase",
+      "processor": "cms-welcome",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Beauty Essentials CMS Inspiration</h1><p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Experience the best of our beauty store’s creative layouts. Each section reveals how we display our premium skincare and makeup collections, making it easy for you to discover glowing results.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Text Features</h3><p style=\"text-align: center; color: #666; font-size: 0.9em;\">Highlights include glowing banners, beauty tips, routines, and expert guides presented in elegant styles.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Image Features</h3><p style=\"text-align: center; color: #666; font-size: 0.9em;\">Browse collections with curated lifestyle galleries, product spotlights, and trending looks.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Video Features</h3><p style=\"text-align: center; color: #666; font-size: 0.9em;\">Watch application tutorials, product reviews, and skincare routines right here.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Text & Images</h2><p style=\"text-align: center; color: #666;\">Showcase radiant transformations by blending expert tips and real customer photos. Dynamic layouts pair product details with before-and-after images and insightful advice.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Commerce Elements</h3><p>Display top beauty must-haves and skincare routines with our interactive shop features:</p><ul style=\"color: #666;\"><li>Featured product carousels</li><li>Shoppable image galleries</li><li>Effortless category browsing</li></ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Form Elements</h3><p>Connect with your beauty community through simple forms:</p><ul style=\"color: #666;\"><li>Personalized skincare consultation forms</li><li>Email list signup for new looks and promos</li><li>Order and appointment confirmations</li></ul>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Overview",
+      "processor": "cms-testing",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Beauty Testing Zone</h1><p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore our Testing Overview to discover how different beauty products and site features work together. Experience real CMS elements and shop premium beauty essentials in action.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Beauty Display Features</h2><p>Discover how we showcase our skincare and makeup collections using these CMS elements. Each example below mirrors what you'll find in our beauty store experience:</p><ul><li><strong>Text</strong> – Inspiring beauty tips, banners, and glow-getter highlights</li><li><strong>Images</strong> – Lush galleries, product close-ups, and lookbooks</li><li><strong>Video</strong> – Tutorials and product demonstrations</li><li><strong>Text & Images</strong> – Editorial layouts blending advice with visuals</li><li><strong>Commerce</strong> – Featured product cards, trending picks, and instant add-to-cart sections</li><li><strong>Form</strong> – Beauty quiz, newsletter, and feedback forms</li></ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Beauty Product Formats</h2><p>See how our premium beauty essentials are organized online:</p><ul><li><strong>Simple Product</strong> – Individual items like moisturizers or lipsticks</li><li><strong>Variant Product</strong> – Products available in multiple shades or formulas</li><li><strong>Digital Product</strong> – Downloadable beauty guides and e-books</li></ul><p style=\"margin-top: 16px; color: #666;\">Use the navigation to experience these product types up close.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hydratedAt": "2026-03-13T08:39:53.493Z"
+}

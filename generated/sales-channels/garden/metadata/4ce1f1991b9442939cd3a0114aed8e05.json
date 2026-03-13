@@ -1,0 +1,42 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a modern black stackable patio chair, made of polypropylene, set on a wooden deck."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of the stackable black chair showing ergonomic seat and curved backrest."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Material",
+      "value": "Polypropylene",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "decb856137c44a239b23aec867947bfd"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.2,
+  "width": 708,
+  "height": 742,
+  "length": 101,
+  "ean": "2504494531340",
+  "manufacturerNumber": "MPN-PDYOEMNP",
+  "manufacturerName": "Artisan Inc.",
+  "baseImagePrompt": "Patio Chair - Black - Stackable Design, Polypropylene construction"
+}

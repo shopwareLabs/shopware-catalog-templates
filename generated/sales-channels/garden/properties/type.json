@@ -1,0 +1,25 @@
+{
+  "name": "Type",
+  "slug": "type",
+  "displayType": "text",
+  "options": [
+    "All Purpose",
+    "Seed Starting",
+    "Cactus & Succulent",
+    "Orchid Mix",
+    "Acid Loving",
+    "Potting Premium",
+    "Moisture Control"
+  ],
+  "priceModifiers": {
+    "All Purpose": 1,
+    "Seed Starting": 1.1,
+    "Cactus & Succulent": 1,
+    "Orchid Mix": 1.1,
+    "Acid Loving": 1.05,
+    "Potting Premium": 1.1,
+    "Moisture Control": 1.05
+  },
+  "createdAt": "2026-03-13T08:27:09.354Z",
+  "source": "ai-generated"
+}

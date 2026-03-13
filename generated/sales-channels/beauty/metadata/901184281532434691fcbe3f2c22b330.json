@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "A 50ml jar of blue gel moisturizer, labeled oil-free, with a clear and minimalist design, set against a fresh white and blue background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro shot of the jar's opened lid revealing the blue gel texture, with some product swirled on a glossy white ceramic surface."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of the gel moisturizer jar showing the translucent blue contents, with a clean, simple label visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Gel Moisturizer",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "7cd18a9ef39a4711b17abb464d920c50"
+    },
+    {
+      "group": "Size",
+      "value": "50ml",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "b356f9ac8760418690add4358524b44a"
+    },
+    {
+      "group": "Color",
+      "value": "Blue",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "15f0404cc2e94fc4a5424839353fbbd8"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.58,
+  "width": 266,
+  "height": 921,
+  "length": 1373,
+  "ean": "9883698054118",
+  "manufacturerNumber": "MPN-GYN0F84P",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Gel Moisturizer - Oil-Free - 50ml, Blue finish"
+}

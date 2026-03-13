@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Box packaging of a Cajón drum, showing an image of the natural finish birchwood Cajón with clear branding and protective features."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A musician seated on a birchwood Cajón drum, playing rhythm in a cozy acoustic jam session setting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Birchwood",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "c6e1567505af469faa91758f067d2858"
+    },
+    {
+      "group": "Color",
+      "value": "Natural",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "67a660cb7e104e58bf101c42a4f536c5"
+    },
+    {
+      "group": "Type",
+      "value": "Cajón Drum",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "eca3e39329e1469bbef882da79a1b08f"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16,
+  "width": 457,
+  "height": 455,
+  "length": 395,
+  "ean": "0148348124719",
+  "manufacturerNumber": "MPN-77ZJRX1S",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Cajón Drum - Birchwood - Natural Finish"
+}

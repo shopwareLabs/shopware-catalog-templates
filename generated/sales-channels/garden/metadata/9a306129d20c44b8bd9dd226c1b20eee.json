@@ -1,0 +1,42 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Shady garden border filled with mature hosta plants, green and white variegated leaves, dappled sunlight, tranquil garden atmosphere"
+    },
+    {
+      "view": "packaging",
+      "prompt": "Hosta perennial packaged for retail, green and white leaf image on label, protective nursery pot"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Green & White",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "b5ced531a17c48e38a6bc34f09f29a19"
+    },
+    {
+      "group": "Type",
+      "value": "Shade-Loving Perennial",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "9200c053548d4d1c939081be8d13344f"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.21,
+  "width": 1055,
+  "height": 950,
+  "length": 1267,
+  "ean": "4211949752769",
+  "manufacturerNumber": "MPN-5Y8RN61O",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Hosta - Green & White - Shade Loving"
+}

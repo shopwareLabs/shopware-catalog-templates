@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile image of a natural wood-handled body dry brush with firm bristles, set against a clean, spa-like background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Extreme close-up of the wooden handle and the natural bristles of a body dry brush, showing texture and craftsmanship."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Wooden",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "ae53771087184afeab7882738cd1dfac"
+    },
+    {
+      "group": "Type",
+      "value": "Body Dry Brush",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "7578d0305bb6494e9695ff8b3420ca4e"
+    },
+    {
+      "group": "Color",
+      "value": "Natural",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "67a660cb7e104e58bf101c42a4f536c5"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.24,
+  "width": 351,
+  "height": 314,
+  "length": 1452,
+  "ean": "8079157846337",
+  "manufacturerNumber": "MPN-5WE928Z8",
+  "manufacturerName": "Artisan Living",
+  "baseImagePrompt": "Body Dry Brush - Natural - Wooden Handle"
+}

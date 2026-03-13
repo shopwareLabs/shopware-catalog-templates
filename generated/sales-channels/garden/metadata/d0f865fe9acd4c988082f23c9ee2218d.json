@@ -1,0 +1,47 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a mature highbush blueberry bush in a 3L pot, with clusters of ripe blue berries and green foliage"
+    },
+    {
+      "view": "packaging",
+      "prompt": "Blueberry bush in commercial nursery packaging, 3L pot, plant label with instructions and berry image"
+    },
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of ripe blueberries on a bush, with dewdrops on lush green leaves"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Highbush Blueberry",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "09ce06bfb2604d758a031696fa4ba124"
+    },
+    {
+      "group": "Size",
+      "value": "3L Pot",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "d34742866e7d4d169188ef31bd17f5c9"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 7.94,
+  "width": 171,
+  "height": 1001,
+  "length": 523,
+  "ean": "5511543190196",
+  "manufacturerNumber": "MPN-UB8U3FQB",
+  "manufacturerName": "Artisan Co.",
+  "baseImagePrompt": "Blueberry Bush - Highbush - 3L Pot"
+}

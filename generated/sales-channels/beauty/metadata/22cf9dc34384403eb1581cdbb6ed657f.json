@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Eco-friendly packaging for a natural bristle body dry brush with a wooden handle, earthy and minimalist design"
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a body dry brush with natural bristles and a smooth wooden handle, on a neutral background"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Body Dry Brush",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "7578d0305bb6494e9695ff8b3420ca4e"
+    },
+    {
+      "group": "Material",
+      "value": "Natural Bristles, Wood",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "f1784e9c5fd34c2d99e6971b65e56b89"
+    },
+    {
+      "group": "Size",
+      "value": "Regular",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "748c6f48d2d149ec9cbb5789d17f1864"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.79,
+  "width": 1389,
+  "height": 352,
+  "length": 1013,
+  "ean": "4988030971544",
+  "manufacturerNumber": "MPN-RNPWLT1O",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "maxPurchase": 50,
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Body Dry Brush - Natural Bristles - Wooden Handle, Natural Bristles, Wood construction"
+}

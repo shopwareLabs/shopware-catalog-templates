@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "boxed outdoor dining set, packaging with branding and classic brown color swatch"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "beautiful garden scene with 6-piece solid hardwood classic brown outdoor dining set, people enjoying al fresco meal"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Classic Brown",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "06d8f83984ef4fa5961756e9a79c0662"
+    },
+    {
+      "group": "Material",
+      "value": "Solid Hardwood",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "3730d78c804541988e59a27e9cd2c6e0"
+    },
+    {
+      "group": "Size",
+      "value": "6-Seater Set",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "4637ecf89db44ad29d22ed61f69fafb7"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 22.35,
+  "width": 590,
+  "height": 674,
+  "length": 1668,
+  "ean": "4592601344066",
+  "manufacturerNumber": "MPN-BEDN475S",
+  "manufacturerName": "Artisan Inc.",
+  "baseImagePrompt": "Outdoor Dining Set - Solid Hardwood - Classic Brown"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side angle showcasing input and output ports of a compact audio interface with USB-C connection"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Home studio setup with audio interface connected to laptop and microphone"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "2 In/2 Out",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f4ec6fecc4ad4633a03a5f148c3685ca"
+    },
+    {
+      "group": "Connection",
+      "value": "USB-C",
+      "groupId": "537a2bf158454f22988b0b54ceb1a779",
+      "optionId": "fb2e209b9bcd4d939ad8cd4ab9177021"
+    },
+    {
+      "group": "Compatibility",
+      "value": "Windows/Mac",
+      "groupId": "6299890932594fa1bf72c450721ad6e4",
+      "optionId": "d1a3fc260760493bb7b02e79be814346"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.88,
+  "width": 256,
+  "height": 718,
+  "length": 394,
+  "ean": "7366881013465",
+  "manufacturerNumber": "MPN-S6ESAF1O",
+  "manufacturerName": "Premium Home",
+  "baseImagePrompt": "Audio Interface - 2 In/2 Out - USB-C"
+}

@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Profile view of a silver cuticle trimmer with a fine precision tip, isolated on a light surface."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A close-up of hands using a silver cuticle trimmer as part of a home manicure, with soft natural lighting."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing image of a stainless steel cuticle trimmer, centered on a clean, plain background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "c455e1317d4d4f449c137b646c6059f2"
+    },
+    {
+      "group": "Type",
+      "value": "Cuticle Tool",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "5d9772f58d334319a2a3738d3f8a2361"
+    },
+    {
+      "group": "Features",
+      "value": "Precision Tip",
+      "groupId": "d5a8b10788d846c5a310f76290dfc849",
+      "optionId": "a1e916dd258344278de2d04cc5bb24c5"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.15,
+  "width": 263,
+  "height": 723,
+  "length": 1513,
+  "ean": "6404484991504",
+  "manufacturerNumber": "MPN-3TMOZW9Q",
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Cuticle Trimmer - Silver - Precision Tip"
+}

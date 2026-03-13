@@ -1,0 +1,49 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of open eyeshadow palette showing 12 warm neutral shades in a range from light beige to deep brown, matte and shimmer, rich texture detail"
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of rectangular eyeshadow palette with 'Warm Neutrals' label, compact with mirror, showing range of colors"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Warm Neutrals",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "109c5059414943ff97e0b9f08488526b"
+    },
+    {
+      "group": "Count",
+      "value": "12 Shades",
+      "groupId": "eb3f853794d94805b256104500035a41",
+      "optionId": "7bd651ed95734d7089e2b7bd886efbf3"
+    },
+    {
+      "group": "Finish",
+      "value": "Matte & Shimmer",
+      "groupId": "8c734297967c4dfe8b1d5c8556bd988c",
+      "optionId": "8cfc0d4522ef4979b7609e033bd4b6d6"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.13,
+  "width": 237,
+  "height": 843,
+  "length": 557,
+  "ean": "6340005821533",
+  "manufacturerNumber": "MPN-HJT19L3U",
+  "maxPurchase": 10,
+  "manufacturerName": "Premium Craft",
+  "baseImagePrompt": "Eyeshadow Palette - Warm Neutrals - 12 Shades"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Musician placing navy blue accessory bag into an instrument case"
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of medium navy blue accessory bag with zipper and fabric texture"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy Blue",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "73b7c2d97f654522b57a3357541ef9f7"
+    },
+    {
+      "group": "Size",
+      "value": "Medium",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "7b87dbfc359f43fb99fa65378f7ec058"
+    },
+    {
+      "group": "Type",
+      "value": "Accessory Bag",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "362b442a5c4b48a4824f4a24d3a27eb7"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.66,
+  "width": 372,
+  "height": 845,
+  "length": 172,
+  "ean": "3562882182085",
+  "manufacturerNumber": "MPN-0H0QIA1G",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Instrument Accessory Bag - Navy Blue - Medium"
+}

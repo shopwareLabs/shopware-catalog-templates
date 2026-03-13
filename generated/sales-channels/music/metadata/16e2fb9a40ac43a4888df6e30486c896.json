@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Cymbal pack packaging showing multiple cymbals in a branded box with specifications visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Brass Alloy",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "c6624346ae1c43ad96fd8f22d12c2a97"
+    },
+    {
+      "group": "Type",
+      "value": "Studio Pack",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "50346fa10a564260a4fd66a169029909"
+    },
+    {
+      "group": "Size",
+      "value": "Standard Set",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "2cb1418ac17c4f62a15a9e9d813c93cb"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.46,
+  "width": 1066,
+  "height": 76,
+  "length": 1877,
+  "ean": "0325577651982",
+  "manufacturerNumber": "MPN-FYLEXPPQ",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Cymbal Pack - Brass Alloy - Studio"
+}

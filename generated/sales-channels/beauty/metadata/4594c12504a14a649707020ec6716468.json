@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A pair of silver stainless steel cuticle nippers displayed in a protective case with Premium Works branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A person using the cuticle nipper to trim cuticles during a manicure, close-up on hands."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up shot of the sharp cutting jaws of the silver cuticle nipper, highlighting its grooming precision."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "c455e1317d4d4f449c137b646c6059f2"
+    },
+    {
+      "group": "Material",
+      "value": "Stainless Steel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "aa6fe7c688da4068890c6d26dbe9a5c9"
+    },
+    {
+      "group": "Type",
+      "value": "Cuticle Nipper",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "bd60af3fb6964190a039b9e0543a6891"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 10.02,
+  "width": 740,
+  "height": 299,
+  "length": 938,
+  "ean": "5457831802863",
+  "manufacturerNumber": "MPN-G8J7FYSP",
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Cuticle Nipper - Stainless Steel - Silver"
+}

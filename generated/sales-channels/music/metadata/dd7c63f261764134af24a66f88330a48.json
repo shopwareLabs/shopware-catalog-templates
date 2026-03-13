@@ -1,0 +1,50 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A cellist in a softly lit music studio playing a 4/4 cello with a classic brown finish, elegant woodwork visible."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Padded cello case packed with a full-size cello and bow, showing secure interior and classic design."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "4/4 (Full Size)",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "14c196b34eef4e2187ad433a892da872"
+    },
+    {
+      "group": "Color",
+      "value": "Classic Brown",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "06d8f83984ef4fa5961756e9a79c0662"
+    },
+    {
+      "group": "Material",
+      "value": "Spruce Top, Maple Back",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "dbf6495bf80b4684b28e1cc9146af7cb"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.41,
+  "width": 811,
+  "height": 196,
+  "length": 602,
+  "ean": "8232408942534",
+  "manufacturerNumber": "MPN-P2W9B514",
+  "minPurchase": 3,
+  "purchaseSteps": 3,
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Cello - 4/4 Size - Classic Brown, Spruce Top, Maple Back construction"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Material",
+  "slug": "material",
+  "displayType": "text",
+  "options": [
+    "B20 Bronze",
+    "B8 Bronze",
+    "Brass",
+    "Nickel-Silver",
+    "B10 Bronze",
+    "Hybrid Alloy"
+  ],
+  "priceModifiers": {
+    "B20 Bronze": 1.1,
+    "B8 Bronze": 1,
+    "Brass": 0.9,
+    "Nickel-Silver": 0.95,
+    "B10 Bronze": 1.05,
+    "Hybrid Alloy": 1.1
+  },
+  "createdAt": "2026-03-13T08:00:45.773Z",
+  "source": "ai-generated"
+}

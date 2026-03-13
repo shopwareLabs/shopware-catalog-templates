@@ -1,0 +1,45 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Sleek mascara tube with Jet Black branding placed beside its retail box on a neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Mascara",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "58776adc8c0440eca95f9087d99bd393"
+    },
+    {
+      "group": "Color",
+      "value": "Jet Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "fc72d3e4c82b472fa05070cc85c9e329"
+    },
+    {
+      "group": "Feature",
+      "value": "Volumizing",
+      "groupId": "9191d370ddf54e93a96a24a2e1f28028",
+      "optionId": "4be6bdacf8b2491aa4a7cbfecbc213ec"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.48,
+  "width": 138,
+  "height": 663,
+  "length": 504,
+  "ean": "0969882361527",
+  "manufacturerNumber": "MPN-Z0O60RL8",
+  "manufacturerName": "Artisan Studio",
+  "baseImagePrompt": "Mascara - Volumizing - Jet Black"
+}

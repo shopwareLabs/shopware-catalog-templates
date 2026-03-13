@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Bag packaging of pine bark mulch labeled as natural, 60L, showing bark texture and eco-friendly design."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Natural Pine Bark",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "ff02c3ef221a4619ade24b65d61e7d16"
+    },
+    {
+      "group": "Size",
+      "value": "60L",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "93b32d8c79dc498b885b136ae37dc90e"
+    },
+    {
+      "group": "Color",
+      "value": "Natural",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "67a660cb7e104e58bf101c42a4f536c5"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 15.83,
+  "width": 804,
+  "height": 87,
+  "length": 129,
+  "ean": "1298670543210",
+  "manufacturerNumber": "MPN-0O4I2L1C",
+  "manufacturerName": "Artisan Craft",
+  "baseImagePrompt": "Pine Bark Mulch - Natural - 60L, Natural Pine Bark construction"
+}

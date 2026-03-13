@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side angle of a matte black metal bistro set with two chairs and a round table, staged on a small urban patio with potted greenery."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the matte black textured metal finish and decorative features on the bistro set chair back."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of the metal bistro set with both chairs and table arranged in a cozy outdoor nook, cups and a small vase on the tabletop."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "2930dbf03c42437bb933d6fbc7ec4617"
+    },
+    {
+      "group": "Material",
+      "value": "Metal",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "701d4fee4f314b2c89df78385b3b117e"
+    },
+    {
+      "group": "Type",
+      "value": "Bistro Set",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "74c8f19354024ebd9e5d7256b754763f"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.49,
+  "width": 734,
+  "height": 1033,
+  "length": 781,
+  "ean": "7506730701277",
+  "manufacturerNumber": "MPN-WK1APH43",
+  "manufacturerName": "Artisan Inc.",
+  "baseImagePrompt": "Bistro Set - Matte Black - Metal"
+}

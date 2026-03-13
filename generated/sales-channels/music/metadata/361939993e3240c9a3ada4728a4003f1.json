@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Digital piano in a stylish living room setting, being played by an adult."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Digital piano packaging box with features displayed."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a sleek black digital piano with 88 keys on a plain background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Size",
+      "value": "88 Keys",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "7291366bc72a40529a733bd4c8b05ac4"
+    },
+    {
+      "group": "Type",
+      "value": "Weighted Action",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "2709ab72eefa437780c9b4fc40015916"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.94,
+  "width": 1220,
+  "height": 301,
+  "length": 1025,
+  "ean": "4912716798644",
+  "manufacturerNumber": "MPN-JYK65GLQ",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Digital Piano - 88 Keys - Black"
+}

@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a walnut-finish ergonomic recording desk, with tiered shelves and cable management channels, in a clean studio setting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Recording desk in use in a modern project studio, with monitors, computer, and audio gear, warm lighting and creative environment."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Product packaging for a walnut-finish recording desk, showing an illustration of the desk, brand, and features."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Recording Desk",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "140d4d1934d44e6b84f5c060b9a5943e"
+    },
+    {
+      "group": "Color",
+      "value": "Walnut",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "b35070673cfc4ac99bdbc35239b4a75d"
+    },
+    {
+      "group": "Features",
+      "value": "Ergonomic, Cable Management",
+      "groupId": "d5a8b10788d846c5a310f76290dfc849",
+      "optionId": "c1890be25ee24bb096396a67bb4a8c71"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.93,
+  "width": 1252,
+  "height": 332,
+  "length": 501,
+  "ean": "4719494304773",
+  "manufacturerNumber": "MPN-FKRAQU1K",
+  "manufacturerName": "Artisan Designs",
+  "baseImagePrompt": "Recording Desk - Walnut Finish - Ergonomic"
+}

@@ -1,0 +1,42 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Packaging showing an adjustable black studio monitor stand with branding"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "429eb92ec15a472081af230d71d772ec"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.86,
+  "width": 107,
+  "height": 752,
+  "length": 77,
+  "ean": "9378477273601",
+  "manufacturerNumber": "MPN-22FENP1S",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "maxPurchase": 50,
+  "manufacturerName": "Artisan Designs",
+  "baseImagePrompt": "Monitor Stand - Adjustable - Black"
+}

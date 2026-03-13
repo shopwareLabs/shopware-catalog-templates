@@ -1,0 +1,46 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Sleek glass bottle of liquid foundation labeled 'Porcelain', displaying a pale creamy liquid inside, minimalistic beauty product styling, isolated on a soft neutral background, side view"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Porcelain",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "1e69b151ad55484783c4c26363e93041"
+    },
+    {
+      "group": "Finish",
+      "value": "Matte",
+      "groupId": "8c734297967c4dfe8b1d5c8556bd988c",
+      "optionId": "923bdfb77e2941378108350ebbf11182"
+    },
+    {
+      "group": "Coverage",
+      "value": "Medium to Full",
+      "groupId": "2885aa8a292340699950d7d001b624a7",
+      "optionId": "cebd36f08c2d4620a7bb1a08fc76393e"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.74,
+  "width": 1173,
+  "height": 611,
+  "length": 194,
+  "ean": "7678643081057",
+  "manufacturerNumber": "MPN-EQRQTTI6",
+  "maxPurchase": 10,
+  "manufacturerName": "Artisan Studio",
+  "baseImagePrompt": "Liquid Foundation - Matte Finish - Porcelain"
+}

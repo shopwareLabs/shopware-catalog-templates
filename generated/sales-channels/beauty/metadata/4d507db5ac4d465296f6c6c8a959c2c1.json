@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a light, airy foam with hints of green tea leaves beside it."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A youthful woman using the foaming cleanser in a bright, modern bathroom, fresh and natural lighting."
+    },
+    {
+      "view": "front",
+      "prompt": "Foaming cleanser bottle with green tea design, labeled 150ml, standing against a simple background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Foaming Cleanser",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f0cf33126978458882b47b05eeb49ea7"
+    },
+    {
+      "group": "Size",
+      "value": "150ml",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "8129eafed5f44f499f06a7c78c0f0b6a"
+    },
+    {
+      "group": "Color",
+      "value": "Green",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "4fa90de79b2b442f9beb290d10d285b4"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.88,
+  "width": 1203,
+  "height": 556,
+  "length": 1536,
+  "ean": "2679653671189",
+  "manufacturerNumber": "MPN-7T8Z5T5Q",
+  "manufacturerName": "Artisan Co.",
+  "baseImagePrompt": "Foaming Cleanser - Green Tea - 150ml"
+}

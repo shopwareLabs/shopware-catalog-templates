@@ -1,0 +1,46 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Flat lay of a nail file set in pink and white, surrounded by manicure accessories, on a pastel desktop."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Pink/White",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "1711135885774478abbc0fff18285d3f"
+    },
+    {
+      "group": "Type",
+      "value": "Nail File",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "6c67cfbbc92f494c8c15ffb9f2f955b7"
+    },
+    {
+      "group": "Features",
+      "value": "Fine & Coarse",
+      "groupId": "d5a8b10788d846c5a310f76290dfc849",
+      "optionId": "2f537bed96314182998dc1de7df64692"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.01,
+  "width": 999,
+  "height": 1109,
+  "length": 193,
+  "ean": "1801517936474",
+  "manufacturerNumber": "MPN-GOIGK64R",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Nail File Set - Pink/White - Fine & Coarse"
+}

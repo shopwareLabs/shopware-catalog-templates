@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of clear lip gloss tube with doe-foot applicator, gloss in sheer pink shade, reflective high-shine finish, laying diagonally on soft background"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Pink",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "90fcd63d0e5e483299bf7bd9254efbf4"
+    },
+    {
+      "group": "Finish",
+      "value": "High Shine",
+      "groupId": "8c734297967c4dfe8b1d5c8556bd988c",
+      "optionId": "d3bac0cdd59a436cb5e18818fe5caa0f"
+    },
+    {
+      "group": "Moisturizing",
+      "value": "Yes",
+      "groupId": "281d146f45454dc7899fd19398f7b5a9",
+      "optionId": "2b1a5bfb61cc42d9b4b299e6bd390978"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.64,
+  "width": 544,
+  "height": 434,
+  "length": 481,
+  "ean": "4657368452741",
+  "manufacturerNumber": "MPN-XLBE561W",
+  "manufacturerName": "Premium Craft",
+  "baseImagePrompt": "Lip Gloss - Sheer Pink - High Shine"
+}

@@ -1,0 +1,152 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Music producer in a home studio using a black 49-key MIDI controller connected to a laptop and studio monitors."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Size",
+      "value": "49 Keys",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "6157302147f648f786db6fc6fa29cf67"
+    },
+    {
+      "group": "Connectivity",
+      "value": "USB",
+      "groupId": "3d9a46b4279b45b888c9248f746f84da",
+      "optionId": "0c928e4175294f55aa6481cc663ce313"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.02,
+  "width": 664,
+  "height": 529,
+  "length": 1509,
+  "ean": "0415620811934",
+  "manufacturerNumber": "MPN-P9ZOIJRW",
+  "manufacturerName": "Artisan Designs",
+  "baseImagePrompt": "MIDI Controller - 49 Keys - Black",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Mauve",
+        "Denim",
+        "Teal",
+        "Taupe",
+        "Lavender",
+        "Emerald",
+        "Pearl",
+        "Cyan",
+        "Chocolate",
+        "Terracotta",
+        "Brown",
+        "Black",
+        "Jade",
+        "Espresso",
+        "Rose",
+        "Violet",
+        "Walnut",
+        "Apricot",
+        "Burgundy",
+        "Champagne",
+        "Indigo",
+        "Magenta",
+        "Royal Blue",
+        "Platinum",
+        "Jet Black",
+        "Mahogany",
+        "Kelly Green",
+        "Brushed Steel",
+        "Nickel",
+        "Slate Blue",
+        "Khaki",
+        "Off White",
+        "Snow White",
+        "Ruby",
+        "Mint",
+        "Charcoal Gray",
+        "Cream",
+        "Honey",
+        "Cobalt",
+        "Linen",
+        "Lime",
+        "Brass"
+      ],
+      "priceModifiers": {
+        "Mauve": 1,
+        "Denim": 1,
+        "Teal": 1,
+        "Taupe": 1,
+        "Lavender": 1,
+        "Emerald": 1,
+        "Pearl": 1,
+        "Cyan": 1,
+        "Chocolate": 1,
+        "Terracotta": 1,
+        "Brown": 1,
+        "Black": 1,
+        "Jade": 1,
+        "Espresso": 1,
+        "Rose": 1,
+        "Violet": 1,
+        "Walnut": 1,
+        "Apricot": 1,
+        "Burgundy": 1,
+        "Champagne": 1,
+        "Indigo": 1,
+        "Magenta": 1,
+        "Royal Blue": 1,
+        "Platinum": 1,
+        "Jet Black": 1,
+        "Mahogany": 1,
+        "Kelly Green": 1,
+        "Brushed Steel": 1,
+        "Nickel": 1,
+        "Slate Blue": 1,
+        "Khaki": 1,
+        "Off White": 1,
+        "Snow White": 1,
+        "Ruby": 1,
+        "Mint": 1,
+        "Charcoal Gray": 1,
+        "Cream": 1,
+        "Honey": 1,
+        "Cobalt": 1,
+        "Linen": 1,
+        "Lime": 1,
+        "Brass": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Junior",
+        "Jazz",
+        "Compact",
+        "Power"
+      ],
+      "priceModifiers": {
+        "Junior": 0.9,
+        "Jazz": 1,
+        "Compact": 0.95,
+        "Power": 1.15
+      }
+    }
+  ]
+}

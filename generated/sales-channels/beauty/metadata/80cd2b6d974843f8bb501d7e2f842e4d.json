@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Close-up of a model shaping brows with a taupe precision brow pencil, clean makeup, white or softly blurred background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Taupe",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "8eb6dec19b2c47f0a385a2d7c14920f8"
+    },
+    {
+      "group": "Tip Type",
+      "value": "Precision",
+      "groupId": "defa180f625848638bfc076bfa0db770",
+      "optionId": "762307aa946a407bb1d185edf5f9247c"
+    },
+    {
+      "group": "Finish",
+      "value": "Natural",
+      "groupId": "8c734297967c4dfe8b1d5c8556bd988c",
+      "optionId": "759a5b86c57047acaa3b0aaba091f528"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.94,
+  "width": 426,
+  "height": 964,
+  "length": 1622,
+  "ean": "5624806981087",
+  "manufacturerNumber": "MPN-G4VVCVSX",
+  "manufacturerName": "Artisan Studio",
+  "baseImagePrompt": "Brow Pencil - Taupe - Precision Tip"
+}

@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "A walnut wood slat garden bench with black metal frame, shown from the front in a green outdoor setting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Walnut",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "b35070673cfc4ac99bdbc35239b4a75d"
+    },
+    {
+      "group": "Material",
+      "value": "Metal Frame",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "ea0ead8846434581b61964a5ac41345e"
+    },
+    {
+      "group": "Type",
+      "value": "Garden Bench",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "5d853043858340f091dff471529f8913"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.56,
+  "width": 549,
+  "height": 1012,
+  "length": 359,
+  "ean": "6400717714063",
+  "manufacturerNumber": "MPN-7KJHX2DX",
+  "manufacturerName": "Premium Designs",
+  "baseImagePrompt": "Garden Bench - Walnut - Metal Frame"
+}

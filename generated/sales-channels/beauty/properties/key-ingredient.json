@@ -1,0 +1,25 @@
+{
+  "name": "Key Ingredient",
+  "slug": "key-ingredient",
+  "displayType": "text",
+  "options": [
+    "Green Tea",
+    "Aloe Vera",
+    "Chamomile",
+    "Tea Tree",
+    "Vitamin C",
+    "Centella Asiatica",
+    "Salicylic Acid"
+  ],
+  "priceModifiers": {
+    "Green Tea": 1,
+    "Aloe Vera": 0.9,
+    "Chamomile": 1,
+    "Tea Tree": 1.1,
+    "Vitamin C": 1.1,
+    "Centella Asiatica": 1,
+    "Salicylic Acid": 1.1
+  },
+  "createdAt": "2026-03-13T08:39:26.861Z",
+  "source": "ai-generated"
+}

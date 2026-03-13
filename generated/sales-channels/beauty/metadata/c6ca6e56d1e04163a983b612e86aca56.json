@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "A close-up, high-resolution image of a green jade roller highlighting the smooth natural stone and gold handle accents."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Green",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "4fa90de79b2b442f9beb290d10d285b4"
+    },
+    {
+      "group": "Material",
+      "value": "Natural Jade Stone",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "aad9aa4a6678487da11e744590371b69"
+    },
+    {
+      "group": "Type",
+      "value": "Facial Massager",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "d0df6b043b1f4a7a93111d7dbfdc72c2"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.55,
+  "width": 1087,
+  "height": 221,
+  "length": 549,
+  "ean": "4786928003526",
+  "manufacturerNumber": "MPN-FTF2RD1S",
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Jade Roller - Natural Stone - Green, Natural Jade Stone construction"
+}

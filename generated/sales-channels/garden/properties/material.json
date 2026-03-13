@@ -1,0 +1,25 @@
+{
+  "name": "Material",
+  "slug": "material",
+  "displayType": "text",
+  "options": [
+    "Hardwood",
+    "Teak",
+    "Eucalyptus",
+    "Acacia",
+    "Polywood",
+    "Aluminum",
+    "Cedar"
+  ],
+  "priceModifiers": {
+    "Hardwood": 1,
+    "Teak": 1.2,
+    "Eucalyptus": 1.1,
+    "Acacia": 1,
+    "Polywood": 0.9,
+    "Aluminum": 1,
+    "Cedar": 1.1
+  },
+  "createdAt": "2026-03-13T08:27:04.286Z",
+  "source": "ai-generated"
+}

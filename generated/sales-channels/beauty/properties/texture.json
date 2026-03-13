@@ -1,0 +1,27 @@
+{
+  "name": "Texture",
+  "slug": "texture",
+  "displayType": "text",
+  "options": [
+    "Creamy",
+    "Matte",
+    "Satiny",
+    "Sheer",
+    "Hydrating",
+    "Velvety",
+    "Moisturizing",
+    "Lightweight"
+  ],
+  "priceModifiers": {
+    "Creamy": 1,
+    "Matte": 1,
+    "Satiny": 1.1,
+    "Sheer": 0.9,
+    "Hydrating": 1.1,
+    "Velvety": 1,
+    "Moisturizing": 1.1,
+    "Lightweight": 1
+  },
+  "createdAt": "2026-03-13T08:39:30.035Z",
+  "source": "ai-generated"
+}

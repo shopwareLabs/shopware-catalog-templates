@@ -1,0 +1,39 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A hand pouring granular organic plant food from a 2kg bag beside lush garden beds with healthy vegetables"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "2kg",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "398cb1b79f754f80b8201729f7387e48"
+    },
+    {
+      "group": "Type",
+      "value": "Granular",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f8c8fc5a09aa4e4a83257f5537790228"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.33,
+  "width": 361,
+  "height": 688,
+  "length": 569,
+  "ean": "1668433572298",
+  "manufacturerNumber": "MPN-CGOIGC87",
+  "maxPurchase": 20,
+  "manufacturerName": "Premium Co.",
+  "baseImagePrompt": "Organic Plant Food - Granular - 2kg"
+}

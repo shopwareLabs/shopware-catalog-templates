@@ -1,0 +1,46 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a hand trowel featuring a polished stainless steel blade and a smooth, natural wood handle set on a neutral surface."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the wooden handle and the engraved depth markings on a stainless steel trowel."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A gardener using the hand trowel to plant seedlings in a raised bed on a sunny day."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Stainless Steel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "aa6fe7c688da4068890c6d26dbe9a5c9"
+    },
+    {
+      "group": "Handle",
+      "value": "Wooden",
+      "groupId": "514a6832bb4b4ad0a23bed3b2f9b4414",
+      "optionId": "498e796f60ea4caa900704908658b428"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.97,
+  "width": 194,
+  "height": 835,
+  "length": 726,
+  "ean": "5204635753866",
+  "manufacturerNumber": "MPN-4VMO4N18",
+  "manufacturerName": "Artisan Craft",
+  "baseImagePrompt": "Hand Trowel - Stainless Steel - Wooden Handle"
+}

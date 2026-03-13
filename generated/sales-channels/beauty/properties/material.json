@@ -1,0 +1,25 @@
+{
+  "name": "Material",
+  "slug": "material",
+  "displayType": "text",
+  "options": [
+    "Latex-Free Foam",
+    "Memory Foam",
+    "Silicone",
+    "Eco-Friendly Foam",
+    "Charcoal Infused",
+    "Velour",
+    "Bamboo Fiber"
+  ],
+  "priceModifiers": {
+    "Latex-Free Foam": 1,
+    "Memory Foam": 1.1,
+    "Silicone": 1.2,
+    "Eco-Friendly Foam": 1.1,
+    "Charcoal Infused": 1.2,
+    "Velour": 1.15,
+    "Bamboo Fiber": 1.2
+  },
+  "createdAt": "2026-03-13T08:39:41.456Z",
+  "source": "ai-generated"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Length",
+  "slug": "length",
+  "displayType": "text",
+  "options": [
+    "5m",
+    "7.5m",
+    "10m",
+    "15m",
+    "20m",
+    "25m",
+    "30m"
+  ],
+  "priceModifiers": {
+    "5m": 0.9,
+    "7.5m": 0.95,
+    "10m": 1,
+    "15m": 1.1,
+    "20m": 1.2,
+    "25m": 1.35,
+    "30m": 1.5
+  },
+  "createdAt": "2026-03-13T08:27:13.580Z",
+  "source": "ai-generated"
+}

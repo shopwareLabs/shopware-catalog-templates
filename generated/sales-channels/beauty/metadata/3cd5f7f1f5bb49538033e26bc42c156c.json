@@ -1,0 +1,77 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "A 30ml glass dropper bottle labeled 'Vitamin C Brightening Serum', minimal orange and white packaging, on a clean white background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of clear serum texture with citrus slices, showing the product's light consistency and ingredients."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Serum",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "234f687cfb9f47b1bf03e1450a4ea154"
+    },
+    {
+      "group": "Size",
+      "value": "30ml",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "73cad17d38e340d0986ae5115bc06659"
+    },
+    {
+      "group": "Color",
+      "value": "Clear",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0c6875aca8544836a97ae41a22aba047"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.37,
+  "width": 777,
+  "height": 760,
+  "length": 159,
+  "ean": "3553092771008",
+  "manufacturerNumber": "MPN-WUAJBT02",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Brightening Serum - Vitamin C - 30ml, Clear finish",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "60ml",
+        "30ml",
+        "15ml"
+      ],
+      "priceModifiers": {
+        "60ml": 1.6,
+        "30ml": 1,
+        "15ml": 0.75
+      }
+    },
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "Cream",
+        "Serum",
+        "Emulsion"
+      ],
+      "priceModifiers": {
+        "Cream": 1,
+        "Serum": 1.1,
+        "Emulsion": 1
+      }
+    }
+  ]
+}

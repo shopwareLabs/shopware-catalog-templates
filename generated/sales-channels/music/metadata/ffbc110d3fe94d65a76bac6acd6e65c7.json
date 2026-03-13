@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Product packaging for a set of charcoal gray foam acoustic panels, showing foam panels stacked and labeled, with brand and dimensions visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Foam Acoustic Panel",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "1ac04f04306949d7b17687df37319e24"
+    },
+    {
+      "group": "Color",
+      "value": "Charcoal Gray",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "236bb3fe4a044ffc91853a37b131eebd"
+    },
+    {
+      "group": "Size",
+      "value": "12\" x 12\"",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "5121e895a0a1447c858728740c5e32a9"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.66,
+  "width": 1187,
+  "height": 66,
+  "length": 1948,
+  "ean": "7569049821869",
+  "manufacturerNumber": "MPN-KZOOBLOY",
+  "manufacturerName": "Premium Home",
+  "baseImagePrompt": "Acoustic Panel - Foam - Charcoal Gray"
+}

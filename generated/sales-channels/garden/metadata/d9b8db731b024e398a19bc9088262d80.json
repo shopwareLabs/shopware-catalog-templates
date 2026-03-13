@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of vibrant pink geranium flowers and healthy green foliage"
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a sturdy bedding geranium plant covered in pink blooms, potted and ready to plant"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Pink geraniums planted in a garden flower bed with other seasonal blooms under bright sunlight"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Pink",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "90fcd63d0e5e483299bf7bd9254efbf4"
+    },
+    {
+      "group": "Type",
+      "value": "Bedding Plant",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "3e42652aa78f4c15befc72ebec60f365"
+    },
+    {
+      "group": "Size",
+      "value": "Standard",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "b17d6456119b40afbfa5eca3b69b5e1b"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.29,
+  "width": 1496,
+  "height": 870,
+  "length": 229,
+  "ean": "0707338142500",
+  "manufacturerNumber": "MPN-3XJTZ318",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Geranium Plant - Pink - Bedding Variety"
+}

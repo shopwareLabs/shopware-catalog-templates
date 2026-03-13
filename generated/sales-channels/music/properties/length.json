@@ -1,0 +1,25 @@
+{
+  "name": "Length",
+  "slug": "length",
+  "displayType": "text",
+  "options": [
+    "3ft",
+    "6ft",
+    "10ft",
+    "15ft",
+    "20ft",
+    "25ft",
+    "30ft"
+  ],
+  "priceModifiers": {
+    "3ft": 0.9,
+    "6ft": 0.95,
+    "10ft": 1,
+    "15ft": 1.1,
+    "20ft": 1.15,
+    "25ft": 1.2,
+    "30ft": 1.25
+  },
+  "createdAt": "2026-03-13T08:00:42.623Z",
+  "source": "ai-generated"
+}

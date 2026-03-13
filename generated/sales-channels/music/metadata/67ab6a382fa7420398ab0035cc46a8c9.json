@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A digital piano with 88 keys being played in a stylish modern living room, large windows and contemporary decor"
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a sleek digital piano in matte black finish, displaying the full keyboard and slim body"
+    },
+    {
+      "view": "packaging",
+      "prompt": "A digital piano packaged in a branded Premium Living box, safely protected with foam, label displaying product specs"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "88 Keys",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "7291366bc72a40529a733bd4c8b05ac4"
+    },
+    {
+      "group": "Type",
+      "value": "Weighted Action",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "2709ab72eefa437780c9b4fc40015916"
+    },
+    {
+      "group": "Color",
+      "value": "Matte Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "2930dbf03c42437bb933d6fbc7ec4617"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.67,
+  "width": 949,
+  "height": 1192,
+  "length": 481,
+  "ean": "0156561536363",
+  "manufacturerNumber": "MPN-F6EDT5X8",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Digital Piano - 88 Keys - Weighted Action, Black finish"
+}

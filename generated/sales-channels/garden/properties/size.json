@@ -1,0 +1,25 @@
+{
+  "name": "Size",
+  "slug": "size",
+  "displayType": "text",
+  "options": [
+    "12 Pack",
+    "24 Pack",
+    "36 Pack",
+    "48 Pack",
+    "Tray",
+    "Pot 10cm",
+    "Pot 12cm"
+  ],
+  "priceModifiers": {
+    "12 Pack": 0.9,
+    "24 Pack": 1,
+    "36 Pack": 1.05,
+    "48 Pack": 1.1,
+    "Tray": 1.2,
+    "Pot 10cm": 1,
+    "Pot 12cm": 1.1
+  },
+  "createdAt": "2026-03-13T08:27:08.487Z",
+  "source": "ai-generated"
+}

@@ -1,0 +1,162 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Packaging for a 6-piece walnut dining set, showing the components disassembled and neatly displayed on the box with product graphics."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a walnut wood dining set with table and six chairs set for an outdoor meal on a patio surrounded by garden plants."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a walnut dining table with six chairs arranged in an outdoor dining setting, place settings prepared for a festive meal."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Walnut",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "b35070673cfc4ac99bdbc35239b4a75d"
+    },
+    {
+      "group": "Material",
+      "value": "Wood",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "1ebe5078de5947ee89cdccfd9e6d19e0"
+    },
+    {
+      "group": "Size",
+      "value": "6-Piece Set",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "6eb1ec879e984c70b068a7e04faa3c33"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.06,
+  "width": 959,
+  "height": 426,
+  "length": 1084,
+  "ean": "4610742856184",
+  "manufacturerNumber": "MPN-TW5SM9ND",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "manufacturerName": "Premium Designs",
+  "baseImagePrompt": "Dining Set - Walnut - 6-Piece, Wood construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Maple",
+        "Brown",
+        "Azure",
+        "Navy",
+        "Orange",
+        "Hunter Green",
+        "Eggshell",
+        "Ruby",
+        "Espresso",
+        "Emerald",
+        "Charcoal",
+        "Bronze",
+        "Sky Blue",
+        "Rose",
+        "Jade",
+        "Rosewood",
+        "Ash",
+        "Pink",
+        "Graphite",
+        "Coral",
+        "Denim",
+        "Off White",
+        "Magenta",
+        "Coffee",
+        "Baby Blue",
+        "Brushed Steel",
+        "Mauve",
+        "Walnut",
+        "Royal Blue",
+        "Oak",
+        "Chocolate",
+        "Snow White",
+        "Peach",
+        "Amber",
+        "Teak",
+        "Pewter",
+        "Salmon",
+        "Indigo",
+        "Slate Blue",
+        "Sand",
+        "Aqua",
+        "Apricot",
+        "Cedar"
+      ],
+      "priceModifiers": {
+        "Maple": 1,
+        "Brown": 1,
+        "Azure": 1,
+        "Navy": 1,
+        "Orange": 1,
+        "Hunter Green": 1,
+        "Eggshell": 1,
+        "Ruby": 1,
+        "Espresso": 1,
+        "Emerald": 1,
+        "Charcoal": 1,
+        "Bronze": 1,
+        "Sky Blue": 1,
+        "Rose": 1,
+        "Jade": 1,
+        "Rosewood": 1,
+        "Ash": 1,
+        "Pink": 1,
+        "Graphite": 1,
+        "Coral": 1,
+        "Denim": 1,
+        "Off White": 1,
+        "Magenta": 1,
+        "Coffee": 1,
+        "Baby Blue": 1,
+        "Brushed Steel": 1,
+        "Mauve": 1,
+        "Walnut": 1,
+        "Royal Blue": 1,
+        "Oak": 1,
+        "Chocolate": 1,
+        "Snow White": 1,
+        "Peach": 1,
+        "Amber": 1,
+        "Teak": 1,
+        "Pewter": 1,
+        "Salmon": 1,
+        "Indigo": 1,
+        "Slate Blue": 1,
+        "Sand": 1,
+        "Aqua": 1,
+        "Apricot": 1,
+        "Cedar": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "2m",
+        "4m",
+        "2.5m"
+      ],
+      "priceModifiers": {
+        "2m": 1,
+        "4m": 1.4,
+        "2.5m": 1.1
+      }
+    }
+  ]
+}

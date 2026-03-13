@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Flat lay of an open eyeshadow palette showing 12 warm neutral shades, mirror visible, minimal branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Model applying eyeshadow from a warm neutrals palette, close up on eyes, soft studio lighting."
+    },
+    {
+      "view": "side",
+      "prompt": "Eyeshadow palette slightly angled, showcasing the depth and variety of shades, sleek packaging design."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Mixed Colors",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "4f9a21c38f4e4aa39d731c296c47f538"
+    },
+    {
+      "group": "Shade Count",
+      "value": "12",
+      "groupId": "a6d34d6989ba4ad3a00033f17aee2ba1",
+      "optionId": "24d12ab06cb0454cb70108312995771e"
+    },
+    {
+      "group": "Finish",
+      "value": "Matte/Satin/Shimmer",
+      "groupId": "8c734297967c4dfe8b1d5c8556bd988c",
+      "optionId": "594e477217d34b3185252d2d2533be7b"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.19,
+  "width": 1008,
+  "height": 379,
+  "length": 630,
+  "ean": "2750772624994",
+  "manufacturerNumber": "MPN-546YHY1C",
+  "manufacturerName": "Premium Craft",
+  "baseImagePrompt": "Eyeshadow Palette - 12 Shades - Warm Neutrals, Mixed Colors finish"
+}

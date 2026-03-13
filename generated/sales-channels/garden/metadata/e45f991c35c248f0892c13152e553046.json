@@ -1,0 +1,160 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Box packaging for a 10m expandable jet black garden hose, clean product illustration and garden backdrop"
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up image of the jet black expandable hose, showing the brass fittings and woven texture"
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Length",
+      "value": "10m",
+      "groupId": "9c4cdf30875b48d182d636ba6534d3af",
+      "optionId": "6860d074739f481a9f3e88f117771830"
+    },
+    {
+      "group": "Color",
+      "value": "Jet Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "fc72d3e4c82b472fa05070cc85c9e329"
+    },
+    {
+      "group": "Type",
+      "value": "Expandable",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "6b969fb2e3b14e3aa6731ae1afbe8661"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 0.74,
+  "width": 193,
+  "height": 654,
+  "length": 829,
+  "ean": "9957956123493",
+  "manufacturerNumber": "MPN-2X037H1W",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "manufacturerName": "Artisan Craft",
+  "baseImagePrompt": "Expandable Garden Hose - 10m - Jet Black",
+  "variantConfigs": [
+    {
+      "group": "Length",
+      "selectedOptions": [
+        "30m",
+        "10m",
+        "5m"
+      ],
+      "priceModifiers": {
+        "30m": 1.5,
+        "10m": 1,
+        "5m": 0.9
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Oak",
+        "Rose",
+        "Slate",
+        "Onyx",
+        "Royal Blue",
+        "Cedar",
+        "Cream",
+        "Hunter Green",
+        "Walnut",
+        "Champagne",
+        "Magenta",
+        "Cyan",
+        "Aqua",
+        "Mahogany",
+        "Crimson",
+        "Sky Blue",
+        "Lime",
+        "Violet",
+        "Mauve",
+        "White",
+        "Ruby",
+        "Charcoal",
+        "Peach",
+        "Linen",
+        "Apricot",
+        "Green",
+        "Chocolate",
+        "Amber",
+        "Turquoise",
+        "Pearl",
+        "Eggshell",
+        "Tan",
+        "Copper",
+        "Mustard",
+        "Wine",
+        "Ash",
+        "Pewter",
+        "Snow White",
+        "Azure",
+        "Mocha",
+        "Teal",
+        "Pink",
+        "Emerald",
+        "Off White"
+      ],
+      "priceModifiers": {
+        "Oak": 1,
+        "Rose": 1,
+        "Slate": 1,
+        "Onyx": 1,
+        "Royal Blue": 1,
+        "Cedar": 1,
+        "Cream": 1,
+        "Hunter Green": 1,
+        "Walnut": 1,
+        "Champagne": 1,
+        "Magenta": 1,
+        "Cyan": 1,
+        "Aqua": 1,
+        "Mahogany": 1,
+        "Crimson": 1,
+        "Sky Blue": 1,
+        "Lime": 1,
+        "Violet": 1,
+        "Mauve": 1,
+        "White": 1,
+        "Ruby": 1,
+        "Charcoal": 1,
+        "Peach": 1,
+        "Linen": 1,
+        "Apricot": 1,
+        "Green": 1,
+        "Chocolate": 1,
+        "Amber": 1,
+        "Turquoise": 1,
+        "Pearl": 1,
+        "Eggshell": 1,
+        "Tan": 1,
+        "Copper": 1,
+        "Mustard": 1,
+        "Wine": 1,
+        "Ash": 1,
+        "Pewter": 1,
+        "Snow White": 1,
+        "Azure": 1,
+        "Mocha": 1,
+        "Teal": 1,
+        "Pink": 1,
+        "Emerald": 1,
+        "Off White": 1
+      }
+    }
+  ]
+}

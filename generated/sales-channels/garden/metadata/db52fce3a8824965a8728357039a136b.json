@@ -1,0 +1,42 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A lush backyard setting with a green expandable garden hose in use, watering plants and stretching along a stone path."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up view showing the texture of the expandable garden hose, highlighting brass fittings and the green fabric outer layer."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Green",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "4fa90de79b2b442f9beb290d10d285b4"
+    },
+    {
+      "group": "Size",
+      "value": "50ft",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "394d5c89d2544955ba654d5a0c310996"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.26,
+  "width": 472,
+  "height": 1139,
+  "length": 991,
+  "ean": "7933920333275",
+  "manufacturerNumber": "MPN-KQJR2J1S",
+  "manufacturerName": "Premium Co.",
+  "baseImagePrompt": "Expandable Garden Hose - 50ft - Green"
+}

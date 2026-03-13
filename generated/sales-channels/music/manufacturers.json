@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8c61bbf4c7234fe8b772973811bff452",
+    "name": "Artisan Home",
+    "description": "Artisan Home is a trusted manufacturer of quality products.",
+    "link": "https://www.artisan-home.com"
+  },
+  {
+    "id": "bb6c48e3fd82474aaba514fc3bd850e4",
+    "name": "Premium Living",
+    "description": "Premium Living is a trusted manufacturer of quality products.",
+    "link": "https://www.premium-living.com"
+  },
+  {
+    "id": "e23e245f02c94660bfb114a9b8c38980",
+    "name": "Artisan Designs",
+    "description": "Artisan Designs is a trusted manufacturer of quality products.",
+    "link": "https://www.artisan-designs.com"
+  },
+  {
+    "id": "f0f0e356439248e59794c9be311cfef5",
+    "name": "Premium Home",
+    "description": "Premium Home is a trusted manufacturer of quality products.",
+    "link": "https://www.premium-home.com"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A talented musician playing a natural finish acoustic guitar in a cozy home studio filled with musical instruments, warm lighting"
+    },
+    {
+      "view": "packaging",
+      "prompt": "A branded cardboard guitar box with Artisan Home logo, includes padding and product label for an acoustic guitar, displayed sealed and ready for shipping"
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a full-sized acoustic guitar with a spruce top and natural wood finish against a plain background"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "67a660cb7e104e58bf101c42a4f536c5"
+    },
+    {
+      "group": "Material",
+      "value": "Spruce Top",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "bc3993b2b39f49119d4f0ec2c2af9507"
+    },
+    {
+      "group": "Size",
+      "value": "Full Size",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "2550b7879ac0493c978b762b7637531d"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.05,
+  "width": 357,
+  "height": 622,
+  "length": 1832,
+  "ean": "4879172616540",
+  "manufacturerNumber": "MPN-DHUVO2JD",
+  "minPurchase": 5,
+  "purchaseSteps": 5,
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Acoustic Guitar - Spruce Top - Natural"
+}

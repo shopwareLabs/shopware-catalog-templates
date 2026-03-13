@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-03-13T08:00:46.286Z",
+  "count": 8,
+  "groups": [
+    "color",
+    "gauge",
+    "size",
+    "material",
+    "length",
+    "type",
+    "outputs",
+    "connectivity"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up showing the stainless steel blade and classic brown ergonomic handle of a hand garden trowel."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Stainless Steel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "aa6fe7c688da4068890c6d26dbe9a5c9"
+    },
+    {
+      "group": "Color",
+      "value": "Classic Brown",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "06d8f83984ef4fa5961756e9a79c0662"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 18.03,
+  "width": 923,
+  "height": 1023,
+  "length": 881,
+  "ean": "8827762011196",
+  "manufacturerNumber": "MPN-1CEI8I3D",
+  "manufacturerName": "Artisan Craft",
+  "baseImagePrompt": "Hand Trowel - Stainless Steel - Classic Brown"
+}

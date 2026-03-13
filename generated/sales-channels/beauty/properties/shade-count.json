@@ -1,0 +1,23 @@
+{
+  "name": "Shade Count",
+  "slug": "shade-count",
+  "displayType": "text",
+  "options": [
+    "6 Shades",
+    "8 Shades",
+    "10 Shades",
+    "12 Shades",
+    "15 Shades",
+    "18 Shades"
+  ],
+  "priceModifiers": {
+    "6 Shades": 0.9,
+    "8 Shades": 0.95,
+    "10 Shades": 1,
+    "12 Shades": 1,
+    "15 Shades": 1.1,
+    "18 Shades": 1.2
+  },
+  "createdAt": "2026-03-13T08:39:35.928Z",
+  "source": "ai-generated"
+}

@@ -1,0 +1,59 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of a stainless steel cuticle nipper showing precision tip and ergonomic handles on a clean white surface"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Person trimming cuticles with a stainless steel nipper, bright natural lighting, clean hands"
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Cuticle Nipper",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "bd60af3fb6964190a039b9e0543a6891"
+    },
+    {
+      "group": "Material",
+      "value": "Stainless Steel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "aa6fe7c688da4068890c6d26dbe9a5c9"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 6.86,
+  "width": 255,
+  "height": 62,
+  "length": 1469,
+  "ean": "3352995803027",
+  "manufacturerNumber": "MPN-GZBB1F10",
+  "manufacturerName": "Artisan Living",
+  "baseImagePrompt": "Cuticle Nipper - Stainless Steel - Precision Tip",
+  "variantConfigs": [
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Latex-Free Foam",
+        "Charcoal Infused",
+        "Eco-Friendly Foam",
+        "Silicone"
+      ],
+      "priceModifiers": {
+        "Latex-Free Foam": 1,
+        "Charcoal Infused": 1.2,
+        "Eco-Friendly Foam": 1.1,
+        "Silicone": 1.2
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of a modern synthesizer with 61 keys, graphite gray finish, showing control knobs and a digital display panel"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "61 Keys",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "9a9071d251a44b27a220eb15a07b12e4"
+    },
+    {
+      "group": "Type",
+      "value": "Analog Modeling",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "20c0c265e2b74ce780230883a558c03d"
+    },
+    {
+      "group": "Color",
+      "value": "Graphite Gray",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "80314252d5b549f29ece5095a10405f7"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.97,
+  "width": 697,
+  "height": 946,
+  "length": 1164,
+  "ean": "2082146411771",
+  "manufacturerNumber": "MPN-FNFJYITK",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Synthesizer - 61 Keys - Analog Modeling, Gray finish"
+}

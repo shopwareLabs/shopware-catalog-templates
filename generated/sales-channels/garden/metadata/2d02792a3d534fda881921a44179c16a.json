@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Packaging for 1kg organic tomato fertilizer with eco-friendly branding, tomato illustrations, and product details."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Organic",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "fa01423946884da6a0bf2f46fb5e1a53"
+    },
+    {
+      "group": "Size",
+      "value": "1kg",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "03ba2f4460694488b2cca9c4a46cac37"
+    },
+    {
+      "group": "NPK Ratio",
+      "value": "Balanced",
+      "groupId": "badd18fd62314a2dba161285636008e2",
+      "optionId": "5876e245e9c94820b1e604aaff9e721a"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.84,
+  "width": 221,
+  "height": 299,
+  "length": 1117,
+  "ean": "5807102702840",
+  "manufacturerNumber": "MPN-WXOM9YWN",
+  "manufacturerName": "Premium Co.",
+  "baseImagePrompt": "Organic Tomato Fertilizer - 1kg - Balanced NPK"
+}

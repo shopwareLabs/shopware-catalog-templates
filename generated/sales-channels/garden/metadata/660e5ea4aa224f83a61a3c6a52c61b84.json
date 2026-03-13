@@ -1,0 +1,46 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detailed view of a blooming pink petunia with compact growth, showing vibrant petals and lush green foliage."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Pink",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "90fcd63d0e5e483299bf7bd9254efbf4"
+    },
+    {
+      "group": "Type",
+      "value": "Bedding Plant",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "3e42652aa78f4c15befc72ebec60f365"
+    },
+    {
+      "group": "Size",
+      "value": "Compact Growth",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "8823604401e64767a1459244ec176da4"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 20.31,
+  "width": 743,
+  "height": 1069,
+  "length": 1759,
+  "ean": "6633842959065",
+  "manufacturerNumber": "MPN-NA22J1H2",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "manufacturerName": "Artisan Co.",
+  "baseImagePrompt": "Petunia Bedding Plant - Pink - Compact Growth"
+}

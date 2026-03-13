@@ -1,0 +1,23 @@
+{
+  "name": "Size",
+  "slug": "size",
+  "displayType": "text",
+  "options": [
+    "10ml",
+    "15ml",
+    "20ml",
+    "30ml",
+    "50ml",
+    "60ml"
+  ],
+  "priceModifiers": {
+    "10ml": 0.6,
+    "15ml": 0.75,
+    "20ml": 0.9,
+    "30ml": 1,
+    "50ml": 1.4,
+    "60ml": 1.6
+  },
+  "createdAt": "2026-03-13T08:39:22.758Z",
+  "source": "ai-generated"
+}

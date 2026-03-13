@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a soft, gray microfiber cleaning cloth, showing its fine texture and stitched edges"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gray",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "f1d4dabfc7ef4e95b91a15019529d7f5"
+    },
+    {
+      "group": "Material",
+      "value": "Microfiber",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "133b037f53124404b04f297cad3df505"
+    },
+    {
+      "group": "Size",
+      "value": "12x12in",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "d782fca6914e4f16879cfc7cb3bf2c61"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.66,
+  "width": 388,
+  "height": 938,
+  "length": 1456,
+  "ean": "7014188390788",
+  "manufacturerNumber": "MPN-EX7YIFMI",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Microfiber Cleaning Cloth - Gray - 12x12in"
+}

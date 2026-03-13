@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A stylish package containing guitar strings, featuring graphic elements suggesting nickel material, branding, and specification for medium gauge"
+    },
+    {
+      "view": "front",
+      "prompt": "A front view showing the guitar string set, several strings partially unwound and arranged neatly, highlighting their nickel finish"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Nickel",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "628e6565977f4f18a54ca52306c95739"
+    },
+    {
+      "group": "Gauge",
+      "value": "Medium",
+      "groupId": "845e551c4dff4c3b8a2a5a26b99acd54",
+      "optionId": "dd646df0e3d74ca4adf9e886acd255fd"
+    },
+    {
+      "group": "Type",
+      "value": "Electric Guitar",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "f147a5be20a544c286ed194434bff723"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.61,
+  "width": 609,
+  "height": 21,
+  "length": 1439,
+  "ean": "1029655551612",
+  "manufacturerNumber": "MPN-8S15QPCJ",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Guitar String Set - Nickel Wound - Medium Gauge"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Type",
+  "slug": "type",
+  "displayType": "text",
+  "options": [
+    "Straight-Straight",
+    "Straight-Right Angle",
+    "Coiled",
+    "Silent Plug",
+    "Patch Cable",
+    "Balanced TRS",
+    "Unbalanced TS"
+  ],
+  "priceModifiers": {
+    "Straight-Straight": 1,
+    "Straight-Right Angle": 1,
+    "Coiled": 1.1,
+    "Silent Plug": 1.1,
+    "Patch Cable": 0.9,
+    "Balanced TRS": 1.1,
+    "Unbalanced TS": 1
+  },
+  "createdAt": "2026-03-13T08:00:46.285Z",
+  "source": "ai-generated"
+}

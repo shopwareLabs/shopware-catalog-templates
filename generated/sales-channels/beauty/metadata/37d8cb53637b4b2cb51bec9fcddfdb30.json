@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Blue hair detangling brush packaged in a clear box, showing flexible bristles and ergonomic handle design."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A person brushing their hair with a blue detangling brush in front of a bathroom mirror with natural sunlight."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail image of flexible blue bristles on a hair brush against a plain white background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "15f0404cc2e94fc4a5424839353fbbd8"
+    },
+    {
+      "group": "Type",
+      "value": "Hair Brush",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "1f2708ab537041088b2f94d8c7f04f0a"
+    },
+    {
+      "group": "Features",
+      "value": "Flexible Bristles",
+      "groupId": "d5a8b10788d846c5a310f76290dfc849",
+      "optionId": "a1f8560d260d4ba1b82ec8e59bb9b5d7"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.62,
+  "width": 117,
+  "height": 276,
+  "length": 1696,
+  "ean": "5101277183832",
+  "manufacturerNumber": "MPN-MATY4R14",
+  "manufacturerName": "Artisan Living",
+  "baseImagePrompt": "Hair Detangling Brush - Blue - Flexible Bristles"
+}

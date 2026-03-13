@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing image of a guitar string set packaging, clearly showing 'Nickel Wound' and 'Light Gauge' labels."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Guitar strings arranged inside branded packaging, with strings partially pulled out to reveal metal windings."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Guitar String Set",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "534f217f1e8a4f7e8a6a0cbb2ec8f136"
+    },
+    {
+      "group": "Material",
+      "value": "Nickel Wound",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "9c6ad124f5704dafb841f8ab5f25e53f"
+    },
+    {
+      "group": "Size",
+      "value": "Light Gauge",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "32f1a694ac1c410184423ca8ab74adfa"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22,
+  "width": 1046,
+  "height": 718,
+  "length": 850,
+  "ean": "3073590231052",
+  "manufacturerNumber": "MPN-AXFGULQI",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Guitar String Set - Nickel Wound - Light Gauge"
+}

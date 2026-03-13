@@ -1,0 +1,179 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "A hard shell violin case in a bold blue color, closed and standing upright with handle visible"
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a violin case, showing branding and key features, in a protective box"
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "15f0404cc2e94fc4a5424839353fbbd8"
+    },
+    {
+      "group": "Type",
+      "value": "Hard Shell",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "6e93c53713dd406d91ba84527fca42b4"
+    },
+    {
+      "group": "Size",
+      "value": "4/4 Full",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "256fdbe6342c43ea98cb196ad640766d"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.38,
+  "width": 69,
+  "height": 610,
+  "length": 153,
+  "ean": "3695126793096",
+  "manufacturerNumber": "MPN-67ACRT1K",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Violin Case - Hard Shell - Blue",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Teal",
+        "Maple",
+        "Pink",
+        "Yellow",
+        "Sky Blue",
+        "Red",
+        "Slate Blue",
+        "Platinum",
+        "Taupe",
+        "Cyan",
+        "Ebony",
+        "Snow White",
+        "Off White",
+        "Natural Oak",
+        "Mauve",
+        "Aqua",
+        "Lime",
+        "Pewter",
+        "Sage",
+        "Wine",
+        "Pearl",
+        "Azure",
+        "Navy",
+        "Violet",
+        "Emerald",
+        "Blue",
+        "Crimson",
+        "Turquoise",
+        "Mocha",
+        "Onyx",
+        "Apricot",
+        "Walnut",
+        "Chocolate",
+        "Teak",
+        "Lavender",
+        "Sand",
+        "Khaki",
+        "Honey",
+        "Gray",
+        "Birch",
+        "Amber",
+        "Brass",
+        "Jade",
+        "Midnight",
+        "Orange",
+        "Cedar",
+        "Charcoal",
+        "Plum"
+      ],
+      "priceModifiers": {
+        "Teal": 1,
+        "Maple": 1,
+        "Pink": 1,
+        "Yellow": 1,
+        "Sky Blue": 1,
+        "Red": 1,
+        "Slate Blue": 1,
+        "Platinum": 1,
+        "Taupe": 1,
+        "Cyan": 1,
+        "Ebony": 1,
+        "Snow White": 1,
+        "Off White": 1,
+        "Natural Oak": 1,
+        "Mauve": 1,
+        "Aqua": 1,
+        "Lime": 1,
+        "Pewter": 1,
+        "Sage": 1,
+        "Wine": 1,
+        "Pearl": 1,
+        "Azure": 1,
+        "Navy": 1,
+        "Violet": 1,
+        "Emerald": 1,
+        "Blue": 1,
+        "Crimson": 1,
+        "Turquoise": 1,
+        "Mocha": 1,
+        "Onyx": 1,
+        "Apricot": 1,
+        "Walnut": 1,
+        "Chocolate": 1,
+        "Teak": 1,
+        "Lavender": 1,
+        "Sand": 1,
+        "Khaki": 1,
+        "Honey": 1,
+        "Gray": 1,
+        "Birch": 1,
+        "Amber": 1,
+        "Brass": 1,
+        "Jade": 1,
+        "Midnight": 1,
+        "Orange": 1,
+        "Cedar": 1,
+        "Charcoal": 1,
+        "Plum": 1
+      }
+    },
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "Unbalanced TS",
+        "Straight-Straight",
+        "Straight-Right Angle"
+      ],
+      "priceModifiers": {
+        "Unbalanced TS": 1,
+        "Straight-Straight": 1,
+        "Straight-Right Angle": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "1/10",
+        "1/16",
+        "1/2"
+      ],
+      "priceModifiers": {
+        "1/10": 0.9,
+        "1/16": 0.9,
+        "1/2": 1
+      }
+    }
+  ]
+}

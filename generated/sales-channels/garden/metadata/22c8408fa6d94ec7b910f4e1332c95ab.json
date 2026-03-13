@@ -1,0 +1,47 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "A vintage-inspired metal watering can, painted in classic brown, displayed clearly from the front on a white background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up emphasizing the powder-coated brown metal surface, the arched handle, and the narrow spout."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "An inviting greenhouse scene, with the metal watering can in classic brown in use, gently watering leafy potted plants."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Classic Brown",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "06d8f83984ef4fa5961756e9a79c0662"
+    },
+    {
+      "group": "Size",
+      "value": "1.5 Gallon",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "5888935ee35c44fab1ebc4f6d2e70814"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.11,
+  "width": 1496,
+  "height": 616,
+  "length": 1406,
+  "ean": "0361368704734",
+  "manufacturerNumber": "MPN-FEFBGV1K",
+  "maxPurchase": 10,
+  "manufacturerName": "Premium Co.",
+  "baseImagePrompt": "Metal Watering Can - Classic Brown - 1.5 Gallon"
+}

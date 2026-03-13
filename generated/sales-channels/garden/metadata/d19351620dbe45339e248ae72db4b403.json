@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a full lavender plant in bloom, showcasing bushy purple flower spikes and narrow green foliage."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of lavender blossoms with fine detail on the purple petals and silver-green leaves."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Purple",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "927fa42cf09f4549b4a6f5251050a616"
+    },
+    {
+      "group": "Type",
+      "value": "Perennial",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "bcf93d4465b34c99a54ed56f4fb87084"
+    },
+    {
+      "group": "Size",
+      "value": "Regular",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "748c6f48d2d149ec9cbb5789d17f1864"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.55,
+  "width": 1305,
+  "height": 288,
+  "length": 234,
+  "ean": "7288157514813",
+  "manufacturerNumber": "MPN-209ARW1O",
+  "manufacturerName": "Artisan Co.",
+  "baseImagePrompt": "Lavender Plant - Purple - Fragrant"
+}

@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "The packaging of a navy blue outdoor cushion, showing crisp, clean product photography with a clear view of the thickness, fabric texture, and secure ties."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy Blue",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "73b7c2d97f654522b57a3357541ef9f7"
+    },
+    {
+      "group": "Material",
+      "value": "Weatherproof Fabric",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "28719e3a3cae4c2586e7fea1fdc194c7"
+    },
+    {
+      "group": "Type",
+      "value": "Outdoor Cushion",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "2545178a0fa1413792b7791649182630"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 16.33,
+  "width": 1212,
+  "height": 604,
+  "length": 960,
+  "ean": "2181134752190",
+  "manufacturerNumber": "MPN-TK9OK610",
+  "manufacturerName": "Premium Designs",
+  "baseImagePrompt": "Outdoor Cushion - Navy Blue - Weatherproof, Weatherproof Fabric construction"
+}

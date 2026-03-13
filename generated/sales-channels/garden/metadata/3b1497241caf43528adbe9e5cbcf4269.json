@@ -1,0 +1,45 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Eco-friendly packaging with a small basil herb plant visible and the label 'Fresh Basil Herb Plant'"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Herb Plant",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "1101757b8afa460b9096afc3735815eb"
+    },
+    {
+      "group": "Size",
+      "value": "Compact",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "014017f1dd774740a15e374fcf79d2e2"
+    },
+    {
+      "group": "Color",
+      "value": "Green",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "4fa90de79b2b442f9beb290d10d285b4"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 1.77,
+  "width": 1081,
+  "height": 67,
+  "length": 427,
+  "ean": "7975177101405",
+  "manufacturerNumber": "MPN-WFZWTG44",
+  "manufacturerName": "Premium Inc.",
+  "baseImagePrompt": "Herb Plant - Basil - Compact, Green finish"
+}

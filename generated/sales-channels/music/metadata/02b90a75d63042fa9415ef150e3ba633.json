@@ -1,0 +1,46 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a classic acoustic guitar with a natural wood finish, showing a spruce top, placed on a white background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Spruce Top",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "bc3993b2b39f49119d4f0ec2c2af9507"
+    },
+    {
+      "group": "Color",
+      "value": "Natural Finish",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "d8a9fa0a796d4f2281e4036a7873612b"
+    },
+    {
+      "group": "Size",
+      "value": "Full Size",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "2550b7879ac0493c978b762b7637531d"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 2.74,
+  "width": 457,
+  "height": 584,
+  "length": 1898,
+  "ean": "1607942203460",
+  "manufacturerNumber": "MPN-ODFIZD1S",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Acoustic Guitar - Spruce Top - Natural Finish"
+}

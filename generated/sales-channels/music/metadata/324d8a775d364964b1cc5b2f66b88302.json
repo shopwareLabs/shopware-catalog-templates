@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of stacked violin strings coiled neatly, metallic sheen visible on a neutral surface."
+    },
+    {
+      "view": "front",
+      "prompt": "Front display of the violin string set packaging, labeled for steel core and medium gauge."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of violin string windings showing the texture and construction of steel core strings."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Violin String Set",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "af771c08f35d4575a23b4294cd6002ed"
+    },
+    {
+      "group": "Material",
+      "value": "Steel Core",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "81ec92f3813a4b02886a1831afd13672"
+    },
+    {
+      "group": "Size",
+      "value": "Medium Gauge",
+      "groupId": "92dcae417e924066a205d19099867cf0",
+      "optionId": "ef49fcc07fbf4e48ba43877a445dfd02"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.03,
+  "width": 1057,
+  "height": 510,
+  "length": 1105,
+  "ean": "6891928372966",
+  "manufacturerNumber": "MPN-BOWAA91W",
+  "manufacturerName": "Artisan Home",
+  "baseImagePrompt": "Violin String Set - Steel Core - Medium Gauge"
+}

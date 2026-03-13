@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "A coiled black 10-foot instrument cable with gold-plated connectors, displayed clearly on a white background"
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A guitarist on stage connecting a black instrument cable between electric guitar and amplifier"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "0bfd028c1e9b4da7872bcc85106148d3"
+    },
+    {
+      "group": "Length",
+      "value": "10ft",
+      "groupId": "9c4cdf30875b48d182d636ba6534d3af",
+      "optionId": "ed85e3a9e7704aa99b59e9153370ce47"
+    },
+    {
+      "group": "Type",
+      "value": "Instrument Cable",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "27b8d495d22d4843b5b6bfaa538b83da"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.81,
+  "width": 595,
+  "height": 1196,
+  "length": 1477,
+  "ean": "5911118492203",
+  "manufacturerNumber": "MPN-EHF8RC1K",
+  "manufacturerName": "Premium Living",
+  "baseImagePrompt": "Instrument Cable - Black - 10ft"
+}

@@ -1,0 +1,38 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Full front view of a natural bristle dry brush with a smooth wooden handle, clean white background"
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Natural Bristles, Wood",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "f1784e9c5fd34c2d99e6971b65e56b89"
+    },
+    {
+      "group": "Type",
+      "value": "Dry Brush",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "90fe7eb085e24fcaac94dde94a6dbaa3"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.19,
+  "width": 837,
+  "height": 501,
+  "length": 1639,
+  "ean": "2909720842595",
+  "manufacturerNumber": "MPN-DGSO051G",
+  "manufacturerName": "Premium Works",
+  "baseImagePrompt": "Body Dry Brush - Natural Bristles - Wooden Handle, Natural Bristles, Wood construction"
+}

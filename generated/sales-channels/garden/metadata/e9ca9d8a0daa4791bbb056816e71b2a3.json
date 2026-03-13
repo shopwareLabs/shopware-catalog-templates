@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a metal garden table with antique varnish finish placed on a patio, with a teapot and cups arranged on the top."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Packaging of a metal garden table, showing the antique varnish finish and the assembly process diagram on the box."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Antique Varnish",
+      "groupId": "fc1125a32fc94a45adf56b8becae9928",
+      "optionId": "c04ba1c362234ed9aca53bc2323e6b7e"
+    },
+    {
+      "group": "Material",
+      "value": "Metal",
+      "groupId": "40ddffd29f9446138e928b085d54d0f1",
+      "optionId": "701d4fee4f314b2c89df78385b3b117e"
+    },
+    {
+      "group": "Type",
+      "value": "Garden Table",
+      "groupId": "87da33a59a8448b8997021c84b253031",
+      "optionId": "cfaa6e0ff1c64c02bc9024b997d33944"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.56,
+  "width": 1307,
+  "height": 954,
+  "length": 1543,
+  "ean": "2767940183993",
+  "manufacturerNumber": "MPN-14EO0R1G",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "manufacturerName": "Artisan Inc.",
+  "baseImagePrompt": "Garden Table - Antique Varnish - Metal"
+}
