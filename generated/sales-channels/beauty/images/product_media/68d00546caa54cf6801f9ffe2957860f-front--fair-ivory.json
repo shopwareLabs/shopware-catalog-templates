@@ -1,0 +1,10 @@
+{
+  "productId": "68d00546caa54cf6801f9ffe2957860f",
+  "productName": "front--fair-ivory",
+  "generatedAt": "2026-11-10T15:47:27.515Z",
+  "prompt": "Recolour the product to Fair Ivory (#f4e6d5). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b2b75ec7a838150e",
+  "shade": "Fair Ivory",
+  "hex": "#f4e6d5"
+}

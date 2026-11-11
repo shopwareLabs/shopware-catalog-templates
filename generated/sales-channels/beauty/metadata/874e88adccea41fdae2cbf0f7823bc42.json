@@ -1,0 +1,104 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photo of an elegant complexion makeup brush with soft dense synthetic bristles and a champagne-tone handle, isolated on a warm ivory background, premium beauty editorial lighting, no visible logo or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of the rounded, densely packed synthetic bristles and smooth champagne-tone handle of a makeup brush, clean studio styling, soft shadows, high-end beauty tool photography, no text or branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Champagne"
+    },
+    {
+      "group": "Type",
+      "value": "Complexion Brush"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.65,
+  "width": 1350,
+  "height": 417,
+  "length": 1767,
+  "ean": "0852623164894",
+  "manufacturerNumber": "MPN-LA545A32",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch QEZ9"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Everyday Makeup Brush - Champagne - Synthetic, Synthetic Bristles construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Champagne",
+        "Black",
+        "Rose Gold",
+        "Ivory"
+      ],
+      "priceModifiers": {
+        "Champagne": 1,
+        "Black": 1,
+        "Rose Gold": 1,
+        "Ivory": 1
+      }
+    }
+  ],
+  "defaultColor": "Champagne",
+  "variantColors": [
+    {
+      "name": "Champagne",
+      "hex": "#f7e7ce",
+      "family": "beige"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Rose Gold",
+      "hex": "#b76e79",
+      "family": "gold"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    }
+  ]
+}

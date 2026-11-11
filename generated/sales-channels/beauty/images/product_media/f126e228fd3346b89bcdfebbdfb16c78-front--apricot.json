@@ -1,0 +1,10 @@
+{
+  "productId": "f126e228fd3346b89bcdfebbdfb16c78",
+  "productName": "front--apricot",
+  "generatedAt": "2026-11-10T15:48:21.680Z",
+  "prompt": "Recolour the product to Apricot (#fbceb1). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b86e500c29743768",
+  "shade": "Apricot",
+  "hex": "#fbceb1"
+}

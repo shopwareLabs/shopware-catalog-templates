@@ -1,0 +1,10 @@
+{
+  "productId": "f126e228fd3346b89bcdfebbdfb16c78",
+  "productName": "lifestyle--apricot",
+  "generatedAt": "2026-11-10T15:48:19.540Z",
+  "prompt": "Recolour the product to Apricot (#fbceb1). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "3e3db8f7079b783b",
+  "shade": "Apricot",
+  "hex": "#fbceb1"
+}

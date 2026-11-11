@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Clear two-tier acrylic vanity organizer holding a neat selection of skincare bottles, makeup items and brushes on a bright dressing table, soft natural light, clean premium beauty lifestyle photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of an empty clear acrylic two-tier vanity organizer, transparent shelves and clean edges visible against a neutral background, realistic studio product image."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the clear acrylic construction and tiered shelf edges of a vanity organizer, subtle reflections, crisp high-resolution product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Material",
+      "value": "Acrylic"
+    },
+    {
+      "group": "Size",
+      "value": "Two-Tier"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.6,
+  "width": 214,
+  "height": 772,
+  "length": 592,
+  "ean": "6800063722772",
+  "manufacturerNumber": "MPN-VWXML11G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch G058"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Vanity Organizer - Clear Acrylic - Two-Tier"
+}

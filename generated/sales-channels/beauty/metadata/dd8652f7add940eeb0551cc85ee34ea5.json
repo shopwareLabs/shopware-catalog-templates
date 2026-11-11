@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Elegant lifestyle beauty photograph of a dusty rose pressed blush compact styled on a clean vanity beside a soft makeup brush, warm daylight, refined premium cosmetics aesthetic, realistic photography, no visible brand text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of a closed compact pressed blush, slim elegant case with subtle rose-toned accents, studio-lit neutral backdrop, realistic cosmetics photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Pressed blush compact with its outer carton arranged neatly for a packaging view, dusty rose color cues, premium minimal design, soft diffused light, clean background, realistic product photography without invented readable branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Natural"
+    },
+    {
+      "group": "Type",
+      "value": "Pressed Powder"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.9,
+  "width": 123,
+  "height": 838,
+  "length": 958,
+  "ean": "8598294181731",
+  "manufacturerNumber": "MPN-BFEK0UX0",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch O8PA"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Pressed Blush - Dusty Rose - Silky Powder"
+}

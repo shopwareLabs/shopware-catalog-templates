@@ -1,0 +1,110 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a full-headed powder makeup brush with soft black handle and dense, rounded synthetic bristles, isolated against a warm ivory background, realistic studio product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the rounded soft synthetic bristles on a premium powder brush, black ferrule and handle partly visible, crisp texture and soft directional lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Elegant powder brush resting beside a compact on a clean vanity surface, soft morning light, neutral beauty setting, brush remains the clear focal product."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Type",
+      "value": "Powder Brush"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.72,
+  "width": 1244,
+  "height": 1162,
+  "length": 1058,
+  "ean": "7274019183280",
+  "manufacturerNumber": "MPN-2ZGS5R1O",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "maxPurchase": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch L36D"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Powder Brush - Rounded Full Head - Soft Black, Synthetic Bristles construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Rose Gold",
+        "Ivory",
+        "Champagne"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Rose Gold": 1,
+        "Ivory": 1,
+        "Champagne": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Rose Gold",
+      "hex": "#b76e79",
+      "family": "gold"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    },
+    {
+      "name": "Champagne",
+      "hex": "#f7e7ce",
+      "family": "beige"
+    }
+  ]
+}

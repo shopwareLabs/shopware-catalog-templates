@@ -1,0 +1,10 @@
+{
+  "productId": "668cf14f3ba54ab382c3ffc22dc2f183",
+  "productName": "packaging--deep-burgundy",
+  "generatedAt": "2026-11-10T15:47:12.392Z",
+  "prompt": "Recolour the product to Deep Burgundy (#5b1020). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "a60a49c590d0f78f",
+  "shade": "Deep Burgundy",
+  "hex": "#5b1020"
+}

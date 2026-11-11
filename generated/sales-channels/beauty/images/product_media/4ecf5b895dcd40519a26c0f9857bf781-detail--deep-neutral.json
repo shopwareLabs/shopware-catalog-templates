@@ -1,0 +1,10 @@
+{
+  "productId": "4ecf5b895dcd40519a26c0f9857bf781",
+  "productName": "detail--deep-neutral",
+  "generatedAt": "2026-11-10T15:47:27.248Z",
+  "prompt": "Recolour the product to Deep Neutral (#795b4b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "de5dc6e61a79f3e2",
+  "shade": "Deep Neutral",
+  "hex": "#795b4b"
+}

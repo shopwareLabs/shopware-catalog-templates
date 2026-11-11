@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "name": "beauty",
+  "description": "Discover premium makeup, skincare and fragrance at beauty, with thoughtfully selected essentials and statement-making favorites for every routine. Explore lipsticks, eyeshadow palettes, foundations, nail polish and luxury skincare designed to celebrate every skin tone and personal style.",
+  "createdAt": "2026-11-11T10:27:39.292Z",
+  "generator": {
+    "version": "2.0.0",
+    "commit": "1b5ca46"
+  },
+  "content": {
+    "products": 90,
+    "categories": 59,
+    "languages": [
+      "en",
+      "de-DE"
+    ],
+    "variantProducts": 27,
+    "variants": {
+      "colors": 4,
+      "options": 3,
+      "maxVariants": 24,
+      "share": 0.3
+    }
+  },
+  "steps": {
+    "hydrate": {
+      "at": "2026-11-10T15:50:14.943Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "cca1009"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      },
+      "image": {
+        "provider": "openai",
+        "model": "gpt-image-2.5-flare",
+        "quality": "medium"
+      }
+    },
+    "translate:de-DE": {
+      "at": "2026-11-11T08:28:18.420Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:prices": {
+      "at": "2026-11-11T08:15:42.342Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:names": {
+      "at": "2026-11-11T08:09:34.998Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:manufacturers": {
+      "at": "2026-11-11T08:09:36.873Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    }
+  },
+  "testedOn": [
+    {
+      "lane": "65",
+      "shopwareVersion": "6.5.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "66",
+      "shopwareVersion": "6.6.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "67",
+      "shopwareVersion": "6.7.16.0",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "68",
+      "shopwareVersion": "6.7.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "trunk",
+      "shopwareVersion": "6.7.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    }
+  ],
+  "models": {
+    "text": {
+      "provider": "openai",
+      "model": "gpt-6-luna"
+    },
+    "image": {
+      "provider": "openai",
+      "model": "gpt-image-2.5-flare",
+      "quality": "medium"
+    }
+  }
+}

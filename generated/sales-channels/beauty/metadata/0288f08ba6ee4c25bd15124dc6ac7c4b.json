@@ -1,0 +1,100 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Cherry Red nail polish bottle beside a neat glossy red manicure on a softly styled vanity, premium beauty editorial lighting, clean composition and realistic color."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cherry Red"
+    },
+    {
+      "group": "Finish",
+      "value": "High Shine"
+    },
+    {
+      "group": "Formula",
+      "value": "Glossy Lacquer"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 9.77,
+  "width": 1484,
+  "height": 205,
+  "length": 405,
+  "ean": "7001846826277",
+  "manufacturerNumber": "MPN-Q3HKQ42Q",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch P0S4"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Glossy Nail Polish - Cherry Red - High Shine",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cherry Red",
+        "Ballet Pink",
+        "Deep Plum",
+        "Classic White"
+      ],
+      "priceModifiers": {
+        "Cherry Red": 1,
+        "Ballet Pink": 1,
+        "Deep Plum": 1,
+        "Classic White": 1
+      }
+    }
+  ],
+  "defaultColor": "Cherry Red",
+  "variantColors": [
+    {
+      "name": "Cherry Red",
+      "hex": "#d2042d",
+      "family": "red"
+    },
+    {
+      "name": "Ballet Pink",
+      "hex": "#f2c6d2",
+      "family": "pink"
+    },
+    {
+      "name": "Deep Plum",
+      "hex": "#4b183d",
+      "family": "purple"
+    },
+    {
+      "name": "Classic White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

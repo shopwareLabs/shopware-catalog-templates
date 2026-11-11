@@ -1,0 +1,72 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle image of a 30ml Nourishing Face Oil bottle with dropper on a serene bathroom vanity, soft morning window light, folded cream towel and a simple green leaf in the background, premium skincare editorial style, no visible people."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Face Oil"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Squalane"
+    },
+    {
+      "group": "Size",
+      "value": "30ml"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.18,
+  "width": 1036,
+  "height": 294,
+  "length": 1724,
+  "ean": "3435789302248",
+  "manufacturerNumber": "MPN-21THQX2A",
+  "maxPurchase": 20,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 1YFR"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Nourishing Face Oil - Squalane Blend - 30ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "50ml",
+        "100ml",
+        "30ml"
+      ],
+      "priceModifiers": {
+        "50ml": 1,
+        "100ml": 1.6,
+        "30ml": 0.7
+      }
+    },
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "Retinol Blend",
+        "Original",
+        "Fragrance-Free"
+      ],
+      "priceModifiers": {
+        "Retinol Blend": 1.2,
+        "Original": 1,
+        "Fragrance-Free": 1
+      }
+    }
+  ]
+}

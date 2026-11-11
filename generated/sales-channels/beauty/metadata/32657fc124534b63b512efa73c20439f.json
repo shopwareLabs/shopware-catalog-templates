@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium mascara tube in elegant black packaging with wand shown alongside, clean studio product setup, realistic glossy and satin surfaces, no invented brand lettering."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of a mascara brush with evenly spaced bristles and a small amount of Midnight Black mascara, sharp focus, refined beauty product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Sophisticated beauty lifestyle scene with mascara and a minimal eye makeup look, soft natural light, polished vanity setting, premium cosmetics campaign aesthetic."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight Black"
+    },
+    {
+      "group": "Effect",
+      "value": "Volumizing"
+    },
+    {
+      "group": "Brush",
+      "value": "Defining Wand"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.26,
+  "width": 1049,
+  "height": 1033,
+  "length": 1584,
+  "ean": "1372164942243",
+  "manufacturerNumber": "MPN-QMD8951C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch HZX5"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Lash Definition Mascara - Midnight Black - Volumizing"
+}

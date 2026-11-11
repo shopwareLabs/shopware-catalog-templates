@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Studio product image of a premium lengthening mascara in a sleek black tube with understated luxury packaging, tube and cap neatly arranged against a clean pale background, crisp realistic finish, no legible text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Rich Black"
+    },
+    {
+      "group": "Effect",
+      "value": "Lengthening"
+    },
+    {
+      "group": "Type",
+      "value": "Mascara"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 1.39,
+  "width": 602,
+  "height": 287,
+  "length": 124,
+  "ean": "8579286043909",
+  "manufacturerNumber": "MPN-ZXCCCK14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch WURN"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Lengthening Mascara - Rich Black - Soft Definition"
+}

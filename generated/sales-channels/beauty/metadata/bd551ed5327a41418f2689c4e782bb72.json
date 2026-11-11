@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Studio product photo of one dusty rose teardrop makeup blending sponge standing upright against a warm white background, soft even lighting, clearly visible fine foam texture, premium beauty catalog photography, no text or branding."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Dusty rose teardrop blending sponge displayed beside minimal recyclable retail packaging on a pale neutral surface, front-facing package with no readable text or logos, crisp premium ecommerce lighting."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up macro photograph showing the soft porous texture and tapered tip of a dusty rose makeup blending sponge, clean neutral background, realistic foam detail, gentle diffused light, no branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Type",
+      "value": "Teardrop"
+    },
+    {
+      "group": "Material",
+      "value": "Latex-Free Foam"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 16.77,
+  "width": 1009,
+  "height": 775,
+  "length": 1361,
+  "ean": "3014683472242",
+  "manufacturerNumber": "MPN-ATCMD91O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch TTEM"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Blending Sponge - Dusty Rose - Teardrop, Latex-Free Foam construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Dusty Rose",
+        "Peach",
+        "Lavender",
+        "Mint"
+      ],
+      "priceModifiers": {
+        "Dusty Rose": 1,
+        "Peach": 1,
+        "Lavender": 1,
+        "Mint": 1
+      }
+    }
+  ],
+  "defaultColor": "Dusty Rose",
+  "variantColors": [
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    },
+    {
+      "name": "Peach",
+      "hex": "#ffcba4",
+      "family": "orange"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    },
+    {
+      "name": "Mint",
+      "hex": "#98d7b5",
+      "family": "green"
+    }
+  ]
+}

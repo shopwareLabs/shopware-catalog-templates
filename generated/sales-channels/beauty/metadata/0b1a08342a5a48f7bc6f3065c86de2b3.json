@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A neatly arranged set of small clear refillable travel bottles and containers in simple beauty travel packaging, transparent bodies and secure caps visible, clean white background, polished e-commerce product image, no readable text or branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Type",
+      "value": "Refillable Travel Containers"
+    },
+    {
+      "group": "Material",
+      "value": "Plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 24.03,
+  "width": 297,
+  "height": 446,
+  "length": 87,
+  "ean": "9926590753038",
+  "manufacturerNumber": "MPN-MN622N18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch XRDV"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Travel Makeup Bottle Set - Clear - Leak-Resistant, Plastic construction"
+}

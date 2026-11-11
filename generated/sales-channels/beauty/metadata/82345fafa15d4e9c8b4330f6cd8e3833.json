@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A dusty rose quilted makeup bag presented with simple premium retail packaging, front of bag visible, soft neutral studio background and refined beauty accessory photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a dusty rose quilted makeup bag standing upright with its closure visible, evenly lit against a clean pale background, realistic e-commerce product photograph."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Dusty rose quilted makeup bag resting on a neat vanity beside a few makeup essentials, warm natural daylight, elegant but understated beauty lifestyle scene."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Type",
+      "value": "Quilted Makeup Bag"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.18,
+  "width": 565,
+  "height": 584,
+  "length": 316,
+  "ean": "6847106792149",
+  "manufacturerNumber": "MPN-RVKU7D1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 4TY9"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Makeup Bag - Dusty Rose - Quilted, Polyester construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Dusty Rose",
+        "Black",
+        "Ivory",
+        "Navy"
+      ],
+      "priceModifiers": {
+        "Dusty Rose": 1,
+        "Black": 1,
+        "Ivory": 1,
+        "Navy": 1
+      }
+    }
+  ],
+  "defaultColor": "Dusty Rose",
+  "variantColors": [
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    }
+  ]
+}

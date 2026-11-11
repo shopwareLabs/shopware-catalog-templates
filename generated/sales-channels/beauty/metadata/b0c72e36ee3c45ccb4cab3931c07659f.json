@@ -1,0 +1,95 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a premium mascara tube in deep brown and black design, clean sculptural packaging on a soft neutral studio background, refined lighting, realistic beauty product photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing mascara product photograph with tube and wand presented neatly, premium minimalist cosmetics packaging, soft balanced studio light, plain light background, realistic, no added products or invented brand text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Deep Brown"
+    },
+    {
+      "group": "Effect",
+      "value": "Volumizing"
+    },
+    {
+      "group": "Type",
+      "value": "Mascara"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.16,
+  "width": 1141,
+  "height": 634,
+  "length": 936,
+  "ean": "7182646664112",
+  "manufacturerNumber": "MPN-WIFS0B4P",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 3TSA"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Volumizing Mascara - Deep Brown - Defined Lashes",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Deep Brown",
+        "Jet Black",
+        "Soft Black",
+        "Blue Black"
+      ],
+      "priceModifiers": {
+        "Deep Brown": 1,
+        "Jet Black": 1,
+        "Soft Black": 1,
+        "Blue Black": 1
+      }
+    }
+  ],
+  "defaultColor": "Deep Brown",
+  "variantColors": [
+    {
+      "name": "Deep Brown",
+      "hex": "#4b2e25",
+      "family": "brown"
+    },
+    {
+      "name": "Jet Black",
+      "hex": "#0a0a0a",
+      "family": "black"
+    },
+    {
+      "name": "Soft Black",
+      "hex": "#262322",
+      "family": "black"
+    },
+    {
+      "name": "Blue Black",
+      "hex": "#101c2c",
+      "family": "black"
+    }
+  ]
+}

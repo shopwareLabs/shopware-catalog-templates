@@ -1,0 +1,10 @@
+{
+  "productId": "2a8ad2b71c1d47e39ddbd49bc2470963",
+  "productName": "detail--champagne",
+  "generatedAt": "2026-11-10T15:50:06.892Z",
+  "prompt": "Recolour the product to Champagne (#f7e7ce). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "5fd31bd82af7d243",
+  "shade": "Champagne",
+  "hex": "#f7e7ce"
+}

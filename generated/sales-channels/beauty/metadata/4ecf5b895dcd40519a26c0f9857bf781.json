@@ -1,0 +1,91 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of concealer applicator carrying a small amount of Light Neutral cream concealer, smooth creamy texture visible against a clean pale background, elegant high-end makeup photography, no text or logo."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Light Neutral"
+    },
+    {
+      "group": "Finish",
+      "value": "Natural"
+    },
+    {
+      "group": "Coverage",
+      "value": "Buildable"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.54,
+  "width": 105,
+  "height": 1169,
+  "length": 1753,
+  "ean": "0970117432356",
+  "manufacturerNumber": "MPN-B5KET210",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 4NVU"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Concealer - Light Neutral - Natural Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Light Neutral",
+        "Fair Cool",
+        "Medium Warm",
+        "Deep Neutral"
+      ],
+      "priceModifiers": {
+        "Light Neutral": 1,
+        "Fair Cool": 1,
+        "Medium Warm": 1,
+        "Deep Neutral": 1
+      }
+    }
+  ],
+  "defaultColor": "Light Neutral",
+  "variantColors": [
+    {
+      "name": "Light Neutral",
+      "hex": "#e5d6c5",
+      "family": "beige"
+    },
+    {
+      "name": "Fair Cool",
+      "hex": "#f1d9d0",
+      "family": "beige"
+    },
+    {
+      "name": "Medium Warm",
+      "hex": "#c8916a",
+      "family": "beige"
+    },
+    {
+      "name": "Deep Neutral",
+      "hex": "#795b4b",
+      "family": "brown"
+    }
+  ]
+}

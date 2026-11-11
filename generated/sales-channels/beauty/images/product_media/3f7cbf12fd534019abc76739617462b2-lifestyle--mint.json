@@ -1,0 +1,10 @@
+{
+  "productId": "3f7cbf12fd534019abc76739617462b2",
+  "productName": "lifestyle--mint",
+  "generatedAt": "2026-11-10T15:48:55.482Z",
+  "prompt": "Recolour the product to Mint (#98d7b5). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "f8e1072611e4c61d",
+  "shade": "Mint",
+  "hex": "#98d7b5"
+}

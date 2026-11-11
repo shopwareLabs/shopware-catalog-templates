@@ -1,0 +1,103 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A bottle of glossy Cherry Red nail polish with a clean premium label-free design, cap beside bottle, white studio background with soft elegant shadow, rich red lacquer visible through glass, no readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a nail polish bottle filled with vivid Cherry Red lacquer, upright and centered, refined cosmetics product photography on a pale neutral backdrop, realistic glass reflections, no branding or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of glossy Cherry Red nail polish being brushed smoothly onto a fingernail, clean manicure and precise application, bright soft lighting, high-end beauty editorial image, no text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cherry Red"
+    },
+    {
+      "group": "Finish",
+      "value": "Gloss"
+    },
+    {
+      "group": "Type",
+      "value": "Nail Polish"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 14.43,
+  "width": 981,
+  "height": 283,
+  "length": 1993,
+  "ean": "1224974123650",
+  "manufacturerNumber": "MPN-G1E06H10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch NL1J"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Nail Polish - Cherry Red - Gloss Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cherry Red",
+        "Ballet Pink",
+        "Deep Burgundy",
+        "Classic Nude"
+      ],
+      "priceModifiers": {
+        "Cherry Red": 1,
+        "Ballet Pink": 1,
+        "Deep Burgundy": 1,
+        "Classic Nude": 1
+      }
+    }
+  ],
+  "defaultColor": "Cherry Red",
+  "variantColors": [
+    {
+      "name": "Cherry Red",
+      "hex": "#d2042d",
+      "family": "red"
+    },
+    {
+      "name": "Ballet Pink",
+      "hex": "#f2c6d2",
+      "family": "pink"
+    },
+    {
+      "name": "Deep Burgundy",
+      "hex": "#5b1020",
+      "family": "red"
+    },
+    {
+      "name": "Classic Nude",
+      "hex": "#c69c7b",
+      "family": "beige"
+    }
+  ]
+}

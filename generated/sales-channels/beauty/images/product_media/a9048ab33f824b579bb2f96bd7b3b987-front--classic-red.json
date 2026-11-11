@@ -1,0 +1,10 @@
+{
+  "productId": "a9048ab33f824b579bb2f96bd7b3b987",
+  "productName": "front--classic-red",
+  "generatedAt": "2026-11-10T15:46:59.872Z",
+  "prompt": "Recolour the product to Classic Red (#c8102e). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "782fbede79acdfe6",
+  "shade": "Classic Red",
+  "hex": "#c8102e"
+}

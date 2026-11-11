@@ -1,0 +1,10 @@
+{
+  "productId": "8336d95c4f0446a28d9d0a7c2b6adfbc",
+  "productName": "front--porcelain",
+  "generatedAt": "2026-11-10T15:48:06.111Z",
+  "prompt": "Recolour the product to Porcelain (#f5e6df). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "6494621400a9c34f",
+  "shade": "Porcelain",
+  "hex": "#f5e6df"
+}

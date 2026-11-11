@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro product photograph of a rose gold dual-ended eyebrow grooming tool, clearly showing the angled brow brush and spoolie ends, neutral studio background, realistic fine bristles and metallic finish, premium beauty catalog style, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Rose Gold"
+    },
+    {
+      "group": "Type",
+      "value": "Dual-Ended Brow Brush"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.05,
+  "width": 491,
+  "height": 539,
+  "length": 1545,
+  "ean": "5342970753452",
+  "manufacturerNumber": "MPN-AS9Y1N1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch PBYY"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Eyebrow Grooming Tool - Rose Gold - Dual-Ended, Synthetic Bristles construction"
+}

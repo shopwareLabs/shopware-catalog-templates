@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio image of a plush ivory velour powder puff with its finger strap visible, soft rounded profile and tactile fabric detail, neutral cream background, gentle luxury beauty lighting, no logo or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a clean ivory powder puff resting flat, showing its soft velour face and neatly finished edge, minimalist bright studio background, premium makeup accessory photography, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Ivory"
+    },
+    {
+      "group": "Material",
+      "value": "Velour"
+    },
+    {
+      "group": "Type",
+      "value": "Powder Puff"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.72,
+  "width": 1195,
+  "height": 375,
+  "length": 1358,
+  "ean": "8792347852313",
+  "manufacturerNumber": "MPN-B4HHS610",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch CAV7"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Soft Touch Powder Puff - Ivory - Velour"
+}

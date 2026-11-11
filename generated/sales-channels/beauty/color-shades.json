@@ -1,0 +1,222 @@
+{
+  "dusty rose": {
+    "name": "Dusty Rose",
+    "hex": "#c08081",
+    "family": "pink"
+  },
+  "rich black": {
+    "name": "Rich Black",
+    "hex": "#101010",
+    "family": "black"
+  },
+  "warm rose": {
+    "name": "Warm Rose",
+    "hex": "#c97878",
+    "family": "pink"
+  },
+  "classic red": {
+    "name": "Classic Red",
+    "hex": "#c8102e",
+    "family": "red"
+  },
+  "mauve nude": {
+    "name": "Mauve Nude",
+    "hex": "#b78483",
+    "family": "brown"
+  },
+  "berry plum": {
+    "name": "Berry Plum",
+    "hex": "#713b56",
+    "family": "purple"
+  },
+  "natural beige": {
+    "name": "Natural Beige",
+    "hex": "#d2b48c",
+    "family": "beige"
+  },
+  "cherry red": {
+    "name": "Cherry Red",
+    "hex": "#d2042d",
+    "family": "red"
+  },
+  "ballet pink": {
+    "name": "Ballet Pink",
+    "hex": "#f2c6d2",
+    "family": "pink"
+  },
+  "deep burgundy": {
+    "name": "Deep Burgundy",
+    "hex": "#5b1020",
+    "family": "red"
+  },
+  "classic nude": {
+    "name": "Classic Nude",
+    "hex": "#c69c7b",
+    "family": "beige"
+  },
+  "light neutral": {
+    "name": "Light Neutral",
+    "hex": "#e5d6c5",
+    "family": "beige"
+  },
+  "fair cool": {
+    "name": "Fair Cool",
+    "hex": "#f1d9d0",
+    "family": "beige"
+  },
+  "medium warm": {
+    "name": "Medium Warm",
+    "hex": "#c8916a",
+    "family": "beige"
+  },
+  "deep neutral": {
+    "name": "Deep Neutral",
+    "hex": "#795b4b",
+    "family": "brown"
+  },
+  "soft neutrals": {
+    "name": "Soft Neutrals",
+    "hex": "#c6b7a5",
+    "family": "multicolor"
+  },
+  "berry": {
+    "name": "Berry",
+    "hex": "#8a214f",
+    "family": "red"
+  },
+  "warm beige": {
+    "name": "Warm Beige",
+    "hex": "#c7a17a",
+    "family": "beige"
+  },
+  "fair ivory": {
+    "name": "Fair Ivory",
+    "hex": "#f4e6d5",
+    "family": "beige"
+  },
+  "medium honey": {
+    "name": "Medium Honey",
+    "hex": "#c58b45",
+    "family": "beige"
+  },
+  "deep cocoa": {
+    "name": "Deep Cocoa",
+    "hex": "#5b3428",
+    "family": "brown"
+  },
+  "deep brown": {
+    "name": "Deep Brown",
+    "hex": "#4b2e25",
+    "family": "brown"
+  },
+  "soft black": {
+    "name": "Soft Black",
+    "hex": "#262322",
+    "family": "black"
+  },
+  "blue black": {
+    "name": "Blue Black",
+    "hex": "#101c2c",
+    "family": "black"
+  },
+  "coral red": {
+    "name": "Coral Red",
+    "hex": "#f05a5f",
+    "family": "red"
+  },
+  "light ivory": {
+    "name": "Light Ivory",
+    "hex": "#f3e4ce",
+    "family": "beige"
+  },
+  "golden tan": {
+    "name": "Golden Tan",
+    "hex": "#b88643",
+    "family": "brown"
+  },
+  "peach rose": {
+    "name": "Peach Rose",
+    "hex": "#e7a18c",
+    "family": "pink"
+  },
+  "midnight black": {
+    "name": "Midnight Black",
+    "hex": "#080b12",
+    "family": "black"
+  },
+  "deep plum": {
+    "name": "Deep Plum",
+    "hex": "#4b183d",
+    "family": "purple"
+  },
+  "classic white": {
+    "name": "Classic White",
+    "hex": "#ffffff",
+    "family": "white"
+  },
+  "cocoa rose": {
+    "name": "Cocoa Rose",
+    "hex": "#a86f69",
+    "family": "brown"
+  },
+  "porcelain": {
+    "name": "Porcelain",
+    "hex": "#f5e6df",
+    "family": "beige"
+  },
+  "warm honey": {
+    "name": "Warm Honey",
+    "hex": "#d39a55",
+    "family": "beige"
+  },
+  "espresso brown": {
+    "name": "Espresso Brown",
+    "hex": "#3b241d",
+    "family": "brown"
+  },
+  "deep navy": {
+    "name": "Deep Navy",
+    "hex": "#17233b",
+    "family": "blue"
+  },
+  "deep black": {
+    "name": "Deep Black",
+    "hex": "#050505",
+    "family": "black"
+  },
+  "peach coral": {
+    "name": "Peach Coral",
+    "hex": "#f3a17b",
+    "family": "orange"
+  },
+  "soft pink": {
+    "name": "Soft Pink",
+    "hex": "#f4c2c2",
+    "family": "pink"
+  },
+  "warm berry": {
+    "name": "Warm Berry",
+    "hex": "#9b3e5b",
+    "family": "red"
+  },
+  "light beige": {
+    "name": "Light Beige",
+    "hex": "#e6d2b5",
+    "family": "beige"
+  },
+  "pale blue": {
+    "name": "Pale Blue",
+    "hex": "#c9e2f2",
+    "family": "blue"
+  },
+  "rose gold": {
+    "name": "Rose Gold",
+    "hex": "#b76e79",
+    "family": "gold"
+  },
+  "blush pink": {
+    "name": "Blush Pink",
+    "hex": "#e8a0a8",
+    "family": "pink"
+  }
+}

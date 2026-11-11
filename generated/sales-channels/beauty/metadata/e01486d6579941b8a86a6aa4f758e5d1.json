@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "E-commerce product photo of a glass bottle of glossy Classic Red nail polish with a black cap, rich red lacquer visible through the bottle, centered on a clean white background, crisp softbox lighting, no readable text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a nail polish brush carrying a smooth bead of Classic Red lacquer beside the open bottle, glossy texture and saturated color clearly visible, clean premium studio setup, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Classic Red"
+    },
+    {
+      "group": "Finish",
+      "value": "Gloss"
+    },
+    {
+      "group": "Type",
+      "value": "Nail Polish"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 17.26,
+  "width": 719,
+  "height": 583,
+  "length": 1236,
+  "ean": "2664568070035",
+  "manufacturerNumber": "MPN-Z3RWPBPS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch KV82"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Nail Polish - Classic Red - Gloss Finish"
+}

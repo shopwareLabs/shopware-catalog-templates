@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up beauty product photograph showing the creamy, smooth surface of Velvet Melt Cleansing Balm in an open premium jar, soft ivory tones, subtle reflections, clean studio lighting, elegant skincare editorial."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle product photo of a closed Velvet Melt Cleansing Balm jar with understated readable label and cap, neutral pale background, soft shadow, premium minimal skincare packaging."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Evening skincare routine on a bathroom counter with Velvet Melt Cleansing Balm jar, a clean face cloth and simple ceramic dish, warm gentle lighting, polished yet natural beauty campaign style."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Cleansing Balm"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Oat Extract"
+    },
+    {
+      "group": "Size",
+      "value": "100g"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.9,
+  "width": 509,
+  "height": 1171,
+  "length": 389,
+  "ean": "5434309530541",
+  "manufacturerNumber": "MPN-8MJRX5KB",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 37IV"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Velvet Melt Cleansing Balm - Oat Extract - 100g"
+}

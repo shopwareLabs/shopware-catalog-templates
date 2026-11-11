@@ -1,0 +1,95 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Premium beauty product photograph, side view of a sleek lipstick tube with understated luxury packaging, elegant studio lighting, clean neutral background, realistic cosmetics photography, no extra products or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Luxury lipstick packaging displayed clearly, lipstick tube and matching carton in a refined beauty campaign style, soft diffused light, neutral backdrop, realistic product photography, legible minimal packaging without invented brand text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Rosewood"
+    },
+    {
+      "group": "Finish",
+      "value": "Soft Matte"
+    },
+    {
+      "group": "Type",
+      "value": "Lipstick"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.47,
+  "width": 707,
+  "height": 911,
+  "length": 1697,
+  "ean": "0059693402554",
+  "manufacturerNumber": "MPN-L8JXSXRQ",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch U3M2"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Velvet Matte Lipstick - Rosewood - Satin Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Rosewood",
+        "Classic Red",
+        "Mauve Nude",
+        "Berry"
+      ],
+      "priceModifiers": {
+        "Rosewood": 1,
+        "Classic Red": 1,
+        "Mauve Nude": 1,
+        "Berry": 1
+      }
+    }
+  ],
+  "defaultColor": "Rosewood",
+  "variantColors": [
+    {
+      "name": "Rosewood",
+      "hex": "#65000b",
+      "family": "brown"
+    },
+    {
+      "name": "Classic Red",
+      "hex": "#c8102e",
+      "family": "red"
+    },
+    {
+      "name": "Mauve Nude",
+      "hex": "#b78483",
+      "family": "brown"
+    },
+    {
+      "name": "Berry",
+      "hex": "#8a214f",
+      "family": "red"
+    }
+  ]
+}

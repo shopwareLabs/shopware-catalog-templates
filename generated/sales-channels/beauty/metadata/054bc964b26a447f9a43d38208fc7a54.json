@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Minimal bottle of clear makeup brush cleaner with a clean, unbranded label beside a makeup brush on a bright vanity surface, premium beauty product ecommerce photography, no readable text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a clear makeup brush cleaner bottle dispensing a small amount near clean synthetic brush bristles, bright neutral background, realistic product textures, hygienic premium studio lighting, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Type",
+      "value": "Quick-Dry Cleaner"
+    },
+    {
+      "group": "Size",
+      "value": "Travel Size"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 5.35,
+  "width": 889,
+  "height": 740,
+  "length": 627,
+  "ean": "9741280656068",
+  "manufacturerNumber": "MPN-A56W99Y0",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch HCTB"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Makeup Brush Cleaner - Clear - Quick-Dry Formula"
+}

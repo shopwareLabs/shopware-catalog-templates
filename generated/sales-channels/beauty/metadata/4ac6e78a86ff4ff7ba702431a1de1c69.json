@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Premium e-commerce product photo of a single Dusty Rose velvet matte lipstick, lipstick bullet raised slightly in a sleek elegant tube, centered on a clean warm-white background, soft studio lighting, accurate muted rose shade, no extra objects, no text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro beauty product detail of the Dusty Rose lipstick bullet showing its smooth creamy surface and precise angled tip, refined soft lighting, neutral background, realistic color and texture, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Editorial beauty lifestyle image of a model wearing understated Dusty Rose lipstick with natural luminous makeup, soft daylight, elegant neutral styling, lips in focus, premium cosmetics campaign aesthetic."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Velvet Matte"
+    },
+    {
+      "group": "Type",
+      "value": "Lipstick"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.88,
+  "width": 779,
+  "height": 800,
+  "length": 1021,
+  "ean": "8422298672721",
+  "manufacturerNumber": "MPN-DDTJS91C",
+  "maxPurchase": 20,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch IB22"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Velvet Matte Lipstick - Dusty Rose - Satin Finish"
+}

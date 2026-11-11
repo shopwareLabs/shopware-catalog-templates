@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-03-13T08:39:41.457Z",
-  "count": 9,
+  "updatedAt": "2026-11-10T15:40:59.511Z",
+  "count": 4,
   "groups": [
     "color",
     "size",
     "type",
-    "key-ingredient",
-    "finish",
-    "texture",
-    "coverage",
-    "shade-count",
-    "material"
+    "scent"
   ]
 }

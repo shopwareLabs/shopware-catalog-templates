@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Premium skincare product photography, front-facing 30ml clear glass serum bottle with a clean white dropper and minimalist ivory label reading Hydrating Face Serum, soft natural studio lighting, neutral pale-beige background, sharp legible packaging, no extra objects."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Elegant bathroom vanity lifestyle image featuring a minimalist hyaluronic acid face serum bottle beside a folded white towel and a small glass of water, warm morning light, calm neutral tones, refined premium skincare styling."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of a slim 30ml glass face serum bottle with white dropper, subtle transparent serum visible, understated ivory label, softly lit neutral studio background, accurate proportions and crisp detail."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Active Ingredient",
+      "value": "Hyaluronic Acid"
+    },
+    {
+      "group": "Skin Concern",
+      "value": "Dehydration"
+    },
+    {
+      "group": "Size",
+      "value": "30ml"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.85,
+  "width": 857,
+  "height": 71,
+  "length": 854,
+  "ean": "0380663168263",
+  "manufacturerNumber": "MPN-B72D5A1G",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch G6SG"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Hydrating Face Serum - Hyaluronic Acid - 30ml"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "0288f08ba6ee4c25bd15124dc6ac7c4b",
+  "productName": "lifestyle--ballet-pink",
+  "generatedAt": "2026-11-10T15:47:56.557Z",
+  "prompt": "Recolour the product to Ballet Pink (#f2c6d2). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "0aadbf850e148e49",
+  "shade": "Ballet Pink",
+  "hex": "#f2c6d2"
+}

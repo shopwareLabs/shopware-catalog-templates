@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Angled side view of a slim premium eyeshadow palette in a neutral-toned case, showing its compact profile and elegant construction, softly lit studio setting, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Beauty lifestyle scene of a model wearing softly blended neutral eyeshadow with satin highlights and matte definition, warm natural light and understated styling, editorial makeup photography, realistic skin, no text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Open eyeshadow palette with coordinated soft neutral matte and satin pans, close detail showing fine powder textures and subtle shimmer, premium studio photography on a clean beige background, no legible labels."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Soft Neutrals"
+    },
+    {
+      "group": "Finish",
+      "value": "Satin and Matte"
+    },
+    {
+      "group": "Type",
+      "value": "Eyeshadow Palette"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.36,
+  "width": 1014,
+  "height": 1049,
+  "length": 942,
+  "ean": "8153595411545",
+  "manufacturerNumber": "MPN-JHY9YILF",
+  "minPurchase": 3,
+  "purchaseSteps": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch CJA7"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Eyeshadow Palette - Soft Neutrals - Satin and Matte"
+}

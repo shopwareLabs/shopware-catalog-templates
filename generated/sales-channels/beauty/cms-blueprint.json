@@ -14,7 +14,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center;\">Discover Your Glow</h1><p style=\"text-align: center;\">Welcome to beauty—your home for premium skincare, makeup, and beauty essentials for every skin type and style.</p>"
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Essentials</h1>\n<p style=\"text-align: center;\">Discover thoughtfully selected makeup, skincare and fragrance for every routine</p>"
                 }
               ]
             },
@@ -25,7 +25,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2>Simple Beauty Text Block</h2><p>This basic text block is ideal for sharing tips, highlighting new products, or outlining skincare routines. Use HTML formatting to enhance your content with lists, headings, bold highlights, and links to your favorite items.</p><ul><li>Showcase product benefits with HTML formatting</li><li>Perfect for ingredient lists or routine steps</li><li>Flexible for any beauty content</li></ul>"
+                  "textContent": "<h2>Everyday Beauty Favorites</h2>\n<p>Find the products that make your routine feel personal. From easy-to-wear makeup to nourishing skincare, explore trusted essentials and standout favorites for every day.</p>\n<ul>\n    <li>Makeup for every mood and occasion</li>\n    <li>Skincare to support your daily routine</li>\n    <li>Fragrance and beauty favorites to make your own</li>\n</ul>"
                 }
               ]
             },
@@ -36,7 +36,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Beauty Highlight Teaser</h2><p style=\"text-align: center;\"><i>Ideal for introducing collections, spotlighting bestsellers, or sharing skincare wisdom</i></p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Find Your Feel-Good Favorites</h2>\n<p style=\"text-align: center;\"><i>Explore color, care and fragrance chosen to celebrate every skin tone and personal style</i></p>"
                 }
               ]
             },
@@ -47,12 +47,12 @@
                 {
                   "type": "text",
                   "slot": "left",
-                  "textContent": "<h3>Skincare Solutions</h3><p>Use this column to compare different moisturizers, feature before &amp; after results, or organize details about our gentle, effective formulas side by side.</p>"
+                  "textContent": "<h3>Makeup &amp; Color</h3>\n<p>From lipsticks and eyeshadow palettes to foundations and nail polish, discover versatile shades and statement-making finishes to express your style.</p>"
                 },
                 {
                   "type": "text",
                   "slot": "right",
-                  "textContent": "<h3>Makeup &amp; More</h3><p>Highlight trending makeup must-haves or seasonal beauty kits. On mobile devices, each column stacks for easy browsing and finding your new favorites.</p>"
+                  "textContent": "<h3>Skincare &amp; Fragrance</h3>\n<p>Build a routine with thoughtful skincare and find a fragrance that feels like you. Explore favorites for everyday care, special moments and everything in between.</p>"
                 }
               ]
             },
@@ -78,7 +78,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center;\">Beauty Image Features</h1><p style=\"text-align: center;\">Showcase your favorite skincare and makeup picks in stunning visual displays</p>"
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Essentials</h1>\n<p style=\"text-align: center;\">Explore makeup, skincare and fragrance for every routine</p>"
                 }
               ]
             },
@@ -89,7 +89,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2>Shop the Look Carousel</h2><p>Browse curated beauty collections with an interactive image slider. Enjoy smooth navigation, auto-play, and customizable viewing options to discover new trends and must-have products.</p>"
+                  "textContent": "<h2>Beauty Favorites</h2>\n<p>Discover standout lipsticks, eyeshadow palettes and foundations, thoughtfully selected to complement every skin tone and personal style.</p>"
                 }
               ]
             },
@@ -105,7 +105,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2>Product Image Gallery</h2><p>View high-resolution images with thumbnail previews, zoom-in details, and full-screen mode. Ideal for exploring product textures, shades, and packaging up close.</p>"
+                  "textContent": "<h2>Skincare &amp; Fragrance</h2>\n<p>Explore skincare essentials and signature scents, with carefully chosen favorites to elevate your routine and celebrate your individual style.</p>"
                 }
               ]
             },
@@ -131,7 +131,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center;\">Beauty in Motion</h1><p style=\"text-align: center;\">Bring your skincare and makeup tutorials to life by embedding videos from YouTube and Vimeo on your CMS pages</p>"
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Videos</h1>\n<p style=\"text-align: center;\">Discover makeup inspiration, skincare tips and fragrance favorites</p>"
                 }
               ]
             },
@@ -142,7 +142,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">YouTube Tutorial</h2><p style=\"text-align: center;\">Watch our skincare routine for a radiant, healthy complexion</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Makeup Inspiration</h2>\n<p style=\"text-align: center;\">Create your signature look with beauty favorites</p>"
                 }
               ]
             },
@@ -158,7 +158,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Inspiration</h2><p style=\"text-align: center;\">Discover how to create the perfect look with our featured beauty tips</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Skincare &amp; Self-Care</h2>\n<p style=\"text-align: center;\">Explore thoughtful skincare rituals for every routine</p>"
                 }
               ]
             },
@@ -184,7 +184,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center;\">Text & Images</h1><p style=\"text-align: center;\">Discover how to showcase your favorite beauty products with inspiring layouts and stunning visuals.</p>"
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty for Every Routine</h1>\n<p style=\"text-align: center;\">Discover makeup, skincare and fragrance chosen to celebrate your personal style</p>"
                 }
               ]
             },
@@ -195,7 +195,7 @@
                 {
                   "type": "text",
                   "slot": "right",
-                  "textContent": "<h2>Image-Text Block</h2><p>This setup highlights your chosen product with an image on the left and details on the right. Showcase skincare must-haves, bestseller spotlights, or expert tips alongside beautiful visuals.</p><p>The image scales fluidly to match the content, ensuring your beauty essentials always look their best.</p>"
+                  "textContent": "<h2>Makeup Made to Make a Statement</h2>\n<p>Explore lipsticks, eyeshadow palettes and foundations for looks that feel entirely your own. From everyday essentials to bold color, find favorites for every occasion.</p>\n<p>Thoughtfully selected shades make it easy to create a routine that feels like you.</p>"
                 }
               ]
             },
@@ -206,7 +206,7 @@
                 {
                   "type": "text",
                   "slot": "left",
-                  "textContent": "<h2>Reversed Layout</h2><p>Place text on the left and an image on the right for a fresh, modern look. Alternate this style to balance product information and lifestyle photography for your beauty story.</p><p>Mixing layouts keeps the browsing experience fresh while highlighting new arrivals and seasonal picks.</p>"
+                  "textContent": "<h2>Skincare Worth Looking Forward To</h2>\n<p>Build a feel-good routine with luxury skincare selected for everyday care. Find considered essentials to complement your beauty rituals.</p>\n<p>Pair your skincare favorites with makeup and fragrance to make each day your own.</p>"
                 }
               ]
             },
@@ -217,7 +217,7 @@
                 {
                   "type": "text",
                   "slot": "center",
-                  "textContent": "<h2 style=\"text-align: center;\">Center Text</h2><p style=\"text-align: center;\">With images on either side, put the focus on your signature collections or brand philosophy in the center. This style is ideal for sharing what makes your beauty store unique.</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Find Your Signature</h2>\n<p style=\"text-align: center;\">From expressive makeup to captivating fragrance, discover thoughtfully selected favorites that celebrate every skin tone and personal style.</p>"
                 }
               ]
             },
@@ -228,17 +228,17 @@
                 {
                   "type": "text",
                   "slot": "left-text",
-                  "textContent": "<h3 style=\"text-align: center;\">Gentle Skincare</h3><p style=\"text-align: center;\">Explore nourishing cleansers and soothing moisturizers, formulated for sensitive and all skin types.</p>"
+                  "textContent": "<h3 style=\"text-align: center;\">Color That Feels Like You</h3>\n<p style=\"text-align: center;\">Explore lipsticks and nail polish in shades for subtle touches or standout looks.</p>"
                 },
                 {
                   "type": "text",
                   "slot": "center-text",
-                  "textContent": "<h3 style=\"text-align: center;\">Flawless Makeup</h3><p style=\"text-align: center;\">Find trending cosmetics for every complexion, from luminous foundations to bold lip colors.</p>"
+                  "textContent": "<h3 style=\"text-align: center;\">Skincare for Your Ritual</h3>\n<p style=\"text-align: center;\">Discover luxury skincare essentials to make your daily routine feel special.</p>"
                 },
                 {
                   "type": "text",
                   "slot": "right-text",
-                  "textContent": "<h3 style=\"text-align: center;\">Glow Essentials</h3><p style=\"text-align: center;\">Complete your beauty ritual with serums, masks, and tools for a radiant, healthy glow.</p>"
+                  "textContent": "<h3 style=\"text-align: center;\">Fragrance with Character</h3>\n<p style=\"text-align: center;\">Find a scent that reflects your mood, your style and every moment in between.</p>"
                 }
               ]
             },
@@ -249,7 +249,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\"><h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Unveil Your Radiance</h2><p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">Let your natural beauty shine. Explore our curated collections designed to inspire confidence and self-care in every routine.</p></div>"
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\">\n<h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Your Beauty, Your Way</h2>\n<p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">Discover premium makeup, skincare and fragrance, from everyday essentials to statement-making favorites. Find new ways to celebrate your skin tone and personal style.</p>\n</div>"
                 }
               ]
             }
@@ -270,7 +270,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center;\">Beauty Collection Highlights</h1><p style=\"text-align: center;\">Showcase luxurious skincare, makeup, and wellness essentials with gorgeous shopping features</p>"
+                  "textContent": "<h1 style=\"text-align: center;\">Beauty Essentials</h1>\n<p style=\"text-align: center;\">Discover makeup, skincare and fragrance favorites for every routine</p>"
                 }
               ]
             },
@@ -281,7 +281,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Glow Picks</h2><p style=\"text-align: center;\">Handpicked beauty favorites in a sleek three-column display</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Featured Favorites</h2>\n<p style=\"text-align: center;\">Shop standout beauty picks in a three-column layout</p>"
                 }
               ]
             },
@@ -297,7 +297,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Beauty Carousel</h2><p style=\"text-align: center;\">Swipe through trending skincare and makeup with easy-to-use navigation</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Beauty Picks Slider</h2>\n<p style=\"text-align: center;\">Browse makeup, skincare and fragrance favorites in a carousel</p>"
                 }
               ]
             },
@@ -313,7 +313,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Gallery &amp; Quick Add</h2><p style=\"text-align: center;\">Explore product images and add glow-boosting essentials to your cart instantly</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Product Details</h2>\n<p style=\"text-align: center;\">Explore product images, discover the details and add your beauty favorites to your cart</p>"
                 }
               ]
             },
@@ -329,7 +329,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Shop by Category</h2><p style=\"text-align: center;\">Browse skincare, makeup, and more with streamlined category navigation</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Shop by Category</h2>\n<p style=\"text-align: center;\">Find lip color, skincare, fragrance and more with easy category navigation</p>"
                 }
               ]
             },
@@ -355,7 +355,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center;\">Beauty Forms</h1><p style=\"text-align: center;\">Seamless forms to connect and enhance your beauty journey</p>"
+                  "textContent": "<h1 style=\"text-align: center;\">Form Elements</h1>\n<p style=\"text-align: center;\">Beauty essentials and personalized picks for every routine</p>"
                 }
               ]
             },
@@ -366,7 +366,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Get in Touch</h2><p style=\"text-align: center;\">Reach out with questions about skincare, makeup advice, or product details</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Contact Form</h2>\n<p style=\"text-align: center;\">Get in touch with our beauty team for product and skincare guidance</p>"
                 }
               ]
             },
@@ -382,7 +382,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h2 style=\"text-align: center;\">Glow Newsletter Signup</h2><p style=\"text-align: center;\">Stay updated on beauty trends, exclusive offers, and product launches</p>"
+                  "textContent": "<h2 style=\"text-align: center;\">Newsletter Signup</h2>\n<p style=\"text-align: center;\">Sign up for beauty inspiration, new arrivals, and exclusive offers</p>"
                 }
               ]
             },
@@ -408,7 +408,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Beauty Essentials CMS Inspiration</h1><p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Experience the best of our beauty store’s creative layouts. Each section reveals how we display our premium skincare and makeup collections, making it easy for you to discover glowing results.</p>"
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Beauty Essentials, Thoughtfully Chosen</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Discover premium makeup, skincare, and fragrance—from everyday favorites to standout finds for every routine.</p>"
                 }
               ]
             },
@@ -419,17 +419,17 @@
                 {
                   "type": "text",
                   "slot": "left-text",
-                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Text Features</h3><p style=\"text-align: center; color: #666; font-size: 0.9em;\">Highlights include glowing banners, beauty tips, routines, and expert guides presented in elegant styles.</p>"
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Makeup & Skincare</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Everyday essentials and feel-good favorites for your beauty routine</p>"
                 },
                 {
                   "type": "text",
                   "slot": "center-text",
-                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Image Features</h3><p style=\"text-align: center; color: #666; font-size: 0.9em;\">Browse collections with curated lifestyle galleries, product spotlights, and trending looks.</p>"
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Color & Fragrance</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Statement-making shades and scents to suit your personal style</p>"
                 },
                 {
                   "type": "text",
                   "slot": "right-text",
-                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Video Features</h3><p style=\"text-align: center; color: #666; font-size: 0.9em;\">Watch application tutorials, product reviews, and skincare routines right here.</p>"
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Care for Every Skin</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Thoughtfully selected skincare for all skin tones and routines</p>"
                 }
               ]
             },
@@ -440,7 +440,7 @@
                 {
                   "type": "text",
                   "slot": "center",
-                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Text & Images</h2><p style=\"text-align: center; color: #666;\">Showcase radiant transformations by blending expert tips and real customer photos. Dynamic layouts pair product details with before-and-after images and insightful advice.</p>"
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Find Your Beauty Favorites</h2>\n<p style=\"text-align: center; color: #666;\">Build a routine that feels like you with expertly selected essentials. Explore complexion, lip and eye products alongside skincare and fragrance favorites.</p>"
                 }
               ]
             },
@@ -451,12 +451,12 @@
                 {
                   "type": "text",
                   "slot": "left",
-                  "textContent": "<h3>Commerce Elements</h3><p>Display top beauty must-haves and skincare routines with our interactive shop features:</p><ul style=\"color: #666;\"><li>Featured product carousels</li><li>Shoppable image galleries</li><li>Effortless category browsing</li></ul>"
+                  "textContent": "<h3>Makeup & Skincare</h3>\n<p>Discover beauty favorites for every step of your routine:</p>\n<ul style=\"color: #666;\">\n    <li>Foundations and complexion essentials</li>\n    <li>Lipsticks and eyeshadow palettes</li>\n    <li>Luxury skincare and nail polish</li>\n</ul>"
                 },
                 {
                   "type": "text",
                   "slot": "right",
-                  "textContent": "<h3>Form Elements</h3><p>Connect with your beauty community through simple forms:</p><ul style=\"color: #666;\"><li>Personalized skincare consultation forms</li><li>Email list signup for new looks and promos</li><li>Order and appointment confirmations</li></ul>"
+                  "textContent": "<h3>Beauty for Every Routine</h3>\n<p>Choose thoughtful favorites that make self-care feel special:</p>\n<ul style=\"color: #666;\">\n    <li>Skincare for a daily care ritual</li>\n    <li>Fragrance for every mood</li>\n    <li>Makeup shades for every personal style</li>\n</ul>"
                 }
               ]
             },
@@ -482,7 +482,7 @@
                 {
                   "type": "text",
                   "slot": "content",
-                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Beauty Testing Zone</h1><p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore our Testing Overview to discover how different beauty products and site features work together. Experience real CMS elements and shop premium beauty essentials in action.</p>"
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Beauty Essentials</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Discover thoughtfully selected makeup, skincare and fragrance for every routine and personal style.</p>"
                 }
               ]
             },
@@ -493,12 +493,12 @@
                 {
                   "type": "text",
                   "slot": "left",
-                  "textContent": "<h2>Beauty Display Features</h2><p>Discover how we showcase our skincare and makeup collections using these CMS elements. Each example below mirrors what you'll find in our beauty store experience:</p><ul><li><strong>Text</strong> – Inspiring beauty tips, banners, and glow-getter highlights</li><li><strong>Images</strong> – Lush galleries, product close-ups, and lookbooks</li><li><strong>Video</strong> – Tutorials and product demonstrations</li><li><strong>Text & Images</strong> – Editorial layouts blending advice with visuals</li><li><strong>Commerce</strong> – Featured product cards, trending picks, and instant add-to-cart sections</li><li><strong>Form</strong> – Beauty quiz, newsletter, and feedback forms</li></ul>"
+                  "textContent": "<h2>Beauty Favorites</h2>\n<p>Explore beauty essentials chosen to inspire your routine, from everyday staples to standout looks:</p>\n<ul>\n<li><strong>Makeup</strong> - Lipsticks, foundations and eyeshadow palettes</li>\n<li><strong>Skincare</strong> - Luxury essentials for your daily routine</li>\n<li><strong>Fragrance</strong> - Scents for every mood and occasion</li>\n<li><strong>Nail Color</strong> - Polish to finish or refresh your look</li>\n<li><strong>Everyday Staples</strong> - Reliable favorites for getting ready</li>\n<li><strong>Statement Picks</strong> - Products that celebrate personal style</li>\n</ul>"
                 },
                 {
                   "type": "text",
                   "slot": "right",
-                  "textContent": "<h2>Beauty Product Formats</h2><p>See how our premium beauty essentials are organized online:</p><ul><li><strong>Simple Product</strong> – Individual items like moisturizers or lipsticks</li><li><strong>Variant Product</strong> – Products available in multiple shades or formulas</li><li><strong>Digital Product</strong> – Downloadable beauty guides and e-books</li></ul><p style=\"margin-top: 16px; color: #666;\">Use the navigation to experience these product types up close.</p>"
+                  "textContent": "<h2>Find Your Favorites</h2>\n<p>Explore beauty products and options to find the right fit for your routine:</p>\n<ul>\n<li><strong>Lipstick</strong> - Shades and finishes for every look</li>\n<li><strong>Foundation</strong> - Options designed to celebrate every skin tone</li>\n<li><strong>Eyeshadow Palette</strong> - Colors for subtle or statement-making looks</li>\n</ul>\n<p style=\"margin-top: 16px; color: #666;\">Browse each category to discover makeup, skincare and fragrance favorites.</p>"
                 }
               ]
             }
@@ -507,5 +507,5 @@
       ]
     }
   ],
-  "hydratedAt": "2026-03-13T08:39:53.493Z"
+  "hydratedAt": "2026-11-10T15:41:09.291Z"
 }

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail photograph of a plush ivory velvet powder puff showing its soft pile and fabric finger strap, on a clean neutral background, realistic texture, premium beauty ecommerce lighting, no branding."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of a softly rounded ivory velvet powder puff, showing its padded thickness and neat edges, pale studio background, gentle shadow, clean premium catalog style, no text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Ivory velvet powder puff presented beside minimal clear protective packaging on a bright white surface, refined beauty accessory product photography, no visible logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Ivory"
+    },
+    {
+      "group": "Material",
+      "value": "Velvet"
+    },
+    {
+      "group": "Type",
+      "value": "Powder Puff"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.02,
+  "width": 692,
+  "height": 1107,
+  "length": 1177,
+  "ean": "1102781983837",
+  "manufacturerNumber": "MPN-YSI4DS1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch X3FG"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Powder Puff - Ivory - Soft Velvet"
+}

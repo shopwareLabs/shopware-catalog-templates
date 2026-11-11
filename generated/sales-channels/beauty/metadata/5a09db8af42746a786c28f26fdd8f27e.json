@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium Cocoa Rose lip liner pencil in minimal elegant packaging, shown with cap and sharpened tip, clean neutral studio backdrop, realistic cosmetic product photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product view of a creamy lip liner pencil with Cocoa Rose color cue at the tip, refined understated packaging, soft even light and uncluttered pale background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cocoa Rose"
+    },
+    {
+      "group": "Texture",
+      "value": "Creamy"
+    },
+    {
+      "group": "Use",
+      "value": "Lip Definition"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.87,
+  "width": 1311,
+  "height": 709,
+  "length": 989,
+  "ean": "4965606841128",
+  "manufacturerNumber": "MPN-R3QRKO1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch W2O5"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Creamy Lip Liner - Cocoa Rose - Smooth Glide"
+}

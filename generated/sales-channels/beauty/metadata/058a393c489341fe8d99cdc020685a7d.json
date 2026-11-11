@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium skincare packaging arrangement showing a closed 50ml moisturizer jar and its outer carton, clean ivory packaging with subtle sage accents and clear Daily Moisturizer labeling, soft studio light, uncluttered neutral background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a moisturizer jar opened to reveal smooth, pale cream with a clean rim, elegant ceramide skincare label partially visible, soft directional light, realistic high-end product photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing 50ml daily face moisturizer jar centered on a bright neutral background, minimalist ivory container and refined label, premium skincare e-commerce photography, crisp typography and soft shadow."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Key Ingredient",
+      "value": "Ceramides"
+    },
+    {
+      "group": "Size",
+      "value": "50ml"
+    },
+    {
+      "group": "Texture",
+      "value": "Lightweight Cream"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.78,
+  "width": 110,
+  "height": 1047,
+  "length": 947,
+  "ean": "1740995653605",
+  "manufacturerNumber": "MPN-UKD3ZM10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch PU2T"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Daily Moisturizer - Ceramides - 50ml"
+}

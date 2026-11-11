@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium compact pressed powder foundation in Natural Beige, closed compact with refined understated packaging on a bright neutral studio surface, soft shadows, realistic cosmetics product photography, no readable text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a slim pressed powder foundation compact, showing its sleek profile and hinged construction, neutral premium packaging with Natural Beige powder subtly visible, clean studio lighting, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Open pressed powder foundation compact with smooth Natural Beige powder pan and applicator visible, photographed straight on against a soft beige background, elegant realistic product styling, no logo or legible writing."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Beige"
+    },
+    {
+      "group": "Finish",
+      "value": "Soft Matte"
+    },
+    {
+      "group": "Coverage",
+      "value": "Buildable"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.06,
+  "width": 410,
+  "height": 912,
+  "length": 186,
+  "ean": "8766592292989",
+  "manufacturerNumber": "MPN-VSZH9FXM",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 8A8F"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Pressed Powder Foundation - Natural Beige - Soft Matte"
+}

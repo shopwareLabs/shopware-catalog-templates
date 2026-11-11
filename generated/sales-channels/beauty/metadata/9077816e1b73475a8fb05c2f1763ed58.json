@@ -1,0 +1,71 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a 300ml coconut-scented body lotion bottle with a clean premium label and softly curved silhouette, warm cream and pale green accents, bright studio lighting, realistic e-commerce skincare product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Body Lotion"
+    },
+    {
+      "group": "Scent",
+      "value": "Coconut"
+    },
+    {
+      "group": "Size",
+      "value": "300ml"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 15.49,
+  "width": 964,
+  "height": 42,
+  "length": 800,
+  "ean": "4819319412512",
+  "manufacturerNumber": "MPN-L9BJJZRX",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch IPBL"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Daily Moisture Body Lotion - Coconut - 300ml",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Unscented",
+        "Aloe Vera",
+        "Coconut"
+      ],
+      "priceModifiers": {
+        "Unscented": 1,
+        "Aloe Vera": 1,
+        "Coconut": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "75ml",
+        "50ml",
+        "100ml"
+      ],
+      "priceModifiers": {
+        "75ml": 1.3,
+        "50ml": 1,
+        "100ml": 1.6
+      }
+    }
+  ]
+}

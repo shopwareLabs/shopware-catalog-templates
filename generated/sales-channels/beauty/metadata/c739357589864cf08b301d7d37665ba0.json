@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium beauty product packaging for a 12-piece professional makeup brush set, elegant rose-gold accents, clean minimal typography, neatly arranged brushes visible through a tasteful display window, soft studio lighting, no extra products."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a coordinated 12-piece makeup brush set with rose-gold handles and soft synthetic bristles, arranged in a tidy row against a light neutral background, realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Rose Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Size",
+      "value": "12 Pieces"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.23,
+  "width": 730,
+  "height": 507,
+  "length": 126,
+  "ean": "7094077724030",
+  "manufacturerNumber": "MPN-ED9UQY1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 5INT"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Professional Brush Set - 12 Pieces - Rose Gold, Synthetic Bristles construction"
+}

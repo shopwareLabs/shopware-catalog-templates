@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Clean e-commerce photo of a slim black precision liquid eyeliner pen, cap beside the pen to show the fine applicator, centered on a light neutral background, premium studio lighting, minimal composition, no text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Jet Black"
+    },
+    {
+      "group": "Finish",
+      "value": "Satin"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid Eyeliner"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 21.54,
+  "width": 305,
+  "height": 616,
+  "length": 1077,
+  "ean": "9935041501227",
+  "manufacturerNumber": "MPN-6I2ZDH2K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch LVZ0"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Precision Liquid Eyeliner - Jet Black - Satin Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Jet Black",
+        "Espresso Brown",
+        "Deep Navy",
+        "Forest Green"
+      ],
+      "priceModifiers": {
+        "Jet Black": 1,
+        "Espresso Brown": 1,
+        "Deep Navy": 1,
+        "Forest Green": 1
+      }
+    }
+  ],
+  "defaultColor": "Jet Black",
+  "variantColors": [
+    {
+      "name": "Jet Black",
+      "hex": "#0a0a0a",
+      "family": "black"
+    },
+    {
+      "name": "Espresso Brown",
+      "hex": "#3b241d",
+      "family": "brown"
+    },
+    {
+      "name": "Deep Navy",
+      "hex": "#17233b",
+      "family": "blue"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    }
+  ]
+}

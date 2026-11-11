@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium eyeshadow palette shown closed with tasteful modern packaging and opened to reveal coordinated multicolor pans, front-facing product styling, soft studio light, no fabricated logo."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Elegant beauty vanity scene with an open multicolor eyeshadow palette, a few makeup brushes, and softly diffused natural light, sophisticated premium editorial style."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on view of an open eyeshadow palette displaying a well-arranged range of neutral and vivid multicolor shades with soft shimmer, clean white background, sharp e-commerce photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Finish",
+      "value": "Soft Shimmer"
+    },
+    {
+      "group": "Formula",
+      "value": "Pressed Powder"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 7.54,
+  "width": 1328,
+  "height": 494,
+  "length": 768,
+  "ean": "8707017324656",
+  "manufacturerNumber": "MPN-3VU5X3L1",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch K7EV"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Chromatic Eyeshadow Palette - Multicolor - Soft Shimmer"
+}

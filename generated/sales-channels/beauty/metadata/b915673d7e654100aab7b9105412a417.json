@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a clear quick-dry makeup brush cleaner, compact bottle with a clean modern beauty label, photographed upright against a bright white studio background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of the brush cleaner bottle showing the clear formula and neat dispensing top, crisp product detail photography with soft reflections and a minimal neutral setting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A clear makeup brush cleaner bottle beside freshly cleaned makeup brushes on a tidy vanity, bright natural light, calm premium beauty routine styling."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Type",
+      "value": "Quick-Dry Brush Cleaner"
+    },
+    {
+      "group": "Size",
+      "value": "Compact Bottle"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.05,
+  "width": 535,
+  "height": 1014,
+  "length": 959,
+  "ean": "3384679492678",
+  "manufacturerNumber": "MPN-WMI7SC1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch R35G"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Makeup Brush Cleaner - Clear - Quick-Dry"
+}

@@ -1,0 +1,95 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium liquid foundation bottle with elegant minimal packaging in Warm Beige shade, staged upright on a clean studio surface, front label legible but with no invented brand text, soft flattering light."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a refined foundation bottle showing its shape and dispenser, warm neutral background, high-end cosmetics product photography, realistic materials and soft shadows."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Warm Beige"
+    },
+    {
+      "group": "Finish",
+      "value": "Natural Glow"
+    },
+    {
+      "group": "Coverage",
+      "value": "Buildable"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.67,
+  "width": 1417,
+  "height": 1135,
+  "length": 557,
+  "ean": "5309931282413",
+  "manufacturerNumber": "MPN-2KJSNA1W",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 9DNS"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Silk Glow Liquid Foundation - Warm Beige - Natural Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Warm Beige",
+        "Light Ivory",
+        "Golden Tan",
+        "Deep Cocoa"
+      ],
+      "priceModifiers": {
+        "Warm Beige": 1,
+        "Light Ivory": 1,
+        "Golden Tan": 1,
+        "Deep Cocoa": 1
+      }
+    }
+  ],
+  "defaultColor": "Warm Beige",
+  "variantColors": [
+    {
+      "name": "Warm Beige",
+      "hex": "#c7a17a",
+      "family": "beige"
+    },
+    {
+      "name": "Light Ivory",
+      "hex": "#f3e4ce",
+      "family": "beige"
+    },
+    {
+      "name": "Golden Tan",
+      "hex": "#b88643",
+      "family": "brown"
+    },
+    {
+      "name": "Deep Cocoa",
+      "hex": "#5b3428",
+      "family": "brown"
+    }
+  ]
+}
