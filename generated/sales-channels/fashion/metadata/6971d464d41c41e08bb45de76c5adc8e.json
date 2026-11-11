@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a men's olive-green lightweight quilted gilet, displayed on a model or invisible mannequin with full front fastening, raised collar, and neat horizontal quilting visible; clean studio background, realistic e-commerce photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Man wearing an olive-green quilted gilet layered over a casual long-sleeve shirt with jeans on a crisp autumn walk; relaxed contemporary styling, natural outdoor light, gilet clearly visible, realistic men's fashion photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Olive"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester"
+    },
+    {
+      "group": "Type",
+      "value": "Quilted Gilet"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.59,
+  "width": 192,
+  "height": 92,
+  "length": 1340,
+  "ean": "1591277512680",
+  "manufacturerNumber": "MPN-2DPWL2EJ",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 94LR"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Quilted Gilet - Olive Green - Lightweight Layer, Polyester construction"
+}

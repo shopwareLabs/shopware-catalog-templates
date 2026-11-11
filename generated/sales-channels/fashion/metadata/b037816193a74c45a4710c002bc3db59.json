@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view fashion product photograph of navy straight-leg tailored women's trousers on a model, showing the clean waistline, fit through the hip, and full leg silhouette, simple studio backdrop, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester Blend"
+    },
+    {
+      "group": "Type",
+      "value": "Straight Leg"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.95,
+  "width": 519,
+  "height": 620,
+  "length": 255,
+  "ean": "2469147971945",
+  "manufacturerNumber": "MPN-F545QTP3",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 0NH5"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Tailored Trousers - Navy - Straight Leg, Polyester Blend construction"
+}

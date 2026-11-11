@@ -1,0 +1,53 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile studio photograph of a men's dark-brown leather Chelsea boot, ankle height with elastic side gusset, rear pull tab, rounded toe and sturdy understated sole, isolated on a warm light-neutral background, realistic leather texture, no text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a dark-brown leather Chelsea boot focusing on the elastic side panel, fine leather grain, stitching and pull tab, premium realistic product photography, soft directional studio light, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dark Brown"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Chelsea Boot"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.28,
+  "width": 483,
+  "height": 254,
+  "length": 529,
+  "ean": "6548471721702",
+  "manufacturerNumber": "MPN-DH661LBF",
+  "maxPurchase": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch MIKD"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Leather Chelsea Boots - Dark Brown - Elastic Side"
+}

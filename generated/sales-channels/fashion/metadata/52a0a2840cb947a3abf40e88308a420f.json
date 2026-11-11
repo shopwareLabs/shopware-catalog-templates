@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Slim navy synthetic-leather card holder presented in a simple premium protective sleeve and minimal packaging, clean neutral background, no visible branding or readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product image of a slim navy card holder with multiple card slots visible, understated clean stitching, realistic synthetic-leather texture, pale background, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic leather"
+    },
+    {
+      "group": "Type",
+      "value": "Card holder"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.14,
+  "width": 1328,
+  "height": 991,
+  "length": 1535,
+  "ean": "6970044392932",
+  "manufacturerNumber": "MPN-DMK2JC1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch U3Y0"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Slim Card Holder - Navy - Multiple Card Slots, Synthetic leather construction"
+}

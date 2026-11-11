@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail photograph of a smooth silk-feel square scarf showing a crisp multicolor botanical print, fine fabric texture and neatly finished edge, bright soft studio light, print in sharp focus."
+    },
+    {
+      "view": "side",
+      "prompt": "Angled product photograph of a folded square scarf in a multicolor botanical print, showing its lightweight drape and neatly finished edges on a clean ivory surface."
+    },
+    {
+      "view": "front",
+      "prompt": "Top-down front product photograph of a square silk-feel scarf laid flat, vibrant but refined multicolor botanical pattern fully visible, balanced composition, neutral background and even studio lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester"
+    },
+    {
+      "group": "Type",
+      "value": "Square Scarf"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.66,
+  "width": 502,
+  "height": 448,
+  "length": 756,
+  "ean": "9715215023430",
+  "manufacturerNumber": "MPN-QQ490H18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 99G5"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Silk-Feel Square Scarf - Multicolor - Botanical Print, Polyester construction"
+}

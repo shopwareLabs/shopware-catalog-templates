@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Angled side-view product photograph of a black leather belt laid in a gentle curve, showing its slim profile, neat edge finishing, and brushed silver buckle; bright neutral studio background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Black leather belt presented neatly in a premium minimal gift box with the brushed silver buckle visible; tasteful dark and cream packaging, soft studio light, no readable branding."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce product image of a black leather belt arranged flat with its brushed silver buckle centered and strap fully visible; crisp details, white seamless background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Classic belt"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.07,
+  "width": 1045,
+  "height": 1008,
+  "length": 1631,
+  "ean": "5337187281478",
+  "manufacturerNumber": "MPN-AL988UQ6",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch TPAQ"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Classic Leather Belt - Black - Brushed Silver Buckle"
+}

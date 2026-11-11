@@ -1,0 +1,10 @@
+{
+  "productId": "5cea80d60f194bd29db1ec0a2c6cf81d",
+  "productName": "side--light-blue",
+  "generatedAt": "2026-11-10T15:05:59.519Z",
+  "prompt": "Recolour the product to Light Blue (#add8e6). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "7b0ed696c47c6014",
+  "shade": "Light Blue",
+  "hex": "#add8e6"
+}

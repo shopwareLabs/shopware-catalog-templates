@@ -1,0 +1,112 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up e-commerce detail photograph of a black woven leather belt showing the interlaced texture, smooth metal buckle, and clean edge finishing, crisp realistic material detail, neutral studio lighting, no logo or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle product photograph of a black woven leather belt arranged in a gentle curve to show its classic width, flexible braided construction, and buckle profile, seamless pale background, realistic shadows, no branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Style",
+      "value": "Woven"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.17,
+  "width": 1296,
+  "height": 1181,
+  "length": 1677,
+  "ean": "2794588562194",
+  "manufacturerNumber": "MPN-LWN0Z718",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch EBFT"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Woven Leather Belt - Black - Classic Width",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Cognac",
+        "Dark Brown",
+        "Navy"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Cognac": 1,
+        "Dark Brown": 1,
+        "Navy": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "M",
+        "XS",
+        "XXL"
+      ],
+      "priceModifiers": {
+        "M": 1,
+        "XS": 1,
+        "XXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Cognac",
+      "hex": "#9a4e24",
+      "family": "brown"
+    },
+    {
+      "name": "Dark Brown",
+      "hex": "#4b2e23",
+      "family": "brown"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    }
+  ]
+}

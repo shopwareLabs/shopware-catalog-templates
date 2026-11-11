@@ -1,0 +1,10 @@
+{
+  "productId": "69dfb75e347347118e76b878b68db197",
+  "productName": "lifestyle--forest-green",
+  "generatedAt": "2026-11-10T15:06:25.424Z",
+  "prompt": "Recolour the product to Forest Green (#228b22). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "90ec5cceb1f3d1d2",
+  "shade": "Forest Green",
+  "hex": "#228b22"
+}

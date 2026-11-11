@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Fashion lifestyle image of a person wearing a lightweight dusty rose woven scarf with a neutral coat on a bright breezy day, scarf draped naturally with fringe visible, soft natural light, no logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on studio product photograph of a lightweight dusty rose woven scarf arranged flat with its delicate fringed edges visible, pale background, realistic fabric texture, no text or branding."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail image showing the airy woven texture and neat fringe of a dusty rose scarf, soft directional lighting, realistic fibers, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Material",
+      "value": "Woven fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Lightweight scarf"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.53,
+  "width": 1054,
+  "height": 671,
+  "length": 1636,
+  "ean": "1352544842288",
+  "manufacturerNumber": "MPN-YQ863514",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 500O"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Lightweight Woven Scarf - Dusty Rose - Fringed Edge, Woven fabric construction"
+}

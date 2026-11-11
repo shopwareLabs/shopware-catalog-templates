@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a pair of medium polished gold hoop earrings with smooth rounded profiles and post fastenings, arranged on a warm neutral surface, soft highlights, crisp jewelry craftsmanship."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Polished Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Style",
+      "value": "Hoop"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 17.62,
+  "width": 286,
+  "height": 221,
+  "length": 1675,
+  "ean": "2606185161161",
+  "manufacturerNumber": "MPN-JXP0QQHK",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 4XU0"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Gold Hoop Earrings - Polished Gold - Medium, Metal construction"
+}

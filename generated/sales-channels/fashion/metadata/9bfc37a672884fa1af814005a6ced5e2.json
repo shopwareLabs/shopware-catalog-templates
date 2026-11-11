@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Neatly folded cream ribbed knit cardigan presented in refined women's fashion packaging with tissue paper, soft neutral palette, realistic knit texture, tidy studio arrangement, no visible branding or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close detail photograph of a cream ribbed knit cardigan showing the ribbed texture, button fastening, cuff and clean stitching, soft diffused studio light, realistic fabric, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cream"
+    },
+    {
+      "group": "Material",
+      "value": "Cotton Blend"
+    },
+    {
+      "group": "Type",
+      "value": "Ribbed Cardigan"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.66,
+  "width": 575,
+  "height": 663,
+  "length": 923,
+  "ean": "4475047240270",
+  "manufacturerNumber": "MPN-P8LG27VO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch U69Z"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Knit Cardigan - Cream - Ribbed, Cotton Blend construction"
+}

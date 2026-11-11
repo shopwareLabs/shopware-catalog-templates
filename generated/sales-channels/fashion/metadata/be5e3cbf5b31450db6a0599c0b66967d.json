@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of an emerald green satin slip dress, highlighting its luminous smooth fabric, adjustable strap and fine drape, refined studio lighting, realistic garment texture, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Emerald Green"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester Satin"
+    },
+    {
+      "group": "Type",
+      "value": "Slip Dress"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.35,
+  "width": 1251,
+  "height": 760,
+  "length": 471,
+  "ean": "0431866441780",
+  "manufacturerNumber": "MPN-TQKBXNF9",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch QSGY"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Satin Slip Dress - Emerald Green - Midi, Polyester Satin construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Emerald Green",
+        "Black",
+        "Champagne",
+        "Burgundy"
+      ],
+      "priceModifiers": {
+        "Emerald Green": 1,
+        "Black": 1,
+        "Champagne": 1,
+        "Burgundy": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "S",
+        "XXL",
+        "XXXL"
+      ],
+      "priceModifiers": {
+        "S": 1,
+        "XXL": 1,
+        "XXXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Emerald Green",
+  "variantColors": [
+    {
+      "name": "Emerald Green",
+      "hex": "#009b62",
+      "family": "green"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Champagne",
+      "hex": "#f7e7ce",
+      "family": "beige"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    }
+  ]
+}

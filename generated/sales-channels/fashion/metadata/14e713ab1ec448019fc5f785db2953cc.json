@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail photograph of a structured cognac shoulder bag showing its smooth finish, top handle attachment, stitching, and refined hardware, neutral studio lighting, no text or logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on e-commerce product photograph of a structured cognac women's shoulder bag with a top handle, centered against a warm off-white background, full shape and clean silhouette visible, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Leather"
+    },
+    {
+      "group": "Style",
+      "value": "Structured"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 9.99,
+  "width": 1123,
+  "height": 1046,
+  "length": 706,
+  "ean": "0875917243761",
+  "manufacturerNumber": "MPN-52JGOK1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch MJBV"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Structured Shoulder Bag - Cognac - Top Handle, Synthetic Leather construction"
+}

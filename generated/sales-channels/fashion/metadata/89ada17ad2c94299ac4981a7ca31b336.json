@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front studio product photograph of a men's charcoal merino-wool crew-neck sweater, regular fit, long sleeves, subtle ribbed cuffs and hem, shown flat and fully visible on a clean light-neutral background, soft realistic knit texture, no text or accessories."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Material",
+      "value": "Merino Wool"
+    },
+    {
+      "group": "Fit",
+      "value": "Regular"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.78,
+  "width": 641,
+  "height": 511,
+  "length": 655,
+  "ean": "0728618653547",
+  "manufacturerNumber": "MPN-F2AL41XG",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 0A9Y"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Merino Crew-Neck Sweater - Charcoal - Regular Fit, Merino Wool construction"
+}

@@ -1,0 +1,99 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion photograph of a person wearing a compact cognac crossbody bag with an adjustable strap while walking along a bright city street, contemporary casual clothing, warm natural light, bag clearly visible, no logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product image of a compact cognac synthetic-leather crossbody bag, adjustable strap arranged neatly, clean stitching and secure top closure visible, neutral background, no branding or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic leather"
+    },
+    {
+      "group": "Type",
+      "value": "Crossbody"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.97,
+  "width": 247,
+  "height": 820,
+  "length": 1241,
+  "ean": "9586243943034",
+  "manufacturerNumber": "MPN-2KGWRL1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 5YXX"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Everyday Crossbody Bag - Cognac - Adjustable Strap, Synthetic leather construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cognac",
+        "Black",
+        "Navy",
+        "Taupe"
+      ],
+      "priceModifiers": {
+        "Cognac": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Taupe": 1
+      }
+    }
+  ],
+  "defaultColor": "Cognac",
+  "variantColors": [
+    {
+      "name": "Cognac",
+      "hex": "#9a4e24",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Taupe",
+      "hex": "#8b7d6b",
+      "family": "brown"
+    }
+  ]
+}

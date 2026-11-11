@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Pair of oatmeal soft-knit gloves with ribbed cuffs arranged neatly in simple recyclable-style packaging, neutral studio background, visible fabric texture, no logo or readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a pair of oatmeal knit gloves laid side by side with ribbed cuffs clearly visible, clean pale backdrop, realistic texture, no branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion image of an adult wearing oatmeal knit gloves while holding a warm takeaway cup outdoors in cool weather, neutral coat sleeves, gloves clearly visible, natural light, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Oatmeal"
+    },
+    {
+      "group": "Material",
+      "value": "Knit fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Ribbed-cuff gloves"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.81,
+  "width": 842,
+  "height": 1063,
+  "length": 789,
+  "ean": "8960026543160",
+  "manufacturerNumber": "MPN-ZSJQ5L14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 8LX4"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Soft Knit Gloves - Oatmeal - Ribbed Cuffs, Knit fabric construction"
+}

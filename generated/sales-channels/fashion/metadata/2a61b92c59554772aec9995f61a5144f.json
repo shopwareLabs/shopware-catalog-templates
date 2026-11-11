@@ -1,0 +1,121 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium packaging product photograph of men's polished oxblood leather cap-toe dress shoes arranged beside a simple dark shoe box, pair visible with classic lace-up profile, elegant neutral studio setting, no logos or readable text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile studio photograph of men's oxblood leather cap-toe dress shoes, lace-up fastening, refined formal silhouette and polished leather upper, isolated on a pale neutral background, crisp realistic detail, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle photograph of men's oxblood cap-toe leather dress shoes worn with tailored charcoal trousers in a refined contemporary interior, shoes clearly visible, natural soft light, elegant understated styling, no branding or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Oxblood"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Cap-Toe Lace-Up"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.96,
+  "width": 817,
+  "height": 1072,
+  "length": 439,
+  "ean": "3053527173839",
+  "manufacturerNumber": "MPN-EAT5HP1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 1MJA"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Dress Shoes - Oxblood - Cap Toe",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Oxblood",
+        "Black",
+        "Dark Brown",
+        "Tan"
+      ],
+      "priceModifiers": {
+        "Oxblood": 1,
+        "Black": 1,
+        "Dark Brown": 1,
+        "Tan": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XXL",
+        "XL",
+        "S"
+      ],
+      "priceModifiers": {
+        "XXL": 1,
+        "XL": 1,
+        "S": 1
+      }
+    }
+  ],
+  "defaultColor": "Oxblood",
+  "variantColors": [
+    {
+      "name": "Oxblood",
+      "hex": "#4a001f",
+      "family": "red"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Dark Brown",
+      "hex": "#4b2e23",
+      "family": "brown"
+    },
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce fashion photograph of a woman wearing a dusty rose wrap midi dress with a V-neckline and defined waist, standing in a relaxed neutral pose against a light studio background, full garment visible, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion photograph of a woman in a dusty rose wrap midi dress enjoying an elegant outdoor café setting, natural daylight, graceful movement and realistic fabric drape, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Neckline",
+      "value": "V-Neck"
+    },
+    {
+      "group": "Length",
+      "value": "Midi"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.08,
+  "width": 1310,
+  "height": 230,
+  "length": 830,
+  "ean": "4044792263959",
+  "manufacturerNumber": "MPN-5MQ0XN1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch Y48L"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Wrap Midi Dress - Dusty Rose - V-Neck"
+}

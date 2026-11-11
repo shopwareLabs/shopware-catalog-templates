@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Contemporary fashion lifestyle photograph of a structured black pebbled-finish tote bag carried on the shoulder by a stylish adult in a neutral city outfit, natural daylight, understated urban setting, realistic product proportions, no visible logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Clean front-facing studio product photograph of a structured black tote bag with pebbled texture, wide shoulder handles, neat stitching, and a flat base, on a soft light background, realistic materials, no logos or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A black structured pebbled-finish tote bag neatly presented in tasteful minimal protective packaging, product clearly visible, neutral studio lighting, no branding, no readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Textured synthetic"
+    },
+    {
+      "group": "Type",
+      "value": "Structured tote"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.23,
+  "width": 1178,
+  "height": 736,
+  "length": 1314,
+  "ean": "5833546793489",
+  "manufacturerNumber": "MPN-K7EHRT1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch BLKJ"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Structured Tote Bag - Black - Pebbled Finish, Textured synthetic construction"
+}

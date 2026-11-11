@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Man wearing a forest green short-sleeve knit polo with neutral chinos in a bright contemporary city setting, relaxed polished styling, natural light, garment clearly visible."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a forest green men's short-sleeve knit polo shirt on a clean studio display, showing collar, sleeve shape, knit texture and hem; realistic e-commerce apparel photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Material",
+      "value": "Cotton Knit"
+    },
+    {
+      "group": "Type",
+      "value": "Short Sleeve Polo"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.85,
+  "width": 1034,
+  "height": 709,
+  "length": 1538,
+  "ean": "0859840173722",
+  "manufacturerNumber": "MPN-D6V4DP18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch Y2NN"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Everyday Knit Polo Shirt - Forest Green - Short Sleeve, Cotton Knit construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Forest Green",
+        "Navy",
+        "Black",
+        "Stone"
+      ],
+      "priceModifiers": {
+        "Forest Green": 1,
+        "Navy": 1,
+        "Black": 1,
+        "Stone": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "M",
+        "XS",
+        "XXXL"
+      ],
+      "priceModifiers": {
+        "M": 1,
+        "XS": 1,
+        "XXXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Forest Green",
+  "variantColors": [
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Stone",
+      "hex": "#b8ad9e",
+      "family": "beige"
+    }
+  ]
+}

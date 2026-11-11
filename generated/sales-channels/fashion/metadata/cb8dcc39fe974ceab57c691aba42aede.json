@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Natural woven straw wide-brim sun hat presented in tasteful protective packaging with tissue and a simple storage box, no readable branding, soft daylight, premium retail photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Woman wearing a natural woven straw wide-brim sun hat with a breezy summer dress in a sunlit garden, relaxed vacation mood, realistic styling and soft warm light."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a natural woven straw sun hat showing its wide gently curved brim, crown shape, airy weave, and simple inner band, clean neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Material",
+      "value": "Woven straw"
+    },
+    {
+      "group": "Brim Style",
+      "value": "Wide brim"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.78,
+  "width": 1309,
+  "height": 165,
+  "length": 1752,
+  "ean": "3288815852268",
+  "manufacturerNumber": "MPN-ADD5R61S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch DLAU"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Woven Straw Sun Hat - Natural - Wide Brim"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "5cea80d60f194bd29db1ec0a2c6cf81d",
+  "productName": "side--washed-gray",
+  "generatedAt": "2026-11-10T15:06:03.235Z",
+  "prompt": "Recolour the product to Washed Gray (#a7a9ac). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "7b0ed696c47c6014",
+  "shade": "Washed Gray",
+  "hex": "#a7a9ac"
+}

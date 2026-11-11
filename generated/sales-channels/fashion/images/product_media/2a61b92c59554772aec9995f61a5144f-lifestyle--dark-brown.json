@@ -1,0 +1,10 @@
+{
+  "productId": "2a61b92c59554772aec9995f61a5144f",
+  "productName": "lifestyle--dark-brown",
+  "generatedAt": "2026-11-10T15:06:55.789Z",
+  "prompt": "Recolour the product to Dark Brown (#4b2e23). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "f60c4e8d669a7eb7",
+  "shade": "Dark Brown",
+  "hex": "#4b2e23"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "0c910da8c3dd43b3b8266a6dc791f98c",
+  "productName": "lifestyle--honey-brown",
+  "generatedAt": "2026-11-10T15:08:47.065Z",
+  "prompt": "Recolour the product to Honey Brown (#a66a2c). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "4ca3f9dfead4acda",
+  "shade": "Honey Brown",
+  "hex": "#a66a2c"
+}

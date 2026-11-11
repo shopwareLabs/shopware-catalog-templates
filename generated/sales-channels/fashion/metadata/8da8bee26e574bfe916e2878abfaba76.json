@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Elegant lifestyle photograph of a person wearing a delicate gold-tone necklace with a small round disc pendant over a simple neutral blouse, natural soft light, understated contemporary styling, necklace in clear focus."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a fine gold-tone chain necklace with a minimal round disc pendant, arranged symmetrically on a warm ivory background, clean soft shadows and polished detail."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up macro product photograph of the round disc pendant and fine gold-tone chain, highlighting the smooth finish, delicate links and neat clasp detail against a softly blurred neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Stainless Steel"
+    },
+    {
+      "group": "Type",
+      "value": "Pendant Necklace"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.39,
+  "width": 125,
+  "height": 135,
+  "length": 1474,
+  "ean": "1108893826840",
+  "manufacturerNumber": "MPN-YO13P4MU",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch HRWR"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Minimalist Pendant Necklace - Gold - Round Disc, Stainless Steel construction"
+}

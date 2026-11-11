@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Minimalist gold-tone round disc pendant necklace displayed in an elegant small jewelry box with soft ivory lining; refined gift presentation, warm studio lighting, no readable text."
+    },
+    {
+      "view": "side",
+      "prompt": "Close angled side view of a delicate gold-tone pendant necklace, showing the fine chain, slim round disc profile, and polished surface; clean neutral studio background, high-detail jewelry photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Gold-tone alloy"
+    },
+    {
+      "group": "Type",
+      "value": "Pendant necklace"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.68,
+  "width": 1032,
+  "height": 394,
+  "length": 1820,
+  "ean": "2839504914883",
+  "manufacturerNumber": "MPN-B16J7359",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch OU3W"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Minimalist Pendant Necklace - Gold - Round Disc, Gold-tone alloy construction"
+}

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of an olive men’s lightweight quilted jacket, focusing on the diamond quilting, neat stitching and front fastening, soft natural studio light, neutral background, realistic fabric texture, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-view e-commerce studio photograph of an olive men’s lightweight quilted jacket displayed neatly with collar, sleeves and front fastening visible, clean light background, balanced lighting, accurate color and construction, no model, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Contemporary lifestyle photograph of a man wearing an olive lightweight quilted jacket over a neutral knit with dark jeans in an autumn city setting, relaxed natural pose, soft overcast daylight, jacket clearly visible, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Olive"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester"
+    },
+    {
+      "group": "Style",
+      "value": "Quilted"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.78,
+  "width": 1288,
+  "height": 1053,
+  "length": 1155,
+  "ean": "2550048803364",
+  "manufacturerNumber": "MPN-L7CR2F14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch A9T5"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Quilted Jacket - Olive - Lightweight Layer, Polyester construction"
+}

@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Tan leather women's ballet flats with bow detail nestled in a clean branded-style shoe box with tissue paper, no legible logos, soft studio light, polished retail presentation."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of women's tan leather ballet flats featuring rounded toes and small bow details, displayed symmetrically on a light neutral background with crisp realistic texture."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a tan leather ballet flat showing its low silhouette, flexible sole, smooth upper, and delicate bow at the toe, minimalist studio photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Tan"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Toe Shape",
+      "value": "Rounded"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 23,
+  "width": 1462,
+  "height": 999,
+  "length": 225,
+  "ean": "0435438446753",
+  "manufacturerNumber": "MPN-9RRXE7RA",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch UZGU"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Leather Ballet Flats - Tan - Bow Detail",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Tan",
+        "Black",
+        "Navy",
+        "Burgundy"
+      ],
+      "priceModifiers": {
+        "Tan": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Burgundy": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XXL",
+        "XXXL",
+        "L"
+      ],
+      "priceModifiers": {
+        "XXL": 1,
+        "XXXL": 1,
+        "L": 1
+      }
+    }
+  ],
+  "defaultColor": "Tan",
+  "variantColors": [
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    }
+  ]
+}

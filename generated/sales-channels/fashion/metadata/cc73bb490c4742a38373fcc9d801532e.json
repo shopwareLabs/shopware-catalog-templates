@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of aviator sunglasses with a tortoiseshell acetate frame and smoke-tinted lenses, showing the double bridge, nose pads and realistic frame pattern, crisp studio lighting."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on studio product photograph of contemporary tortoiseshell aviator sunglasses with smoke lenses, symmetrical framing, subtle reflections, light neutral background and clear lens and bridge details."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of tortoiseshell aviator sunglasses, highlighting curved temples, hinge detail and slim frame profile, isolated against a pale gray background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Tortoiseshell"
+    },
+    {
+      "group": "Material",
+      "value": "Acetate"
+    },
+    {
+      "group": "Type",
+      "value": "Aviator Sunglasses"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 20.78,
+  "width": 1042,
+  "height": 1197,
+  "length": 1378,
+  "ean": "5939012753435",
+  "manufacturerNumber": "MPN-M5IQ2N18",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch LSEB"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Aviator Sunglasses - Tortoiseshell - Smoke Lens, Acetate construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Tortoiseshell",
+        "Black",
+        "Gold",
+        "Silver"
+      ],
+      "priceModifiers": {
+        "Tortoiseshell": 1,
+        "Black": 1,
+        "Gold": 1,
+        "Silver": 1
+      }
+    }
+  ],
+  "defaultColor": "Tortoiseshell",
+  "variantColors": [
+    {
+      "name": "Tortoiseshell",
+      "hex": "#6b3f24",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Gold",
+      "hex": "#d4af37",
+      "family": "gold"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-profile product photograph of minimal polished gold-tone hoop earrings, showing their rounded profile and neat fastening, elegant neutral studio backdrop, realistic metal reflections, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Metal alloy"
+    },
+    {
+      "group": "Type",
+      "value": "Hoop earrings"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 2.61,
+  "width": 958,
+  "height": 289,
+  "length": 1632,
+  "ean": "4461706240026",
+  "manufacturerNumber": "MPN-H9DO17BU",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch EVCZ"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Minimal Hoop Earrings - Gold - Polished Finish, Metal alloy construction"
+}

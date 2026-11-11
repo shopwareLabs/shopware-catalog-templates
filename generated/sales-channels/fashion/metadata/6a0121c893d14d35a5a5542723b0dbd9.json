@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up e-commerce photograph of a charcoal wool-blend men’s beanie, highlighting ribbed knit texture and folded cuff, soft directional studio lighting, neutral background, realistic fibers, no label or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Material",
+      "value": "Wool Blend"
+    },
+    {
+      "group": "Style",
+      "value": "Ribbed Knit"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 7.09,
+  "width": 715,
+  "height": 128,
+  "length": 1172,
+  "ean": "5660574452251",
+  "manufacturerNumber": "MPN-KB133610",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch FOPX"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Wool Beanie - Charcoal - Ribbed Knit, Wool Blend construction"
+}

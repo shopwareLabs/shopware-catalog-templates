@@ -1,0 +1,10 @@
+{
+  "productId": "54dcd493764f4c5bb8251c574b8f1fce",
+  "productName": "side--tan",
+  "generatedAt": "2026-11-10T15:07:22.218Z",
+  "prompt": "Recolour the product to Tan (#d2b48c). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "bdea8a25c4cd9397",
+  "shade": "Tan",
+  "hex": "#d2b48c"
+}

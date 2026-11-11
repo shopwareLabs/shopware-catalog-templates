@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Navy men's cotton short-sleeve polo shirt folded neatly in understated apparel packaging, collar and button placket visible, clean neutral styling, realistic e-commerce product photography with no readable branding."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a men's navy cotton polo shirt displayed on a model or invisible mannequin, showing classic collar, short sleeves, and button placket; evenly lit neutral studio background, realistic apparel photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Man wearing a navy cotton polo shirt with light chinos in a relaxed modern city setting; shirt collar and fit clearly visible, natural daylight, approachable smart-casual men's fashion photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Material",
+      "value": "Cotton"
+    },
+    {
+      "group": "Type",
+      "value": "Short-Sleeve Polo"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 22.9,
+  "width": 492,
+  "height": 613,
+  "length": 512,
+  "ean": "4354292834611",
+  "manufacturerNumber": "MPN-JB7ZB6P8",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch C9BK"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Cotton Polo Shirt - Navy - Short Sleeve",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Navy",
+        "Black",
+        "White",
+        "Forest Green"
+      ],
+      "priceModifiers": {
+        "Navy": 1,
+        "Black": 1,
+        "White": 1,
+        "Forest Green": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XXL",
+        "XL",
+        "M"
+      ],
+      "priceModifiers": {
+        "XXL": 1,
+        "XL": 1,
+        "M": 1
+      }
+    }
+  ],
+  "defaultColor": "Navy",
+  "variantColors": [
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    }
+  ]
+}

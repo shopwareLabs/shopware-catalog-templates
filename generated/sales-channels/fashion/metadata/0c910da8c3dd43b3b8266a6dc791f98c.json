@@ -1,0 +1,112 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "E-commerce packaging photograph of classic square tortoiseshell sunglasses placed in an open protective case with a soft cleaning cloth, clean refined presentation on a pale neutral surface, realistic frame pattern, no logos or readable text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Contemporary lifestyle photograph of a person wearing classic square tortoiseshell sunglasses outdoors in soft bright daylight, stylish everyday clothing, natural candid pose, focus on the frame shape and warm pattern, no branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Tortoiseshell"
+    },
+    {
+      "group": "Material",
+      "value": "Acetate"
+    },
+    {
+      "group": "Type",
+      "value": "Square"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.12,
+  "width": 246,
+  "height": 481,
+  "length": 313,
+  "ean": "9693915452401",
+  "manufacturerNumber": "MPN-0Y4C361K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 35HC"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Classic Square Sunglasses - Tortoiseshell - UV Protective, Acetate construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Tortoiseshell",
+        "Black",
+        "Honey Brown",
+        "Olive"
+      ],
+      "priceModifiers": {
+        "Tortoiseshell": 1,
+        "Black": 1,
+        "Honey Brown": 1,
+        "Olive": 1
+      }
+    },
+    {
+      "group": "Style",
+      "selectedOptions": [
+        "Classic Square",
+        "Round",
+        "Cat-Eye"
+      ],
+      "priceModifiers": {
+        "Classic Square": 1,
+        "Round": 1,
+        "Cat-Eye": 1
+      }
+    }
+  ],
+  "defaultColor": "Tortoiseshell",
+  "variantColors": [
+    {
+      "name": "Tortoiseshell",
+      "hex": "#6b3f24",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Honey Brown",
+      "hex": "#a66a2c",
+      "family": "brown"
+    },
+    {
+      "name": "Olive",
+      "hex": "#808000",
+      "family": "green"
+    }
+  ]
+}

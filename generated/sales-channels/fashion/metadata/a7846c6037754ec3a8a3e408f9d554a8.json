@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion photograph of a woman wearing elegant silver strappy heeled sandals with a flowing evening dress at a softly lit event setting, shoes visible and refined, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of silver women's strappy heeled sandals highlighting slim straps, metallic finish, and slender heel, clean neutral studio background, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Heel Type",
+      "value": "Slim Heel"
+    },
+    {
+      "group": "Style",
+      "value": "Strappy"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.2,
+  "width": 1270,
+  "height": 835,
+  "length": 872,
+  "ean": "0657095710040",
+  "manufacturerNumber": "MPN-H8IQW2BN",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch IRCK"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Strappy Heeled Sandals - Silver - Slim Heel"
+}

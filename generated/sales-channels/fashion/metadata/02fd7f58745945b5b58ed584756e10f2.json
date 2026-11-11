@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of men's white leather low-top court sneakers, pair arranged neatly to show rounded toe, clean paneling, white laces and minimal branding, bright neutral background, realistic leather grain and soft natural shadows, no text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of men's white leather court sneakers showing the low-top silhouette, lace fastening, padded collar and clean sole edge, isolated against a pale gray studio background, realistic materials, no text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Low-Top"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.12,
+  "width": 519,
+  "height": 872,
+  "length": 912,
+  "ean": "0892302790006",
+  "manufacturerNumber": "MPN-1BUP2G36",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch MVNA"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Court Sneakers - White - Low-Top",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Black",
+        "Navy",
+        "Tan"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Tan": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "priceModifiers": {
+        "L": 1,
+        "XL": 1,
+        "XXL": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    }
+  ]
+}

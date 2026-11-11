@@ -1,0 +1,10 @@
+{
+  "productId": "d836af198bc04cd699bb7471c4b22d1a",
+  "productName": "detail--cognac",
+  "generatedAt": "2026-11-10T15:08:12.843Z",
+  "prompt": "Recolour the product to Cognac (#9a4e24). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "36a887c173289c7e",
+  "shade": "Cognac",
+  "hex": "#9a4e24"
+}

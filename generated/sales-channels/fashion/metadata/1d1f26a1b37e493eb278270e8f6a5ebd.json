@@ -1,0 +1,112 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion photograph of a woman wearing an oatmeal ribbed crewneck sweater with relaxed-fit proportions and dark denim, softly lit contemporary interior, natural pose and realistic knit texture, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail photograph of an oatmeal women's sweater showing ribbed knit texture, crew neckline, and neat finishing, soft studio lighting, no text or logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Oatmeal"
+    },
+    {
+      "group": "Neckline",
+      "value": "Crewneck"
+    },
+    {
+      "group": "Fit",
+      "value": "Relaxed"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.1,
+  "width": 292,
+  "height": 55,
+  "length": 784,
+  "ean": "8687809302300",
+  "manufacturerNumber": "MPN-PJW0QXJW",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch YE74"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Ribbed Crewneck Sweater - Oatmeal - Relaxed Fit",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Oatmeal",
+        "Charcoal",
+        "Cream",
+        "Dusty Rose"
+      ],
+      "priceModifiers": {
+        "Oatmeal": 1,
+        "Charcoal": 1,
+        "Cream": 1,
+        "Dusty Rose": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XXXL",
+        "S",
+        "XL"
+      ],
+      "priceModifiers": {
+        "XXXL": 1,
+        "S": 1,
+        "XL": 1
+      }
+    }
+  ],
+  "defaultColor": "Oatmeal",
+  "variantColors": [
+    {
+      "name": "Oatmeal",
+      "hex": "#d6c6a8",
+      "family": "beige"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Cream",
+      "hex": "#fffdd0",
+      "family": "beige"
+    },
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Soft charcoal ribbed-cuff knit beanie folded neatly in minimal tissue packaging, clean neutral presentation, visible knit texture, no logos or readable text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Contemporary cold-weather lifestyle photo of an adult wearing a charcoal ribbed knit beanie with a refined casual coat on a crisp city walk, natural overcast light, beanie clearly visible, no logos or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-profile studio product photograph of a charcoal soft-knit beanie with a folded ribbed cuff, showing the shape and knit texture against a pale neutral background, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Material",
+      "value": "Soft knit"
+    },
+    {
+      "group": "Type",
+      "value": "Ribbed cuff beanie"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 1.44,
+  "width": 1345,
+  "height": 597,
+  "length": 52,
+  "ean": "7669212972609",
+  "manufacturerNumber": "MPN-ERUC6A1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch HPQ7"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Soft Knit Beanie - Charcoal - Ribbed Cuff"
+}

@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium women's fashion product packaging for a structured cognac leather crossbody bag, elegant protective dust bag and neat presentation box, clean neutral studio background, realistic materials, no visible logos or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of a structured cognac leather women's crossbody bag, showing the adjustable strap, compact depth, neat stitching and secure closure, softly lit neutral studio background, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Crossbody"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": true,
+  "weight": 6.46,
+  "width": 360,
+  "height": 386,
+  "length": 1714,
+  "ean": "5334444641495",
+  "manufacturerNumber": "MPN-EMBW7OIE",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 9WTB"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Leather Crossbody Bag - Cognac - Structured"
+}

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view e-commerce product photograph of a clean white men’s low-top lace-up sneaker with a minimal leather-look upper and simple sole, isolated on a light neutral background, realistic proportions and material, soft studio shadow, no branding or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a white men’s low-top sneaker pair, showing rounded toe shape, lace-up closure and clean minimal styling, neutral background, balanced soft lighting, accurate white color, no logos or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion photograph of a man wearing clean white low-top sneakers with cuffed dark denim on a bright city sidewalk, natural daylight, relaxed contemporary styling, focus on the shoes, realistic proportions, no visible logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Material",
+      "value": "Leather-Look Upper"
+    },
+    {
+      "group": "Closure",
+      "value": "Lace-Up"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.65,
+  "width": 306,
+  "height": 416,
+  "length": 352,
+  "ean": "6519622713198",
+  "manufacturerNumber": "MPN-X7KOGG1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch MBZ1"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Low-Top Sneakers - White - Minimal Leather Look, Leather-Look Upper construction"
+}

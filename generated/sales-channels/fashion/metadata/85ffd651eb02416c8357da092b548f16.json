@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of men's stone cotton-twill chinos, straight fit, clean waistband and neatly finished legs, shown on an invisible mannequin against a pale neutral studio background, realistic fabric texture and natural folds, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front product photograph of men's stone-colored straight-fit cotton chinos, full length and centered, showing waistband, belt loops, button closure and front pockets, crisp neutral studio lighting, no model, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Stone"
+    },
+    {
+      "group": "Material",
+      "value": "Cotton Twill"
+    },
+    {
+      "group": "Fit",
+      "value": "Straight"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.8,
+  "width": 361,
+  "height": 753,
+  "length": 978,
+  "ean": "1869944320310",
+  "manufacturerNumber": "MPN-WMYLV38G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 74WV"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Cotton Chinos - Stone - Straight Fit, Cotton Twill construction"
+}

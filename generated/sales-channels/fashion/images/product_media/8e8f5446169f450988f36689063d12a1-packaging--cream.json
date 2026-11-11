@@ -1,0 +1,10 @@
+{
+  "productId": "8e8f5446169f450988f36689063d12a1",
+  "productName": "packaging--cream",
+  "generatedAt": "2026-11-10T15:04:45.617Z",
+  "prompt": "Recolour the product to Cream (#fffdd0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "bf0c3f7dcb89992d",
+  "shade": "Cream",
+  "hex": "#fffdd0"
+}

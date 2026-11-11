@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio fashion photograph of navy tailored women's trousers with a high waist and flowing wide legs, shown on a model in a simple cream top against a clean light-gray background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester Blend"
+    },
+    {
+      "group": "Fit",
+      "value": "Wide Leg"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.17,
+  "width": 1477,
+  "height": 834,
+  "length": 353,
+  "ean": "9743007338592",
+  "manufacturerNumber": "MPN-EGYMK5Q6",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch PMF0"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Wide-Leg Trousers - Navy - Tailored Fit, Polyester Blend construction"
+}

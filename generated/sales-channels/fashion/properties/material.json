@@ -1,0 +1,23 @@
+{
+  "name": "Material",
+  "slug": "material",
+  "displayType": "text",
+  "options": [
+    "Pebbled Leather",
+    "Smooth Leather",
+    "Saffiano Leather",
+    "Vegan Leather",
+    "Canvas",
+    "Nylon"
+  ],
+  "priceModifiers": {
+    "Pebbled Leather": 1,
+    "Smooth Leather": 1,
+    "Saffiano Leather": 1.1,
+    "Vegan Leather": 0.9,
+    "Canvas": 0.9,
+    "Nylon": 0.9
+  },
+  "createdAt": "2026-11-10T14:58:23.680Z",
+  "source": "ai-generated"
+}

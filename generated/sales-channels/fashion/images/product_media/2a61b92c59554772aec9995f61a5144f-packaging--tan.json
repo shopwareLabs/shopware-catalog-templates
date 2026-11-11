@@ -1,0 +1,10 @@
+{
+  "productId": "2a61b92c59554772aec9995f61a5144f",
+  "productName": "packaging--tan",
+  "generatedAt": "2026-11-10T15:06:53.090Z",
+  "prompt": "Recolour the product to Tan (#d2b48c). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "8d6a890bab82268f",
+  "shade": "Tan",
+  "hex": "#d2b48c"
+}

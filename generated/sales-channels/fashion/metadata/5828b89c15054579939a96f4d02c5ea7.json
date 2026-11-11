@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a roomy natural cotton canvas tote bag with contrasting dark handles, simple unbranded design, clean shape and visible canvas texture, against a warm off-white background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle photograph of a person carrying a natural canvas tote with contrast handles on a relaxed city outing, casual contemporary clothing, soft daylight, tote clearly visible and naturally styled."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Material",
+      "value": "Cotton Canvas"
+    },
+    {
+      "group": "Type",
+      "value": "Tote Bag"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.14,
+  "width": 220,
+  "height": 373,
+  "length": 660,
+  "ean": "9990846422870",
+  "manufacturerNumber": "MPN-UCPH5118",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 1GHM"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Canvas Tote Bag - Natural - Contrast Handles, Cotton Canvas construction"
+}

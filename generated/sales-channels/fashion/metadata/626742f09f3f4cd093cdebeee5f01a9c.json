@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of classic tortoiseshell cat-eye sunglasses on a clean pale background, showing curved temples, hinge detail, and smoke-tinted lenses; premium fashion accessory product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Tortoiseshell cat-eye sunglasses resting in a slim protective case with a soft cleaning cloth beside them; minimal neutral packaging, polished studio lighting, no visible logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Tortoiseshell"
+    },
+    {
+      "group": "Material",
+      "value": "Acetate"
+    },
+    {
+      "group": "Type",
+      "value": "Cat-eye sunglasses"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.7,
+  "width": 378,
+  "height": 84,
+  "length": 1796,
+  "ean": "8861059866755",
+  "manufacturerNumber": "MPN-P6LIEBRB",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 2ND2"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Classic Cat-Eye Sunglasses - Tortoiseshell - Smoke Lens, Acetate construction"
+}

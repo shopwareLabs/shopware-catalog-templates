@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a compact black faux-leather crossbody bag with adjustable strap, showing its depth, zipper closure, and understated hardware; bright neutral studio background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Compact black crossbody bag carefully placed in a clean protective dust bag beside its neatly coiled adjustable strap; understated premium packaging, soft studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Faux leather"
+    },
+    {
+      "group": "Type",
+      "value": "Crossbody bag"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 8.72,
+  "width": 960,
+  "height": 961,
+  "length": 330,
+  "ean": "4362436071167",
+  "manufacturerNumber": "MPN-VH1X7STI",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch K2KU"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Everyday Crossbody Bag - Black - Adjustable Strap, Faux leather construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Tan",
+        "Burgundy",
+        "Navy"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Tan": 1,
+        "Burgundy": 1,
+        "Navy": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Nylon",
+        "Canvas",
+        "Saffiano Leather"
+      ],
+      "priceModifiers": {
+        "Nylon": 0.9,
+        "Canvas": 0.9,
+        "Saffiano Leather": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    }
+  ]
+}

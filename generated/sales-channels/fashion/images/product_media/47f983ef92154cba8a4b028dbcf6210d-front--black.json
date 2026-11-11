@@ -1,0 +1,10 @@
+{
+  "productId": "47f983ef92154cba8a4b028dbcf6210d",
+  "productName": "front--black",
+  "generatedAt": "2026-11-10T15:05:46.723Z",
+  "prompt": "Recolour the product to Black (#1a1a1a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "0309c80dc2f97f60",
+  "shade": "Black",
+  "hex": "#1a1a1a"
+}
