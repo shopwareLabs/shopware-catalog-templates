@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic product packaging image for solar-powered outdoor string lights emitting a warm white glow, packaging beside a neatly coiled light string and small solar panel; tasteful garden-themed visual, clear product presentation, no legible brand names or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Warm White"
+    },
+    {
+      "group": "Power Source",
+      "value": "Solar"
+    },
+    {
+      "group": "Type",
+      "value": "Outdoor string lights"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.59,
+  "width": 599,
+  "height": 497,
+  "length": 1407,
+  "ean": "3673683362412",
+  "manufacturerNumber": "MPN-Y6N4K714",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 19UU"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor String Lights - Warm White - Solar Powered"
+}

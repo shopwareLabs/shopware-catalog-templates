@@ -1,0 +1,108 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Slate grey outdoor storage box shown with its product packaging, clear view of the box and lift-up lid, clean neutral studio setting, realistic e-commerce product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of the slate grey outdoor storage box showing the lid edge, surface texture, and neat finish; realistic detail photography with soft, even lighting."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a slate grey outdoor storage box with lift-up lid closed, isolated against a pale neutral background, accurate proportions and realistic product materials."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Gray"
+    },
+    {
+      "group": "Type",
+      "value": "Lift-Up Storage Box"
+    },
+    {
+      "group": "Material",
+      "value": "Weather-Resistant Resin"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3,
+  "width": 1065,
+  "height": 434,
+  "length": 90,
+  "ean": "8481132843154",
+  "manufacturerNumber": "MPN-148ALL1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch A5EB"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Storage Box - Slate Grey - Lift-Up Lid, Weather-Resistant Resin construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Slate Gray",
+        "Sand",
+        "Olive",
+        "Black"
+      ],
+      "priceModifiers": {
+        "Slate Gray": 1,
+        "Sand": 1,
+        "Olive": 1,
+        "Black": 1
+      }
+    }
+  ],
+  "defaultColor": "Slate Gray",
+  "variantColors": [
+    {
+      "name": "Slate Gray",
+      "hex": "#708090",
+      "family": "gray"
+    },
+    {
+      "name": "Sand",
+      "hex": "#c2b280",
+      "family": "beige"
+    },
+    {
+      "name": "Olive",
+      "hex": "#808000",
+      "family": "green"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    }
+  ]
+}

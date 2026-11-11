@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic straight-on ecommerce image of a 20 cm ceramic garden planter in warm terracotta, simple rounded silhouette with a clean unadorned surface, empty planter fully visible on a light neutral background, soft studio shadows."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Ceramic"
+    },
+    {
+      "group": "Size",
+      "value": "20 cm"
+    },
+    {
+      "group": "Color",
+      "value": "Terracotta"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.01,
+  "width": 970,
+  "height": 572,
+  "length": 174,
+  "ean": "8267079591309",
+  "manufacturerNumber": "MPN-D6JREW7B",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch A40C"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Ceramic Garden Planter - Terracotta - 20 cm",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Terracotta",
+        "Cream",
+        "Sage",
+        "Charcoal"
+      ],
+      "priceModifiers": {
+        "Terracotta": 1,
+        "Cream": 1,
+        "Sage": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "0.5 L",
+        "3 L",
+        "1.5 L"
+      ],
+      "priceModifiers": {
+        "0.5 L": 0.8,
+        "3 L": 1.25,
+        "1.5 L": 1
+      }
+    }
+  ],
+  "defaultColor": "Terracotta",
+  "variantColors": [
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    },
+    {
+      "name": "Cream",
+      "hex": "#fffdd0",
+      "family": "beige"
+    },
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    }
+  ]
+}

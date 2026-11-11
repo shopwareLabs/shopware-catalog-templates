@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic lifestyle image of a sage-green metal 5-litre garden watering can being used to water leafy patio plants, relaxed home garden setting, natural daylight, realistic scale, no visible brand logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of a sage-green metal watering can showing its curved handle, long spout, and detachable sprinkler rose, crisp enamel-like finish and realistic construction, neutral studio background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic ecommerce packaging image of a sage-green metal 5-litre garden watering can presented with simple recyclable retail packaging, capacity and watering-can description visible, clean neutral background, no unrelated items."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Size",
+      "value": "5 L"
+    },
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.14,
+  "width": 1054,
+  "height": 109,
+  "length": 1519,
+  "ean": "6803952791187",
+  "manufacturerNumber": "MPN-FUOFMWLZ",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 8CPA"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Metal Garden Watering Can - Sage Green - 5 L",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Sage",
+        "Terracotta",
+        "Cream",
+        "Charcoal"
+      ],
+      "priceModifiers": {
+        "Sage": 1,
+        "Terracotta": 1,
+        "Cream": 1,
+        "Charcoal": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "1.5 L",
+        "0.5 L",
+        "2 L"
+      ],
+      "priceModifiers": {
+        "1.5 L": 1,
+        "0.5 L": 0.8,
+        "2 L": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Sage",
+  "variantColors": [
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    },
+    {
+      "name": "Cream",
+      "hex": "#fffdd0",
+      "family": "beige"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    }
+  ]
+}

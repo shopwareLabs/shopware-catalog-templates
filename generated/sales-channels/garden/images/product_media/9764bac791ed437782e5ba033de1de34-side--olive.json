@@ -1,0 +1,10 @@
+{
+  "productId": "9764bac791ed437782e5ba033de1de34",
+  "productName": "side--olive",
+  "generatedAt": "2026-11-10T15:42:36.043Z",
+  "prompt": "Recolour the product to Olive (#808000). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "a58d5ba3f3143787",
+  "shade": "Olive",
+  "hex": "#808000"
+}

@@ -1,0 +1,113 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up realistic detail photograph of a dark green porous soaker hose laid beside garden soil, showing the textured permeable surface and gentle water beads, natural daylight, no plants obscuring the product, no text or branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle garden photograph of a 10 m dark green soaker hose arranged along the base of a tidy vegetable bed, visibly watering soil near plants without spraying leaves, natural outdoor light, realistic home garden setting, no people, no logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Length",
+      "value": "10 m"
+    },
+    {
+      "group": "Material",
+      "value": "Porous recycled rubber"
+    },
+    {
+      "group": "Color",
+      "value": "Dark Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.71,
+  "width": 403,
+  "height": 645,
+  "length": 1450,
+  "ean": "5499679362239",
+  "manufacturerNumber": "MPN-4ZNWKAOU",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 3REA"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Porous Soaker Hose - 10 m - Dark Green, Porous recycled rubber construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Dark Green",
+        "Black",
+        "Brown",
+        "Olive"
+      ],
+      "priceModifiers": {
+        "Dark Green": 1,
+        "Black": 1,
+        "Brown": 1,
+        "Olive": 1
+      }
+    },
+    {
+      "group": "Length",
+      "selectedOptions": [
+        "30 m",
+        "25 m",
+        "10 m"
+      ],
+      "priceModifiers": {
+        "30 m": 1.3,
+        "25 m": 1.15,
+        "10 m": 0.7
+      }
+    }
+  ],
+  "defaultColor": "Dark Green",
+  "variantColors": [
+    {
+      "name": "Dark Green",
+      "hex": "#234b32",
+      "family": "green"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Brown",
+      "hex": "#78350f",
+      "family": "brown"
+    },
+    {
+      "name": "Olive",
+      "hex": "#808000",
+      "family": "green"
+    }
+  ]
+}

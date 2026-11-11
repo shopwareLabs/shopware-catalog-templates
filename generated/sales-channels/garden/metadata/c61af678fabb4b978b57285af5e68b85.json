@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Clean ecommerce packaging photograph of a boxed drip irrigation starter kit with neatly arranged dark tubing, connectors and adjustable emitters visible through a product illustration; neutral white background, realistic garden-supply packaging, no legible brand text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Length",
+      "value": "25 m"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable emitter kit"
+    },
+    {
+      "group": "Material",
+      "value": "Polyethylene tubing"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.36,
+  "width": 900,
+  "height": 1018,
+  "length": 511,
+  "ean": "0360482604739",
+  "manufacturerNumber": "MPN-3RKW6V1W",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch W45P"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Drip Irrigation Starter Kit - 25m - Adjustable Emitters, Polyethylene tubing construction"
+}

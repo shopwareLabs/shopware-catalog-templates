@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Realistic side-view e-commerce photograph of a blue adjustable oscillating garden sprinkler with 18 visible nozzles and stable base, isolated on a light neutral studio background, product fully in frame, no hose attached, no branding or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Generic retail box for an adjustable blue oscillating sprinkler, showing the sprinkler and a simple illustration of a rectangular spray pattern, clearly presented on a clean studio background, no logos, no unverified coverage claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Nozzle Count",
+      "value": "18"
+    },
+    {
+      "group": "Material",
+      "value": "ABS plastic"
+    },
+    {
+      "group": "Color",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.16,
+  "width": 1439,
+  "height": 757,
+  "length": 1107,
+  "ean": "6522163550887",
+  "manufacturerNumber": "MPN-HMNL59BD",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch E6FB"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Adjustable Oscillating Sprinkler - 18 Nozzles - Blue, ABS plastic construction"
+}

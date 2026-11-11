@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a coordinated three-piece garden hand tool set in sage green, arranged neatly to show handles and working ends, clean product photography on a neutral background, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Sage green hand tools being used to plant seedlings in a raised garden bed, gloved hands and rich soil visible, natural backyard setting, realistic light, no text or labels."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Three-piece sage green garden hand tool set arranged in simple kraft retail packaging, front-facing product display, clean neutral studio lighting, packaging without readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Set Includes",
+      "value": "3 Pieces"
+    },
+    {
+      "group": "Type",
+      "value": "Hand Tools"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 13.17,
+  "width": 606,
+  "height": 349,
+  "length": 1817,
+  "ean": "4438523488290",
+  "manufacturerNumber": "MPN-9E52YDNS",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch QPOQ"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Garden Hand Tool Set - Sage Green - 3 Piece"
+}

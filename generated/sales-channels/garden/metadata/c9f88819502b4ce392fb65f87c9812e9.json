@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Three coordinated sage-green garden hand tools arranged beside a patio planter as a gardener works with potting soil, bright natural light, realistic home gardening scene, no text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A neatly presented three-piece garden hand tool set with sage-green handles in simple retail packaging, tools clearly visible, clean studio background, realistic product photography, no logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Material",
+      "value": "Metal and coated handles"
+    },
+    {
+      "group": "Set Size",
+      "value": "3 pieces"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 3.9,
+  "width": 624,
+  "height": 846,
+  "length": 440,
+  "ean": "6076573513920",
+  "manufacturerNumber": "MPN-7XRN5G10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch KST6"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Garden Hand Tool Set - Sage Green - 3 Pieces, Metal and coated handles construction"
+}

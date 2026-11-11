@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front three-quarter studio product image of a coordinated teak outdoor dining set with table and matching chairs, all pieces visible against a light neutral background; warm timber grain, realistic proportions."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Neatly presented packaging for a teak-look four-piece outdoor dining set, clean garden furniture product box with subtle product illustration and neutral branding, photographed in a bright studio."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Teak outdoor dining set arranged on a leafy patio, table set simply for a relaxed meal with greenery and warm natural light; all furniture visible in a realistic home garden."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Teak"
+    },
+    {
+      "group": "Material",
+      "value": "Teak Wood"
+    },
+    {
+      "group": "Type",
+      "value": "Four-Piece Dining Set"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.28,
+  "width": 704,
+  "height": 646,
+  "length": 1710,
+  "ean": "6294869273734",
+  "manufacturerNumber": "MPN-3L9KOP10",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch SZOL"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Outdoor Dining Set - Teak - Four Piece, Teak Wood construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Teak",
+        "Natural",
+        "Charcoal",
+        "White"
+      ],
+      "priceModifiers": {
+        "Teak": 1,
+        "Natural": 1,
+        "Charcoal": 1,
+        "White": 1
+      }
+    }
+  ],
+  "defaultColor": "Teak",
+  "variantColors": [
+    {
+      "name": "Teak",
+      "hex": "#b08d57",
+      "family": "brown"
+    },
+    {
+      "name": "Natural",
+      "hex": "#c5a77b",
+      "family": "beige"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

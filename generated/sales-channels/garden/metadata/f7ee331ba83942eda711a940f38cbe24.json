@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Realistic e-commerce product photo of a sage green expandable garden hose arranged in a neat loose coil, side view, clearly showing the flexible fabric-reinforced outer sleeve and hose ends, isolated against a clean light neutral background, soft studio lighting, no text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Garden retail packaging for a sage green expandable garden hose, package shown upright with a clear product illustration and simple generic product labeling, hose length 15 m indicated without brand marks, front-facing clean studio photograph, no extra accessories beyond those shown."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Length",
+      "value": "15 m"
+    },
+    {
+      "group": "Material",
+      "value": "Fabric-reinforced polymer"
+    },
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.04,
+  "width": 462,
+  "height": 21,
+  "length": 911,
+  "ean": "5205980114043",
+  "manufacturerNumber": "MPN-4TJIZV14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 3125"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Expandable Garden Hose - 15 m - Sage Green, Fabric-reinforced polymer construction"
+}

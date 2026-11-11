@@ -1,0 +1,113 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view product photo of a classic warm terracotta herb planter with a simple rounded profile and visible drainage opening near the base, empty and clean, isolated against a pale neutral background, natural soft studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Terracotta"
+    },
+    {
+      "group": "Material",
+      "value": "Terracotta"
+    },
+    {
+      "group": "Type",
+      "value": "Herb Planter"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 13.16,
+  "width": 817,
+  "height": 920,
+  "length": 1792,
+  "ean": "4674172232154",
+  "manufacturerNumber": "MPN-1H1WE21S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 6HDC"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Terracotta Herb Planter - Warm Terracotta - Drainage Base",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Terracotta",
+        "Charcoal",
+        "Sage",
+        "Ivory"
+      ],
+      "priceModifiers": {
+        "Terracotta": 1,
+        "Charcoal": 1,
+        "Sage": 1,
+        "Ivory": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "0.5 L",
+        "5 L",
+        "2 L"
+      ],
+      "priceModifiers": {
+        "0.5 L": 0.8,
+        "5 L": 1.5,
+        "2 L": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Terracotta",
+  "variantColors": [
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    }
+  ]
+}

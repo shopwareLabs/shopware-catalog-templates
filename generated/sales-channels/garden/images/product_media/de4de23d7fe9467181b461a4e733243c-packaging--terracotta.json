@@ -1,0 +1,10 @@
+{
+  "productId": "de4de23d7fe9467181b461a4e733243c",
+  "productName": "packaging--terracotta",
+  "generatedAt": "2026-11-10T15:45:16.399Z",
+  "prompt": "Recolour the product to Terracotta (#e2725b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "864cddb0486e00ac",
+  "shade": "Terracotta",
+  "hex": "#e2725b"
+}

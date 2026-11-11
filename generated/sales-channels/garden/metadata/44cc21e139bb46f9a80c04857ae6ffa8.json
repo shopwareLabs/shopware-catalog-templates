@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a rectangular raised garden bed made from natural cedar-colored boards, empty and assembled, photographed on a simple outdoor lawn with soft daylight, realistic product photography, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A natural cedar rectangular raised garden bed planted with leafy greens and herbs on a sunny home patio, welcoming backyard setting, realistic scale and materials, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Cedar"
+    },
+    {
+      "group": "Material",
+      "value": "Cedar wood"
+    },
+    {
+      "group": "Shape",
+      "value": "Rectangular"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 8.97,
+  "width": 730,
+  "height": 1124,
+  "length": 191,
+  "ean": "5233673642757",
+  "manufacturerNumber": "MPN-48UY11SK",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch FZDA"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Raised Garden Bed - Natural Cedar - Rectangular, Cedar wood construction"
+}

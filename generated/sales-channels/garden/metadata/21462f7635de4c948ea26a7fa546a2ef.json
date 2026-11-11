@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Front-facing realistic studio image of generic retail packaging for a graphite single-outlet automatic garden hose timer, package illustration clearly shows the compact tap-mounted timer and simple controls, clean garden-supply packaging style, no brand logos or unsupported claims."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of a graphite automatic hose timer showing its control dial, display area and tap connection, accurate practical garden equipment styling, crisp focus, neutral background, no readable brand names or fabricated interface text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-view product photograph of a graphite single-outlet automatic hose timer standing upright, clearly showing the connection points and front control panel, isolated on a bright neutral background, soft studio lighting, no hose or tap, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Outlet Count",
+      "value": "1"
+    },
+    {
+      "group": "Power Source",
+      "value": "Battery powered"
+    },
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.83,
+  "width": 570,
+  "height": 526,
+  "length": 1743,
+  "ean": "5025385583066",
+  "manufacturerNumber": "MPN-G7RNRR1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 34U7"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Automatic Hose Timer - Single Outlet - Graphite"
+}

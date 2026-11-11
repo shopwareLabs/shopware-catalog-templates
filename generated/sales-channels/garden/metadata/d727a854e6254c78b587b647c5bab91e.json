@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Studio product photograph of a forest green 8-litre metal watering can with long spout, top handle and removable watering rose, shown upright against a clean light background, crisp realistic details, no text or logo."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up ecommerce photograph highlighting the removable rose, spout opening and sturdy handle of a forest green metal watering can; show authentic finish and construction, softly lit neutral background, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A forest green metal watering can being used to water flowering patio pots in a welcoming home garden, gentle morning light, visible water shower falling from the rose, natural and realistic scene."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Capacity",
+      "value": "8 L"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.22,
+  "width": 482,
+  "height": 609,
+  "length": 1419,
+  "ean": "9268247112295",
+  "manufacturerNumber": "MPN-KANN0ZK4",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch BQFF"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Metal Watering Can - 8L - Forest Green"
+}

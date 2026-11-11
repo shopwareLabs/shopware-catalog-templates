@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A blush-pink climbing rose trained along a garden trellis beside a cottage-style path, natural daylight, realistic home garden, abundant but believable blooms, no text or labels."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a healthy climbing rose plant with blush-pink flowers and green foliage, clean neutral garden-nursery background, realistic botanical product photography, no text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail-ready climbing rose plant packaging with a clear botanical illustration of blush-pink blooms and a simple care-information area, upright against a clean background, legible design without brand logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blush Pink"
+    },
+    {
+      "group": "Type",
+      "value": "Reblooming climbing rose"
+    },
+    {
+      "group": "Light",
+      "value": "Full sun"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.49,
+  "width": 1232,
+  "height": 1016,
+  "length": 68,
+  "ean": "6908862523740",
+  "manufacturerNumber": "MPN-DV7KSH18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch EYCS"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Climbing Rose - Blush Pink - Reblooming"
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a round matte-charcoal hanging planter with its suspension cord visible, empty planter against a soft neutral background, clean realistic product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the matte charcoal surface and hanging attachment on a round planter, showing finish and construction clearly, soft studio lighting, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Charcoal"
+    },
+    {
+      "group": "Material",
+      "value": "Resin"
+    },
+    {
+      "group": "Shape",
+      "value": "Round"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.06,
+  "width": 199,
+  "height": 860,
+  "length": 1302,
+  "ean": "3431088063811",
+  "manufacturerNumber": "MPN-I9BLON1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch TV1O"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Hanging Planter - Matte Charcoal - Round, Resin construction"
+}

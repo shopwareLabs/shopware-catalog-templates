@@ -1,0 +1,53 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging presentation for a sage green folding garden chair, with the folded chair clearly visible beside a clean, understated box depicting the assembled product; neutral studio backdrop, realistic proportions, no readable brand names or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a sage green folding garden chair with a powder-coated steel frame and simple supportive seat and back, shown fully assembled on a garden patio; clear daylight, no people, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Material",
+      "value": "Powder-coated steel"
+    },
+    {
+      "group": "Type",
+      "value": "Folding garden chair"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 22.33,
+  "width": 1130,
+  "height": 835,
+  "length": 217,
+  "ean": "4097549703512",
+  "manufacturerNumber": "MPN-9S9FXE1G",
+  "minPurchase": 3,
+  "purchaseSteps": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch A7KR"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Garden Chair - Sage Green - Folding, Powder-coated steel construction"
+}

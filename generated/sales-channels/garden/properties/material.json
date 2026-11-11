@@ -3,23 +3,21 @@
   "slug": "material",
   "displayType": "text",
   "options": [
-    "Hardwood",
+    "Acacia",
     "Teak",
     "Eucalyptus",
-    "Acacia",
-    "Polywood",
-    "Aluminum",
-    "Cedar"
+    "Pine",
+    "Recycled Plastic",
+    "Powder-Coated Steel"
   ],
   "priceModifiers": {
-    "Hardwood": 1,
-    "Teak": 1.2,
-    "Eucalyptus": 1.1,
     "Acacia": 1,
-    "Polywood": 0.9,
-    "Aluminum": 1,
-    "Cedar": 1.1
+    "Teak": 1.3,
+    "Eucalyptus": 0.9,
+    "Pine": 0.8,
+    "Recycled Plastic": 1.1,
+    "Powder-Coated Steel": 1
   },
-  "createdAt": "2026-03-13T08:27:04.286Z",
+  "createdAt": "2026-11-10T15:36:15.586Z",
   "source": "ai-generated"
 }

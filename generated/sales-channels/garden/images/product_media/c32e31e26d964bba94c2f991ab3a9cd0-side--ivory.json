@@ -1,0 +1,10 @@
+{
+  "productId": "c32e31e26d964bba94c2f991ab3a9cd0",
+  "productName": "side--ivory",
+  "generatedAt": "2026-11-10T15:44:05.955Z",
+  "prompt": "Recolour the product to Ivory (#fffff0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "9909939496c52258",
+  "shade": "Ivory",
+  "hex": "#fffff0"
+}

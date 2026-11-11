@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of a forest green folding garden chair with a sturdy steel frame, shown fully open on a neat patio, natural daylight, clean realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Material",
+      "value": "Steel"
+    },
+    {
+      "group": "Type",
+      "value": "Folding Chair"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.31,
+  "width": 442,
+  "height": 414,
+  "length": 177,
+  "ean": "2888747472315",
+  "manufacturerNumber": "MPN-3YTRF914",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch SU0T"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Folding Garden Chair - Forest Green - Steel Frame"
+}

@@ -1,0 +1,119 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product photo of a matte-black solar hanging planter with an adjustable hanging chain and a small integrated solar panel, clean modern design, isolated on a pale neutral background, crisp studio lighting."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a matte-black hanging planter suspended from an adjustable hanger, showing the planter depth and compact solar panel, a small trailing green plant inside, bright outdoor daylight, realistic product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Type",
+      "value": "Solar Hanging Planter"
+    },
+    {
+      "group": "Material",
+      "value": "Weather-Resistant Plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.97,
+  "width": 1436,
+  "height": 168,
+  "length": 1121,
+  "ean": "6014978881312",
+  "manufacturerNumber": "MPN-Z4LJ8VH1",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch GR3C"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Solar Hanging Planter - Matte Black - Adjustable Hanger, Weather-Resistant Plastic construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Matte Black",
+        "Terracotta",
+        "Sage",
+        "White"
+      ],
+      "priceModifiers": {
+        "Matte Black": 1,
+        "Terracotta": 1,
+        "Sage": 1,
+        "White": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "1.5 L",
+        "0.5 L",
+        "2 L"
+      ],
+      "priceModifiers": {
+        "1.5 L": 1,
+        "0.5 L": 0.8,
+        "2 L": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Matte Black",
+  "variantColors": [
+    {
+      "name": "Matte Black",
+      "hex": "#222222",
+      "family": "black"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    },
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

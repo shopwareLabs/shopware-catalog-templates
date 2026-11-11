@@ -1,0 +1,10 @@
+{
+  "productId": "de4de23d7fe9467181b461a4e733243c",
+  "productName": "detail--sandstone",
+  "generatedAt": "2026-11-10T15:45:18.476Z",
+  "prompt": "Recolour the product to Sandstone (#c8aa7a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "2935097adf79ac1f",
+  "shade": "Sandstone",
+  "hex": "#c8aa7a"
+}

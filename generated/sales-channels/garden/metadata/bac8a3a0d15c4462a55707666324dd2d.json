@@ -1,0 +1,71 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a home garden drip irrigation kit, with flexible tubing, connectors and adjustable drippers clearly illustrated or visible, labeled for up to 20 plants and 15 metres, clean realistic product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Capacity",
+      "value": "Up to 20 Plants"
+    },
+    {
+      "group": "Size",
+      "value": "15 Metre Tubing"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Drip Kit"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 12.25,
+  "width": 809,
+  "height": 352,
+  "length": 877,
+  "ean": "8905321080668",
+  "manufacturerNumber": "MPN-NFF19DD2",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 4EFJ"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Drip Irrigation Kit - 20 Plants - 15 Metre Tubing",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "1 L",
+        "5 L",
+        "1.5 L"
+      ],
+      "priceModifiers": {
+        "1 L": 0.9,
+        "5 L": 1.5,
+        "1.5 L": 1
+      }
+    },
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "50 Plant Kit",
+        "30 Plant Kit",
+        "Micro Sprinkler Kit"
+      ],
+      "priceModifiers": {
+        "50 Plant Kit": 1.5,
+        "30 Plant Kit": 1.2,
+        "Micro Sprinkler Kit": 1.05
+      }
+    }
+  ]
+}

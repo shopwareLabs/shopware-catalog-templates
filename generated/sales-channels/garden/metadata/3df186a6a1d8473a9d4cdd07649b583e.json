@@ -1,0 +1,113 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Packaged solar garden lantern with a black hanging frame and warm-white light visible, retail-ready presentation with clear product depiction, neat studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Type",
+      "value": "Solar Hanging Lantern"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.22,
+  "width": 769,
+  "height": 917,
+  "length": 1766,
+  "ean": "5010898201880",
+  "manufacturerNumber": "MPN-S9TM0HCX",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch FC8P"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Solar Garden Lantern - Warm White - Hanging, Metal construction, Black finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Bronze",
+        "White",
+        "Copper"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Bronze": 1,
+        "White": 1,
+        "Copper": 1
+      }
+    },
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "Lantern Set",
+        "String Lights",
+        "Wall Lantern"
+      ],
+      "priceModifiers": {
+        "Lantern Set": 1.5,
+        "String Lights": 1.2,
+        "Wall Lantern": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Bronze",
+      "hex": "#cd7f32",
+      "family": "gold"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Copper",
+      "hex": "#b87333",
+      "family": "orange"
+    }
+  ]
+}

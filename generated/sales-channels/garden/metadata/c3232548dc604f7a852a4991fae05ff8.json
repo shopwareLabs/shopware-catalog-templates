@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on studio product photograph of a charcoal folding garden chair, fully open and centered against a light neutral background; show the entire chair and folding frame clearly, realistic materials and soft shadows."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Material",
+      "value": "Powder-Coated Steel"
+    },
+    {
+      "group": "Type",
+      "value": "Folding Chair"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 16.78,
+  "width": 257,
+  "height": 384,
+  "length": 377,
+  "ean": "1862880751446",
+  "manufacturerNumber": "MPN-OYM9ZPGS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch ZNR9"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Garden Chair - Charcoal - Folding, Powder-Coated Steel construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Charcoal",
+        "Moss Green",
+        "White",
+        "Navy"
+      ],
+      "priceModifiers": {
+        "Charcoal": 1,
+        "Moss Green": 1,
+        "White": 1,
+        "Navy": 1
+      }
+    }
+  ],
+  "defaultColor": "Charcoal",
+  "variantColors": [
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Moss Green",
+      "hex": "#687348",
+      "family": "green"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    }
+  ]
+}

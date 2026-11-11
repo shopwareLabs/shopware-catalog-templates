@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a 20-litre bag of all-purpose peat-free potting mix, realistic garden retail packaging with restrained green and earth-tone design and no legible branding, studio background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Home gardener scooping dark potting mix from an open bag into a patio planter while preparing to pot a leafy plant, natural outdoor light, clean realistic gardening scene, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product image of a sealed 20-litre bag of peat-free all-purpose potting mix, clear bag silhouette and generic botanical packaging design without readable words, neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "All-Purpose Potting Mix"
+    },
+    {
+      "group": "Volume",
+      "value": "20 Litre"
+    },
+    {
+      "group": "Feature",
+      "value": "Peat-Free"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.61,
+  "width": 207,
+  "height": 733,
+  "length": 410,
+  "ean": "8571746742759",
+  "manufacturerNumber": "MPN-JXKFY41S",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 8GFV"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "All-Purpose Potting Mix - Peat-Free - 20 Litre"
+}

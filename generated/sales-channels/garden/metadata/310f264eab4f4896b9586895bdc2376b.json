@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front-facing ecommerce image of a packet of cottage garden annual flower seeds, tasteful colorful flower illustrations on the label, clearly presented as a seed mix, upright on a clean pale background, natural soft lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Annual flower seed mix"
+    },
+    {
+      "group": "Use",
+      "value": "Cottage garden planting"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.43,
+  "width": 893,
+  "height": 646,
+  "length": 413,
+  "ean": "4747349061755",
+  "manufacturerNumber": "MPN-RKN7MQ13",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 0PTK"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Flower Seed Mix - Cottage Garden - Annual Blend, Multicolor finish"
+}

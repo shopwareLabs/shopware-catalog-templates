@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Studio product photograph of a natural acacia garden bench, shown straight on against a clean light neutral background; full bench visible, warm timber grain, slatted seat and back, realistic proportions, soft even lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Natural acacia garden bench placed beside a lush garden path with leafy planting and soft dappled afternoon light; inviting, realistic residential garden setting, bench clearly visible."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail photograph of the acacia bench showing warm natural wood grain, smooth finished edges, and the slatted seat construction; crisp realistic texture and soft daylight."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Material",
+      "value": "Acacia Wood"
+    },
+    {
+      "group": "Type",
+      "value": "Garden Bench"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.03,
+  "width": 1444,
+  "height": 837,
+  "length": 1423,
+  "ean": "3769969452004",
+  "manufacturerNumber": "MPN-O631661W",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch B9YJ"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Garden Bench - Acacia - Natural, Acacia Wood construction"
+}

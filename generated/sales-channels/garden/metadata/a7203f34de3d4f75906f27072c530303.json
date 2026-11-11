@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a slate grey outdoor storage box with a hinged lid and clean, simple panel detailing, placed on a neat patio beside greenery; full product visible, soft daylight, realistic resin finish, no people, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Gray"
+    },
+    {
+      "group": "Material",
+      "value": "Weather-resistant resin"
+    },
+    {
+      "group": "Type",
+      "value": "Outdoor storage box"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.71,
+  "width": 1430,
+  "height": 954,
+  "length": 1464,
+  "ean": "4904320972121",
+  "manufacturerNumber": "MPN-ZHL85A18",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 0AJ2"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Storage Box - Slate Grey - Weather-Resistant, Weather-resistant resin construction"
+}

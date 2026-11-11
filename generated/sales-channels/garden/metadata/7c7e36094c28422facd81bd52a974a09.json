@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a rectangular natural teak outdoor dining table, full table shown on a tidy patio with soft greenery in the background, realistic high-quality ecommerce furniture photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Teak Wood"
+    },
+    {
+      "group": "Color",
+      "value": "Natural Teak"
+    },
+    {
+      "group": "Type",
+      "value": "Rectangular Dining Table"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 5.63,
+  "width": 1062,
+  "height": 674,
+  "length": 242,
+  "ean": "0376941822569",
+  "manufacturerNumber": "MPN-BMKCQ110",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch GBPE"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Dining Table - Natural Teak - Rectangular, Teak Wood construction"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Sand-colored garden parasol open above a simple outdoor dining table on a sunny patio, neutral garden furniture and green planting nearby; realistic residential setting, soft bright daylight, canopy clearly shown."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sand"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester"
+    },
+    {
+      "group": "Type",
+      "value": "Crank Parasol"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.12,
+  "width": 1025,
+  "height": 1009,
+  "length": 1012,
+  "ean": "8629879612705",
+  "manufacturerNumber": "MPN-H3Z2T2BO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 6BPF"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Garden Parasol - Sand - Crank Lift, Polyester construction"
+}

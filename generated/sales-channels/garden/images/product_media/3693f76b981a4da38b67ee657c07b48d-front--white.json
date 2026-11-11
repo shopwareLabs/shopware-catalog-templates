@@ -1,0 +1,10 @@
+{
+  "productId": "3693f76b981a4da38b67ee657c07b48d",
+  "productName": "front--white",
+  "generatedAt": "2026-11-10T15:44:05.179Z",
+  "prompt": "Recolour the product to White (#ffffff). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "aeabc422d4138ff2",
+  "shade": "White",
+  "hex": "#ffffff"
+}

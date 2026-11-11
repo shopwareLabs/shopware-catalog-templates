@@ -1,0 +1,53 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A healthy lavender plant in a simple outdoor pot on a sunlit patio, vivid purple flower spikes and silvery-green foliage, inviting home garden setting with soft background greenery, realistic lifestyle photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of purple lavender flower spikes and silvery-green aromatic leaves, natural texture in sharp focus, warm daylight, shallow depth of field, realistic botanical product image."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Purple"
+    },
+    {
+      "group": "Type",
+      "value": "Lavender"
+    },
+    {
+      "group": "Growing Location",
+      "value": "Patio or Sunny Border"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.78,
+  "width": 446,
+  "height": 965,
+  "length": 387,
+  "ean": "8234993683328",
+  "manufacturerNumber": "MPN-TDZIWR1O",
+  "minPurchase": 3,
+  "purchaseSteps": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch MEQB"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Lavender Plant - Purple Bloom - Patio Pot"
+}

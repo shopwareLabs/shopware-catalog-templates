@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a neatly arranged six-variety culinary herb seed collection, small labeled paper seed packets with tasteful botanical illustrations and visible herb seeds, clean neutral tabletop, legible-looking but non-specific packaging, no brand logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce product image of a six-variety kitchen herb seed collection in a compact kraft presentation sleeve, botanical illustrations of common culinary herbs, crisp studio lighting, plain light background, no readable brand names."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Culinary Herbs"
+    },
+    {
+      "group": "Variety Count",
+      "value": "6 Varieties"
+    },
+    {
+      "group": "Use",
+      "value": "Kitchen Garden"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 3.4,
+  "width": 927,
+  "height": 819,
+  "length": 600,
+  "ean": "5745909703076",
+  "manufacturerNumber": "MPN-I6I7XE1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch DA1U"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Herb Seed Collection - Kitchen Garden - 6 Varieties"
+}

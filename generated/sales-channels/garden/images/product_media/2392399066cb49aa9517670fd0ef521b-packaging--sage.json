@@ -1,0 +1,10 @@
+{
+  "productId": "2392399066cb49aa9517670fd0ef521b",
+  "productName": "packaging--sage",
+  "generatedAt": "2026-11-10T15:45:20.072Z",
+  "prompt": "Recolour the product to Sage (#9caf88). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "9754e9d0eb40c31c",
+  "shade": "Sage",
+  "hex": "#9caf88"
+}

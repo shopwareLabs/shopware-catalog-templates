@@ -1,0 +1,71 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Product packaging for a compact digital single-outlet garden water timer, showing the timer with a clear display and tap connection, readable generic garden-use visuals, realistic retail product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Digital Water Timer"
+    },
+    {
+      "group": "Outlet",
+      "value": "Single Outlet"
+    },
+    {
+      "group": "Compatibility",
+      "value": "Standard Outdoor Tap"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.99,
+  "width": 607,
+  "height": 210,
+  "length": 548,
+  "ean": "9266180004448",
+  "manufacturerNumber": "MPN-SK6Z5U1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 3CLJ"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Water Timer - Digital - Single Outlet",
+  "variantConfigs": [
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "50 Plant Kit",
+        "Greenhouse Kit",
+        "20 Plant Kit"
+      ],
+      "priceModifiers": {
+        "50 Plant Kit": 1.5,
+        "Greenhouse Kit": 1.1,
+        "20 Plant Kit": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "2 L",
+        "1 L",
+        "5 L"
+      ],
+      "priceModifiers": {
+        "2 L": 1.1,
+        "1 L": 0.9,
+        "5 L": 1.5
+      }
+    }
+  ]
+}

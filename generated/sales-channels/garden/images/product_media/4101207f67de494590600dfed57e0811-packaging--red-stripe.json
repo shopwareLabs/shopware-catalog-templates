@@ -1,0 +1,10 @@
+{
+  "productId": "4101207f67de494590600dfed57e0811",
+  "productName": "packaging--red-stripe",
+  "generatedAt": "2026-11-10T15:43:47.501Z",
+  "prompt": "Recolour the product to Red Stripe (#b5433f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "1a55d732745ac11c",
+  "shade": "Red Stripe",
+  "hex": "#b5433f"
+}

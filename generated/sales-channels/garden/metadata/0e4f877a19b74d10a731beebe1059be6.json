@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail photograph of a four-piece brass garden hose connector set, show polished brass finish, threaded and quick-connect ends clearly, arranged neatly on a neutral white surface."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Brass"
+    },
+    {
+      "group": "Material",
+      "value": "Brass"
+    },
+    {
+      "group": "Quantity",
+      "value": "4 pieces"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 6.23,
+  "width": 576,
+  "height": 1012,
+  "length": 1880,
+  "ean": "3940529530527",
+  "manufacturerNumber": "MPN-4S5WX5SG",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 7TJB"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Brass Hose Connector Set - Brass - 4 Piece"
+}

@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail presentation of a charcoal 210-litre garden rain barrel, showing its fitted lid and lower tap, clean garden-supply packaging or display, realistic product photography with accurate proportions."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a charcoal rain barrel showing the secure lid, molded body texture and low-mounted water tap connection, crisp natural light, realistic e-commerce product image."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Capacity",
+      "value": "210 Litre"
+    },
+    {
+      "group": "Material",
+      "value": "UV-Resistant Plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.86,
+  "width": 1014,
+  "height": 162,
+  "length": 1609,
+  "ean": "1924721402419",
+  "manufacturerNumber": "MPN-A8EBRXMO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch LKY4"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Rain Barrel - Charcoal - 210 Litre, UV-Resistant Plastic construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Charcoal",
+        "Forest Green",
+        "Sandstone",
+        "Terracotta"
+      ],
+      "priceModifiers": {
+        "Charcoal": 1,
+        "Forest Green": 1,
+        "Sandstone": 1,
+        "Terracotta": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "1 L",
+        "2 L",
+        "3 L"
+      ],
+      "priceModifiers": {
+        "1 L": 0.9,
+        "2 L": 1.1,
+        "3 L": 1.25
+      }
+    }
+  ],
+  "defaultColor": "Charcoal",
+  "variantColors": [
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    },
+    {
+      "name": "Sandstone",
+      "hex": "#c8aa7a",
+      "family": "beige"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    }
+  ]
+}

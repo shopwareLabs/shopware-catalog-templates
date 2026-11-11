@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a matte black metal garden arch with a classic open climbing-frame design, shown clearly against a soft neutral background, realistic proportions and finish."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the matte black garden arch frame and metal finish, highlighting clean joins and sturdy structure, crisp realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Material",
+      "value": "Powder-Coated Metal"
+    },
+    {
+      "group": "Type",
+      "value": "Climbing Plant Arch"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.25,
+  "width": 564,
+  "height": 1071,
+  "length": 1148,
+  "ean": "3316977332677",
+  "manufacturerNumber": "MPN-GRWUN214",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 34OO"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Garden Arch - Matte Black - Classic Climbing Frame, Powder-Coated Metal construction"
+}

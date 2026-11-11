@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of natural rattan-look outdoor sofa weave and frame, crisp realistic woven texture, neutral background and soft daylight."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product photograph of a three-seat natural rattan-look outdoor sofa with clean cushions, fully visible against a bright neutral studio background; realistic proportions and detailed weave."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of a natural rattan-look three-seat outdoor sofa, showing arm shape, seat depth, and woven frame against a clean light background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Material",
+      "value": "All-Weather Wicker"
+    },
+    {
+      "group": "Type",
+      "value": "Three-Seat Sofa"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 15.8,
+  "width": 831,
+  "height": 887,
+  "length": 1116,
+  "ean": "5814683113866",
+  "manufacturerNumber": "MPN-043XHF1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch JNSJ"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Sofa - Natural Rattan - Three Seat, All-Weather Wicker construction"
+}

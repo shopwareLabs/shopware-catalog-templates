@@ -1,0 +1,103 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a natural rattan-style outdoor lounge chair with a relaxed profile, presented against a clean pale background; realistic woven texture, accurate shape, premium e-commerce photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Natural rattan-style lounge chair styled on a quiet garden patio with green plants and a small side table, soft cushions optional, warm natural daylight, inviting realistic lifestyle image."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Rattan"
+    },
+    {
+      "group": "Material",
+      "value": "Woven Resin"
+    },
+    {
+      "group": "Type",
+      "value": "Lounge Chair"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 17.14,
+  "width": 752,
+  "height": 77,
+  "length": 210,
+  "ean": "6908544372192",
+  "manufacturerNumber": "MPN-98Q0891G",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch Y1SM"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Outdoor Lounge Chair - Natural Rattan - Relaxed Profile, Woven Resin construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Natural Rattan",
+        "Charcoal",
+        "White",
+        "Olive"
+      ],
+      "priceModifiers": {
+        "Natural Rattan": 1,
+        "Charcoal": 1,
+        "White": 1,
+        "Olive": 1
+      }
+    }
+  ],
+  "defaultColor": "Natural Rattan",
+  "variantColors": [
+    {
+      "name": "Natural Rattan",
+      "hex": "#c6a477",
+      "family": "beige"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Olive",
+      "hex": "#808000",
+      "family": "green"
+    }
+  ]
+}

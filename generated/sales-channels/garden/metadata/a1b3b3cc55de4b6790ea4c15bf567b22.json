@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A warm white solar garden lantern glowing softly beside a garden path among leafy plants and flowers at dusk, tasteful home garden atmosphere, realistic evening light, no text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile product photograph of a solar garden lantern with a visible ground stake and compact solar panel, neutral studio background, warm white lens, realistic details, no text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Solar garden lantern with ground stake displayed beside simple eco-inspired retail packaging, warm white light visible, clean garden-product studio composition, no legible text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Warm White"
+    },
+    {
+      "group": "Power Source",
+      "value": "Solar"
+    },
+    {
+      "group": "Mounting",
+      "value": "Ground Stake"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.17,
+  "width": 504,
+  "height": 517,
+  "length": 858,
+  "ean": "0087508930480",
+  "manufacturerNumber": "MPN-HGYZK6B7",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch AX15"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Solar Garden Lantern - Warm White - Stake Mount"
+}

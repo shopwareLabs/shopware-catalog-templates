@@ -1,0 +1,109 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a blue and light neutral striped outdoor seat cushion showing its woven fabric texture and neatly finished seams, bright natural light, realistic ecommerce photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Outdoor cushion folded and neatly presented in simple retail packaging, blue stripe fabric clearly visible through or beside the packaging, uncluttered studio product image."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Blue striped outdoor seat cushion placed on a garden chair on a sunny patio with green plants nearby, welcoming outdoor living scene, natural realistic photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue Stripe"
+    },
+    {
+      "group": "Material",
+      "value": "Outdoor Fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Seat Cushion"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.6,
+  "width": 1400,
+  "height": 918,
+  "length": 1252,
+  "ean": "4195912414772",
+  "manufacturerNumber": "MPN-ZWT5IW10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 811N"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Cushion - Blue Stripe - Seat Pad, Outdoor Fabric construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Blue Stripe",
+        "Green Stripe",
+        "Red Stripe",
+        "Charcoal Stripe"
+      ],
+      "priceModifiers": {
+        "Blue Stripe": 1,
+        "Green Stripe": 1,
+        "Red Stripe": 1,
+        "Charcoal Stripe": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "3 L",
+        "5 L",
+        "1 L"
+      ],
+      "priceModifiers": {
+        "3 L": 1.25,
+        "5 L": 1.5,
+        "1 L": 0.9
+      }
+    }
+  ],
+  "defaultColor": "Blue Stripe",
+  "variantColors": [
+    {
+      "name": "Blue Stripe",
+      "hex": "#3b6f9c",
+      "family": "multicolor"
+    },
+    {
+      "name": "Green Stripe",
+      "hex": "#4f7d4b",
+      "family": "multicolor"
+    },
+    {
+      "name": "Red Stripe",
+      "hex": "#b5433f",
+      "family": "multicolor"
+    },
+    {
+      "name": "Charcoal Stripe",
+      "hex": "#424242",
+      "family": "multicolor"
+    }
+  ]
+}

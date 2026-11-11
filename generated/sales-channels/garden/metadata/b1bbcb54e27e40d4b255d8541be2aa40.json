@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a coiled expandable garden hose in bright blue with connector ends visible, photographed on a clean light background; realistic flexible fabric-textured exterior, no branding."
+    },
+    {
+      "view": "front",
+      "prompt": "E-commerce front view of a blue expandable garden hose neatly arranged in a compact coil, fittings aligned and clearly visible, bright white studio background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the hose's blue outer weave and sturdy connector fitting, sharp focus on material texture and connection point, neutral garden-inspired background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue"
+    },
+    {
+      "group": "Length",
+      "value": "15 m"
+    },
+    {
+      "group": "Type",
+      "value": "Expandable garden hose"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.36,
+  "width": 484,
+  "height": 1154,
+  "length": 767,
+  "ean": "1452802842408",
+  "manufacturerNumber": "MPN-83UR151C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch BSQP"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Expandable Garden Hose - Blue - 15 m"
+}

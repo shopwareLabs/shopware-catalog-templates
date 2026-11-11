@@ -1,0 +1,10 @@
+{
+  "productId": "4101207f67de494590600dfed57e0811",
+  "productName": "lifestyle--charcoal-stripe",
+  "generatedAt": "2026-11-10T15:43:49.225Z",
+  "prompt": "Recolour the product to Charcoal Stripe (#424242). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "de755c2e18e0d1ad",
+  "shade": "Charcoal Stripe",
+  "hex": "#424242"
+}

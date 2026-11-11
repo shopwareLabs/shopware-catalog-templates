@@ -1,0 +1,10 @@
+{
+  "productId": "15fa819c82ea41b1b776f1ddad8e6c82",
+  "productName": "detail--teak-brown",
+  "generatedAt": "2026-11-10T15:43:28.907Z",
+  "prompt": "Recolour the product to Teak Brown (#8b5a32). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "5f8c01f0db53d3e7",
+  "shade": "Teak Brown",
+  "hex": "#8b5a32"
+}

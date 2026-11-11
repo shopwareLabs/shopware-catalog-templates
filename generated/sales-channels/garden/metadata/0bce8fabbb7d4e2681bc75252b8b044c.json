@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a black drip irrigation starter kit arranged with flexible tubing, small connectors and emitters, crisp focus on the components against a clean pale background, no text or branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Length",
+      "value": "20 m"
+    },
+    {
+      "group": "Type",
+      "value": "Drip irrigation starter kit"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 7,
+  "width": 664,
+  "height": 786,
+  "length": 1536,
+  "ean": "1676159643673",
+  "manufacturerNumber": "MPN-CLYNDL10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch FO87"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Drip Irrigation Starter Kit - Black - 20 m"
+}

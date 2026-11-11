@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a 5-litre sage green galvanized watering can with long spout and removable rose attachment, isolated on a clean white background, soft even lighting, show the full silhouette clearly."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Capacity",
+      "value": "5 L"
+    },
+    {
+      "group": "Material",
+      "value": "Galvanized steel"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.99,
+  "width": 891,
+  "height": 801,
+  "length": 558,
+  "ean": "3991938832429",
+  "manufacturerNumber": "MPN-SDPZH31S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 3VB0"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Galvanized Watering Can - Sage Green - 5 L, Galvanized steel construction"
+}

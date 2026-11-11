@@ -3,23 +3,21 @@
   "slug": "type",
   "displayType": "text",
   "options": [
-    "All Purpose",
-    "Seed Starting",
-    "Cactus & Succulent",
-    "Orchid Mix",
-    "Acid Loving",
-    "Potting Premium",
-    "Moisture Control"
+    "20 Plant Kit",
+    "30 Plant Kit",
+    "50 Plant Kit",
+    "Patio Kit",
+    "Greenhouse Kit",
+    "Micro Sprinkler Kit"
   ],
   "priceModifiers": {
-    "All Purpose": 1,
-    "Seed Starting": 1.1,
-    "Cactus & Succulent": 1,
-    "Orchid Mix": 1.1,
-    "Acid Loving": 1.05,
-    "Potting Premium": 1.1,
-    "Moisture Control": 1.05
+    "20 Plant Kit": 1,
+    "30 Plant Kit": 1.2,
+    "50 Plant Kit": 1.5,
+    "Patio Kit": 0.95,
+    "Greenhouse Kit": 1.1,
+    "Micro Sprinkler Kit": 1.05
   },
-  "createdAt": "2026-03-13T08:27:09.354Z",
+  "createdAt": "2026-11-10T15:36:18.081Z",
   "source": "ai-generated"
 }

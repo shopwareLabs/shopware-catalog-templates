@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front-facing ecommerce image of an eight-variety culinary herb seed collection in a neat retail packet, clear readable botanical-style label, small herb illustrations, clean neutral background, soft studio lighting, no additional products."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Culinary herb seeds"
+    },
+    {
+      "group": "Varieties",
+      "value": "8 varieties"
+    },
+    {
+      "group": "Color",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 4.08,
+  "width": 544,
+  "height": 145,
+  "length": 567,
+  "ean": "7202656441722",
+  "manufacturerNumber": "MPN-MF6QROL2",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch H3EW"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Herb Seed Collection - Culinary Mix - 8 Varieties, Green finish"
+}
