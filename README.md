@@ -114,7 +114,7 @@ This ensures:
   </tr>
   <tr>
     <td><img src="assets/stores/garden.webp" alt="garden template homepage" width="400"><br><b>garden</b></td>
-    <td></td>
+    <td><img src="assets/stores/music.webp" alt="music template homepage" width="400"><br><b>music</b></td>
   </tr>
 </table>
 
