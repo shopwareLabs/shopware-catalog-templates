@@ -1,0 +1,10 @@
+{
+  "productId": "39162cc530af4ea4861e100a7e45325e",
+  "productName": "packaging--rose",
+  "generatedAt": "2026-11-10T15:04:40.469Z",
+  "prompt": "Recolour the product to Rose (#e8789a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "8f26095d4b0825d8",
+  "shade": "Rose",
+  "hex": "#e8789a"
+}

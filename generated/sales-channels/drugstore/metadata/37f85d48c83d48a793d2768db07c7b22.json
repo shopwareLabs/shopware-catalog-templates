@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing retail product photo of a neatly folded set of four microfiber cleaning cloths in assorted colors, simple paper band packaging, bright clean studio background, realistic textile texture."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the fine microfiber weave and neatly stitched edge of a folded cleaning cloth, natural soft lighting, crisp realistic fabric texture."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle product view showing the compact thickness and stacked layers of four folded microfiber cloths, minimal clean background, accurate proportions."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Microfiber"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Quantity",
+      "value": "4 cloths"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.67,
+  "width": 1368,
+  "height": 744,
+  "length": 410,
+  "ean": "5437536391862",
+  "manufacturerNumber": "MPN-WEOU0WWY",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch BR00"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Microfiber Cleaning Cloth Set - Multicolor - 4 Pack"
+}

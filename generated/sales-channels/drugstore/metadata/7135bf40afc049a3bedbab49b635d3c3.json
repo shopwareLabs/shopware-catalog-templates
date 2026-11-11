@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a 400 ml everyday moisture-care shampoo bottle, practical curved bottle with flip-top cap, clean white packaging and subtle aqua accents, generic readable label, bright neutral studio background, soft realistic shadow."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Everyday shampoo bottle standing on a shower shelf beside neatly arranged bath essentials, clean modern bathroom, gentle natural light, fresh uncluttered atmosphere, realistic 400 ml packaging with understated aqua details."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of a small glossy shampoo lather texture on wet fingertips beside the 400 ml bottle, water droplets and clean shower setting, soft focused lighting, hygienic product photography, no people or extra branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Moisture-Care Shampoo"
+    },
+    {
+      "group": "Size",
+      "value": "400 ml"
+    },
+    {
+      "group": "Hair Concern",
+      "value": "Dryness"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.67,
+  "width": 233,
+  "height": 1072,
+  "length": 569,
+  "ean": "1335049183704",
+  "manufacturerNumber": "MPN-M5QJBOXC",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch L0XX"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Everyday Shampoo - Moisture Care - 400ml"
+}

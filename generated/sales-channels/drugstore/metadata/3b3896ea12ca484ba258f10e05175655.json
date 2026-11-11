@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing 50 ml tube of fragrance-free daily hydrating face moisturizer, clean white and pale blue packaging with simple generic typography, centered on a bright neutral background, realistic drugstore skincare photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A clean bathroom counter scene with a simple 50 ml face moisturizer tube beside a folded white towel and a small mirror; soft morning daylight, calm everyday skincare styling, no visible brand logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "50 ml"
+    },
+    {
+      "group": "Scent",
+      "value": "Fragrance Free"
+    },
+    {
+      "group": "Texture",
+      "value": "Lightweight Cream"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.14,
+  "width": 846,
+  "height": 423,
+  "length": 676,
+  "ean": "4698346098063",
+  "manufacturerNumber": "MPN-1NXNZE3I",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch ETM5"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Daily Hydrating Face Moisturizer - Fragrance Free - 50ml"
+}

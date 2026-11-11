@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle beauty still life featuring a dusty rose cream lipstick in a simple elegant tube beside a small neutral makeup pouch and soft fabric, warm natural light, refined everyday cosmetics mood, no people and no visible brand logo."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro product detail of a cream lipstick bullet in a muted dusty rose shade, smooth angled tip and clean tube edge in sharp focus, soft studio lighting against a pale neutral background, no text or branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Size",
+      "value": "4 g"
+    },
+    {
+      "group": "Finish",
+      "value": "Cream"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.83,
+  "width": 770,
+  "height": 268,
+  "length": 939,
+  "ean": "8093346422782",
+  "manufacturerNumber": "MPN-TCOG5110",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch QUVN"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Cream Lipstick - Dusty Rose - 4g"
+}

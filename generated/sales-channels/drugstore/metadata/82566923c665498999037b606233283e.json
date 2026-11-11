@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of a sterile fabric adhesive dressing showing its soft woven backing and absorbent center, clean neutral studio lighting, no visible brand or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A tidy generic box of assorted sterile fabric adhesive dressings with a few individually wrapped dressings arranged beside it, white background, restrained healthcare packaging design without readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Sterile adhesive dressing"
+    },
+    {
+      "group": "Material",
+      "value": "Breathable fabric"
+    },
+    {
+      "group": "Size",
+      "value": "Assorted"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.43,
+  "width": 549,
+  "height": 232,
+  "length": 746,
+  "ean": "1729228553226",
+  "manufacturerNumber": "MPN-M60HUM18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch THY3"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Sterile Adhesive Dressings - Assorted Sizes - Breathable Fabric"
+}

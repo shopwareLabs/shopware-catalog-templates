@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio photograph of a 750 ml trigger spray bottle of citrus all-purpose surface cleaner, clear bottle with light yellow liquid and a white-and-green generic label, sharp packaging details, isolated on white."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on e-commerce product photo of a 750 ml citrus surface cleaner in a trigger spray bottle, fresh yellow and green label design, clean readable generic wording, bright white background, soft shadow, no additional props."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Citrus"
+    },
+    {
+      "group": "Size",
+      "value": "750 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Ready-to-Use Spray"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 7.73,
+  "width": 295,
+  "height": 239,
+  "length": 1909,
+  "ean": "4548913933924",
+  "manufacturerNumber": "MPN-JJT74K1K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch K3OA"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "All-Purpose Surface Cleaner - Citrus - 750 ml"
+}

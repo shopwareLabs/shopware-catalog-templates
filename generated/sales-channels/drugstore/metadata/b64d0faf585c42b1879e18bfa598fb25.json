@@ -1,0 +1,108 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a soft dusty blue adjustable sleep eye mask, front-facing clean generic label with product visible through a simple window, neutral studio background, polished drugstore e-commerce photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product photo of a dusty blue fabric sleep eye mask laid flat, adjustable elastic strap visible, soft texture in focus, isolated on a bright white background with gentle shadows."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle image of a person relaxing on a sofa wearing a soft dusty blue sleep eye mask, peaceful natural window light and uncluttered home setting, face shown comfortably, premium yet realistic wellness photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Blue"
+    },
+    {
+      "group": "Material",
+      "value": "Soft fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable sleep eye mask"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 4.66,
+  "width": 1090,
+  "height": 1033,
+  "length": 734,
+  "ean": "5684152343021",
+  "manufacturerNumber": "MPN-SBIMRK1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 7GO9"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Gentle Sleep Eye Mask - Dusty Blue - Adjustable Strap, Soft fabric construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Dusty Blue",
+        "Charcoal",
+        "Lavender",
+        "Blush Pink"
+      ],
+      "priceModifiers": {
+        "Dusty Blue": 1,
+        "Charcoal": 1,
+        "Lavender": 1,
+        "Blush Pink": 1
+      }
+    }
+  ],
+  "defaultColor": "Dusty Blue",
+  "variantColors": [
+    {
+      "name": "Dusty Blue",
+      "hex": "#7f9db5",
+      "family": "blue"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    },
+    {
+      "name": "Blush Pink",
+      "hex": "#e8a6ad",
+      "family": "pink"
+    }
+  ]
+}

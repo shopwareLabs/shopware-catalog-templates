@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing ecommerce product photo of a 400 ml aloe daily shampoo bottle, fresh white bottle with a subtle green accent and clean generic label, centered on a white background, soft even lighting, no brand logo."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a 400 ml daily shampoo bottle showing its curved bottle profile and cap, white packaging with a restrained aloe-green accent, isolated on a bright neutral background, realistic studio product photography, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "400 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Daily Shampoo"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Aloe"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.21,
+  "width": 1190,
+  "height": 942,
+  "length": 972,
+  "ean": "5452848061807",
+  "manufacturerNumber": "MPN-8S5NLQCJ",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch JHXL"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Gentle Daily Shampoo - Aloe - 400ml"
+}

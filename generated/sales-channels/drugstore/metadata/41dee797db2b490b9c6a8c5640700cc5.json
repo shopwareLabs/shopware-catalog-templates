@@ -1,0 +1,66 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a 100 ml SPF 30 sunscreen lotion bottle showing the cap, smooth white packaging, and clear generic sun-care label, bright studio lighting on a clean background."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view of a compact sunscreen lotion bottle with a practical flip-top cap and restrained yellow-and-white generic packaging, isolated on a pale background, realistic product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Sunscreen lotion bottle in a bright outdoor-ready setting beside sunglasses and a folded light towel, soft summer daylight, clean uncluttered scene, realistic everyday sun-care lifestyle photo."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "100ml"
+    },
+    {
+      "group": "Sun Protection",
+      "value": "SPF 30"
+    },
+    {
+      "group": "Type",
+      "value": "Lotion"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.98,
+  "width": 118,
+  "height": 59,
+  "length": 1419,
+  "ean": "4606104763368",
+  "manufacturerNumber": "MPN-1MQERO1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch I1GZ"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Daily Sunscreen Lotion - SPF 30 - 100ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "500ml",
+        "750ml",
+        "1L"
+      ],
+      "priceModifiers": {
+        "500ml": 1.5,
+        "750ml": 2,
+        "1L": 2.5
+      }
+    }
+  ]
+}

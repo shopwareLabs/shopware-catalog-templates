@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a bottle of vitamin D3 softgels showing a clean generic label and sealed cap, softgels subtly visible through a small clear section if appropriate, bright neutral studio lighting, no unsupported health claims."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Front-facing retail bottle packaging for vitamin D3 1000 IU softgels, generic readable label with count information, professional drugstore product photo on white background, realistic proportions."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view of a compact vitamin D3 softgel bottle with legible generic supplement label and secure cap, clean studio setting, soft shadows, e-commerce photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Vitamin D3 supplement"
+    },
+    {
+      "group": "Strength",
+      "value": "1000 IU"
+    },
+    {
+      "group": "Count",
+      "value": "90 softgels"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.34,
+  "width": 646,
+  "height": 833,
+  "length": 1133,
+  "ean": "2900674952323",
+  "manufacturerNumber": "MPN-D6WUW61G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch IY9J"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Vitamin D3 Softgels - 1000 IU - 90 Count"
+}

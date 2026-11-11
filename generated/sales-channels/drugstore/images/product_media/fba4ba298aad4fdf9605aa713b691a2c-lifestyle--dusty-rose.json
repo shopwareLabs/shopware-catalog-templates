@@ -1,0 +1,10 @@
+{
+  "productId": "fba4ba298aad4fdf9605aa713b691a2c",
+  "productName": "lifestyle--dusty-rose",
+  "generatedAt": "2026-11-10T15:05:45.259Z",
+  "prompt": "Recolour the product to Dusty Rose (#c08081). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "8f3e9b38aab43c8d",
+  "shade": "Dusty Rose",
+  "hex": "#c08081"
+}

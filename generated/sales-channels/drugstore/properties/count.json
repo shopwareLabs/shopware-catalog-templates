@@ -1,0 +1,23 @@
+{
+  "name": "Count",
+  "slug": "count",
+  "displayType": "text",
+  "options": [
+    "15 Count",
+    "30 Count",
+    "45 Count",
+    "60 Count",
+    "90 Count",
+    "120 Count"
+  ],
+  "priceModifiers": {
+    "15 Count": 0.6,
+    "30 Count": 1,
+    "45 Count": 1.4,
+    "60 Count": 1.8,
+    "90 Count": 2.5,
+    "120 Count": 3.2
+  },
+  "createdAt": "2026-11-10T14:58:22.599Z",
+  "source": "ai-generated"
+}

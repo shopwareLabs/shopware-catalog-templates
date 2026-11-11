@@ -1,0 +1,55 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a neat carton of single-serve citrus electrolyte powder sachets with a fresh, clean hydration-inspired design, generic unbranded packaging, bright white studio background, no readable text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "E-commerce packaging arrangement showing a generic box and several slim single-serve hydration powder sachets, subtle citrus color accents, clean white background, no legible writing."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Flavor",
+      "value": "Citrus"
+    },
+    {
+      "group": "Form",
+      "value": "Powder sachets"
+    },
+    {
+      "group": "Use",
+      "value": "Mix with water"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.28,
+  "width": 1296,
+  "height": 539,
+  "length": 151,
+  "ean": "1304666424712",
+  "manufacturerNumber": "MPN-EI1V24QK",
+  "packaging": {
+    "unitShortCode": "pc",
+    "purchaseUnit": 12,
+    "referenceUnit": 1,
+    "packUnit": "Box",
+    "packUnitPlural": "Boxes",
+    "unitName": "Piece"
+  },
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch P0TV"
+  },
+  "manufacturerName": "Bandarae",
+  "baseImagePrompt": "Electrolyte Hydration Powder - Citrus - Single-Serve Sachets"
+}

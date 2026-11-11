@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, realistic kitchen cleaning scene with a lemon-scented multi-surface cleaner spray bottle on a clean counter beside a folded cloth, sunlit home setting, no people, tidy composition."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a 750 ml trigger spray bottle of citrus multi-surface cleaner, clear product silhouette and label, neutral studio background, soft even lighting."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging photograph of a lemon multi-surface cleaner in a 750 ml trigger bottle, vivid but tasteful citrus label, legible generic product branding, upright on a white background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Ready-to-use spray"
+    },
+    {
+      "group": "Scent",
+      "value": "Lemon"
+    },
+    {
+      "group": "Size",
+      "value": "750 ml"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.48,
+  "width": 621,
+  "height": 328,
+  "length": 1974,
+  "ean": "1242224024380",
+  "manufacturerNumber": "MPN-OXZKD3OJ",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch ZWKR"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Citrus Multi-Surface Cleaner - Lemon - 750ml"
+}

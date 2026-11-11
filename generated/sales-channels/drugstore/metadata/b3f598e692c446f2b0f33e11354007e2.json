@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Clean e-commerce front view of a compact digital thermometer with a flexible tip and clear LCD display, neutral white background, realistic proportions, no readable brand or added text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A calm, bright home-health setting with a digital thermometer placed neatly beside a small first-aid organizer on a clean bathroom counter, soft natural light, no people, no readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Digital Thermometer"
+    },
+    {
+      "group": "Feature",
+      "value": "Flexible Tip"
+    },
+    {
+      "group": "Feature",
+      "value": "Fever Alert"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 17.54,
+  "width": 1266,
+  "height": 647,
+  "length": 120,
+  "ean": "3252866247212",
+  "manufacturerNumber": "MPN-YO2WFO5G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch TCQY"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Digital Thermometer - Flexible Tip - Fever Alert"
+}

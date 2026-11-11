@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Studio ecommerce image of a compact box of assorted flexible fabric adhesive bandages, clear first-aid visual cues and realistic retail packaging, front-facing on a white background, no graphic injury imagery, no unsupported claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Adhesive fabric bandage"
+    },
+    {
+      "group": "Size",
+      "value": "Assorted"
+    },
+    {
+      "group": "Count",
+      "value": "30 bandages"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.28,
+  "width": 1130,
+  "height": 899,
+  "length": 879,
+  "ean": "4354458371714",
+  "manufacturerNumber": "MPN-RLU2RS1A",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch CPLR"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Flexible Fabric Bandages - Assorted Sizes - 30 Count"
+}

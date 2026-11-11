@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "A pair of soft foam earplugs arranged beside their small storage case, warm neutral background, realistic detailed drugstore product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail package of soft foam earplugs showing a clear count of 10 pairs, simple generic design, front-facing on a bright white background, no unsupported claims."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of two compact foam earplugs displayed upright with their packaging behind them, clean studio lighting, realistic e-commerce catalog image."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Foam earplugs"
+    },
+    {
+      "group": "Quantity",
+      "value": "10 pairs"
+    },
+    {
+      "group": "Material",
+      "value": "Soft foam"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.81,
+  "width": 236,
+  "height": 155,
+  "length": 1920,
+  "ean": "5798174301454",
+  "manufacturerNumber": "MPN-EES14HMT",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch LTY4"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Foam Earplugs - Soft Foam - 10 Pairs",
+  "variantConfigs": [
+    {
+      "group": "Quantity",
+      "selectedOptions": [
+        "10 Pairs",
+        "20 Pairs",
+        "30 Pairs"
+      ],
+      "priceModifiers": {
+        "10 Pairs": 1,
+        "20 Pairs": 1.8,
+        "30 Pairs": 2.5
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Peach",
+        "Blue",
+        "Mint",
+        "Purple"
+      ],
+      "priceModifiers": {
+        "Peach": 1,
+        "Blue": 1,
+        "Mint": 1,
+        "Purple": 1
+      }
+    }
+  ],
+  "defaultColor": "Peach",
+  "variantColors": [
+    {
+      "name": "Peach",
+      "hex": "#ffcba4",
+      "family": "orange"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Mint",
+      "hex": "#98d7b5",
+      "family": "green"
+    },
+    {
+      "name": "Purple",
+      "hex": "#9333ea",
+      "family": "purple"
+    }
+  ]
+}

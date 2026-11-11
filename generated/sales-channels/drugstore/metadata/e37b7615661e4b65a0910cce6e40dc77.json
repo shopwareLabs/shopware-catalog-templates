@@ -1,0 +1,99 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of a Berry Rose tinted lip balm, with the balm bullet visible and realistic smooth texture; clean beauty retail photography, soft neutral lighting, no added logos or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A single compact twist-up tinted lip balm in Berry Rose shown with its cap beside it, upright against a clean pale background; realistic drugstore product packaging photography, legible generic labeling, no brand marks."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Berry Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Sheer"
+    },
+    {
+      "group": "Size",
+      "value": "4 g"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.22,
+  "width": 748,
+  "height": 239,
+  "length": 711,
+  "ean": "1026046621084",
+  "manufacturerNumber": "MPN-SLNZXK8A",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch NU4I"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Tinted Lip Balm - Berry Rose - 4g",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Berry Rose",
+        "Soft Coral",
+        "Mauve Pink",
+        "Classic Red"
+      ],
+      "priceModifiers": {
+        "Berry Rose": 1,
+        "Soft Coral": 1,
+        "Mauve Pink": 1,
+        "Classic Red": 1
+      }
+    }
+  ],
+  "defaultColor": "Berry Rose",
+  "variantColors": [
+    {
+      "name": "Berry Rose",
+      "hex": "#a94b68",
+      "family": "pink"
+    },
+    {
+      "name": "Soft Coral",
+      "hex": "#f28c7a",
+      "family": "orange"
+    },
+    {
+      "name": "Mauve Pink",
+      "hex": "#b7849a",
+      "family": "pink"
+    },
+    {
+      "name": "Classic Red",
+      "hex": "#d32f2f",
+      "family": "red"
+    }
+  ]
+}

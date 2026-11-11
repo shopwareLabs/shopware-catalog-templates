@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a neatly rolled elastic support bandage with a subtle woven texture, isolated on a bright white studio background, realistic product photography, no logo or legible text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up macro detail showing the stretch-knit texture and clean edge of an elastic support bandage, soft even lighting, neutral background, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce product image of a rolled elastic support bandage beside its simple generic paper sleeve, crisp white background, neutral presentation, no readable branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "7.5 cm"
+    },
+    {
+      "group": "Material",
+      "value": "Elastic woven fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Reusable support wrap"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 1.99,
+  "width": 142,
+  "height": 994,
+  "length": 1173,
+  "ean": "3402435823013",
+  "manufacturerNumber": "MPN-YGG0CI1W",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 1B28"
+  },
+  "manufacturerName": "Bandarae",
+  "baseImagePrompt": "Elastic Support Bandage - 7.5 cm - Reusable Wrap, Elastic woven fabric construction"
+}

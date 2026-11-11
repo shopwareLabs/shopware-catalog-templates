@@ -1,0 +1,23 @@
+{
+  "name": "Scent",
+  "slug": "scent",
+  "displayType": "text",
+  "options": [
+    "Fresh Linen",
+    "Lavender",
+    "Spring Meadow",
+    "Citrus Breeze",
+    "Ocean Fresh",
+    "Unscented"
+  ],
+  "priceModifiers": {
+    "Fresh Linen": 1,
+    "Lavender": 1,
+    "Spring Meadow": 1,
+    "Citrus Breeze": 1,
+    "Ocean Fresh": 1,
+    "Unscented": 1
+  },
+  "createdAt": "2026-11-10T14:58:15.913Z",
+  "source": "ai-generated"
+}

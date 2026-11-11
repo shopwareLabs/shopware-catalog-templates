@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product image showing the soft woven texture and stitched edges of a microfiber cleaning cloth, with several folded cloths in distinct bright colors in the background, crisp realistic fabric detail, clean studio lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A neatly arranged set of colorful microfiber cleaning cloths beside a clean kitchen counter and spray bottle, illustrating reusable everyday household cleaning, bright natural light, tidy contemporary home, no visible brand logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Material",
+      "value": "Microfiber"
+    },
+    {
+      "group": "Count",
+      "value": "6 cloths"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.81,
+  "width": 627,
+  "height": 377,
+  "length": 1457,
+  "ean": "7801207201855",
+  "manufacturerNumber": "MPN-AVSGZGU3",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch L9LZ"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Microfiber Cleaning Cloths - Multicolor - 6 Pack"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Quantity",
+  "slug": "quantity",
+  "displayType": "text",
+  "options": [
+    "5 Pairs",
+    "10 Pairs",
+    "20 Pairs",
+    "30 Pairs",
+    "50 Pairs",
+    "100 Pairs"
+  ],
+  "priceModifiers": {
+    "5 Pairs": 0.6,
+    "10 Pairs": 1,
+    "20 Pairs": 1.8,
+    "30 Pairs": 2.5,
+    "50 Pairs": 4,
+    "100 Pairs": 7.5
+  },
+  "createdAt": "2026-11-10T14:58:21.425Z",
+  "source": "ai-generated"
+}

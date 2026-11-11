@@ -1,0 +1,82 @@
+{
+  "classic red": {
+    "name": "Classic Red",
+    "hex": "#d32f2f",
+    "family": "red"
+  },
+  "nude": {
+    "name": "Nude",
+    "hex": "#d8b89a",
+    "family": "beige"
+  },
+  "berry": {
+    "name": "Berry",
+    "hex": "#8e294d",
+    "family": "red"
+  },
+  "dusty rose": {
+    "name": "Dusty Rose",
+    "hex": "#c08081",
+    "family": "pink"
+  },
+  "berry rose": {
+    "name": "Berry Rose",
+    "hex": "#a94b68",
+    "family": "pink"
+  },
+  "soft coral": {
+    "name": "Soft Coral",
+    "hex": "#f28c7a",
+    "family": "orange"
+  },
+  "mauve pink": {
+    "name": "Mauve Pink",
+    "hex": "#b7849a",
+    "family": "pink"
+  },
+  "deep black": {
+    "name": "Deep Black",
+    "hex": "#171717",
+    "family": "black"
+  },
+  "pale blue": {
+    "name": "Pale Blue",
+    "hex": "#b9d8e8",
+    "family": "blue"
+  },
+  "soft pink": {
+    "name": "Soft Pink",
+    "hex": "#f2b8c6",
+    "family": "pink"
+  },
+  "pale pink": {
+    "name": "Pale Pink",
+    "hex": "#f7d7df",
+    "family": "pink"
+  },
+  "light green": {
+    "name": "Light Green",
+    "hex": "#b8d8b0",
+    "family": "green"
+  },
+  "dusty blue": {
+    "name": "Dusty Blue",
+    "hex": "#7f9db5",
+    "family": "blue"
+  },
+  "blush pink": {
+    "name": "Blush Pink",
+    "hex": "#e8a6ad",
+    "family": "pink"
+  },
+  "soft green": {
+    "name": "Soft Green",
+    "hex": "#a8c9a0",
+    "family": "green"
+  },
+  "soft blue": {
+    "name": "Soft Blue",
+    "hex": "#a9cce3",
+    "family": "blue"
+  }
+}

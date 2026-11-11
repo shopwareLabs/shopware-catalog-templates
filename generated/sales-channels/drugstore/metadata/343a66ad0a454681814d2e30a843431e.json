@@ -1,0 +1,109 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic e-commerce product image of a 50 ml fragrance-free daily moisturizing cream in a clean, modern cosmetic tube with a secure cap, understated white and soft blue label, legible generic product styling, isolated on a bright white background, packaging facing camera, soft studio lighting, no extra objects or promotional claims."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Daily Face Moisturizer"
+    },
+    {
+      "group": "Size",
+      "value": "50 ml"
+    },
+    {
+      "group": "Fragrance",
+      "value": "Fragrance Free"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 10.47,
+  "width": 603,
+  "height": 804,
+  "length": 248,
+  "ean": "7542134773274",
+  "manufacturerNumber": "MPN-S9T4FQ1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 3J1T"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Daily Moisturizing Cream - Fragrance Free - 50ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "750ml",
+        "200ml",
+        "300ml"
+      ],
+      "priceModifiers": {
+        "750ml": 2,
+        "200ml": 0.75,
+        "300ml": 1
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Ivory",
+        "Pale Blue",
+        "Soft Pink"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Ivory": 1,
+        "Pale Blue": 1,
+        "Soft Pink": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    },
+    {
+      "name": "Pale Blue",
+      "hex": "#b9d8e8",
+      "family": "blue"
+    },
+    {
+      "name": "Soft Pink",
+      "hex": "#f2b8c6",
+      "family": "pink"
+    }
+  ]
+}

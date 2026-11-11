@@ -1,0 +1,10 @@
+{
+  "productId": "1d94336a77c14fb8b377dc44ad0048aa",
+  "productName": "packaging--pale-pink",
+  "generatedAt": "2026-11-10T15:05:21.356Z",
+  "prompt": "Recolour the product to Pale Pink (#f7d7df). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "a451e3d4bbf9e203",
+  "shade": "Pale Pink",
+  "hex": "#f7d7df"
+}

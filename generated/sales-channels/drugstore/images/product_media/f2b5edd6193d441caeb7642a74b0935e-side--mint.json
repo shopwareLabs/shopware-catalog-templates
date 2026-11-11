@@ -1,0 +1,10 @@
+{
+  "productId": "f2b5edd6193d441caeb7642a74b0935e",
+  "productName": "side--mint",
+  "generatedAt": "2026-11-10T15:05:38.814Z",
+  "prompt": "Recolour the product to Mint (#98d7b5). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "239f1ea78fb13eb6",
+  "shade": "Mint",
+  "hex": "#98d7b5"
+}

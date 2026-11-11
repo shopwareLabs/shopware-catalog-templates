@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Everyday conditioner bottle displayed on a tidy shower shelf beside a shampoo bottle and folded towel, warm natural bathroom light, clean realistic drugstore hair-care lifestyle photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view of a 300 ml conditioner bottle with a flip-top cap and minimal cream-and-teal generic label, isolated on a pale neutral background, crisp studio lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "300ml"
+    },
+    {
+      "group": "Type",
+      "value": "Rinse-Out Conditioner"
+    },
+    {
+      "group": "Finish",
+      "value": "Smooth"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.92,
+  "width": 1031,
+  "height": 931,
+  "length": 915,
+  "ean": "7822873033267",
+  "manufacturerNumber": "MPN-AVPZMI1K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch H2AK"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Nourishing Hair Conditioner - Smooth Finish - 300ml"
+}

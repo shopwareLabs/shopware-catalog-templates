@@ -1,0 +1,79 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, realistic laundry-room lifestyle scene with a 1.5L fresh-linen liquid detergent bottle beside a neatly arranged basket of folded clean clothes; soft daylight, tidy neutral setting, label visible and no people."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view of a 1.5L liquid laundry detergent bottle, showing its practical handle, cap, and side label on a clean white studio background; crisp commercial product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of the detergent bottle label and pour cap, highlighting fresh-linen fragrance and liquid format; realistic packaging texture, sharp focus, neutral studio background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Liquid Detergent"
+    },
+    {
+      "group": "Scent",
+      "value": "Fresh Linen"
+    },
+    {
+      "group": "Size",
+      "value": "1.5L"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.75,
+  "width": 368,
+  "height": 525,
+  "length": 1864,
+  "ean": "3235234762289",
+  "manufacturerNumber": "MPN-MR98881G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 9PVD"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Laundry Detergent - Fresh Linen - 1.5L",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Lavender",
+        "Ocean Fresh",
+        "Unscented"
+      ],
+      "priceModifiers": {
+        "Lavender": 1,
+        "Ocean Fresh": 1,
+        "Unscented": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Small",
+        "Large",
+        "Extra Small"
+      ],
+      "priceModifiers": {
+        "Small": 0.9,
+        "Large": 1.1,
+        "Extra Small": 0.8
+      }
+    }
+  ]
+}

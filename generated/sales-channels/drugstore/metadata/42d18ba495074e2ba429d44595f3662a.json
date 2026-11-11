@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A bottle of lemon dishwashing liquid standing beside a kitchen sink with a sponge, a few clean dishes, and a bowl of fresh lemons, bright daylight and tidy home kitchen, realistic commercial product photography, label facing camera."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a compact 500 ml squeeze bottle of lemon dishwashing liquid, yellow liquid visible through translucent packaging, clean yellow-and-white generic label, isolated on white studio background."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce image of a 500 ml lemon dishwashing liquid bottle with a fresh yellow label and secure flip-top cap, crisp readable generic packaging, centered on pure white background, soft studio shadow."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Lemon"
+    },
+    {
+      "group": "Size",
+      "value": "500 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid Dish Soap"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.4,
+  "width": 758,
+  "height": 673,
+  "length": 80,
+  "ean": "3977628991409",
+  "manufacturerNumber": "MPN-C7MP1X0I",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch NG5R"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Dishwashing Liquid - Lemon - 500 ml"
+}

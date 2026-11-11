@@ -1,0 +1,10 @@
+{
+  "productId": "1d94336a77c14fb8b377dc44ad0048aa",
+  "productName": "lifestyle--pale-pink",
+  "generatedAt": "2026-11-10T15:05:08.987Z",
+  "prompt": "Recolour the product to Pale Pink (#f7d7df). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "87b200833ef3795d",
+  "shade": "Pale Pink",
+  "hex": "#f7d7df"
+}

@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A navy adjustable sleep mask resting neatly on a softly lit bedside table beside a folded blanket and book, calm evening bedroom scene, premium realistic lifestyle photography, no people, no text or sleep-treatment claims."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Fit",
+      "value": "Adjustable"
+    },
+    {
+      "group": "Type",
+      "value": "Light-blocking sleep mask"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.53,
+  "width": 1493,
+  "height": 51,
+  "length": 110,
+  "ean": "6977552093191",
+  "manufacturerNumber": "MPN-HJ6HJS10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 2G1Z"
+  },
+  "manufacturerName": "Bandarae",
+  "baseImagePrompt": "Sleep Mask - Navy - Adjustable Fit",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Navy",
+        "Black",
+        "Gray",
+        "Dusty Rose"
+      ],
+      "priceModifiers": {
+        "Navy": 1,
+        "Black": 1,
+        "Gray": 1,
+        "Dusty Rose": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Large",
+        "Small",
+        "Medium"
+      ],
+      "priceModifiers": {
+        "Large": 1.1,
+        "Small": 0.9,
+        "Medium": 1
+      }
+    }
+  ],
+  "defaultColor": "Navy",
+  "variantColors": [
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Gray",
+      "hex": "#6b7280",
+      "family": "gray"
+    },
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    }
+  ]
+}

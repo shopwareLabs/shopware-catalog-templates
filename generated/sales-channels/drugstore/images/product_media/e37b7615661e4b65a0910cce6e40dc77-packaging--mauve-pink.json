@@ -1,0 +1,10 @@
+{
+  "productId": "e37b7615661e4b65a0910cce6e40dc77",
+  "productName": "packaging--mauve-pink",
+  "generatedAt": "2026-11-10T15:05:01.964Z",
+  "prompt": "Recolour the product to Mauve Pink (#b7849a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "f18eebba2781da51",
+  "shade": "Mauve Pink",
+  "hex": "#b7849a"
+}

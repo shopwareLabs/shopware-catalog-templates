@@ -1,0 +1,58 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of a neatly arranged six-roll pack of white paper towels, retail wrapping visible with clear generic labeling, isolated on a white studio background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "White paper towel roll on a kitchen counter beside a neatly wiped countertop and a small everyday spill cleanup, bright natural light, welcoming realistic home setting."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Front-facing ecommerce image of a six-roll paper towel multipack wrapped in clean white packaging, clear 6-roll identification and simple household design, bright studio background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Pack Size",
+      "value": "6 Rolls"
+    },
+    {
+      "group": "Type",
+      "value": "Paper Towels"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.75,
+  "width": 759,
+  "height": 565,
+  "length": 1276,
+  "ean": "4499738912932",
+  "manufacturerNumber": "MPN-XW3VC01W",
+  "minPurchase": 5,
+  "purchaseSteps": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch E09N"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Paper Towels - White - 6 Rolls"
+}

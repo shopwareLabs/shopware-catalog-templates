@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Neat modern kitchen scene showing a lined 30L waste bin with drawstring edges gathered neatly, a compact roll of trash bags nearby; clean neutral decor, realistic household lifestyle photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "E-commerce product image of a compact roll pack of 20 drawstring trash bags, front label clearly indicating 30L capacity; simple clean packaging, white studio background and sharp focus."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle close-up of a dark drawstring trash bag fitted inside a medium household bin, showing the gathered drawstring rim and secure fit; neutral background, realistic product detail."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Drawstring Trash Bags"
+    },
+    {
+      "group": "Capacity",
+      "value": "30L"
+    },
+    {
+      "group": "Pack Size",
+      "value": "20 Count"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.65,
+  "width": 391,
+  "height": 1068,
+  "length": 281,
+  "ean": "0173955232984",
+  "manufacturerNumber": "MPN-NOQLG21O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 41VY"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Drawstring Trash Bags - 30L - 20 Count"
+}

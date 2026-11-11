@@ -1,0 +1,10 @@
+{
+  "productId": "9fd04be496f34e2ba49c0650905082bb",
+  "productName": "lifestyle--classic-red",
+  "generatedAt": "2026-11-10T15:04:55.882Z",
+  "prompt": "Recolour the product to Classic Red (#d32f2f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "979d11cfcb69b144",
+  "shade": "Classic Red",
+  "hex": "#d32f2f"
+}

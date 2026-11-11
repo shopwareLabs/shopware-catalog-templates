@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front-facing e-commerce product image of a compact bottle of adult daily multivitamin tablets, clean white label with readable generic product wording, sealed cap, neutral studio background, soft even lighting, no medical claims or extra props."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Adult multivitamin"
+    },
+    {
+      "group": "Count",
+      "value": "60 tablets"
+    },
+    {
+      "group": "Form",
+      "value": "Tablet"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.85,
+  "width": 261,
+  "height": 1110,
+  "length": 320,
+  "ean": "5496383422679",
+  "manufacturerNumber": "MPN-OK0X311W",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch RBGL"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Daily Multivitamin Tablets - Adult Formula - 60 Tablets"
+}

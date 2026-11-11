@@ -1,0 +1,23 @@
+{
+  "name": "Size",
+  "slug": "size",
+  "displayType": "text",
+  "options": [
+    "100ml",
+    "200ml",
+    "300ml",
+    "500ml",
+    "750ml",
+    "1L"
+  ],
+  "priceModifiers": {
+    "100ml": 0.5,
+    "200ml": 0.75,
+    "300ml": 1,
+    "500ml": 1.5,
+    "750ml": 2,
+    "1L": 2.5
+  },
+  "createdAt": "2026-11-10T14:58:16.153Z",
+  "source": "ai-generated"
+}

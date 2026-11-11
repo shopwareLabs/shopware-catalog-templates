@@ -1,0 +1,132 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product image of a 300 ml foaming hand soap pump bottle with a clean aloe-inspired label, soft green accents, white studio background, realistic retail packaging."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Hand soap bottle shown upright with its pump dispenser and label clearly visible, fresh botanical aloe graphics, simple bright packaging photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Foaming hand soap bottle placed beside a modern bathroom sink with a neatly folded hand towel and subtle green plant accent, bright natural daylight, tidy home hygiene scene."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Aloe fresh"
+    },
+    {
+      "group": "Size",
+      "value": "300 ml"
+    },
+    {
+      "group": "Color",
+      "value": "Soft Green"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 1.84,
+  "width": 546,
+  "height": 1091,
+  "length": 1375,
+  "ean": "5829384004610",
+  "manufacturerNumber": "MPN-8HED8U10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch ZSJK"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Foaming Hand Soap - Aloe Fresh - 300ml, Soft Green finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Soft Green",
+        "Transparent",
+        "Soft Blue",
+        "White"
+      ],
+      "priceModifiers": {
+        "Soft Green": 1,
+        "Transparent": 1,
+        "Soft Blue": 1,
+        "White": 1
+      }
+    },
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Ocean Fresh",
+        "Citrus Breeze"
+      ],
+      "priceModifiers": {
+        "Ocean Fresh": 1,
+        "Citrus Breeze": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "200ml",
+        "750ml",
+        "100ml"
+      ],
+      "priceModifiers": {
+        "200ml": 0.75,
+        "750ml": 2,
+        "100ml": 0.5
+      }
+    }
+  ],
+  "defaultColor": "Soft Green",
+  "variantColors": [
+    {
+      "name": "Soft Green",
+      "hex": "#a8c9a0",
+      "family": "green"
+    },
+    {
+      "name": "Transparent",
+      "hex": "#f5f5f5",
+      "family": "transparent"
+    },
+    {
+      "name": "Soft Blue",
+      "hex": "#a9cce3",
+      "family": "blue"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

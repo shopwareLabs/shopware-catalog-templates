@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, clean everyday wellness scene with a sealed adult multivitamin bottle on a neat bathroom shelf beside a glass of water; realistic drugstore product photography, no people, no medical claims, no legible invented text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on ecommerce product photo of a compact adult multivitamin tablet bottle with a secure cap and simple professional label, centered on a pure white background, soft even lighting, realistic packaging, no added badges or misleading claims."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of an adult multivitamin bottle showing a realistic supplement facts panel area and bottle profile, crisp studio lighting on white, legible-looking but non-specific label details, no invented health claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Adult multivitamin"
+    },
+    {
+      "group": "Count",
+      "value": "60 tablets"
+    },
+    {
+      "group": "Form",
+      "value": "Tablet"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.8,
+  "width": 60,
+  "height": 195,
+  "length": 1784,
+  "ean": "2141508712991",
+  "manufacturerNumber": "MPN-130R001S",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch MFNX"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Daily Multivitamin Tablets - Adult Formula - 60 Count"
+}

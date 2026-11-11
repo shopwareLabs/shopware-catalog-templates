@@ -1,0 +1,73 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging image of a 1L liquid fabric softener bottle with a spring meadow floral label, closed cap and clearly visible product name; front three-quarter angle on a plain light background, realistic e-commerce photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Fabric Softener"
+    },
+    {
+      "group": "Scent",
+      "value": "Spring Meadow"
+    },
+    {
+      "group": "Size",
+      "value": "1L"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.12,
+  "width": 1217,
+  "height": 72,
+  "length": 1657,
+  "ean": "0915144121163",
+  "manufacturerNumber": "MPN-7MX03K9C",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch CPXR"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Fabric Softener - Spring Meadow - 1L",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Lavender",
+        "Spring Meadow",
+        "Ocean Fresh"
+      ],
+      "priceModifiers": {
+        "Lavender": 1,
+        "Spring Meadow": 1,
+        "Ocean Fresh": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Extra Large",
+        "Extra Small",
+        "Medium"
+      ],
+      "priceModifiers": {
+        "Extra Large": 1.2,
+        "Extra Small": 0.8,
+        "Medium": 1
+      }
+    }
+  ]
+}

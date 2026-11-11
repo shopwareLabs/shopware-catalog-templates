@@ -1,0 +1,511 @@
+{
+  "salesChannelName": "drugstore",
+  "pages": [
+    {
+      "name": "Text Elements",
+      "processor": "cms-text",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Everyday Care Essentials</h1>\n<p style=\"text-align: center;\">Discover trusted staples for skincare, hair care, personal hygiene, health, and home</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Simple Daily Care</h2>\n<p>Find the everyday essentials that make caring for yourself and your home a little easier. From nourishing skincare to practical household supplies, our range is ready for your routine.</p>\n<ul>\n    <li>Skincare and hair care favorites</li>\n    <li>Personal hygiene and grooming essentials</li>\n    <li>Health basics and useful cleaning supplies</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Care Made Convenient</h2>\n<p style=\"text-align: center;\"><i>Explore trusted everyday essentials, all in one place</i></p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Care for You</h3>\n<p>Build a routine that works for you with skincare, hair care, cosmetics, and personal hygiene essentials for everyday comfort and confidence.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Essentials for Home</h3>\n<p>Keep useful household and health basics close at hand, from practical cleaning supplies to first-aid staples for everyday needs.</p>"
+                }
+              ]
+            },
+            {
+              "type": "html",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Elements",
+      "processor": "cms-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Everyday Care Essentials</h1>\n<p style=\"text-align: center;\">Explore trusted favorites for skincare, hair care, personal care, and home</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Daily Care Favorites</h2>\n<p>Browse a rotating selection of skincare, grooming, and hygiene essentials to help keep everyday routines simple.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-slider",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Everyday Essentials</h2>\n<p>Explore trusted staples for personal care, first aid, and household cleaning, all in one convenient collection.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-gallery",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Elements",
+      "processor": "cms-video",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Video Elements</h1>\n<p style=\"text-align: center;\">Discover simple tips for skincare, hair care, and everyday wellness</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">YouTube Video</h2>\n<p style=\"text-align: center;\">Everyday skincare essentials for your routine</p>"
+                }
+              ]
+            },
+            {
+              "type": "youtube-video",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Video</h2>\n<p style=\"text-align: center;\">Easy tips for healthy hair and personal care</p>"
+                }
+              ]
+            },
+            {
+              "type": "vimeo-video",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text & Images",
+      "processor": "cms-text-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Everyday Care, Made Simple</h1>\n<p style=\"text-align: center;\">Discover trusted essentials for your daily routine, from skincare and hair care to health and home.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Skincare for Every Day</h2>\n<p>Build a simple routine with everyday skincare favorites, from gentle cleansers to nourishing moisturizers. Find trusted staples to help keep your skin feeling comfortable and cared for.</p>\n<p>Choose practical essentials that fit easily into your morning and evening routine.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Essentials for Your Routine</h2>\n<p>From hair care and cosmetics to personal hygiene, find the everyday products you reach for most. Explore dependable favorites for getting ready, freshening up, and feeling your best.</p>\n<p>With daily essentials in one convenient place, restocking your routine is simple.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center;\">Care for the Whole Home</h2>\n<p style=\"text-align: center;\">Stock up on practical household supplies, first-aid basics, and personal care favorites—all the everyday essentials that help life run smoothly.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 4,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Skin Care Staples</h3>\n<p style=\"text-align: center;\">Find nourishing moisturizers and gentle cleansers to make everyday skincare feel easy.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Hair Care Favorites</h3>\n<p style=\"text-align: center;\">Keep your routine simple with everyday shampoos, conditioners, and grooming essentials.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Health & Home Basics</h3>\n<p style=\"text-align: center;\">Be ready for everyday needs with first-aid essentials and practical cleaning supplies.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-on-image",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\">\n<h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Everyday Essentials, All in One Place</h2>\n<p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">Make daily care and household restocking simple with trusted skincare, personal hygiene, health, and home essentials.</p>\n</div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commerce Elements",
+      "processor": "cms-commerce",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Everyday Care Essentials</h1>\n<p style=\"text-align: center;\">Explore trusted products for your daily care and home routines</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Daily Care Favorites</h2>\n<p style=\"text-align: center;\">Discover skincare, hair care, and household essentials in a three-column layout</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-three-column",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Shop Everyday Essentials</h2>\n<p style=\"text-align: center;\">Browse a carousel of personal care and home products with navigation controls</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Product Details</h2>\n<p style=\"text-align: center;\">Explore product images, details, and convenient add-to-cart options</p>"
+                }
+              ]
+            },
+            {
+              "type": "gallery-buybox",
+              "position": 6,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 7,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Browse Care Categories</h2>\n<p style=\"text-align: center;\">Find skincare, hygiene, health, and household essentials with easy navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "category-navigation",
+              "position": 8,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Elements",
+      "processor": "cms-form",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Everyday Care Essentials</h1>\n<p style=\"text-align: center;\">Simple ways to find the products that fit your daily routine</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">We're Here to Help</h2>\n<p style=\"text-align: center;\">Contact us with questions about your order or everyday essentials</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Get Everyday Care Tips</h2>\n<p style=\"text-align: center;\">Sign up for product news, helpful tips, and store updates</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMS Element Showcase",
+      "processor": "cms-welcome",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Everyday Care Essentials</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Make daily routines simpler with trusted skincare, hair care, personal hygiene, health and household essentials.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Skincare & Hair Care</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Everyday moisturizers, cleansers, shampoos and grooming essentials</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Beauty & Personal Care</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Cosmetics and hygiene staples for your daily routine</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Health & Home</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">First-aid basics and practical cleaning supplies</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Care for Every Day</h2>\n<p style=\"text-align: center; color: #666;\">Find the essentials that make everyday care easy. Explore nourishing skincare, hair care, personal hygiene and household staples, all in one convenient place.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Everyday Essentials</h3>\n<p>Stock up on trusted products for your daily routine:</p>\n<ul style=\"color: #666;\">\n    <li>Moisturizers and skincare staples</li>\n    <li>Hair care and grooming products</li>\n    <li>Cosmetics and personal hygiene</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Health & Household</h3>\n<p>Find practical basics for home and wellbeing:</p>\n<ul style=\"color: #666;\">\n    <li>First-aid essentials</li>\n    <li>Everyday health supplies</li>\n    <li>Cleaning and household products</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Overview",
+      "processor": "cms-testing",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Everyday Care Essentials</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore trusted skincare, hair care, personal hygiene, health and household essentials for your daily routine.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Everyday Care</h2>\n<p>Discover practical essentials for the routines that keep you feeling fresh and your home running smoothly:</p>\n<ul>\n<li><strong>Skincare</strong> - Nourishing moisturizers and daily skin care</li>\n<li><strong>Hair Care</strong> - Shampoos, conditioners and styling staples</li>\n<li><strong>Cosmetics</strong> - Everyday makeup and beauty essentials</li>\n<li><strong>Personal Hygiene</strong> - Dependable products for daily freshness</li>\n<li><strong>Health</strong> - First-aid basics and handy care essentials</li>\n<li><strong>Household</strong> - Practical cleaning supplies for your home</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Shop by Routine</h2>\n<p>Find everyday products to suit your personal care needs and household routines:</p>\n<ul>\n<li><strong>Daily Skincare</strong> - Moisturizers and essentials for everyday care</li>\n<li><strong>Hair Care Staples</strong> - Products for washing, conditioning and styling</li>\n<li><strong>Personal Care</strong> - Convenient hygiene and grooming essentials</li>\n</ul>\n<p style=\"margin-top: 16px; color: #666;\">Browse each category to find trusted staples for your daily routine.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hydratedAt": "2026-11-10T14:58:28.594Z"
+}

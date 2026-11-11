@@ -1,0 +1,71 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing image of a 1 L liquid fabric softener bottle with a spring blossom floral label, secure cap, fresh pastel styling, clean white studio background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Spring blossom"
+    },
+    {
+      "group": "Size",
+      "value": "1 L"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid fabric softener"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 6.56,
+  "width": 280,
+  "height": 1150,
+  "length": 1508,
+  "ean": "3930695292213",
+  "manufacturerNumber": "MPN-OMO1EC1S",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch R5J7"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Laundry Fabric Softener - Spring Blossom - 1L",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Unscented",
+        "Lavender",
+        "Spring Meadow"
+      ],
+      "priceModifiers": {
+        "Unscented": 1,
+        "Lavender": 1,
+        "Spring Meadow": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "300ml",
+        "200ml",
+        "500ml"
+      ],
+      "priceModifiers": {
+        "300ml": 1,
+        "200ml": 0.75,
+        "500ml": 1.5
+      }
+    }
+  ]
+}

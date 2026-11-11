@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Dusty rose nail polish bottle beside a neat at-home manicure setup with a soft neutral towel and a few simple beauty accessories, bright natural daylight, clean realistic lifestyle photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Glossy"
+    },
+    {
+      "group": "Type",
+      "value": "Nail Polish"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.47,
+  "width": 1265,
+  "height": 671,
+  "length": 1560,
+  "ean": "3665691021870",
+  "manufacturerNumber": "MPN-UYGMVJQS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch TF3D"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Nail Polish - Dusty Rose - Glossy",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Dusty Rose",
+        "Classic Red",
+        "Mauve",
+        "Coral"
+      ],
+      "priceModifiers": {
+        "Dusty Rose": 1,
+        "Classic Red": 1,
+        "Mauve": 1,
+        "Coral": 1
+      }
+    }
+  ],
+  "defaultColor": "Dusty Rose",
+  "variantColors": [
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    },
+    {
+      "name": "Classic Red",
+      "hex": "#d32f2f",
+      "family": "red"
+    },
+    {
+      "name": "Mauve",
+      "hex": "#b784a7",
+      "family": "purple"
+    },
+    {
+      "name": "Coral",
+      "hex": "#ff7f50",
+      "family": "orange"
+    }
+  ]
+}

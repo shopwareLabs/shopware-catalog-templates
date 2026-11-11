@@ -1,0 +1,10 @@
+{
+  "productId": "8340425b2288448d8a9c8b29249418ad",
+  "productName": "packaging--soft-blue",
+  "generatedAt": "2026-11-10T15:06:56.157Z",
+  "prompt": "Recolour the product to Soft Blue (#a9cce3). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "088a05e3ea5ffc71",
+  "shade": "Soft Blue",
+  "hex": "#a9cce3"
+}

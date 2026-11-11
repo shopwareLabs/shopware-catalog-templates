@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a compact retail pack of black drawstring trash bags, showing folded bag edges and clear 30-count labeling, clean studio product photography on white."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Black drawstring trash bag fitted neatly inside a modern kitchen wastebasket, drawstring edge visible, bright clean kitchen setting, realistic household lifestyle photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Count",
+      "value": "30 Count"
+    },
+    {
+      "group": "Closure",
+      "value": "Drawstring"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.3,
+  "width": 1448,
+  "height": 657,
+  "length": 1823,
+  "ean": "0562403501350",
+  "manufacturerNumber": "MPN-R6JYEH5C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 8XCQ"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Drawstring Trash Bags - Black - 30 Count"
+}

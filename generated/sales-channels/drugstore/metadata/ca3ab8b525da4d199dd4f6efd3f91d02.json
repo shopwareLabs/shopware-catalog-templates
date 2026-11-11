@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up ecommerce image of a 750ml all-purpose citrus surface cleaner spray bottle, label and trigger nozzle in sharp focus, clean white background, realistic commercial lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Citrus"
+    },
+    {
+      "group": "Size",
+      "value": "750ml"
+    },
+    {
+      "group": "Type",
+      "value": "Spray"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.51,
+  "width": 806,
+  "height": 1112,
+  "length": 1916,
+  "ean": "4614445421199",
+  "manufacturerNumber": "MPN-HJ0ILK3U",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch YKK3"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "All-Purpose Surface Cleaner - Citrus - 750ml"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Clean, realistic front-facing e-commerce product photo of a 50 ml fragrance-free face moisturizer in a simple white cosmetic tube with a neat cap and restrained blue label; centered on a bright white background, readable generic packaging, soft even studio lighting."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail image of the moisturizer tube’s smooth packaging, cap, and understated fragrance-free label, showing realistic surface texture and crisp generic typography in soft studio light; no extra products or claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "50ml"
+    },
+    {
+      "group": "Type",
+      "value": "Fragrance-Free"
+    },
+    {
+      "group": "Finish",
+      "value": "Lightweight"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.57,
+  "width": 288,
+  "height": 451,
+  "length": 1330,
+  "ean": "9587809071055",
+  "manufacturerNumber": "MPN-ACHJ9SQF",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 5OEQ"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Daily Hydrating Face Moisturizer - Fragrance-Free - 50ml"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Type",
+  "slug": "type",
+  "displayType": "text",
+  "options": [
+    "Standard Flexible",
+    "Waterproof",
+    "Backlit Display",
+    "Fever Alarm",
+    "Dual Scale",
+    "Bluetooth Connected"
+  ],
+  "priceModifiers": {
+    "Standard Flexible": 1,
+    "Waterproof": 1.1,
+    "Backlit Display": 1.1,
+    "Fever Alarm": 1,
+    "Dual Scale": 1,
+    "Bluetooth Connected": 1.2
+  },
+  "createdAt": "2026-11-10T14:58:19.483Z",
+  "source": "ai-generated"
+}

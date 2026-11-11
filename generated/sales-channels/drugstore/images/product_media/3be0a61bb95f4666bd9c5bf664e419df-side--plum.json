@@ -1,0 +1,10 @@
+{
+  "productId": "3be0a61bb95f4666bd9c5bf664e419df",
+  "productName": "side--plum",
+  "generatedAt": "2026-11-10T15:04:51.800Z",
+  "prompt": "Recolour the product to Plum (#8e4585). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "1b23f2ca5aeccc9b",
+  "shade": "Plum",
+  "hex": "#8e4585"
+}
