@@ -946,7 +946,7 @@
       },
       "deliveryTimeIndex": 3,
       "type": "physical",
-      "metaTitle": "Electric Guitar - Sunburst - Double Cutaway",
+      "metaTitle": "Electric Guitar - Double Cutaway",
       "metaDescription": "Shape your sound with a versatile double-cutaway electric guitar designed for comfortable access across the fretboard. The familiar body profile supports sea..."
     },
     {
@@ -1151,7 +1151,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "MIDI Keyboard - White - 49-Key",
+      "metaTitle": "MIDI Keyboard - 49-Key",
       "metaDescription": "Build melodies, chord progressions, and studio arrangements with this compact 49-key MIDI keyboard. Its practical range gives players room for two-handed par..."
     },
     {
@@ -1267,7 +1267,7 @@
       },
       "deliveryTimeIndex": 1,
       "type": "physical",
-      "metaTitle": "Studio Headphones - Black - Over-Ear",
+      "metaTitle": "Studio Headphones - Over-Ear",
       "metaDescription": "Listen closely to mixes, backing tracks, and recorded performances with these over-ear studio headphones. The full-size earcups provide a comfortable listeni..."
     },
     {
@@ -1544,7 +1544,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Digital Piano - Black - 88-Key",
+      "metaTitle": "Digital Piano - Full-Range Layout - Piano-Inspired Playing",
       "metaDescription": "Enjoy a piano-inspired playing experience in a practical digital format. This 88-key digital piano provides a full-range keyboard layout for learning reperto..."
     },
     {
@@ -1937,7 +1937,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Acoustic Guitar - Natural - Concert",
+      "metaTitle": "Acoustic Guitar - Concert",
       "metaDescription": "Enjoy an easy-to-handle acoustic instrument with this concert-size guitar, a comfortable option for relaxed practice, songwriting, and everyday playing. Its ..."
     },
     {
@@ -2001,7 +2001,7 @@
       },
       "deliveryTimeIndex": 1,
       "type": "physical",
-      "metaTitle": "Acoustic Guitar - Natural Spruce - Dreadnought",
+      "metaTitle": "Acoustic Guitar - Spruce Top - Full-Bodied Sound",
       "metaDescription": "Bring a warm, full-bodied sound to practice sessions, songwriting, and casual performances with this dreadnought acoustic guitar. Its spruce top delivers cle..."
     },
     {
@@ -2131,7 +2131,7 @@
       },
       "deliveryTimeIndex": 2,
       "type": "physical",
-      "metaTitle": "Electric Guitar - Gloss Black - Solid Body",
+      "metaTitle": "Electric Guitar - Solid Body",
       "metaDescription": "Built for expressive playing across rehearsal, recording, and live settings, this solid-body electric guitar pairs a sleek gloss-black finish with a versatil..."
     },
     {
@@ -2269,7 +2269,7 @@
       },
       "deliveryTimeIndex": 3,
       "type": "physical",
-      "metaTitle": "Electronic Drum Kit - Black - Mesh Pad",
+      "metaTitle": "Electronic Drum Kit - Mesh Pad",
       "metaDescription": "Practice rhythm, refine coordination, and build complete arrangements with this compact electronic drum kit. Mesh playing surfaces provide a comfortable, res..."
     },
     {
@@ -2674,7 +2674,7 @@
       },
       "deliveryTimeIndex": 4,
       "type": "physical",
-      "metaTitle": "Acoustic Guitar - Natural Spruce - Dreadnought",
+      "metaTitle": "Acoustic Guitar - Full-Size Body - Balanced Projection",
       "metaDescription": "Bring a clear, balanced acoustic sound to practice sessions, songwriting, and relaxed performances with this dreadnought guitar. Its full-size body delivers ..."
     },
     {
@@ -3138,7 +3138,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Headphones - Black - Over-Ear",
+      "metaTitle": "Headphones - Over-Ear",
       "metaDescription": "Listen closely during practice, recording, and everyday music-making with these comfortable over-ear headphones. The closed-back style helps create a focused..."
     },
     {
@@ -3325,7 +3325,7 @@
       },
       "deliveryTimeIndex": 2,
       "type": "physical",
-      "metaTitle": "Clip-On Chromatic Tuner - Black - Rotating Display",
+      "metaTitle": "Clip-On Chromatic Tuner - Rotating Display",
       "metaDescription": "Get ready to play with a compact clip-on chromatic tuner designed for quick, convenient tuning at home, in the practice room, or backstage. Attach the tuner ..."
     },
     {
@@ -3918,7 +3918,7 @@
       },
       "deliveryTimeIndex": 4,
       "type": "physical",
-      "metaTitle": "Guitar Strap - Woven Jacquard - Adjustable",
+      "metaTitle": "Guitar Strap - Woven Jacquard",
       "metaDescription": "Add comfort and character to your playing with this woven jacquard guitar strap, designed for rehearsals, performances, and everyday practice. Its patterned ..."
     },
     {
@@ -4052,7 +4052,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Guitar Picks - Celluloid - Medium",
+      "metaTitle": "Guitar Picks - Celluloid",
       "metaDescription": "Keep a reliable pick close at hand with this medium-gauge celluloid guitar pick. The balanced flexibility offers an approachable feel for rhythm playing whil..."
     },
     {
@@ -4247,7 +4247,7 @@
       },
       "deliveryTimeIndex": 2,
       "type": "physical",
-      "metaTitle": "Instrument Cable - 6.35 mm Jack - 3 m",
+      "metaTitle": "Instrument Cable - 6.35 mm Jack",
       "metaDescription": "Connect an instrument to an amplifier or compatible audio input with this practical 6.35 mm jack instrument cable. At three metres long, it offers convenient..."
     },
     {
@@ -4516,7 +4516,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Guitar Capo - Spring Clamp - Aluminum",
+      "metaTitle": "Guitar Capo - Spring Clamp",
       "metaDescription": "Change keys quickly and explore new voicings with this spring-clamp guitar capo. Designed to fit across the neck of a compatible steel-string guitar, it hold..."
     },
     {
@@ -4649,7 +4649,7 @@
       },
       "deliveryTimeIndex": 1,
       "type": "physical",
-      "metaTitle": "Guitar Picks - Medium - Tortoiseshell",
+      "metaTitle": "Guitar Picks",
       "metaDescription": "Bring a dependable feel to every practice, rehearsal, and performance with these medium-gauge guitar picks. Their balanced flexibility gives players a comfor..."
     },
     {
@@ -4745,7 +4745,7 @@
       },
       "deliveryTimeIndex": 2,
       "type": "physical",
-      "metaTitle": "Guitar Strings - Light Gauge - Nickel Wound",
+      "metaTitle": "Guitar Strings",
       "metaDescription": "Refresh your instrument’s sound and feel with this light-gauge set of nickel-wound electric guitar strings. The balanced construction is designed to deliver ..."
     },
     {
@@ -4954,7 +4954,7 @@
       },
       "deliveryTimeIndex": 4,
       "type": "physical",
-      "metaTitle": "Instrument Stand - Folding Tripod - Black",
+      "metaTitle": "Instrument Stand - Folding Tripod",
       "metaDescription": "Keep a frequently played instrument accessible and safely supported with this folding tripod instrument stand. The collapsible frame is convenient for musici..."
     },
     {
@@ -5555,7 +5555,7 @@
       },
       "deliveryTimeIndex": 2,
       "type": "physical",
-      "metaTitle": "Guitar Strap - Woven Cotton - Forest Green",
+      "metaTitle": "Guitar Strap - Woven Cotton",
       "metaDescription": "Stay comfortable through practice and performance with this adjustable woven cotton guitar strap. The soft textile construction sits comfortably on the shoul..."
     },
     {
@@ -6132,7 +6132,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Choir Rehearsal Folder - Black - Expanding Music Storage",
+      "metaTitle": "Choir Rehearsal Folder - Expanding Music Storage",
       "metaDescription": "Keep sheet music organized and accessible with a durable folder designed for choir rehearsals and performances. Its expanding interior helps hold loose pages..."
     },
     {
@@ -6377,7 +6377,7 @@
       },
       "deliveryTimeIndex": 3,
       "type": "physical",
-      "metaTitle": "Choir Music Folder - Navy - Lightweight Performance Binder",
+      "metaTitle": "Choir Music Folder - Lightweight Performance Binder",
       "metaDescription": "Carry rehearsal and performance music in an organized, easy-to-handle binder made for singers. The lightweight folder keeps printed pages gathered in one pla..."
     },
     {
@@ -6948,7 +6948,7 @@
       },
       "deliveryTimeIndex": 1,
       "type": "physical",
-      "metaTitle": "Piano Method Book - Beginner Level - Illustrated Lessons",
+      "metaTitle": "Piano Method Book - Step-by-Step Lessons - Keyboard Skills",
       "metaDescription": "Build a confident foundation at the piano with a clearly paced method book designed for new players. Short, focused lessons introduce essential keyboard skil..."
     },
     {
@@ -7188,7 +7188,7 @@
       },
       "deliveryTimeIndex": 4,
       "type": "physical",
-      "metaTitle": "Music Theory Flash Cards - Note Reading - Multicolor",
+      "metaTitle": "Music Theory Flash Cards - Note Reading",
       "metaDescription": "Make music theory review more engaging with a set of flash cards focused on note reading. The cards provide a straightforward way to practice identifying wri..."
     },
     {
@@ -7549,7 +7549,7 @@
       },
       "deliveryTimeIndex": 4,
       "type": "physical",
-      "metaTitle": "Piano Method Book - Beginner - Keyboard Basics",
+      "metaTitle": "Piano Method Book - Keyboard Basics",
       "metaDescription": "Start building confident piano skills with a clearly structured method book designed for beginning players. Lessons introduce essential keyboard concepts at ..."
     },
     {
@@ -7637,7 +7637,7 @@
       },
       "deliveryTimeIndex": 0,
       "type": "physical",
-      "metaTitle": "Guitar Songbook - Beginner - Chord Arrangements",
+      "metaTitle": "Guitar Songbook - Chord Arrangements",
       "metaDescription": "Make early guitar practice more rewarding with a songbook arranged for beginner players. Familiar melodies and approachable chord progressions give new music..."
     },
     {
@@ -7733,7 +7733,7 @@
       },
       "deliveryTimeIndex": 1,
       "type": "physical",
-      "metaTitle": "Vocal Warm-Up Book - Beginner - Daily Exercises",
+      "metaTitle": "Vocal Warm-Up Book - Daily Exercises",
       "metaDescription": "Prepare the voice for singing with a practical collection of guided warm-up exercises for beginner vocalists. The book offers a structured way to ease into p..."
     },
     {
@@ -7829,7 +7829,7 @@
       },
       "deliveryTimeIndex": 2,
       "type": "physical",
-      "metaTitle": "Choir Rehearsal Guide - Mixed Voice - Practice Edition",
+      "metaTitle": "Choir Rehearsal Guide - Practice Edition",
       "metaDescription": "Support focused group rehearsals with a practical choir guide created for mixed-voice ensembles. The resource helps singers and directors organize preparatio..."
     },
     {
@@ -7922,7 +7922,7 @@
       },
       "deliveryTimeIndex": 3,
       "type": "physical",
-      "metaTitle": "Piano Sheet Music Collection - Intermediate - Classical Selections",
+      "metaTitle": "Piano Sheet Music Collection - Classical Selections",
       "metaDescription": "Explore a thoughtfully selected collection of classical piano pieces arranged for intermediate players. The repertoire offers a satisfying next step for pian..."
     },
     {
