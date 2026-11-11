@@ -1,0 +1,23 @@
+{
+  "name": "Format",
+  "slug": "format",
+  "displayType": "text",
+  "options": [
+    "Paperback",
+    "Hardcover",
+    "Spiral-Bound",
+    "eBook PDF",
+    "eBook EPUB",
+    "Audio Course"
+  ],
+  "priceModifiers": {
+    "Paperback": 1,
+    "Hardcover": 1.2,
+    "Spiral-Bound": 1.1,
+    "eBook PDF": 0.8,
+    "eBook EPUB": 0.8,
+    "Audio Course": 1.3
+  },
+  "createdAt": "2026-11-10T15:36:17.333Z",
+  "source": "ai-generated"
+}

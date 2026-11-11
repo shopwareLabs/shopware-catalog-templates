@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing guitar chord songbook with a polished, music-inspired cover, displayed upright against a simple studio backdrop, clear generic title treatment, realistic paperback finish."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of an open guitar songbook page showing neatly typeset lyrics, chord symbols, and small chord diagrams, clean legible layout without recognizable copyrighted songs, soft natural light."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Guitar songbook presented in protective retail packaging, cover visible and centered, understated musical graphics, neutral background, realistic e-commerce product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Guitar Songbook"
+    },
+    {
+      "group": "Level",
+      "value": "Easy"
+    },
+    {
+      "group": "Format",
+      "value": "Chords and Lyrics"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.25,
+  "width": 772,
+  "height": 776,
+  "length": 1103,
+  "ean": "2846294251531",
+  "manufacturerNumber": "MPN-BG2UEUPE",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch K8VC"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Guitar Chord Songbook - Popular Favorites - Easy Arrangements"
+}

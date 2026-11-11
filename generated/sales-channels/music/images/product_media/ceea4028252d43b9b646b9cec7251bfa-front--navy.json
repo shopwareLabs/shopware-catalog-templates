@@ -1,0 +1,10 @@
+{
+  "productId": "ceea4028252d43b9b646b9cec7251bfa",
+  "productName": "front--navy",
+  "generatedAt": "2026-11-10T15:43:59.618Z",
+  "prompt": "Recolour the product to Navy (#1e3a5f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "07da6505dc44690e",
+  "shade": "Navy",
+  "hex": "#1e3a5f"
+}

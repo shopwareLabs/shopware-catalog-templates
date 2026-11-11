@@ -1,0 +1,10 @@
+{
+  "productId": "ceea4028252d43b9b646b9cec7251bfa",
+  "productName": "front--red",
+  "generatedAt": "2026-11-10T15:44:01.360Z",
+  "prompt": "Recolour the product to Red (#dc2626). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "07da6505dc44690e",
+  "shade": "Red",
+  "hex": "#dc2626"
+}

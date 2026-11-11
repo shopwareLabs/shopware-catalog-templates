@@ -3,23 +3,21 @@
   "slug": "size",
   "displayType": "text",
   "options": [
-    "1/16",
-    "1/10",
-    "1/8",
-    "1/4",
-    "1/2",
-    "3/4",
-    "4/4"
+    "Standard",
+    "Short",
+    "Long",
+    "Extra Long",
+    "Kids",
+    "Wide"
   ],
   "priceModifiers": {
-    "1/16": 0.9,
-    "1/10": 0.9,
-    "1/8": 0.95,
-    "1/4": 0.95,
-    "1/2": 1,
-    "3/4": 1.05,
-    "4/4": 1.1
+    "Standard": 1,
+    "Short": 1,
+    "Long": 1,
+    "Extra Long": 1.1,
+    "Kids": 0.9,
+    "Wide": 1.1
   },
-  "createdAt": "2026-03-13T08:00:42.920Z",
+  "createdAt": "2026-11-10T15:36:15.566Z",
   "source": "ai-generated"
 }

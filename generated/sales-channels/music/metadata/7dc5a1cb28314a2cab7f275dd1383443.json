@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A natural-finish full-size violin resting securely in a tidy music practice setting with sheet music softly out of focus, warm natural light, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Type",
+      "value": "Violin"
+    },
+    {
+      "group": "Size",
+      "value": "Full size"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.26,
+  "width": 1347,
+  "height": 492,
+  "length": 767,
+  "ean": "2021391633545",
+  "manufacturerNumber": "MPN-3EOLLJ10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch SA3L"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Violin - Natural - Full Size"
+}

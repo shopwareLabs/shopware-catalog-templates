@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-03-13T08:00:46.286Z",
+  "updatedAt": "2026-11-10T15:36:21.409Z",
   "count": 8,
   "groups": [
     "color",
-    "gauge",
+    "level",
+    "format",
     "size",
-    "material",
     "length",
-    "type",
-    "outputs",
-    "connectivity"
+    "material",
+    "voicing",
+    "type"
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail-ready beginner guitar songbook displayed upright with an inviting cover featuring an acoustic guitar silhouette and music notes, clean studio lighting, plain background, no recognizable logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Guitar Songbook"
+    },
+    {
+      "group": "Level",
+      "value": "Beginner"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Book"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.59,
+  "width": 778,
+  "height": 582,
+  "length": 679,
+  "ean": "9030553204977",
+  "manufacturerNumber": "MPN-42L0EOCI",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 7B4Y"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Guitar Songbook - Beginner - Chord Arrangements",
+  "variantConfigs": [
+    {
+      "group": "Level",
+      "selectedOptions": [
+        "Upper Intermediate",
+        "Early Beginner",
+        "Advanced"
+      ],
+      "priceModifiers": {
+        "Upper Intermediate": 1,
+        "Early Beginner": 1,
+        "Advanced": 1
+      }
+    },
+    {
+      "group": "Format",
+      "selectedOptions": [
+        "Hardcover",
+        "Paperback",
+        "eBook EPUB"
+      ],
+      "priceModifiers": {
+        "Hardcover": 1.2,
+        "Paperback": 1,
+        "eBook EPUB": 0.8
+      }
+    }
+  ]
+}

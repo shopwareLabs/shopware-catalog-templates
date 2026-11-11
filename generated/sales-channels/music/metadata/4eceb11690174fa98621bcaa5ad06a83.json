@@ -1,0 +1,100 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Black over-ear studio headphones resting on a music workstation beside an audio interface and keyboard, softly lit modern recording studio, realistic product details, no text or logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Over-Ear"
+    },
+    {
+      "group": "Material",
+      "value": "Cushioned synthetic leather"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.59,
+  "width": 1220,
+  "height": 599,
+  "length": 814,
+  "ean": "6384982824781",
+  "manufacturerNumber": "MPN-XN3XTY1K",
+  "maxPurchase": 50,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch EPNE"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Studio Headphones - Black - Over-Ear, Cushioned synthetic leather construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "White",
+        "Navy",
+        "Red"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "White": 1,
+        "Navy": 1,
+        "Red": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    }
+  ]
+}

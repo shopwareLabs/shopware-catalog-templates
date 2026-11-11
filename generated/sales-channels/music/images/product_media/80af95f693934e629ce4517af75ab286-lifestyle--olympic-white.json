@@ -1,0 +1,10 @@
+{
+  "productId": "80af95f693934e629ce4517af75ab286",
+  "productName": "lifestyle--olympic-white",
+  "generatedAt": "2026-11-10T15:42:44.234Z",
+  "prompt": "Recolour the product to Olympic White (#f5f2e8). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "e49e6ff936b719ce",
+  "shade": "Olympic White",
+  "hex": "#f5f2e8"
+}

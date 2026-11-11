@@ -1,0 +1,79 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Choir members gathered in a bright rehearsal room, referring to an open choir rehearsal guide on a music stand between singing exercises, inclusive mixed-voice group, natural documentary-style lighting."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of an open choir rehearsal guide showing tidy rehearsal notes, vocal-section headings, and music practice reminders, realistic printed pages and subtle pencil marks, no readable brand names."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Printed choir rehearsal guide presented as a simple retail book with refined choir-inspired cover artwork, neatly wrapped for store display, clean neutral backdrop, no logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Choir Rehearsal Guide"
+    },
+    {
+      "group": "Voicing",
+      "value": "Mixed Voice"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Book"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.09,
+  "width": 705,
+  "height": 148,
+  "length": 1525,
+  "ean": "5155847953073",
+  "manufacturerNumber": "MPN-AQSUHN1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 95OG"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Choir Rehearsal Guide - Mixed Voice - Practice Edition",
+  "variantConfigs": [
+    {
+      "group": "Voicing",
+      "selectedOptions": [
+        "SSAA",
+        "TTBB",
+        "Two-Part"
+      ],
+      "priceModifiers": {
+        "SSAA": 1,
+        "TTBB": 1,
+        "Two-Part": 0.9
+      }
+    },
+    {
+      "group": "Format",
+      "selectedOptions": [
+        "eBook EPUB",
+        "Paperback",
+        "Spiral-Bound"
+      ],
+      "priceModifiers": {
+        "eBook EPUB": 0.8,
+        "Paperback": 1,
+        "Spiral-Bound": 1.1
+      }
+    }
+  ]
+}

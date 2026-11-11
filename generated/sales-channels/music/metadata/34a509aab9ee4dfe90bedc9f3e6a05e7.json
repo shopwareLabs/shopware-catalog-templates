@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Full front view of a solid-body electric guitar with a rich sunburst finish, centered against a clean light studio background, realistic hardware and strings, no text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view showing the body thickness, neck, and hardware of a sunburst solid-body electric guitar, professional studio product photography, no text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Sunburst solid-body electric guitar nestled securely in a protective shipping box with simple cushioning, uncluttered catalog image, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sunburst"
+    },
+    {
+      "group": "Type",
+      "value": "Solid-body electric guitar"
+    },
+    {
+      "group": "Material",
+      "value": "Wood"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 14.57,
+  "width": 174,
+  "height": 773,
+  "length": 1879,
+  "ean": "0867921163708",
+  "manufacturerNumber": "MPN-H6G2QN14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch E6KO"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Electric Guitar - Sunburst - Solid Body, Wood construction"
+}

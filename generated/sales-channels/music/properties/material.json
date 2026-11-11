@@ -3,21 +3,21 @@
   "slug": "material",
   "displayType": "text",
   "options": [
-    "B20 Bronze",
-    "B8 Bronze",
-    "Brass",
-    "Nickel-Silver",
-    "B10 Bronze",
-    "Hybrid Alloy"
+    "Nickel Wound",
+    "Pure Nickel",
+    "Stainless Steel",
+    "Coated Nickel",
+    "Chrome Wound",
+    "Titanium Wound"
   ],
   "priceModifiers": {
-    "B20 Bronze": 1.1,
-    "B8 Bronze": 1,
-    "Brass": 0.9,
-    "Nickel-Silver": 0.95,
-    "B10 Bronze": 1.05,
-    "Hybrid Alloy": 1.1
+    "Nickel Wound": 1,
+    "Pure Nickel": 1.1,
+    "Stainless Steel": 1,
+    "Coated Nickel": 1.2,
+    "Chrome Wound": 1,
+    "Titanium Wound": 1.3
   },
-  "createdAt": "2026-03-13T08:00:45.773Z",
+  "createdAt": "2026-11-10T15:36:19.627Z",
   "source": "ai-generated"
 }

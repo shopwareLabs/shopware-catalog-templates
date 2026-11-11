@@ -1,0 +1,10 @@
+{
+  "productId": "7c474b007ec643ccaaffacdaf2daf270",
+  "productName": "front--burgundy",
+  "generatedAt": "2026-11-10T15:45:24.817Z",
+  "prompt": "Recolour the product to Burgundy (#722f37). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b607315d73c67256",
+  "shade": "Burgundy",
+  "hex": "#722f37"
+}

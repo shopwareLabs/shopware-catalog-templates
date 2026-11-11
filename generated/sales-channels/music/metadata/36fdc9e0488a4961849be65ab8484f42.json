@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "White 49-key MIDI keyboard controller on a tidy home studio desk beside a laptop and headphones, creative workspace with soft ambient lighting, realistic keys and proportions, no readable screen text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Neatly presented white 49-key MIDI keyboard with a simple unbranded cardboard product box beside it, clean studio tabletop, realistic e-commerce photography, no printed text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Low side angle of a white 49-key MIDI keyboard on a desk, showing its slim profile, keys, and control surface, minimal light background, realistic product photography, no text or logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Type",
+      "value": "MIDI Controller"
+    },
+    {
+      "group": "Size",
+      "value": "49 keys"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.66,
+  "width": 861,
+  "height": 164,
+  "length": 1799,
+  "ean": "1721501498576",
+  "manufacturerNumber": "MPN-2JT9KFAQ",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch L37W"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "MIDI Keyboard - White - 49-Key",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Black": 1,
+        "Red": 1,
+        "Blue": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Long",
+        "Short",
+        "Standard"
+      ],
+      "priceModifiers": {
+        "Long": 1,
+        "Short": 1,
+        "Standard": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    }
+  ]
+}

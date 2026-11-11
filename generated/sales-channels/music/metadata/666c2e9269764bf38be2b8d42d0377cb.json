@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Clean studio product photograph of a neatly coiled 3 metre black instrument cable with both 6.35 mm jack plugs visible, showing the connector shape and flexible cable jacket on a neutral background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Realistic retail packaging for a 3 metre black 6.35 mm instrument cable, front-facing package with the cable visible through a clear window, simple music-accessory design, no prominent brand text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Connector",
+      "value": "6.35 mm jack"
+    },
+    {
+      "group": "Length",
+      "value": "3 m"
+    },
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.4,
+  "width": 471,
+  "height": 475,
+  "length": 884,
+  "ean": "9437427693040",
+  "manufacturerNumber": "MPN-SCOZLT1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 34VH"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Instrument Cable - 6.35 mm Jack - 3 m, Black finish",
+  "variantConfigs": [
+    {
+      "group": "Length",
+      "selectedOptions": [
+        "1 m",
+        "2 m",
+        "6 m"
+      ],
+      "priceModifiers": {
+        "1 m": 0.7,
+        "2 m": 0.85,
+        "6 m": 1.3
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Red",
+        "Blue",
+        "White"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Red": 1,
+        "Blue": 1,
+        "White": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

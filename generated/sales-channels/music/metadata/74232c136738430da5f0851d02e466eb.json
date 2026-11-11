@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Compact black clip-on chromatic tuner attached to the headstock of an electric guitar during a home tuning session, hands adjusting a tuning peg, bright realistic music-room setting."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of a black clip-on guitar tuner showing its display, clip, and swivel joint, sharp product details on a neutral studio background, no legible text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Chromatic Clip-On Tuner"
+    },
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.65,
+  "width": 954,
+  "height": 676,
+  "length": 877,
+  "ean": "8857634491993",
+  "manufacturerNumber": "MPN-1BDM5WV7",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch AQYV"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Tuner - Clip-On - Chromatic, Plastic construction, Black finish"
+}

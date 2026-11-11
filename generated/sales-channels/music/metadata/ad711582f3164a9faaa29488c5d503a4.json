@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front product image of a midnight blue woven cotton guitar strap, arranged neatly in a gentle curve on a clean light neutral background, showing its full adjustable length and sturdy end tabs, soft studio lighting, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up photorealistic product detail of the woven cotton texture and reinforced end tab of a midnight blue guitar strap, crisp stitching visible, clean neutral studio background, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight"
+    },
+    {
+      "group": "Material",
+      "value": "Woven Cotton"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Guitar Strap"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.24,
+  "width": 1189,
+  "height": 396,
+  "length": 1460,
+  "ean": "6569470634015",
+  "manufacturerNumber": "MPN-THASY5NG",
+  "maxPurchase": 50,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch AHKX"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Strap - Woven Cotton - Midnight Blue"
+}

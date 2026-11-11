@@ -3,23 +3,21 @@
   "slug": "type",
   "displayType": "text",
   "options": [
-    "Straight-Straight",
-    "Straight-Right Angle",
-    "Coiled",
-    "Silent Plug",
-    "Patch Cable",
-    "Balanced TRS",
-    "Unbalanced TS"
+    "Mesh Pad",
+    "Rubber Pad",
+    "Compact Kit",
+    "Full-Size Kit",
+    "Portable Kit",
+    "Studio Kit"
   ],
   "priceModifiers": {
-    "Straight-Straight": 1,
-    "Straight-Right Angle": 1,
-    "Coiled": 1.1,
-    "Silent Plug": 1.1,
-    "Patch Cable": 0.9,
-    "Balanced TRS": 1.1,
-    "Unbalanced TS": 1
+    "Mesh Pad": 1,
+    "Rubber Pad": 0.9,
+    "Compact Kit": 0.9,
+    "Full-Size Kit": 1.2,
+    "Portable Kit": 1.1,
+    "Studio Kit": 1.3
   },
-  "createdAt": "2026-03-13T08:00:46.285Z",
+  "createdAt": "2026-11-10T15:36:21.408Z",
   "source": "ai-generated"
 }

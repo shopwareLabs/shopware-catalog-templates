@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-profile product photograph of a full-size dreadnought acoustic guitar with a natural spruce top, warm wood body, visible body depth and curved waist, clean neutral studio background, soft even lighting, no text or accessories."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Spruce"
+    },
+    {
+      "group": "Type",
+      "value": "Dreadnought"
+    },
+    {
+      "group": "Top Material",
+      "value": "Spruce"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.45,
+  "width": 1107,
+  "height": 1158,
+  "length": 926,
+  "ean": "5789484084373",
+  "manufacturerNumber": "MPN-M1J6BD6C",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch HHR0"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Acoustic Guitar - Natural Spruce - Dreadnought"
+}

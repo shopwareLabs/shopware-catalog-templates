@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic image of a sealed, unbranded packet containing a light-gauge nickel-wound electric guitar string set, compact guitar-string packaging on a neutral studio surface, realistic metallic string detail visible, no readable text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Photorealistic macro detail of neatly coiled nickel-wound electric guitar strings with fine winding texture visible, arranged beside a small plain paper string envelope on a clean background, no text or logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Photorealistic front product image of a light-gauge six-string electric guitar set displayed neatly with aligned string coils and a simple unbranded envelope, bright neutral background, clear and accurate accessory presentation, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Nickel-Wound Steel"
+    },
+    {
+      "group": "Gauge",
+      "value": "Light"
+    },
+    {
+      "group": "Type",
+      "value": "6-String Electric Guitar Set"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.01,
+  "width": 95,
+  "height": 870,
+  "length": 1799,
+  "ean": "1669509341619",
+  "manufacturerNumber": "MPN-KO8SSNOT",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch N1SN"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Strings - Light Gauge Nickel Wound - 6-String Set, Nickel-Wound Steel construction"
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product photo of a black padded guitar strap attached to an electric guitar worn by a musician during a relaxed rehearsal, strap clearly visible, natural studio lighting, realistic music-shop photography, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Woven fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Padded adjustable strap"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.54,
+  "width": 472,
+  "height": 737,
+  "length": 745,
+  "ean": "4464231302573",
+  "manufacturerNumber": "MPN-TS5ELXBO",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch Q2NZ"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Padded Guitar Strap - Black - Adjustable, Woven fabric construction"
+}

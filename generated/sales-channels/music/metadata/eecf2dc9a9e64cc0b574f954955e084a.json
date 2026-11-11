@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail of medium-gauge celluloid guitar picks with a tortoise-shell-inspired brown and amber pattern, crisp edges and subtle surface texture, arranged on a neutral background, realistic product photography, no text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A small retail pack of medium-gauge tortoise-shell-pattern celluloid guitar picks, picks visible through a clear window, clean generic packaging with no brand name or readable text, studio lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Celluloid"
+    },
+    {
+      "group": "Gauge",
+      "value": "Medium"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.66,
+  "width": 1061,
+  "height": 1153,
+  "length": 1730,
+  "ean": "1952172601433",
+  "manufacturerNumber": "MPN-AFTPKHUZ",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch L101"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Celluloid Guitar Picks - Tortoise Shell - Medium Gauge, Multicolor finish"
+}

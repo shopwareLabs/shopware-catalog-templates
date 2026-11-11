@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A polished ebony upright acoustic piano in an elegant, naturally lit home music room, positioned against a simple wall with a matching bench, refined but lived-in atmosphere, realistic piano proportions, no people, logos, or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a polished ebony upright acoustic piano showing its cabinet depth, keyboard profile, and sturdy legs, isolated on a clean neutral studio background with soft reflections and even lighting, no branding or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close detail of the polished ebony finish and keyboard area of an upright acoustic piano, rich reflective surface, crisp keys and subtle wood craftsmanship visible, soft controlled studio lighting, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Polished Ebony"
+    },
+    {
+      "group": "Type",
+      "value": "Upright Piano"
+    },
+    {
+      "group": "Finish",
+      "value": "Polished"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.25,
+  "width": 1447,
+  "height": 937,
+  "length": 763,
+  "ean": "3303016586436",
+  "manufacturerNumber": "MPN-GGFP5E08",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 3ZMC"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Acoustic Piano - Polished Ebony - Upright"
+}

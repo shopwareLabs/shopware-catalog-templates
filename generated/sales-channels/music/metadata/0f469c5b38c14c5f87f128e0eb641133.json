@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a satin silver quick-release guitar capo showing its padded contact surfaces and spring clamp mechanism, clean neutral background, realistic metallic finish, no logo or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front product view of a satin silver quick-release guitar capo, centered and fully visible against a soft light background, realistic studio accessory photography, no branding."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a satin silver guitar capo with the clamp slightly open to show its spring mechanism and protective padding, crisp realistic product photography, no text or logo."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Type",
+      "value": "Quick-release capo"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.14,
+  "width": 301,
+  "height": 995,
+  "length": 1596,
+  "ean": "2907937323364",
+  "manufacturerNumber": "MPN-99HGJH1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch U1HR"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Capo - Satin Silver - Quick-Release Clamp, Metal construction"
+}

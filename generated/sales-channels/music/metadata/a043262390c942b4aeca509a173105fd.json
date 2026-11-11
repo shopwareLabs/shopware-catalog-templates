@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio product photo of a compact white 5-inch studio monitor speaker, showing cabinet depth and front driver clearly, neutral background, realistic finish, no logo or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Pair of compact white studio monitor speakers on a desk in a tidy home music production studio, computer and keyboard nearby, balanced natural lighting, no visible branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Type",
+      "value": "Studio Monitor"
+    },
+    {
+      "group": "Speaker Size",
+      "value": "5-Inch"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.59,
+  "width": 479,
+  "height": 337,
+  "length": 1549,
+  "ean": "8183825214332",
+  "manufacturerNumber": "MPN-JGC38W1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch GVJI"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Studio Monitor - White - 5-Inch"
+}

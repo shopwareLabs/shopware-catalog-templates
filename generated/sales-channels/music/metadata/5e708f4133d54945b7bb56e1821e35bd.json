@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of a natural maple 14-inch snare drum showing wood grain, hoops, tension lugs, and drumhead texture, crisp realistic studio lighting, no text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a natural maple snare drum on a simple stand, full cylindrical shell and metal hardware visible, neutral studio background, realistic e-commerce product photography, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Maple"
+    },
+    {
+      "group": "Size",
+      "value": "14 inch"
+    },
+    {
+      "group": "Material",
+      "value": "Maple"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 7.35,
+  "width": 532,
+  "height": 390,
+  "length": 546,
+  "ean": "7691468622076",
+  "manufacturerNumber": "MPN-IH2PI11K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch L1AX"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Snare Drum - Natural Maple - 14-Inch"
+}

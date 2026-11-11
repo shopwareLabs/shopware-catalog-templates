@@ -1,0 +1,79 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Studio product photograph of a retail pack of light-gauge nickel-wound electric guitar strings, front-facing on a clean white background, crisp packaging details and realistic proportions, no readable brand text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Three-quarter studio view of guitar string packaging with a light-gauge electric string set, minimal neutral design, clear product visibility, clean background, no legible logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up macro image of neatly coiled nickel-wound guitar strings beside their small paper sleeves, showing fine winding texture and metallic sheen, even studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Nickel-Wound Steel"
+    },
+    {
+      "group": "Size",
+      "value": "Light Gauge"
+    },
+    {
+      "group": "Type",
+      "value": "Electric Guitar Strings"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.41,
+  "width": 623,
+  "height": 784,
+  "length": 1190,
+  "ean": "4818537724971",
+  "manufacturerNumber": "MPN-HSTMQY10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch YFU4"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Strings - Light Gauge - Nickel Wound, Nickel-Wound Steel construction",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Kids",
+        "Standard",
+        "Extra Long"
+      ],
+      "priceModifiers": {
+        "Kids": 0.9,
+        "Standard": 1,
+        "Extra Long": 1.1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Pure Nickel",
+        "Nickel Wound",
+        "Coated Nickel"
+      ],
+      "priceModifiers": {
+        "Pure Nickel": 1.1,
+        "Nickel Wound": 1,
+        "Coated Nickel": 1.2
+      }
+    }
+  ]
+}

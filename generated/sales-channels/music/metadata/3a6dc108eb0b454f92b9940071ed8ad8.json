@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Straight-on ecommerce photograph of a guitar chord songbook with a polished, music-themed cover, clearly presented as a printed song collection, isolated against a pale neutral background, realistic book proportions."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Chord Songbook"
+    },
+    {
+      "group": "Instrument",
+      "value": "Guitar"
+    },
+    {
+      "group": "Notation",
+      "value": "Standard Notation"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.3,
+  "width": 1420,
+  "height": 42,
+  "length": 398,
+  "ean": "7334302822408",
+  "manufacturerNumber": "MPN-OOQNQ11W",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch NOMR"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Guitar Chord Songbook - Popular Favorites - Standard Notation"
+}

@@ -1,0 +1,58 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle product photograph of a printed intermediate piano solo music collection standing slightly open, visible stacked score pages and a tasteful music-themed cover edge, neutral studio background, realistic detail."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Piano Solo Collection"
+    },
+    {
+      "group": "Level",
+      "value": "Intermediate"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Score"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.39,
+  "width": 1036,
+  "height": 193,
+  "length": 552,
+  "ean": "3069972162229",
+  "manufacturerNumber": "MPN-AS5L771S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch PBAQ"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Piano Solo Collection - Intermediate Level - Contemporary Classics",
+  "variantConfigs": [
+    {
+      "group": "Format",
+      "selectedOptions": [
+        "Spiral-Bound",
+        "Digital PDF",
+        "Hardcover"
+      ],
+      "priceModifiers": {
+        "Spiral-Bound": 1.1,
+        "Digital PDF": 0.8,
+        "Hardcover": 1.2
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a natural birch cajón box drum standing upright, clean visible wood grain and realistic proportions, softly lit neutral studio background, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of a cajón's birch front playing panel and corner construction, showing natural wood texture and precise craftsmanship, realistic product photography, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Birch"
+    },
+    {
+      "group": "Type",
+      "value": "Box Percussion"
+    },
+    {
+      "group": "Material",
+      "value": "Birch"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.39,
+  "width": 510,
+  "height": 260,
+  "length": 179,
+  "ean": "6942358361935",
+  "manufacturerNumber": "MPN-LT8J3RVS",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch YXE2"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Cajón - Natural Birch - Box Percussion"
+}

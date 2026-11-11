@@ -1,0 +1,10 @@
+{
+  "productId": "e617345dba4b4662884cba510046015d",
+  "productName": "packaging--natural-tan",
+  "generatedAt": "2026-11-10T15:45:09.332Z",
+  "prompt": "Recolour the product to Natural Tan (#c79b6b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "ac956c7503d7d6bd",
+  "shade": "Natural Tan",
+  "hex": "#c79b6b"
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Classical guitar songbook resting open on a music stand beside a wooden classical guitar in a quiet practice room, printed score visible but not readable, warm natural light, realistic photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Front cover of a classical guitar songbook shown upright against a clean neutral background, elegant classical music-inspired design, clear blank title space, realistic printed-paper texture."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Classical Guitar Songbook"
+    },
+    {
+      "group": "Level",
+      "value": "Intermediate"
+    },
+    {
+      "group": "Format",
+      "value": "Standard Notation"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.55,
+  "width": 960,
+  "height": 954,
+  "length": 1429,
+  "ean": "1600483891486",
+  "manufacturerNumber": "MPN-44R4TWGV",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch FZ9U"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Classical Guitar Songbook - Intermediate Level - Standard Notation"
+}

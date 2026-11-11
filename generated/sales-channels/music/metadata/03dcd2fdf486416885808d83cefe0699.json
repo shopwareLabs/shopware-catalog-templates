@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Musician playing a sunburst double-cutaway electric guitar in a modest rehearsal studio, full instrument visible, amplifier in background, energetic but natural lighting, no logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product photo of a sunburst double-cutaway electric guitar, showing body contours, pickups, bridge, neck and strings, isolated on a clean neutral background, no brand markings or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle product photograph showing the body depth and contoured edge of a sunburst double-cutaway electric guitar, realistic finish and hardware, neutral studio background, no logo or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sunburst"
+    },
+    {
+      "group": "Type",
+      "value": "Double Cutaway"
+    },
+    {
+      "group": "Instrument",
+      "value": "Electric Guitar"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.78,
+  "width": 1412,
+  "height": 702,
+  "length": 974,
+  "ean": "2717146522744",
+  "manufacturerNumber": "MPN-TONEB110",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch ICI9"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Electric Guitar - Sunburst - Double Cutaway"
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of an open piano practice journal showing weekly planning sections alongside blank musical staff paper, clean legible layout, pen nearby, bright neutral desk setting."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Ecommerce product image of a closed piano practice journal with a refined music-themed cover, front cover facing camera, understated design, isolated on a light background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Pianist seated at a keyboard using an open practice journal on the music stand or nearby desk, warm daylight, focused home practice setting, journal details visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Practice Journal"
+    },
+    {
+      "group": "Instrument",
+      "value": "Piano"
+    },
+    {
+      "group": "Format",
+      "value": "Weekly Planner with Staff Paper"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.05,
+  "width": 1310,
+  "height": 42,
+  "length": 539,
+  "ean": "8617133482386",
+  "manufacturerNumber": "MPN-DFYT0B1C",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch UYID"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Piano Practice Journal - Weekly Planner - Staff Paper"
+}

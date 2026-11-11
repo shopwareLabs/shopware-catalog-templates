@@ -1,0 +1,55 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front-facing product image of a small coordinated set of medium guitar picks with a classic amber, brown, and dark tortoiseshell pattern, arranged neatly on a light neutral surface, clear pick outlines and subtle texture, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Material",
+      "value": "Celluloid"
+    },
+    {
+      "group": "Type",
+      "value": "Medium Guitar Pick"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.62,
+  "width": 513,
+  "height": 620,
+  "length": 754,
+  "ean": "2443621872737",
+  "manufacturerNumber": "MPN-RGXVZ91G",
+  "packaging": {
+    "unitShortCode": "pc",
+    "purchaseUnit": 6,
+    "referenceUnit": 1,
+    "packUnit": "Pack",
+    "packUnitPlural": "Packs",
+    "unitName": "Piece"
+  },
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 4SJX"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Picks - Medium Celluloid - Tortoiseshell, Multicolor finish"
+}

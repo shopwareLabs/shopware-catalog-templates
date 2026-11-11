@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A full-size black digital piano shown with its protective packaging and neatly arranged included components, clean product catalog photography, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Digital piano"
+    },
+    {
+      "group": "Size",
+      "value": "88 keys"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.79,
+  "width": 307,
+  "height": 1033,
+  "length": 1893,
+  "ean": "2343471121323",
+  "manufacturerNumber": "MPN-5B2G1KV6",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch AP72"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Digital Piano - Black - 88-Key"
+}

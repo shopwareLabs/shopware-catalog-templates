@@ -1,0 +1,118 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Studio product image of a guitar strap laid out at a slight diagonal, clearly showing its woven jacquard pattern, strap width, adjustment hardware, and attachment ends; neutral background, realistic textile detail."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a woven jacquard guitar strap showing the fabric texture, stitching, adjustment buckle, and reinforced end, with crisp realistic detail and soft studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Woven jacquard"
+    },
+    {
+      "group": "Size",
+      "value": "Adjustable"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 10.89,
+  "width": 310,
+  "height": 987,
+  "length": 1704,
+  "ean": "0808563828020",
+  "manufacturerNumber": "MPN-DNLVO4JJ",
+  "minPurchase": 5,
+  "purchaseSteps": 5,
+  "maxPurchase": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 2DGX"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Strap - Woven Jacquard - Adjustable, Multicolor finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Multicolor",
+        "Black",
+        "Navy",
+        "Burgundy"
+      ],
+      "priceModifiers": {
+        "Multicolor": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Burgundy": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Extra Long",
+        "Kids",
+        "Wide"
+      ],
+      "priceModifiers": {
+        "Extra Long": 1.1,
+        "Kids": 0.9,
+        "Wide": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Multicolor",
+  "variantColors": [
+    {
+      "name": "Multicolor",
+      "family": "multicolor"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    }
+  ]
+}

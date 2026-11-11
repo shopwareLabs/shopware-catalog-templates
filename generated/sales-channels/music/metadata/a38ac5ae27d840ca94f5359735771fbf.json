@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product photo of a sealed electric guitar string set package, clear readable generic labeling for light gauge and nickel-plated steel, strings visible through a window, clean neutral studio background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of electric guitar strings and individual string envelopes arranged neatly beside the package, highlighting wound and plain string construction with realistic metallic detail."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a light-gauge nickel-plated steel electric guitar string set, compact hanging pack with organized string envelopes, restrained music accessory styling and no recognizable logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Nickel-plated steel"
+    },
+    {
+      "group": "Gauge",
+      "value": "Light"
+    },
+    {
+      "group": "Instrument",
+      "value": "Electric guitar"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.12,
+  "width": 1410,
+  "height": 774,
+  "length": 1930,
+  "ean": "3472397933877",
+  "manufacturerNumber": "MPN-MEB17K18",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch HKPB"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar String Set - Nickel-Plated Steel - Light Gauge"
+}

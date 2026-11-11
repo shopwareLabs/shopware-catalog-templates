@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on studio photograph of an auditorium acoustic guitar with a warm sunburst finish, full instrument centered and clearly visible, subtle wood grain, neutral light background, soft professional lighting, no logos, text, or extra accessories."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sunburst"
+    },
+    {
+      "group": "Type",
+      "value": "Auditorium"
+    },
+    {
+      "group": "Top Material",
+      "value": "Spruce"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 19.86,
+  "width": 407,
+  "height": 195,
+  "length": 1045,
+  "ean": "3907442792630",
+  "manufacturerNumber": "MPN-CKNP5D14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 3GSP"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Acoustic Guitar - Sunburst - Auditorium"
+}

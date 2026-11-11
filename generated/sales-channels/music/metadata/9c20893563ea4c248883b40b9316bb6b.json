@@ -1,0 +1,50 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front product image of a compact black clip-on chromatic guitar tuner with a clear unlit display and padded spring clip, shown alone on a clean light background, realistic materials, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Clip-On Chromatic Tuner"
+    },
+    {
+      "group": "Display",
+      "value": "Adjustable Viewing Angle"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.12,
+  "width": 1484,
+  "height": 824,
+  "length": 1313,
+  "ean": "5197522348705",
+  "manufacturerNumber": "MPN-YGYC57MA",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch LA1L"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Tuner - Clip-On Chromatic - Black"
+}

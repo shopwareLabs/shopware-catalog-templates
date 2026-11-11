@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of a satin black spring-loaded guitar capo, showing the clamp, padded contact surfaces, and smooth zinc alloy body clearly, isolated on a clean pale background, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Satin Black"
+    },
+    {
+      "group": "Material",
+      "value": "Zinc Alloy"
+    },
+    {
+      "group": "Type",
+      "value": "Spring-Loaded Guitar Capo"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 16.48,
+  "width": 1109,
+  "height": 207,
+  "length": 139,
+  "ean": "3334227200705",
+  "manufacturerNumber": "MPN-KKP7GCF9",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch N573"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Capo - Zinc Alloy - Satin Black"
+}

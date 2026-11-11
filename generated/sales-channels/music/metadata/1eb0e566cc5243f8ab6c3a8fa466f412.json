@@ -1,0 +1,76 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing cover of an intermediate classical piano sheet music collection with elegant minimal piano imagery and subtle musical notation, polished educational publication style, isolated on white."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Pianist practicing from an open classical sheet music collection on a piano music rest in a warm, uncluttered room, hands poised at the keyboard, natural light and realistic composition."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Piano Sheet Music"
+    },
+    {
+      "group": "Level",
+      "value": "Intermediate"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Collection"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.51,
+  "width": 684,
+  "height": 893,
+  "length": 644,
+  "ean": "4403789452972",
+  "manufacturerNumber": "MPN-TOF46610",
+  "maxPurchase": 20,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch A6GP"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Piano Sheet Music Collection - Intermediate - Classical Selections",
+  "variantConfigs": [
+    {
+      "group": "Level",
+      "selectedOptions": [
+        "Late Beginner",
+        "Intermediate",
+        "Upper Intermediate"
+      ],
+      "priceModifiers": {
+        "Late Beginner": 1,
+        "Intermediate": 1,
+        "Upper Intermediate": 1
+      }
+    },
+    {
+      "group": "Format",
+      "selectedOptions": [
+        "Paperback",
+        "eBook PDF",
+        "eBook EPUB"
+      ],
+      "priceModifiers": {
+        "Paperback": 1,
+        "eBook PDF": 0.8,
+        "eBook EPUB": 0.8
+      }
+    }
+  ]
+}

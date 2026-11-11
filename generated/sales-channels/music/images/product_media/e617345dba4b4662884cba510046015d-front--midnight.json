@@ -1,0 +1,10 @@
+{
+  "productId": "e617345dba4b4662884cba510046015d",
+  "productName": "front--midnight",
+  "generatedAt": "2026-11-10T15:45:07.400Z",
+  "prompt": "Recolour the product to Midnight (#191970). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "7a6b5715fd916737",
+  "shade": "Midnight",
+  "hex": "#191970"
+}

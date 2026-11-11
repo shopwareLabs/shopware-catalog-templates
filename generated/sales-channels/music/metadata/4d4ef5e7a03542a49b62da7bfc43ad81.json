@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of neatly arranged vocal warm-up exercise cards with clean typography and simple music-inspired graphics, one card showing a brief exercise prompt, studio tabletop, no illegible decorative text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle scene of a singer preparing for practice with vocal warm-up cards beside a music stand and a glass of water in a bright, calm rehearsal room, natural light, cards clearly visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Warm-Up Cards"
+    },
+    {
+      "group": "Use",
+      "value": "Daily Vocal Practice"
+    },
+    {
+      "group": "Format",
+      "value": "Exercise Prompts"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.17,
+  "width": 1008,
+  "height": 146,
+  "length": 535,
+  "ean": "1780441262623",
+  "manufacturerNumber": "MPN-U8EQC718",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch HS5U"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Vocal Warm-Up Cards - Daily Routine - All Voice Types"
+}

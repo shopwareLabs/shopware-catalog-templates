@@ -1,0 +1,10 @@
+{
+  "productId": "80af95f693934e629ce4517af75ab286",
+  "productName": "side--olympic-white",
+  "generatedAt": "2026-11-10T15:42:43.571Z",
+  "prompt": "Recolour the product to Olympic White (#f5f2e8). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "d043f84faaaf7eee",
+  "shade": "Olympic White",
+  "hex": "#f5f2e8"
+}
