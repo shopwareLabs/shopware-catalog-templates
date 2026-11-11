@@ -1,0 +1,10 @@
+{
+  "productId": "8e01cba57042478490f69348061b0fb7",
+  "productName": "lifestyle--ivory",
+  "generatedAt": "2026-11-10T15:08:13.872Z",
+  "prompt": "Recolour the product to Ivory (#fffff0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "4735f9e2b38cccdf",
+  "shade": "Ivory",
+  "hex": "#fffff0"
+}

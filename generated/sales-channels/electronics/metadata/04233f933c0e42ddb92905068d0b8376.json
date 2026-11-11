@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product image of a compact matte black mini PC, small square desktop enclosure with visible generic ports and subtle ventilation, isolated on a clean light studio background, realistic consumer electronics photography, no logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Type",
+      "value": "Mini PC"
+    },
+    {
+      "group": "Form Factor",
+      "value": "Compact Desktop"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.17,
+  "width": 102,
+  "height": 62,
+  "length": 1876,
+  "ean": "0832860991347",
+  "manufacturerNumber": "MPN-9NF7XWFL",
+  "maxPurchase": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch IMPG"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Mini PC - Compact Desktop - Matte Black"
+}

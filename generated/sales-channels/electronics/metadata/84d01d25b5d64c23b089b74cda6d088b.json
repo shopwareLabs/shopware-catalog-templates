@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Silver 13.3-inch convertible touchscreen laptop on a bright study desk, folded into a stand mode while displaying a generic video call interface, natural light, realistic lifestyle photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a silver convertible laptop opened in standard laptop mode, touchscreen displaying a simple abstract wallpaper, centered on a clean light background, realistic product image."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a silver convertible laptop partially folded to demonstrate its flexible hinge and convertible design, isolated against a neutral studio background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "13.3 in"
+    },
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Type",
+      "value": "Convertible Laptop"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 15.06,
+  "width": 956,
+  "height": 702,
+  "length": 94,
+  "ean": "3834505814629",
+  "manufacturerNumber": "MPN-QRFO7X10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch L9G3"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Convertible Laptop - 13.3-Inch Touchscreen - Silver"
+}

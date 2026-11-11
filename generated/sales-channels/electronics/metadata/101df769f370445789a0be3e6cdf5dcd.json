@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio photograph of a neatly coiled graphite braided USB-C cable with both connectors visible, textured woven jacket in sharp focus, white background, realistic product photography, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Length",
+      "value": "1 m"
+    },
+    {
+      "group": "Connector Type",
+      "value": "USB-C"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.86,
+  "width": 1044,
+  "height": 829,
+  "length": 1876,
+  "ean": "6907475220671",
+  "manufacturerNumber": "MPN-T1QEQ3NC",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 6AWB"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Braided USB-C Cable - Graphite - 1m"
+}

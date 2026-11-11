@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a charcoal laptop sleeve with a laptop partially visible, highlighting the fitted edge and neat stitching, soft neutral studio light, realistic product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a charcoal 15.6-inch laptop sleeve, showing the sleeve clearly and simple generic size labeling, polished electronics accessory presentation, front-facing on a white background."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a charcoal laptop sleeve displayed flat with its closure visible, clean silhouette, minimal white studio background, realistic e-commerce catalog photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Size",
+      "value": "15.6 inches"
+    },
+    {
+      "group": "Type",
+      "value": "Laptop Sleeve"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.1,
+  "width": 662,
+  "height": 759,
+  "length": 1097,
+  "ean": "9013393682488",
+  "manufacturerNumber": "MPN-4UT3DB1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 7JP1"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Laptop Sleeve - Charcoal - 15.6-Inch"
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A child wearing a blue kids' smartwatch while walking with a parent in a safe park setting, watch visible but not oversized, warm natural daylight, candid family lifestyle photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a blue kids' smartwatch on a clean studio surface, showing the strap, screen thickness, and side controls, accurate proportions, soft neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue"
+    },
+    {
+      "group": "Connectivity",
+      "value": "GPS and cellular"
+    },
+    {
+      "group": "Feature",
+      "value": "Calling"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.58,
+  "width": 827,
+  "height": 510,
+  "length": 1936,
+  "ean": "9945927940156",
+  "manufacturerNumber": "MPN-YSY288MM",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch HVL9"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Kids' Smartwatch - Blue - GPS Calling"
+}

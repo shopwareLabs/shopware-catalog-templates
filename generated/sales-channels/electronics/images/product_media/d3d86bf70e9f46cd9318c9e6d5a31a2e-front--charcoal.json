@@ -1,0 +1,10 @@
+{
+  "productId": "d3d86bf70e9f46cd9318c9e6d5a31a2e",
+  "productName": "front--charcoal",
+  "generatedAt": "2026-11-10T15:07:09.085Z",
+  "prompt": "Recolour the product to Charcoal (#36454f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "48a2edd7be5dbdf7",
+  "shade": "Charcoal",
+  "hex": "#36454f"
+}

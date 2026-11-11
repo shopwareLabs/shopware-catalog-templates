@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail box for a black full-size wireless computer keyboard, clean modern electronics packaging with a clear product illustration, neutral studio background, no legible branding."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of a black full-size wireless keyboard, showing keycap spacing, number pad, and function row, realistic e-commerce product photography on a light background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Connection",
+      "value": "Wireless"
+    },
+    {
+      "group": "Type",
+      "value": "Full-Size Keyboard"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.74,
+  "width": 76,
+  "height": 387,
+  "length": 1610,
+  "ean": "3814890363681",
+  "manufacturerNumber": "MPN-A1ES1O1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 10OZ"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Wireless Keyboard - Full-Size Layout - Black"
+}

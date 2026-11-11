@@ -1,0 +1,10 @@
+{
+  "productId": "9409165c782c4b16b6cea2a54852099e",
+  "productName": "packaging--coral",
+  "generatedAt": "2026-11-10T15:07:44.201Z",
+  "prompt": "Recolour the product to Coral (#ff7f50). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "4165767fa6709510",
+  "shade": "Coral",
+  "hex": "#ff7f50"
+}

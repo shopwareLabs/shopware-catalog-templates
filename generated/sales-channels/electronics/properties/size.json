@@ -1,0 +1,25 @@
+{
+  "name": "Size",
+  "slug": "size",
+  "displayType": "text",
+  "options": [
+    "Extra Small",
+    "Small",
+    "Small/Medium",
+    "Medium",
+    "Medium/Large",
+    "Large",
+    "Extra Large"
+  ],
+  "priceModifiers": {
+    "Extra Small": 1,
+    "Small": 1,
+    "Small/Medium": 1,
+    "Medium": 1,
+    "Medium/Large": 1,
+    "Large": 1,
+    "Extra Large": 1
+  },
+  "createdAt": "2026-11-10T14:58:18.560Z",
+  "source": "ai-generated"
+}

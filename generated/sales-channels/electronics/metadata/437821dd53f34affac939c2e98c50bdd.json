@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail-ready packaging for a compact white 30W USB-C wall charger, clean modern electronics packaging with restrained graphics and no readable brand names, charger visible beside the box on a bright studio surface."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro product photograph of a white compact wall charger showing its USB-C output port and smooth matte casing, accurate proportions, soft studio lighting, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Power Output",
+      "value": "30W"
+    },
+    {
+      "group": "Connector",
+      "value": "USB-C"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.2,
+  "width": 565,
+  "height": 863,
+  "length": 1117,
+  "ean": "5395233291895",
+  "manufacturerNumber": "MPN-EQQ3TVE7",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch LXA8"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "USB-C Fast Charger - White - 30W",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Black",
+        "Navy",
+        "Lavender"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Lavender": 1
+      }
+    },
+    {
+      "group": "Power Output",
+      "selectedOptions": [
+        "35W",
+        "25W",
+        "20W"
+      ],
+      "priceModifiers": {
+        "35W": 1.05,
+        "25W": 0.95,
+        "20W": 0.9
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    }
+  ]
+}

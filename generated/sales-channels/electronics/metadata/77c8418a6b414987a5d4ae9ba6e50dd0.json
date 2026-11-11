@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging for a universal black TV remote with backlit buttons, generic consumer-electronics box displaying the remote clearly, clean neutral backdrop, no readable brand name."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Universal TV remote"
+    },
+    {
+      "group": "Features",
+      "value": "Backlit buttons"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.14,
+  "width": 124,
+  "height": 1145,
+  "length": 1587,
+  "ean": "6812260222351",
+  "manufacturerNumber": "MPN-Z4U3Q01C",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 0FSN"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Universal TV Remote - Black - Backlit"
+}

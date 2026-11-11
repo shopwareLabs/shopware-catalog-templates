@@ -1,0 +1,23 @@
+{
+  "name": "Material",
+  "slug": "material",
+  "displayType": "text",
+  "options": [
+    "Clear TPU",
+    "Hard PC",
+    "Hybrid TPU-PC",
+    "Flexible Silicone",
+    "Frosted TPU",
+    "Recycled TPU"
+  ],
+  "priceModifiers": {
+    "Clear TPU": 1,
+    "Hard PC": 1,
+    "Hybrid TPU-PC": 1.1,
+    "Flexible Silicone": 1,
+    "Frosted TPU": 1,
+    "Recycled TPU": 1.1
+  },
+  "createdAt": "2026-11-10T14:58:27.367Z",
+  "source": "ai-generated"
+}

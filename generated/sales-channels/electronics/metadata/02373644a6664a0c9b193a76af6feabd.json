@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail box for a compact 4K streaming media player with HDMI connection and voice remote, modern understated consumer electronics packaging, product illustration on the front, clean white studio backdrop, no recognizable logos or readable brand names."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up studio product photograph of a compact streaming media player and slim voice remote, showing HDMI connector and remote buttons clearly, neutral white background, realistic materials, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Resolution",
+      "value": "4K UHD"
+    },
+    {
+      "group": "Connectivity",
+      "value": "HDMI and Wi-Fi"
+    },
+    {
+      "group": "Included Accessories",
+      "value": "Voice remote"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 0.77,
+  "width": 648,
+  "height": 636,
+  "length": 1043,
+  "ean": "7380872588169",
+  "manufacturerNumber": "MPN-KMVP3ESE",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch VXXT"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "4K Streaming Media Player - Compact HDMI - Voice Remote"
+}

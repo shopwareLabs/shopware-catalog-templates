@@ -1,0 +1,23 @@
+{
+  "name": "Power Output",
+  "slug": "power-output",
+  "displayType": "text",
+  "options": [
+    "20W",
+    "25W",
+    "30W",
+    "35W",
+    "40W",
+    "45W"
+  ],
+  "priceModifiers": {
+    "20W": 0.9,
+    "25W": 0.95,
+    "30W": 1,
+    "35W": 1.05,
+    "40W": 1.1,
+    "45W": 1.15
+  },
+  "createdAt": "2026-11-10T14:58:28.626Z",
+  "source": "ai-generated"
+}

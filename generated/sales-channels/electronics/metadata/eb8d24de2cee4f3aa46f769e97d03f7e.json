@@ -1,0 +1,118 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Slim silver 10.9-inch tablet shown from a side angle, emphasizing its thin profile and clean edge, screen awake with a subtle abstract wallpaper, neutral studio lighting, realistic product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Box packaging for a silver 10.9-inch tablet with a tasteful product image and understated generic electronics labeling, front and side of box visible, bright studio setting, realistic retail photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Screen Size",
+      "value": "10.9 inches"
+    },
+    {
+      "group": "Storage Capacity",
+      "value": "128GB"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.21,
+  "width": 918,
+  "height": 449,
+  "length": 192,
+  "ean": "0353204036321",
+  "manufacturerNumber": "MPN-F5H015X1",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 0VKQ"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "10.9-Inch Tablet - Silver - 128GB",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Silver",
+        "Space Gray",
+        "Rose Gold",
+        "Blue"
+      ],
+      "priceModifiers": {
+        "Silver": 1,
+        "Space Gray": 1,
+        "Rose Gold": 1,
+        "Blue": 1
+      }
+    },
+    {
+      "group": "Storage Capacity",
+      "selectedOptions": [
+        "1TB",
+        "256GB",
+        "2TB"
+      ],
+      "priceModifiers": {
+        "1TB": 1.3,
+        "256GB": 1.1,
+        "2TB": 1.4
+      }
+    }
+  ],
+  "defaultColor": "Silver",
+  "variantColors": [
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "Space Gray",
+      "hex": "#53565a",
+      "family": "gray"
+    },
+    {
+      "name": "Rose Gold",
+      "hex": "#b76e79",
+      "family": "gold"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    }
+  ]
+}

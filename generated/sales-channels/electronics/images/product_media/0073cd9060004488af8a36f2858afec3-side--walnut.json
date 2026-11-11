@@ -1,0 +1,10 @@
+{
+  "productId": "0073cd9060004488af8a36f2858afec3",
+  "productName": "side--walnut",
+  "generatedAt": "2026-11-10T15:07:53.116Z",
+  "prompt": "Recolour the product to Walnut (#5d432c). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "660af7dc003cb4b1",
+  "shade": "Walnut",
+  "hex": "#5d432c"
+}

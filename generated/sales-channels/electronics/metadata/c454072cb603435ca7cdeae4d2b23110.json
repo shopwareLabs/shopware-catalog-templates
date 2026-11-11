@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic packaging for an adjustable silver aluminum laptop stand, box illustration showing a laptop raised on the stand, clean minimal consumer electronics design, neutral studio setting, no readable brand text."
+    },
+    {
+      "view": "side",
+      "prompt": "Photorealistic side profile of an adjustable silver aluminum laptop stand holding a slim laptop at an elevated viewing angle, visible open-frame construction and non-slip contact points, neutral background, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Material",
+      "value": "Aluminum"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable laptop stand"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.77,
+  "width": 756,
+  "height": 663,
+  "length": 156,
+  "ean": "5409779861020",
+  "manufacturerNumber": "MPN-ODN1YRGP",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 7B4I"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Laptop Stand - Adjustable Aluminum - Silver"
+}

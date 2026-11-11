@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail package for a compact matte black 4K streaming media player, box photographed upright at a slight angle with generic device illustration and clean contemporary electronics styling; no legible logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Resolution",
+      "value": "4K"
+    },
+    {
+      "group": "Type",
+      "value": "Streaming Media Player"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 11.75,
+  "width": 1287,
+  "height": 557,
+  "length": 1871,
+  "ean": "3642939492203",
+  "manufacturerNumber": "MPN-IXWZRC1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch LLRG"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Streaming Media Player - Matte Black - 4K"
+}

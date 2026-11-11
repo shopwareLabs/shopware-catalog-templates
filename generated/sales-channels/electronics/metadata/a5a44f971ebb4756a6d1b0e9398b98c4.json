@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view product photo of a matte black full-motion TV wall mount with articulated arms extended, clearly showing the wall plate and screen bracket; clean white studio background, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the matte black TV mount’s articulated joints, adjustment points, and sturdy metal construction, evenly lit against a neutral background, no branding or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Box packaging for a matte black full-motion TV wall mount, generic illustration of the mount and television installation, tidy retail presentation, no readable branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Type",
+      "value": "Full Motion Mount"
+    },
+    {
+      "group": "Material",
+      "value": "Steel"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.22,
+  "width": 1108,
+  "height": 948,
+  "length": 1815,
+  "ean": "7397480233657",
+  "manufacturerNumber": "MPN-0E45XI1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 3114"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "TV Wall Mount - Matte Black - Full Motion, Steel construction"
+}

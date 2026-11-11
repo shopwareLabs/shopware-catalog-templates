@@ -1,0 +1,10 @@
+{
+  "productId": "13c2fc21efcc4e2c989fad9b23f20a1a",
+  "productName": "lifestyle--navy",
+  "generatedAt": "2026-11-10T15:05:43.428Z",
+  "prompt": "Recolour the product to Navy (#1e3a5f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "30c64f56cd9852d2",
+  "shade": "Navy",
+  "hex": "#1e3a5f"
+}

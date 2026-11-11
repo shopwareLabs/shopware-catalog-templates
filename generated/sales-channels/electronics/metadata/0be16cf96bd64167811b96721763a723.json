@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a navy 10.1-inch Android tablet with a bright generic home screen of colorful app icons, slim bezels, clean light studio background, realistic product photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a navy 10.1-inch tablet showing its slim body and discreet buttons, isolated on a neutral background, realistic e-commerce image."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the navy tablet’s touchscreen edge, front camera, and smooth casing, soft studio lighting, sharp realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "10.1 in"
+    },
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Type",
+      "value": "Android Tablet"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.79,
+  "width": 539,
+  "height": 888,
+  "length": 1461,
+  "ean": "4052698162931",
+  "manufacturerNumber": "MPN-THN9B710",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch M6HW"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Android Tablet - 10.1-Inch Display - Navy"
+}

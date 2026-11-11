@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a compact graphite portable solid state drive with a product image and simple storage-device styling, clean neutral studio setting, avoid legible logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product photograph of a compact graphite portable SSD, minimalist casing and subtle connection detail visible, isolated on a light neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Capacity",
+      "value": "1 TB"
+    },
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Type",
+      "value": "Portable SSD"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 13.97,
+  "width": 114,
+  "height": 957,
+  "length": 1682,
+  "ean": "4486744973729",
+  "manufacturerNumber": "MPN-X505RQ1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch EBK0"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Portable Solid State Drive - 1TB Capacity - Graphite"
+}

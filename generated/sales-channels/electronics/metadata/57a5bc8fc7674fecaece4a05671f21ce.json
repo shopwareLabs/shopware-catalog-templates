@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product photograph of a compact charcoal smart speaker on a tidy living-room side table, warm natural daylight, contemporary home setting, speaker visible clearly, no logos or readable text."
+    },
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a compact charcoal smart speaker with a subtle fabric finish and discreet control surface, isolated on a clean neutral background, realistic studio lighting, no branding."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a compact charcoal smart speaker with Wi-Fi, Bluetooth, and voice assistant features, minimalist generic electronics box with product illustration, clean white studio background, no recognizable logos or readable brand names."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Wi-Fi and Bluetooth"
+    },
+    {
+      "group": "Type",
+      "value": "Smart speaker with voice assistant"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.27,
+  "width": 271,
+  "height": 728,
+  "length": 1547,
+  "ean": "9147399001643",
+  "manufacturerNumber": "MPN-AUNAPGUW",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 1FUE"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Smart Speaker with Voice Assistant - Charcoal - Wi-Fi and Bluetooth"
+}

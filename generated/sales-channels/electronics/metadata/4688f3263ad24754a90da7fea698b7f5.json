@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing black 10000mAh portable power bank on a clean white studio surface, slim rectangular design with subtle charge indicator lights, realistic matte finish, no logos or readable text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a black portable power bank showing USB-A and USB-C ports and small battery indicator lights, sharp realistic product photography, neutral background, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Capacity",
+      "value": "10000mAh"
+    },
+    {
+      "group": "Output Connector",
+      "value": "USB-A and USB-C"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.51,
+  "width": 324,
+  "height": 711,
+  "length": 986,
+  "ean": "4509024621940",
+  "manufacturerNumber": "MPN-BFKOWKX0",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 49YX"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Portable Power Bank - Black - 10000mAh"
+}

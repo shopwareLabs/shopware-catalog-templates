@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a silver fitness smartwatch with a vivid AMOLED display showing an abstract colorful watch face without readable text, centered on a clean light background, no logo, realistic high-quality consumer electronics photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Display Type",
+      "value": "AMOLED"
+    },
+    {
+      "group": "Type",
+      "value": "Fitness Smartwatch"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 4.34,
+  "width": 1342,
+  "height": 191,
+  "length": 1028,
+  "ean": "1192998220979",
+  "manufacturerNumber": "MPN-Q7M9HCAP",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch P0AH"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Fitness Smartwatch - Silver - AMOLED Display"
+}

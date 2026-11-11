@@ -1,0 +1,66 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of a modern 65-inch-class QLED television, emphasizing the thin bezel and vivid screen surface with an abstract colorful image, refined studio lighting, no logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing 65-inch-class 4K QLED smart TV with a vibrant natural landscape on screen, slim dark bezel, photographed straight on against a light neutral studio background, no branding."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a slim 65-inch-class QLED smart television on a minimal stand, showing its contemporary profile and tidy design, clean studio background, no visible logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "65-inch class"
+    },
+    {
+      "group": "Resolution",
+      "value": "4K UHD"
+    },
+    {
+      "group": "Display Technology",
+      "value": "QLED"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.18,
+  "width": 1406,
+  "height": 392,
+  "length": 1402,
+  "ean": "0680605551789",
+  "manufacturerNumber": "MPN-1XIUPPZG",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch MPN0"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "4K QLED Smart TV - 65-Inch Class - Quantum Color",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Extra Small",
+        "Medium",
+        "Small/Medium"
+      ],
+      "priceModifiers": {
+        "Extra Small": 1,
+        "Medium": 1,
+        "Small/Medium": 1
+      }
+    }
+  ]
+}

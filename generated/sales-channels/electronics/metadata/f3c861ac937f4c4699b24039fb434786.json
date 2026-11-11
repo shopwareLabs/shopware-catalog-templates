@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on front product image of a modern 55-inch 4K smart television with a slim slate black bezel and vivid but natural abstract landscape on screen, isolated against a light neutral background, no logos or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Contemporary living-room lifestyle scene featuring a 55-inch slate black 4K smart TV on a minimalist media console, cinematic nature content on screen, balanced daylight, tasteful decor, no visible branding or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Large retail carton for a 55-inch 4K smart TV, photographed at a three-quarter angle with generic television illustration and protective packaging details, clean warehouse-style studio lighting, no readable text or brand marks."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Black"
+    },
+    {
+      "group": "Screen Size",
+      "value": "55 inches"
+    },
+    {
+      "group": "Resolution",
+      "value": "4K UHD"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.09,
+  "width": 1101,
+  "height": 1125,
+  "length": 383,
+  "ean": "9766239111450",
+  "manufacturerNumber": "MPN-EWUEIIMB",
+  "maxPurchase": 20,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch PI0Q"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "4K Smart TV - Slate Black - 55-Inch"
+}

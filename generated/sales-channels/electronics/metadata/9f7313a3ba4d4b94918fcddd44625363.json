@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Photorealistic front-facing product image of premium midnight black wireless over-ear headphones, centered on a clean white studio background, soft even lighting, realistic ear cushions and headband, no visible logos or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of midnight black wireless over-ear headphones, highlighting plush ear cushions, adjustable headband, and discreet on-ear controls, crisp studio photography, neutral background, no logos or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging for midnight black wireless over-ear headphones, elegant consumer electronics box with a tasteful headphone image and minimal generic graphics, front-facing on a clean white background, no readable brand names."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight Black"
+    },
+    {
+      "group": "Type",
+      "value": "Wireless over-ear headphones"
+    },
+    {
+      "group": "Features",
+      "value": "Active noise cancellation"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.38,
+  "width": 1033,
+  "height": 265,
+  "length": 229,
+  "ean": "5924777571813",
+  "manufacturerNumber": "MPN-E80J2TIO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch PIGY"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Wireless Over-Ear Headphones - Midnight Black - Active Noise Cancellation",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Midnight Black",
+        "Silver",
+        "Navy",
+        "White"
+      ],
+      "priceModifiers": {
+        "Midnight Black": 1,
+        "Silver": 1,
+        "Navy": 1,
+        "White": 1
+      }
+    }
+  ],
+  "defaultColor": "Midnight Black",
+  "variantColors": [
+    {
+      "name": "Midnight Black",
+      "hex": "#0b0b0b",
+      "family": "black"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

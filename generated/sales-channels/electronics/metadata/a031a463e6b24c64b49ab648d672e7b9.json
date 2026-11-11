@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile product image of a slim 14-inch everyday laptop in slate gray, showing its thin chassis, hinge, and edge ports clearly; clean neutral studio background, realistic consumer electronics photography, no visible brand logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Gray"
+    },
+    {
+      "group": "Screen Size",
+      "value": "14 inches"
+    },
+    {
+      "group": "Type",
+      "value": "Everyday Laptop"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.03,
+  "width": 580,
+  "height": 323,
+  "length": 1680,
+  "ean": "9744806623629",
+  "manufacturerNumber": "MPN-I1PJ0I1C",
+  "maxPurchase": 10,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch PWB2"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Everyday Laptop - 14-inch - Slate Gray"
+}

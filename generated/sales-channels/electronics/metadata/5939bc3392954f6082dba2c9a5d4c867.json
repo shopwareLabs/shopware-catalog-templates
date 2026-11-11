@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail box for a compact 4K streaming media player, generic modern electronics packaging showing a small streaming device and remote, clean studio lighting, no readable brand names or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Resolution",
+      "value": "4K"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Wi-Fi"
+    },
+    {
+      "group": "Type",
+      "value": "Streaming media player"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.76,
+  "width": 1427,
+  "height": 509,
+  "length": 167,
+  "ean": "1496315292695",
+  "manufacturerNumber": "MPN-091KDC1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch ZAXM"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Streaming Media Player - Compact - 4K"
+}

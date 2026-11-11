@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of a 27-inch matte black computer monitor on its stand, emphasizing the slim panel and stable base, clean neutral studio backdrop, realistic product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of a matte black monitor showing the narrow bezel, screen surface, and discreet control buttons, soft even studio lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "27-inch matte black monitor in a bright, organized home office with a generic productivity screen, keyboard and mouse on the desk, realistic natural lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "27 in"
+    },
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Type",
+      "value": "Computer Monitor"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.46,
+  "width": 626,
+  "height": 996,
+  "length": 888,
+  "ean": "1577981121646",
+  "manufacturerNumber": "MPN-27ZI1KAE",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch X8QS"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Computer Monitor - 27-Inch Display - Matte Black"
+}

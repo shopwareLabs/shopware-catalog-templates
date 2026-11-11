@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of a sleek black TV soundbar and matching wireless subwoofer, showing the soundbar grille and refined cabinet finish, neutral studio background, no logos or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic modern living-room setup with a black soundbar centered below a flat-screen TV and matching subwoofer beside a media console, warm ambient lighting, no visible brand marks."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic packaging for a black TV soundbar system with wireless subwoofer, generic home-audio retail box showing both components, clean white studio setting, no readable branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Wireless subwoofer"
+    },
+    {
+      "group": "Type",
+      "value": "Soundbar system"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.62,
+  "width": 1441,
+  "height": 145,
+  "length": 238,
+  "ean": "7558163931400",
+  "manufacturerNumber": "MPN-839Q1NCO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch ZEJK"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "TV Soundbar - Black - Wireless Subwoofer"
+}

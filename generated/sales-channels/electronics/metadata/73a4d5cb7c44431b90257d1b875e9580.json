@@ -1,0 +1,121 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Child wearing a coral kids' smartwatch during a cheerful family outing, watch clearly visible on wrist, safe friendly outdoor scene, natural light, authentic lifestyle photography, no logos or readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front view of a coral kids' smartwatch with a simple colorful generic touchscreen interface, compact rounded case and adjustable strap, clean studio backdrop, no branding or readable text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Coral kids' smartwatch displayed beside tidy retail packaging with playful minimal graphics and no readable brand text, bright family-friendly colors, clean studio product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Coral"
+    },
+    {
+      "group": "Connectivity",
+      "value": "GPS and Cellular"
+    },
+    {
+      "group": "Age Range",
+      "value": "Kids"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.88,
+  "width": 468,
+  "height": 831,
+  "length": 1888,
+  "ean": "2892303702907",
+  "manufacturerNumber": "MPN-JJ38AYDV",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch WKBY"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Kids' Smartwatch - Coral - GPS Calling",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Coral",
+        "Blue",
+        "Purple",
+        "Mint"
+      ],
+      "priceModifiers": {
+        "Coral": 1,
+        "Blue": 1,
+        "Purple": 1,
+        "Mint": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Flexible Silicone",
+        "Hard PC",
+        "Hybrid TPU-PC"
+      ],
+      "priceModifiers": {
+        "Flexible Silicone": 1,
+        "Hard PC": 1,
+        "Hybrid TPU-PC": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Coral",
+  "variantColors": [
+    {
+      "name": "Coral",
+      "hex": "#ff7f50",
+      "family": "orange"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Purple",
+      "hex": "#9333ea",
+      "family": "purple"
+    },
+    {
+      "name": "Mint",
+      "hex": "#98d7b5",
+      "family": "green"
+    }
+  ]
+}

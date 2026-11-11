@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle photograph of a full-size graphite wireless keyboard on a neat home office desk beside a monitor and notebook, soft daylight, realistic proportions and clean modern setup, no visible logos or readable screen text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of graphite keyboard keys and dedicated number pad, showing low-profile keycaps and subtle function row details, even studio lighting, sharp focus, no brand marks."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product photography of a full-size graphite wireless keyboard with number pad, isolated on a light neutral background, accurate clean key layout, soft shadow, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Layout",
+      "value": "Full-size with number pad"
+    },
+    {
+      "group": "Connection",
+      "value": "Wireless"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.77,
+  "width": 791,
+  "height": 899,
+  "length": 1935,
+  "ean": "3550189083273",
+  "manufacturerNumber": "MPN-KRM90R1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch ZJO8"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Wireless Keyboard - Full-Size Layout - Graphite",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Graphite",
+        "Black",
+        "Silver",
+        "White"
+      ],
+      "priceModifiers": {
+        "Graphite": 1,
+        "Black": 1,
+        "Silver": 1,
+        "White": 1
+      }
+    }
+  ],
+  "defaultColor": "Graphite",
+  "variantColors": [
+    {
+      "name": "Graphite",
+      "hex": "#383838",
+      "family": "gray"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

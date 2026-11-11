@@ -1,0 +1,103 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A black magnetic power bank attached to the back of a compatible smartphone on a cafe table beside a travel bag, contemporary everyday travel setting, realistic lighting, no visible logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail package for a black 10000mAh magnetic power bank, product image clearly visible on the front with clean modern electronics packaging design, neutral studio background, no extra accessories."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Capacity",
+      "value": "10000mAh"
+    },
+    {
+      "group": "Charging Type",
+      "value": "Magnetic wireless"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 3.05,
+  "width": 645,
+  "height": 76,
+  "length": 277,
+  "ean": "4298681461159",
+  "manufacturerNumber": "MPN-5G4J5RR6",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 6DRM"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Magnetic Power Bank - Black - 10000mAh",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "White",
+        "Navy",
+        "Lavender"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "White": 1,
+        "Navy": 1,
+        "Lavender": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    }
+  ]
+}

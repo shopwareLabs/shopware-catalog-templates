@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photo of a matte-black adjustable universal phone car mount with open side grips and rotating joint, isolated on white, crisp realistic detail, no phone and no logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Clean e-commerce photo of generic retail packaging for a matte-black universal dashboard and windshield phone car mount, mount pictured clearly on the box, neutral background, no trademarks."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Mounting Type",
+      "value": "Dashboard/Windshield"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Phone Mount"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.94,
+  "width": 474,
+  "height": 353,
+  "length": 263,
+  "ean": "8106756261947",
+  "manufacturerNumber": "MPN-75ZEWQ52",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch G5I3"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Universal Phone Car Mount - Matte Black - Dashboard/Windshield"
+}

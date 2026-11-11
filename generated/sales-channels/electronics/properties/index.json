@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-11-10T14:58:28.627Z",
+  "count": 6,
+  "groups": [
+    "color",
+    "size",
+    "storage-capacity",
+    "storage",
+    "material",
+    "power-output"
+  ]
+}

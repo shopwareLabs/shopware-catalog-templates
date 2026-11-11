@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic lifestyle product image of a slim 14-inch everyday laptop in slate gray, open on a tidy home desk with a simple document on screen, soft natural window light, understated consumer electronics styling, no visible brand logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Gray"
+    },
+    {
+      "group": "Screen Size",
+      "value": "14 inches"
+    },
+    {
+      "group": "Type",
+      "value": "Everyday laptop"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.56,
+  "width": 444,
+  "height": 1022,
+  "length": 1872,
+  "ean": "4501135632969",
+  "manufacturerNumber": "MPN-7S094314",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch CFHL"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Everyday Laptop - 14-Inch Display - Slate Gray"
+}

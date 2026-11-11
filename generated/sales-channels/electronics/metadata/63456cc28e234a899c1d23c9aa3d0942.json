@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A realistic retail packaging photo for a compact 30W USB-C wall charger in white, package facing camera with a clear product image and restrained consumer-electronics design, neutral studio lighting, no extra accessories or unsupported claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Power",
+      "value": "30W"
+    },
+    {
+      "group": "Port Type",
+      "value": "USB-C"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.11,
+  "width": 540,
+  "height": 985,
+  "length": 942,
+  "ean": "2018436504755",
+  "manufacturerNumber": "MPN-FWF13V1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 8AK9"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "USB-C Wall Charger - 30W - White"
+}

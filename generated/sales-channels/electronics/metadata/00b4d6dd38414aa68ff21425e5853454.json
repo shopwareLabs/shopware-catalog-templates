@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Premium consumer product photograph of a graphite Android smartphone viewed from the side, emphasizing its slim rounded profile and precise button details, neutral studio background, realistic materials, no visible logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a graphite Android smartphone with a vivid edge-to-edge display showing a simple abstract wallpaper, clean studio lighting, centered composition, no brand marks or readable text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of the graphite smartphone camera area and refined rear finish, crisp realistic texture, soft highlights, uncluttered neutral background, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Storage",
+      "value": "256GB"
+    },
+    {
+      "group": "Operating System",
+      "value": "Android"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.19,
+  "width": 437,
+  "height": 389,
+  "length": 1899,
+  "ean": "3953126751219",
+  "manufacturerNumber": "MPN-OIWF2QGO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch R5UI"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Android Smartphone - Graphite - 256GB",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Graphite",
+        "Silver",
+        "Navy",
+        "Forest Green"
+      ],
+      "priceModifiers": {
+        "Graphite": 1,
+        "Silver": 1,
+        "Navy": 1,
+        "Forest Green": 1
+      }
+    },
+    {
+      "group": "Storage",
+      "selectedOptions": [
+        "512GB",
+        "256GB",
+        "128GB"
+      ],
+      "priceModifiers": {
+        "512GB": 1.15,
+        "256GB": 1,
+        "128GB": 0.9
+      }
+    }
+  ],
+  "defaultColor": "Graphite",
+  "variantColors": [
+    {
+      "name": "Graphite",
+      "hex": "#383838",
+      "family": "gray"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    }
+  ]
+}

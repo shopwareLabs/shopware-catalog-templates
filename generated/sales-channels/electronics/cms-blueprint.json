@@ -1,0 +1,511 @@
+{
+  "salesChannelName": "electronics",
+  "pages": [
+    {
+      "name": "Text Elements",
+      "processor": "cms-text",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Electronics for Every Day</h1>\n<p style=\"text-align: center;\">Discover smartphones, laptops, audio, smart home and more for work, play and everyday life</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Find Your Everyday Tech</h2>\n<p>Explore electronics designed to make work, entertainment and daily routines easier. From connected devices to handy accessories, find options for different needs and budgets.</p>\n<ul>\n    <li>Smartphones, laptops and tablets</li>\n    <li>Headphones, TVs and gaming gear</li>\n    <li>Smart home devices and useful accessories</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Make More of Every Moment</h2>\n<p style=\"text-align: center;\"><i>Find the tech to stay connected, get things done and enjoy your downtime</i></p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Tech for Work</h3>\n<p>Choose laptops, monitors and accessories to support your setup, whether you’re working from home, studying or staying productive on the go.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Tech for Play</h3>\n<p>Bring entertainment closer with headphones, TVs and gaming gear. Explore devices and accessories to suit your space, style and budget.</p>"
+                }
+              ]
+            },
+            {
+              "type": "html",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Elements",
+      "processor": "cms-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Explore Our Electronics</h1>\n<p style=\"text-align: center;\">Browse featured devices and accessories in a range of image layouts and sliders</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Featured Electronics Slider</h2>\n<p>Showcase smartphones, laptops, headphones and more in a carousel with navigation arrows and dots. Supports auto-slide, custom speed, and multiple display modes.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-slider",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Product Image Gallery</h2>\n<p>Explore product photos with thumbnails, zoom capability, and full-screen viewing. Perfect for a closer look at electronics and their details.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-gallery",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Elements",
+      "processor": "cms-video",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Video Elements</h1>\n<p style=\"text-align: center;\">Explore video guides and product highlights for the latest electronics</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">YouTube Video</h2>\n<p style=\"text-align: center;\">Discover the latest smartphones, laptops and everyday tech</p>"
+                }
+              ]
+            },
+            {
+              "type": "youtube-video",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Video</h2>\n<p style=\"text-align: center;\">See smart home devices and entertainment gear in action</p>"
+                }
+              ]
+            },
+            {
+              "type": "vimeo-video",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text & Images",
+      "processor": "cms-text-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Electronics for Every Day</h1>\n<p style=\"text-align: center;\">Explore tech for work, entertainment and everything in between</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Tech That Fits Your Routine</h2>\n<p>Find smartphones, laptops and accessories designed to help you stay connected, productive and ready for whatever the day brings.</p>\n<p>From compact essentials to feature-rich upgrades, discover options for different needs and budgets.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Entertainment Your Way</h2>\n<p>Build a setup that suits your space, with TVs, headphones and gaming gear for immersive entertainment at home or on the go.</p>\n<p>Explore trusted everyday devices and fresh additions to your tech lineup.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center;\">Smarter Everyday Living</h2>\n<p style=\"text-align: center;\">Discover smart home devices and practical electronics that bring convenience, connection and comfort to your daily routine.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 4,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Stay Connected</h3>\n<p style=\"text-align: center;\">Explore smartphones and accessories for calls, messages and life on the move.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Work and Create</h3>\n<p style=\"text-align: center;\">Find laptops and essentials to help you focus, create and get more done.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Play and Unwind</h3>\n<p style=\"text-align: center;\">Choose headphones, TVs and gaming gear for entertainment that feels all your own.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-on-image",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\">\n<h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Find Your Next Favorite Tech</h2>\n<p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">From everyday accessories to the latest devices, explore electronics for work, play and home, with choices to suit your needs and budget.</p>\n</div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commerce Elements",
+      "processor": "cms-commerce",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Explore Electronics</h1>\n<p style=\"text-align: center;\">Discover smartphones, laptops, audio and more in layouts made for easy shopping</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Featured Electronics</h2>\n<p style=\"text-align: center;\">Shop standout devices and accessories in a clear three-column layout</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-three-column",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Browse the Latest Gear</h2>\n<p style=\"text-align: center;\">Explore smartphones, headphones and more in a carousel with navigation controls</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Product Gallery + Buy Box</h2>\n<p style=\"text-align: center;\">Explore product images and key details, then add your chosen tech to your cart</p>"
+                }
+              ]
+            },
+            {
+              "type": "gallery-buybox",
+              "position": 6,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 7,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Shop by Category</h2>\n<p style=\"text-align: center;\">Find phones, computers, TVs and accessories with easy category navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "category-navigation",
+              "position": 8,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Elements",
+      "processor": "cms-form",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Form Elements</h1>\n<p style=\"text-align: center;\">Helpful forms for finding the right tech and staying connected</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Contact Form</h2>\n<p style=\"text-align: center;\">Get help with products, orders, and everyday tech questions</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Newsletter Signup</h2>\n<p style=\"text-align: center;\">Sign up for new arrivals, electronics deals, and product updates</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMS Element Showcase",
+      "processor": "cms-welcome",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Discover Electronics</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore smartphones, laptops, headphones and more for work, play and everyday life. Find the right tech for your needs and budget.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Smartphones & Wearables</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Stay connected with phones, smartwatches and useful accessories</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">TVs & Home Audio</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Bring movies, music and shows to life at home</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Gaming & Smart Home</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Level up your setup and make everyday routines easier</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Tech for Every Day</h2>\n<p style=\"text-align: center; color: #666;\">Find the devices and accessories that fit your routine. Explore laptops for work, headphones for listening, TVs for home entertainment and smart home gear for added convenience.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Shop by Category</h3>\n<p>Explore electronics for work, play and home:</p>\n<ul style=\"color: #666;\">\n    <li>Smartphones and accessories</li>\n    <li>Laptops, tablets and computers</li>\n    <li>Headphones, TVs and gaming gear</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Find the Right Fit</h3>\n<p>Choose technology to suit your needs and budget:</p>\n<ul style=\"color: #666;\">\n    <li>Options for everyday use and demanding tasks</li>\n    <li>Smart home devices and practical accessories</li>\n    <li>Choices across a range of features and prices</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Overview",
+      "processor": "cms-testing",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Electronics Overview</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore electronics for work, play and everyday life, from smartphones and laptops to smart home devices and practical accessories.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Explore Electronics</h2>\n<p>Discover a range of consumer electronics and accessories for different needs. Explore popular categories and find the right tech for everyday life:</p>\n<ul>\n<li><strong>Computers</strong> - Laptops and accessories for work and study</li>\n<li><strong>Smartphones</strong> - Mobile devices and everyday essentials</li>\n<li><strong>Audio</strong> - Headphones and speakers for listening anywhere</li>\n<li><strong>TVs</strong> - Screens for movies, shows and home entertainment</li>\n<li><strong>Smart Home</strong> - Connected devices for added convenience</li>\n<li><strong>Gaming</strong> - Gear and accessories for play</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Find the Right Tech</h2>\n<p>Browse electronics with features and options to suit a variety of preferences and budgets:</p>\n<ul>\n<li><strong>Everyday Essentials</strong> - Practical devices for daily tasks</li>\n<li><strong>Work & Study</strong> - Laptops and accessories to support productivity</li>\n<li><strong>Entertainment</strong> - Audio, TVs and gaming gear for downtime</li>\n</ul>\n<p style=\"margin-top: 16px; color: #666;\">Browse each category to explore devices and accessories for your needs.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hydratedAt": "2026-11-10T14:58:34.490Z"
+}

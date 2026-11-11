@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of a graphite wireless keyboard and matching ergonomic mouse, clear view of key legends and mouse contours, neutral studio lighting, clean white background, realistic consumer electronics product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail package for a graphite wireless keyboard and mouse set, front-facing box with clear product illustration and restrained electronics-store design, legible generic labeling, bright studio background, realistic packaging photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Type",
+      "value": "Wireless Keyboard and Mouse Set"
+    },
+    {
+      "group": "Connectivity",
+      "value": "USB Receiver"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.71,
+  "width": 807,
+  "height": 1153,
+  "length": 1560,
+  "ean": "8520102571793",
+  "manufacturerNumber": "MPN-NTG3ZS9T",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch WDJC"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Wireless Keyboard and Mouse Set - Graphite - USB Receiver"
+}

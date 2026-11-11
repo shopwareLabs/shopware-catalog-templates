@@ -1,0 +1,108 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Realistic retail packaging for Midnight Black over-ear wireless headphones, clean consumer electronics box design with a clear product image, neutral studio lighting, no invented logos or legible brand text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of Midnight Black over-ear wireless headphones showing cushioned ear pads, adjustable headband, and discreet earcup controls, crisp materials and soft studio lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle photograph of a person wearing Midnight Black over-ear wireless headphones while relaxing at a tidy home desk, natural window light, contemporary electronics setting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight Black"
+    },
+    {
+      "group": "Type",
+      "value": "Over-Ear Wireless Headphones"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.21,
+  "width": 1061,
+  "height": 567,
+  "length": 503,
+  "ean": "2560808624979",
+  "manufacturerNumber": "MPN-DEZ3LY14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch A0JY"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Wireless Headphones - Midnight Black - Over-Ear",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Midnight Black",
+        "Silver",
+        "Navy",
+        "Ivory"
+      ],
+      "priceModifiers": {
+        "Midnight Black": 1,
+        "Silver": 1,
+        "Navy": 1,
+        "Ivory": 1
+      }
+    }
+  ],
+  "defaultColor": "Midnight Black",
+  "variantColors": [
+    {
+      "name": "Midnight Black",
+      "hex": "#0b0b0b",
+      "family": "black"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    }
+  ]
+}

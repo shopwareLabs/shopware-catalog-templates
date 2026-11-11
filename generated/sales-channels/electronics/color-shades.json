@@ -1,0 +1,62 @@
+{
+  "slate gray": {
+    "name": "Slate Gray",
+    "hex": "#708090",
+    "family": "gray"
+  },
+  "matte black": {
+    "name": "Matte Black",
+    "hex": "#1c1c1c",
+    "family": "black"
+  },
+  "space gray": {
+    "name": "Space Gray",
+    "hex": "#53565a",
+    "family": "gray"
+  },
+  "rose gold": {
+    "name": "Rose Gold",
+    "hex": "#b76e79",
+    "family": "gold"
+  },
+  "smoke gray": {
+    "name": "Smoke Gray",
+    "hex": "#73808c",
+    "family": "gray"
+  },
+  "midnight black": {
+    "name": "Midnight Black",
+    "hex": "#0b0b0b",
+    "family": "black"
+  },
+  "dusty rose": {
+    "name": "Dusty Rose",
+    "hex": "#c08081",
+    "family": "pink"
+  },
+  "chalk white": {
+    "name": "Chalk White",
+    "hex": "#f5f5f0",
+    "family": "white"
+  },
+  "soft pink": {
+    "name": "Soft Pink",
+    "hex": "#f4c2c2",
+    "family": "pink"
+  },
+  "slate black": {
+    "name": "Slate Black",
+    "hex": "#2f3437",
+    "family": "black"
+  },
+  "pearl white": {
+    "name": "Pearl White",
+    "hex": "#f4f1ea",
+    "family": "white"
+  },
+  "graphite black": {
+    "name": "Graphite Black",
+    "hex": "#25282a",
+    "family": "black"
+  }
+}

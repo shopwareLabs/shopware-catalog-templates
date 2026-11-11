@@ -1,0 +1,10 @@
+{
+  "productId": "437821dd53f34affac939c2e98c50bdd",
+  "productName": "detail--lavender",
+  "generatedAt": "2026-11-10T15:06:34.263Z",
+  "prompt": "Recolour the product to Lavender (#b57edc). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "12736321df6ef0ec",
+  "shade": "Lavender",
+  "hex": "#b57edc"
+}

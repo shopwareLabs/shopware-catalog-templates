@@ -1,0 +1,10 @@
+{
+  "productId": "d3d86bf70e9f46cd9318c9e6d5a31a2e",
+  "productName": "packaging--soft-pink",
+  "generatedAt": "2026-11-10T15:07:17.559Z",
+  "prompt": "Recolour the product to Soft Pink (#f4c2c2). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b1d4d6e9cbc23875",
+  "shade": "Soft Pink",
+  "hex": "#f4c2c2"
+}

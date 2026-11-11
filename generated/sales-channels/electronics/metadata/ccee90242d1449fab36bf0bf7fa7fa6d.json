@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a forest green rugged smartphone standing upright on a neutral studio background, sturdy reinforced corners and clear display visible, screen with generic abstract wallpaper, no logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Consumer retail packaging for a forest green rugged smartphone, box and handset arranged neatly, practical durable-device aesthetic, realistic studio lighting, no unsupported certification badges."
+    },
+    {
+      "view": "side",
+      "prompt": "Close side view of a forest green rugged smartphone emphasizing its reinforced edges, textured grip, and covered port details, accurate product proportions on a clean background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Storage",
+      "value": "256GB"
+    },
+    {
+      "group": "Build",
+      "value": "Rugged design"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 10.41,
+  "width": 1481,
+  "height": 867,
+  "length": 1179,
+  "ean": "5431545752256",
+  "manufacturerNumber": "MPN-SVNCL61S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 3LZ6"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Rugged Smartphone - Forest Green - 256GB"
+}

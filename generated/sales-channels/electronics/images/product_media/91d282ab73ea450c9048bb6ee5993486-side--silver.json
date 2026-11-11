@@ -1,0 +1,10 @@
+{
+  "productId": "91d282ab73ea450c9048bb6ee5993486",
+  "productName": "side--silver",
+  "generatedAt": "2026-11-10T15:07:24.518Z",
+  "prompt": "Recolour the product to Silver (#c0c0c0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "3bc9b6725b906e9d",
+  "shade": "Silver",
+  "hex": "#c0c0c0"
+}

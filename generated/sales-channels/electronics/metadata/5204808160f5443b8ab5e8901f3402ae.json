@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product image of a graphite unlocked smartphone with a clean, edge-to-edge display showing a neutral abstract wallpaper, screen on, straight-on view, no brand logo or readable text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Graphite smartphone resting beside a notebook and earbuds on a tidy desk, screen showing a generic colorful home interface, soft daylight, modern everyday technology lifestyle scene."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Storage",
+      "value": "128GB"
+    },
+    {
+      "group": "Network Status",
+      "value": "Unlocked"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.66,
+  "width": 480,
+  "height": 959,
+  "length": 186,
+  "ean": "2191132258822",
+  "manufacturerNumber": "MPN-LJ5ZM83T",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch Q1M8"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Unlocked Smartphone - Graphite - 128GB"
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Realistic e-commerce packaging photo of a compact wireless earbud charging case in midnight black, USB-C charging port indicated on clean retail packaging, neutral studio lighting, legible generic product design without logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on studio product photograph of a closed midnight-black wireless earbud charging case, smooth rounded rectangular shell and subtle status indicator, centered on a clean white background, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight Black"
+    },
+    {
+      "group": "Connector Type",
+      "value": "USB-C"
+    },
+    {
+      "group": "Type",
+      "value": "Earbud Charging Case"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.32,
+  "width": 869,
+  "height": 261,
+  "length": 1183,
+  "ean": "3584696732294",
+  "manufacturerNumber": "MPN-0JE6B31K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch VDPD"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Wireless Earbud Charging Case - Midnight Black - USB-C"
+}

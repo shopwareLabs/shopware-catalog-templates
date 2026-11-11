@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product photograph of a graphite fitness tracker with a soft silicone band worn on a wrist during a casual outdoor walk, display visible but without readable text, natural daylight, clean contemporary styling, realistic consumer electronics photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Material",
+      "value": "Silicone"
+    },
+    {
+      "group": "Type",
+      "value": "Fitness Tracker"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.15,
+  "width": 1158,
+  "height": 74,
+  "length": 265,
+  "ean": "2213096382181",
+  "manufacturerNumber": "MPN-FBH0XA1S",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch KSA1"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Fitness Tracker - Graphite - Silicone Band",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Graphite",
+        "Black",
+        "Dusty Rose",
+        "Sage"
+      ],
+      "priceModifiers": {
+        "Graphite": 1,
+        "Black": 1,
+        "Dusty Rose": 1,
+        "Sage": 1
+      }
+    }
+  ],
+  "defaultColor": "Graphite",
+  "variantColors": [
+    {
+      "name": "Graphite",
+      "hex": "#383838",
+      "family": "gray"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    },
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    }
+  ]
+}

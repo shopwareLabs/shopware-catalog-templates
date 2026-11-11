@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front three-quarter product view of an adjustable silver aluminum laptop stand holding a slim closed laptop, clean geometric support arms and non-slip pads visible, bright neutral studio background, realistic product photography, no logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close detail of the adjustable hinge and aluminum support surface on a silver laptop stand, highlighting a sturdy finish and non-slip contact pads, realistic macro product photography, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Aluminum"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Laptop Stand"
+    },
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.05,
+  "width": 1432,
+  "height": 399,
+  "length": 165,
+  "ean": "7811202633209",
+  "manufacturerNumber": "MPN-EVLNLJ1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch HTTZ"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Laptop Stand - Aluminum - Adjustable, Silver finish"
+}

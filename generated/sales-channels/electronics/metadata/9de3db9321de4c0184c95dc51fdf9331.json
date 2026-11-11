@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view studio photograph of white wireless in-ear earbuds beside their compact charging case, clean background, realistic glossy and matte surface details, soft shadows."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Type",
+      "value": "In-Ear Wireless Earbuds"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.47,
+  "width": 1232,
+  "height": 1015,
+  "length": 755,
+  "ean": "9647588451063",
+  "manufacturerNumber": "MPN-87K5MPCG",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch NDI9"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Wireless Earbuds - White - In-Ear",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Black",
+        "Lavender",
+        "Mint"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Black": 1,
+        "Lavender": 1,
+        "Mint": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    },
+    {
+      "name": "Mint",
+      "hex": "#98d7b5",
+      "family": "green"
+    }
+  ]
+}

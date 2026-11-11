@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio product image of a black fitness tracker showing its slim wristband profile, display edge, and clasp, soft shadows on a light background, accurate consumer-electronics styling."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail box presentation for a midnight black fitness tracker, front of package clearly showing the tracker and concise fitness-band styling, realistic product photography, no unsupported brand marks."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A person wearing a black fitness tracker during a relaxed outdoor walk, wrist and device in natural focus, bright but soft daylight, authentic everyday wellness scene."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Feature",
+      "value": "Heart-rate monitoring"
+    },
+    {
+      "group": "Display",
+      "value": "Color display"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.35,
+  "width": 1343,
+  "height": 238,
+  "length": 679,
+  "ean": "0706745324394",
+  "manufacturerNumber": "MPN-BXRO1Y1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch WO5J"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Fitness Tracker - Midnight Black - Heart Rate"
+}
