@@ -48,7 +48,8 @@ bun run generate --name=music
 bun run generate --name=music --no-template
 ```
 
-> Templates require git access via SSH keys or credential helper.
+Templates are downloaded anonymously over HTTPS. You only need `git`, no GitHub account, SSH key
+or AI API key: uploading a template makes no AI calls.
 
 ## Repository Structure
 
@@ -102,6 +103,21 @@ This ensures:
 | **garden** | Garden and outdoor store with outdoor furniture, plants, tools, and watering |
 | **music** | Musical instruments store with instruments, accessories, and sheet music |
 
+<table>
+  <tr>
+    <td><img src="assets/stores/fashion.webp" alt="fashion template homepage" width="400"><br><b>fashion</b></td>
+    <td><img src="assets/stores/electronics.webp" alt="electronics template homepage" width="400"><br><b>electronics</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/stores/beauty.webp" alt="beauty template homepage" width="400"><br><b>beauty</b></td>
+    <td><img src="assets/stores/drugstore.webp" alt="drugstore template homepage" width="400"><br><b>drugstore</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/stores/garden.webp" alt="garden template homepage" width="400"><br><b>garden</b></td>
+    <td></td>
+  </tr>
+</table>
+
 Every template was tested with the generator's lane matrix on Shopware 6.5, 6.6, 6.7 and 6.8 / trunk
 dev builds. The results are in each template's `template.json` (`testedOn`).
 
@@ -111,27 +127,31 @@ Here's what a generated demo store looks like in Shopware:
 
 ### Homepage
 
-The store homepage with navigation, hero content, and paginated product listings.
+The store homepage with the AI-generated logo and brand colours, a hero image, the demo accounts
+and promotion codes, and paginated product listings (fashion template).
 
-<img src="assets/homepage.png" alt="Homepage" width="800">
+<img src="assets/homepage.webp" alt="Homepage" width="800">
 
 ### Category Page
 
-Category pages with banner images, property filters, and product grids.
+Category pages with banner images, property filters (including colour families), and product
+grids (electronics template).
 
-<img src="assets/category.png" alt="Category Page" width="800">
+<img src="assets/category.webp" alt="Category Page" width="800">
 
 ### Product Detail Page
 
-Product detail pages with variant selection (color, size), descriptions, properties, and reviews.
+Product detail pages with variant selection (colour swatches, storage size), image gallery, manufacturer,
+reviews and properties (electronics template).
 
-<img src="assets/product.png" alt="Product Detail Page" width="800">
+<img src="assets/product.webp" alt="Product Detail Page" width="800">
 
 ### CMS Landing Pages
 
-CMS pages showcasing various layout elements like image-text blocks and galleries.
+CMS pages with AI-written texts and images for every CMS element, here "Text & Images"
+(fashion template).
 
-<img src="assets/cms.png" alt="CMS Landing Pages" width="800">
+<img src="assets/cms.webp" alt="CMS Landing Pages" width="800">
 
 ## Configuration
 
@@ -141,7 +161,7 @@ Override the default template repository in your `.env`:
 # Use a custom template repository
 TEMPLATE_REPO_URL=git@github.com:your-org/your-templates.git
 
-# Override local clone directory (default: .template-repo)
+# Override local clone directory (default: .shopware-catalog-templates)
 TEMPLATE_CACHE_DIR=.my-templates
 ```
 
