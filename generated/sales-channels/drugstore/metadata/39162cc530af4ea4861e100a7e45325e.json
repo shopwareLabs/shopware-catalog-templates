@@ -1,0 +1,103 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing close e-commerce product image of a classic red cream lipstick in a sleek black tube, lipstick bullet visible, clean white background, crisp studio lighting and realistic cosmetic packaging."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of the smooth classic red lipstick bullet and satin surface, showing the precise shape and rich even shade against a simple softly lit background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Lipstick shown with its minimal black outer carton and matching tube, classic red shade indicator, neatly arranged on a bright neutral studio surface, generic unbranded cosmetic packaging."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Classic Red"
+    },
+    {
+      "group": "Finish",
+      "value": "Satin"
+    },
+    {
+      "group": "Type",
+      "value": "Cream Lipstick"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.39,
+  "width": 243,
+  "height": 179,
+  "length": 1339,
+  "ean": "0637473392594",
+  "manufacturerNumber": "MPN-HM7OIC18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch A7LC"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Cream Lipstick - Classic Red - Satin",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Classic Red",
+        "Rose",
+        "Nude",
+        "Berry"
+      ],
+      "priceModifiers": {
+        "Classic Red": 1,
+        "Rose": 1,
+        "Nude": 1,
+        "Berry": 1
+      }
+    }
+  ],
+  "defaultColor": "Classic Red",
+  "variantColors": [
+    {
+      "name": "Classic Red",
+      "hex": "#d32f2f",
+      "family": "red"
+    },
+    {
+      "name": "Rose",
+      "hex": "#e8789a",
+      "family": "pink"
+    },
+    {
+      "name": "Nude",
+      "hex": "#d8b89a",
+      "family": "beige"
+    },
+    {
+      "name": "Berry",
+      "hex": "#8e294d",
+      "family": "red"
+    }
+  ]
+}

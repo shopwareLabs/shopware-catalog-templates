@@ -1,0 +1,23 @@
+{
+  "name": "Material",
+  "slug": "material",
+  "displayType": "text",
+  "options": [
+    "Nickel Wound",
+    "Pure Nickel",
+    "Stainless Steel",
+    "Coated Nickel",
+    "Chrome Wound",
+    "Titanium Wound"
+  ],
+  "priceModifiers": {
+    "Nickel Wound": 1,
+    "Pure Nickel": 1.1,
+    "Stainless Steel": 1,
+    "Coated Nickel": 1.2,
+    "Chrome Wound": 1,
+    "Titanium Wound": 1.3
+  },
+  "createdAt": "2026-11-10T15:36:19.627Z",
+  "source": "ai-generated"
+}

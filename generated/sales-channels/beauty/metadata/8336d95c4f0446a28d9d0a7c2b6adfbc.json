@@ -1,0 +1,95 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "High-end e-commerce product photo of a bottle of luminous liquid foundation in Natural Beige, elegant minimal packaging, upright and centered against a pale neutral background, soft diffused studio lighting, realistic proportions, no added text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Foundation bottle with its matching outer carton arranged neatly together, Natural Beige shade suggested by a subtle swatch beside the packaging, clean premium cosmetics product photography, neutral background, no legible branding or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Beige"
+    },
+    {
+      "group": "Coverage",
+      "value": "Medium"
+    },
+    {
+      "group": "Finish",
+      "value": "Luminous"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 3.56,
+  "width": 276,
+  "height": 550,
+  "length": 204,
+  "ean": "8444064120861",
+  "manufacturerNumber": "MPN-XIJRJ3FO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch UMEP"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Luminous Liquid Foundation - Natural Beige - Medium Coverage",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Natural Beige",
+        "Porcelain",
+        "Warm Honey",
+        "Golden Tan"
+      ],
+      "priceModifiers": {
+        "Natural Beige": 1,
+        "Porcelain": 1,
+        "Warm Honey": 1,
+        "Golden Tan": 1
+      }
+    }
+  ],
+  "defaultColor": "Natural Beige",
+  "variantColors": [
+    {
+      "name": "Natural Beige",
+      "hex": "#d2b48c",
+      "family": "beige"
+    },
+    {
+      "name": "Porcelain",
+      "hex": "#f5e6df",
+      "family": "beige"
+    },
+    {
+      "name": "Warm Honey",
+      "hex": "#d39a55",
+      "family": "beige"
+    },
+    {
+      "name": "Golden Tan",
+      "hex": "#b88643",
+      "family": "brown"
+    }
+  ]
+}

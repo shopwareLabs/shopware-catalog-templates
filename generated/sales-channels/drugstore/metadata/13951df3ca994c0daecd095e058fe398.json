@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A 150 ml bottle of gentle foaming facial cleanser with a subtle aloe-green accent and clean generic label, upright on a pale background, realistic skincare package photography without identifiable branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A person gently cleansing their face at a bright bathroom sink, with a simple foaming facial cleanser bottle nearby; natural daylight, fresh everyday skincare mood, realistic photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a 150 ml gentle foaming facial cleanser bottle, clear pump and aloe-green details, crisp neutral studio lighting, generic readable product label, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "150 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Foaming Cleanser"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Aloe"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 24.51,
+  "width": 1275,
+  "height": 623,
+  "length": 1333,
+  "ean": "3463285902204",
+  "manufacturerNumber": "MPN-67YSNYUG",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch HJZA"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Gentle Foaming Facial Cleanser - Aloe - 150ml"
+}

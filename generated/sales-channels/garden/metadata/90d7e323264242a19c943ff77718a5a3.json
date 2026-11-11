@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up photorealistic detail of a square terracotta outdoor seat cushion showing its fabric texture, neatly finished seams, and softly padded profile; placed on a neutral garden chair, natural daylight, realistic colors, no people, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Terracotta"
+    },
+    {
+      "group": "Shape",
+      "value": "Square"
+    },
+    {
+      "group": "Type",
+      "value": "Seat cushion"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.3,
+  "width": 239,
+  "height": 281,
+  "length": 1453,
+  "ean": "3476518052683",
+  "manufacturerNumber": "MPN-MUBAH51G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch LZJE"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Cushion - Terracotta - Square"
+}

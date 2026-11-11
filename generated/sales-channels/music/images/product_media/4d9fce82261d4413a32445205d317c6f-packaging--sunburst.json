@@ -1,0 +1,10 @@
+{
+  "productId": "4d9fce82261d4413a32445205d317c6f",
+  "productName": "packaging--sunburst",
+  "generatedAt": "2026-11-10T15:43:15.502Z",
+  "prompt": "Recolour the product to Sunburst (#b45a2a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "498f5da2154accc3",
+  "shade": "Sunburst",
+  "hex": "#b45a2a"
+}

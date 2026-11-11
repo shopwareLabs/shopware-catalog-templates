@@ -1,0 +1,10 @@
+{
+  "productId": "47f983ef92154cba8a4b028dbcf6210d",
+  "productName": "front--tan",
+  "generatedAt": "2026-11-10T15:05:44.242Z",
+  "prompt": "Recolour the product to Tan (#d2b48c). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "4607a29c5e373578",
+  "shade": "Tan",
+  "hex": "#d2b48c"
+}

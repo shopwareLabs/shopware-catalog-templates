@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio product photograph of a slim black 10000mAh magnetic wireless power bank, showing its compact profile and ports, crisp neutral background, no brand logo or readable text, realistic consumer electronics photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Capacity",
+      "value": "10000mAh"
+    },
+    {
+      "group": "Type",
+      "value": "Magnetic Wireless Power Bank"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.03,
+  "width": 1075,
+  "height": 234,
+  "length": 1771,
+  "ean": "3004377382223",
+  "manufacturerNumber": "MPN-2AAIXA1W",
+  "maxPurchase": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch DI3C"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Magnetic Wireless Power Bank - Black - 10000mAh"
+}

@@ -1,0 +1,53 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile lifestyle photograph of a men's camel wool-blend overcoat with notched lapel, worn over a dark knit and tailored trousers, model standing naturally on a quiet urban street in soft overcast light, coat silhouette clearly visible, refined contemporary styling, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Men's camel wool-blend overcoat styled for a polished city outfit, full-length model wearing it over charcoal clothing with leather boots, understated architectural backdrop, natural soft daylight, realistic fabric and fit, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Camel"
+    },
+    {
+      "group": "Material",
+      "value": "Wool Blend"
+    },
+    {
+      "group": "Type",
+      "value": "Overcoat"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 14.32,
+  "width": 142,
+  "height": 204,
+  "length": 217,
+  "ean": "3846946652609",
+  "manufacturerNumber": "MPN-UVQ0G618",
+  "maxPurchase": 50,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 15AW"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Wool-Blend Overcoat - Camel - Notched Lapel, Wool Blend construction"
+}

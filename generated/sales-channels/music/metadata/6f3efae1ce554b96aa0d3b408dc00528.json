@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing view of a sleek black 88-key digital piano on a simple stand, full keyboard visible, clean neutral studio background, realistic proportions and soft even lighting, no text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view of a black digital piano showing the keyboard depth, controls, and sturdy stand, realistic product photography in a minimal room, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Black 88-key digital piano set in a bright home music room with a bench and sheet music, musician seated ready to play, natural window light, polished realistic lifestyle photography, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Digital Piano"
+    },
+    {
+      "group": "Size",
+      "value": "88 keys"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.82,
+  "width": 372,
+  "height": 163,
+  "length": 483,
+  "ean": "5877839538395",
+  "manufacturerNumber": "MPN-4J4ZX5SP",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 7I37"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Digital Piano - Black - 88-Key"
+}

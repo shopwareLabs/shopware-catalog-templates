@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Studio e-commerce photograph of retail packaging for a compact white 30W USB-C wall charger, clean minimal packaging with generic charging iconography, no brand marks, front-facing on a white background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Power Output",
+      "value": "30W"
+    },
+    {
+      "group": "Connector Type",
+      "value": "USB-C"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.07,
+  "width": 1229,
+  "height": 551,
+  "length": 1037,
+  "ean": "5553640716886",
+  "manufacturerNumber": "MPN-Q8GHT22P",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch D6XV"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "USB-C Wall Charger - White - 30W"
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Product close-up of a compact Slate Gray Bluetooth speaker, showing its textured grille and simple top controls, neutral background, realistic consumer electronics photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail box for a compact Slate Gray portable Bluetooth speaker, contemporary electronics packaging with a clear speaker image, clean white studio setting, avoid readable logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Gray"
+    },
+    {
+      "group": "Type",
+      "value": "Portable Bluetooth Speaker"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.9,
+  "width": 866,
+  "height": 952,
+  "length": 1071,
+  "ean": "2496369680645",
+  "manufacturerNumber": "MPN-39JRDEHS",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch GYYA"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "Compact Bluetooth Speaker - Slate Gray - Portable"
+}

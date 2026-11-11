@@ -1,0 +1,100 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle product photograph of a compact forest green oscillating garden sprinkler with its nozzle bar visible, isolated on white, realistic molded construction and clean soft shadows."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Nozzles",
+      "value": "18"
+    },
+    {
+      "group": "Type",
+      "value": "Oscillating sprinkler"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.34,
+  "width": 1378,
+  "height": 999,
+  "length": 1079,
+  "ean": "8258309032556",
+  "manufacturerNumber": "MPN-D7JQ621G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch YTCQ"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Oscillating Sprinkler - Forest Green - 18 Nozzles",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Forest Green",
+        "Charcoal",
+        "Blue",
+        "Terracotta"
+      ],
+      "priceModifiers": {
+        "Forest Green": 1,
+        "Charcoal": 1,
+        "Blue": 1,
+        "Terracotta": 1
+      }
+    }
+  ],
+  "defaultColor": "Forest Green",
+  "variantColors": [
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    }
+  ]
+}

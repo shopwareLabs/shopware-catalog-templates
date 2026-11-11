@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic packaging presentation for a natural-toned outdoor dining chair with a woven back, showing the assembled chair clearly alongside a simple protective carton; neutral studio lighting, realistic texture, no readable brand names or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up detail of the woven back and natural-toned frame of an outdoor dining chair, emphasizing the weave texture, neat joins and refined finish; soft daylight, uncluttered background, no people, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Photorealistic front view of a natural-toned outdoor dining chair with a textured woven back and comfortable seat, framed fully and symmetrically on a bright garden patio; greenery subtly in the background, no people, no text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Material",
+      "value": "Woven synthetic fibre"
+    },
+    {
+      "group": "Type",
+      "value": "Dining chair"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.15,
+  "width": 741,
+  "height": 954,
+  "length": 1577,
+  "ean": "2676436702795",
+  "manufacturerNumber": "MPN-FPI7CYL0",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 8PRQ"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Outdoor Dining Chair - Natural - Woven Back, Woven synthetic fibre construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Natural",
+        "Black",
+        "Sage",
+        "Terracotta"
+      ],
+      "priceModifiers": {
+        "Natural": 1,
+        "Black": 1,
+        "Sage": 1,
+        "Terracotta": 1
+      }
+    }
+  ],
+  "defaultColor": "Natural",
+  "variantColors": [
+    {
+      "name": "Natural",
+      "hex": "#c5a77b",
+      "family": "beige"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    }
+  ]
+}

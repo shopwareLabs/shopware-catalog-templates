@@ -1,0 +1,10 @@
+{
+  "productId": "1d94336a77c14fb8b377dc44ad0048aa",
+  "productName": "packaging--light-green",
+  "generatedAt": "2026-11-10T15:05:23.350Z",
+  "prompt": "Recolour the product to Light Green (#b8d8b0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "ea11d534299ec56e",
+  "shade": "Light Green",
+  "hex": "#b8d8b0"
+}

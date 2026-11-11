@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front product image of a silver aluminum spring-clamp guitar capo, shown closed with padded contact surfaces and spring handle visible, isolated on a clean light background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a silver aluminum spring-clamp guitar capo, compact hanging card with the capo displayed clearly, simple generic music accessory design."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Close lifestyle image of a silver spring-clamp capo attached just behind a fret on an acoustic guitar neck, fingers nearby forming a chord, warm natural light and realistic instrument detail."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Aluminum"
+    },
+    {
+      "group": "Type",
+      "value": "Spring clamp"
+    },
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.47,
+  "width": 760,
+  "height": 462,
+  "length": 1073,
+  "ean": "8328722562715",
+  "manufacturerNumber": "MPN-J9P3V71S",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 80Y3"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Capo - Spring Clamp - Aluminum, Silver finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Silver",
+        "Black",
+        "Blue",
+        "Red"
+      ],
+      "priceModifiers": {
+        "Silver": 1,
+        "Black": 1,
+        "Blue": 1,
+        "Red": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Aluminum",
+        "Wood",
+        "Stainless Steel"
+      ],
+      "priceModifiers": {
+        "Aluminum": 1,
+        "Wood": 1.2,
+        "Stainless Steel": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Silver",
+  "variantColors": [
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    }
+  ]
+}

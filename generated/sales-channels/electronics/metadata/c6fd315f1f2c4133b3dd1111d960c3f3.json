@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a compact white wireless keyboard with a full familiar key layout, clean evenly spaced low-profile keys, isolated on a bright white studio background, realistic product photography, no logos or readable key labels beyond ordinary key markings."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the low-profile white keyboard keys and clean casing, softly lit with sharp realistic texture and shallow depth of field, no brand marks."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Generic retail package for a white compact wireless keyboard, product clearly pictured on the box against a tidy neutral background, professional consumer-electronics packaging photo, no logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Type",
+      "value": "Wireless Keyboard"
+    },
+    {
+      "group": "Layout",
+      "value": "Full Layout"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.08,
+  "width": 797,
+  "height": 794,
+  "length": 425,
+  "ean": "8044507173388",
+  "manufacturerNumber": "MPN-PMK1HP1W",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch QXK6"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Compact Wireless Keyboard - White - Full Layout"
+}

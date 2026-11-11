@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on product photograph of a black metal garden arch against a clean pale background, full structure visible with elegant open framework and realistic metal finish; no plants obscuring the shape."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Type",
+      "value": "Climbing Plant Arch"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.15,
+  "width": 691,
+  "height": 36,
+  "length": 1910,
+  "ean": "3482150034772",
+  "manufacturerNumber": "MPN-2C8XY4EC",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 5AL8"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Garden Arch - Black - Metal"
+}

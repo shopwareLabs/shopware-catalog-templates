@@ -1,0 +1,62 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing premium skincare photograph of Cloudveil Daily Moisturizer in a minimalist 50ml cream jar, crisp neutral label, soft white background, balanced studio lighting, refined beauty retail imagery."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of Cloudveil Daily Moisturizer cream texture beside its open jar, smooth pale cream with a delicate swirl, clean editorial lighting, elegant and realistic skincare product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Daily Moisturizer"
+    },
+    {
+      "group": "Fragrance",
+      "value": "Fragrance-Free"
+    },
+    {
+      "group": "Size",
+      "value": "50ml"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.55,
+  "width": 177,
+  "height": 636,
+  "length": 1857,
+  "ean": "1789618473879",
+  "manufacturerNumber": "MPN-UIHKZP10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch XEM2"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Cloudveil Daily Moisturizer - Fragrance-Free - 50ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "100ml",
+        "50ml",
+        "Travel Size"
+      ],
+      "priceModifiers": {
+        "100ml": 1.6,
+        "50ml": 1,
+        "Travel Size": 0.5
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side profile of a slim 55-inch-class OLED smart TV with a narrow dark bezel and understated stand, clean studio background, screen showing a subtle abstract landscape, no logos or readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a 55-inch-class OLED smart television displaying a vivid but natural scenic image, thin dark bezel, balanced studio lighting, clean white background, no branding or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a modern OLED smart TV showing its slim bezel, refined screen edge, and discreet lower frame, high-end product photography, neutral background, no logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "55-inch class"
+    },
+    {
+      "group": "Resolution",
+      "value": "4K UHD"
+    },
+    {
+      "group": "Display Technology",
+      "value": "OLED"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.16,
+  "width": 425,
+  "height": 163,
+  "length": 444,
+  "ean": "8164922072339",
+  "manufacturerNumber": "MPN-F5QVO81S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch SW1R"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "OLED Smart TV - 55-Inch Class - 4K UHD",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Medium/Large",
+        "Extra Large",
+        "Large"
+      ],
+      "priceModifiers": {
+        "Medium/Large": 1,
+        "Extra Large": 1,
+        "Large": 1
+      }
+    }
+  ]
+}

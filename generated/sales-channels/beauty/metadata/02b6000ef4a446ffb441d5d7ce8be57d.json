@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium skincare packaging image of Daily Dew Moisturizer, a 50ml lightweight gel moisturizer in a sleek jar with matching carton, fresh pale aqua and white design, clear legible label, isolated on a softly lit neutral studio background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Gel Moisturizer"
+    },
+    {
+      "group": "Texture",
+      "value": "Lightweight Gel"
+    },
+    {
+      "group": "Size",
+      "value": "50ml"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.81,
+  "width": 613,
+  "height": 593,
+  "length": 1282,
+  "ean": "0589100471588",
+  "manufacturerNumber": "MPN-77VYRS5G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch ODDK"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Daily Dew Moisturizer - Lightweight Gel - 50ml",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Transparent",
+        "Soft Pink",
+        "Lavender",
+        "Pale Blue"
+      ],
+      "priceModifiers": {
+        "Transparent": 1,
+        "Soft Pink": 1,
+        "Lavender": 1,
+        "Pale Blue": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "100ml",
+        "50ml",
+        "15ml"
+      ],
+      "priceModifiers": {
+        "100ml": 1.6,
+        "50ml": 1,
+        "15ml": 0.5
+      }
+    }
+  ],
+  "defaultColor": "Transparent",
+  "variantColors": [
+    {
+      "name": "Transparent",
+      "hex": "#f5f5f5",
+      "family": "transparent"
+    },
+    {
+      "name": "Soft Pink",
+      "hex": "#f4c2c2",
+      "family": "pink"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    },
+    {
+      "name": "Pale Blue",
+      "hex": "#c9e2f2",
+      "family": "blue"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a pressed blush pan in Peach Rose with fine powder texture visible, premium compact edge in frame, crisp realistic studio macro photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a closed slim blush compact in understated elegant packaging, softly illuminated on a neutral background, clean premium e-commerce product image."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Peach Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Soft Matte"
+    },
+    {
+      "group": "Formula",
+      "value": "Pressed Powder"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.86,
+  "width": 320,
+  "height": 656,
+  "length": 1729,
+  "ean": "3817377541497",
+  "manufacturerNumber": "MPN-AJJW3OQS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch LH7P"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Pressed Blush Compact - Peach Rose - Soft Matte"
+}

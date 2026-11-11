@@ -1,0 +1,103 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Editorial beauty image of a model with a fresh Peach Coral blush blended high on the cheeks, luminous natural skin and warm neutral makeup, soft daylight, premium cosmetics campaign styling."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of a cream blush stick in Peach Coral with the rounded product exposed, smooth creamy surface visible, minimal neutral background, soft flattering studio light, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce product photo of a compact cream blush stick in Peach Coral, cap placed beside the tube, clean pale background, premium minimal packaging, accurate shade, no readable branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Peach Coral"
+    },
+    {
+      "group": "Finish",
+      "value": "Dewy"
+    },
+    {
+      "group": "Type",
+      "value": "Cream Blush"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.51,
+  "width": 829,
+  "height": 465,
+  "length": 286,
+  "ean": "0521061411562",
+  "manufacturerNumber": "MPN-3UAOVIHV",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 0T8U"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Cream Blush Stick - Peach Coral - Dewy Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Peach Coral",
+        "Soft Pink",
+        "Warm Berry",
+        "Apricot"
+      ],
+      "priceModifiers": {
+        "Peach Coral": 1,
+        "Soft Pink": 1,
+        "Warm Berry": 1,
+        "Apricot": 1
+      }
+    }
+  ],
+  "defaultColor": "Peach Coral",
+  "variantColors": [
+    {
+      "name": "Peach Coral",
+      "hex": "#f3a17b",
+      "family": "orange"
+    },
+    {
+      "name": "Soft Pink",
+      "hex": "#f4c2c2",
+      "family": "pink"
+    },
+    {
+      "name": "Warm Berry",
+      "hex": "#9b3e5b",
+      "family": "red"
+    },
+    {
+      "name": "Apricot",
+      "hex": "#fbceb1",
+      "family": "orange"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Compact generic first aid kit case resting beside a travel backpack and neatly arranged basic first-aid supplies on a bright tabletop, practical everyday preparedness scene, no people, no readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Compact first aid kit"
+    },
+    {
+      "group": "Count",
+      "value": "40 pieces"
+    },
+    {
+      "group": "Use",
+      "value": "Travel and home"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.74,
+  "width": 899,
+  "height": 708,
+  "length": 1873,
+  "ean": "3909975814674",
+  "manufacturerNumber": "MPN-O5048X1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch ZCJM"
+  },
+  "manufacturerName": "Bandarae",
+  "baseImagePrompt": "Compact First Aid Kit - 40 Pieces - Travel Ready"
+}

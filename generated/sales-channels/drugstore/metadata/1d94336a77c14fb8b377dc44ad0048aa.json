@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product photo of a 250 ml coconut-scented hair mask tub displayed on a clean bathroom shelf beside a folded towel, warm natural daylight, uncluttered modern setting, realistic cosmetic packaging and restrained white-and-cream design."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the creamy texture of a hair mask beside its open 250 ml tub, coconut-inspired neutral packaging, clean hygienic styling, soft studio lighting, no people, no extra labels or claims."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Front-facing e-commerce packaging image of a 250 ml nourishing hair mask in a wide cosmetic tub with a screw-top lid, clean white label with subtle coconut-toned accents, sharp readable generic product design, isolated on a white background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Rinse-Out Hair Mask"
+    },
+    {
+      "group": "Size",
+      "value": "250 ml"
+    },
+    {
+      "group": "Fragrance",
+      "value": "Coconut"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 12.31,
+  "width": 703,
+  "height": 231,
+  "length": 1361,
+  "ean": "0022388351116",
+  "manufacturerNumber": "MPN-9MP6GPJD",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 2VQS"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Nourishing Hair Mask - Coconut - 250ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "500ml",
+        "750ml",
+        "1L"
+      ],
+      "priceModifiers": {
+        "500ml": 1.5,
+        "750ml": 2,
+        "1L": 2.5
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Cream",
+        "Pale Pink",
+        "Light Green"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Cream": 1,
+        "Pale Pink": 1,
+        "Light Green": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Cream",
+      "hex": "#fffdd0",
+      "family": "beige"
+    },
+    {
+      "name": "Pale Pink",
+      "hex": "#f7d7df",
+      "family": "pink"
+    },
+    {
+      "name": "Light Green",
+      "hex": "#b8d8b0",
+      "family": "green"
+    }
+  ]
+}

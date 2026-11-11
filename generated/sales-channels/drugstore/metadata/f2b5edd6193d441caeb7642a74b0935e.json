@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a compact white digital thermometer, emphasizing its flexible probe tip and smooth finish, clean neutral background, realistic pharmacy catalog style."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a compact white digital thermometer with a slim ergonomic body and protective cap, isolated on a bright white background, realistic product photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing digital thermometer with its clear LCD display visible, white body, centered on a soft light-gray background, crisp commercial e-commerce photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Digital thermometer"
+    },
+    {
+      "group": "Feature",
+      "value": "Flexible tip"
+    },
+    {
+      "group": "Display",
+      "value": "LCD"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.37,
+  "width": 618,
+  "height": 1143,
+  "length": 827,
+  "ean": "0221129272110",
+  "manufacturerNumber": "MPN-PP9W4910",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 6JBM"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Digital Thermometer - Flexible Tip - 10-Second Reading",
+  "variantConfigs": [
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "Fever Alarm",
+        "Waterproof",
+        "Standard Flexible"
+      ],
+      "priceModifiers": {
+        "Fever Alarm": 1,
+        "Waterproof": 1.1,
+        "Standard Flexible": 1
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Blue",
+        "Pink",
+        "Mint"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Blue": 1,
+        "Pink": 1,
+        "Mint": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Pink",
+      "hex": "#ec4899",
+      "family": "pink"
+    },
+    {
+      "name": "Mint",
+      "hex": "#98d7b5",
+      "family": "green"
+    }
+  ]
+}

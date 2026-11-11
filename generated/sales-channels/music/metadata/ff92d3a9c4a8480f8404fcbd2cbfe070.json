@@ -1,0 +1,121 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging presentation for a compact black electronic drum kit, product box shown neatly with a tasteful image of the assembled kit, clean studio setting, realistic cardboard packaging, no readable brand names or promotional text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of an electronic drum kit's black mesh drum pad and sensor rim, crisp woven mesh texture and sturdy mounting hardware visible, soft studio lighting, no hands, text, or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A musician practicing on a compact black electronic drum kit in a tidy home music room, seated naturally with headphones and drumsticks, realistic scale, warm ambient light, uncluttered setting, no visible logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Electronic Drum Kit"
+    },
+    {
+      "group": "Pad Material",
+      "value": "Mesh"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.32,
+  "width": 1358,
+  "height": 1168,
+  "length": 1326,
+  "ean": "8999719694674",
+  "manufacturerNumber": "MPN-NC211GDH",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch OK8G"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Electronic Drum Kit - Black - Mesh Pad",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "White": 1,
+        "Red": 1,
+        "Blue": 1
+      }
+    },
+    {
+      "group": "Type",
+      "selectedOptions": [
+        "Compact Kit",
+        "Studio Kit",
+        "Portable Kit"
+      ],
+      "priceModifiers": {
+        "Compact Kit": 0.9,
+        "Studio Kit": 1.3,
+        "Portable Kit": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    }
+  ]
+}

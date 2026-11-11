@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a cognac pebbled leather tote bag, highlighting fine leather grain, neat stitching, and understated metal hardware; soft studio lighting, clean neutral background, premium fashion e-commerce style."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A stylish woman carrying a structured cognac leather tote while walking along a contemporary city street in a tailored neutral outfit; natural daylight, candid but polished fashion editorial, tote clearly visible."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile studio photograph of a structured cognac pebbled leather tote, showing its depth, shoulder straps, reinforced base, and clean silhouette; plain light background, accurate product proportions."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Pebbled leather"
+    },
+    {
+      "group": "Type",
+      "value": "Structured tote"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.49,
+  "width": 1084,
+  "height": 126,
+  "length": 1376,
+  "ean": "6161773113596",
+  "manufacturerNumber": "MPN-98RUHF1G",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch AZUH"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Structured Tote Bag - Cognac - Pebbled Leather"
+}

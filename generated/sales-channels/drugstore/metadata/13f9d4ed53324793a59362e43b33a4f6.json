@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing image of a 500ml aloe vera liquid hand soap refill pouch with a fresh green and white label and visible pour spout, clean white studio background, realistic everyday hygiene product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Bright bathroom sink lifestyle scene with a refillable hand soap dispenser and a 500ml aloe vera soap refill pouch nearby, clean tiled setting, soft natural daylight, tidy and welcoming atmosphere."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Liquid Hand Soap Refill"
+    },
+    {
+      "group": "Scent",
+      "value": "Aloe Vera"
+    },
+    {
+      "group": "Size",
+      "value": "500ml"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.12,
+  "width": 1236,
+  "height": 429,
+  "length": 951,
+  "ean": "3249558693075",
+  "manufacturerNumber": "MPN-ID6SMT18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch P462"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Hand Soap Refill - Aloe Vera - 500ml"
+}

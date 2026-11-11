@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on e-commerce image of a 200 ml gentle face cleanser in a clean white bottle with a simple pump and fresh green aloe-inspired label accents; isolated on white with soft shadows and clear generic packaging."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Bright bathroom vanity scene featuring the cleanser bottle beside a folded white towel and a small green plant, natural morning light, uncluttered skincare setting, realistic product photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle studio product photograph of the 200 ml cleanser bottle, showing its practical shape, pump detail, and clean label design against a neutral pale background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "200ml"
+    },
+    {
+      "group": "Type",
+      "value": "Daily Cleanser"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Aloe"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.3,
+  "width": 632,
+  "height": 1158,
+  "length": 1015,
+  "ean": "4162333604907",
+  "manufacturerNumber": "MPN-RD577V18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch STCP"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Gentle Daily Face Cleanser - Aloe - 200ml"
+}

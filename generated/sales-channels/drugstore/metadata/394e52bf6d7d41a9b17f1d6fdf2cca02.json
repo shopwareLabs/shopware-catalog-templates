@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a classic black mascara wand and brush beside its open compact tube, clean cosmetic presentation, precise bristles in focus, bright soft studio lighting, neutral white background, no brand logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic packaging image of an 8 ml classic lengthening mascara in a sleek black tube with a simple polished cap, understated generic label, upright on white background, front-facing and sharply focused."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a black lengthening mascara tube and matching cap arranged neatly together, minimal premium drugstore cosmetic styling, white studio background, soft shadow, no extra products or claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Lengthening Mascara"
+    },
+    {
+      "group": "Size",
+      "value": "8 ml"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.71,
+  "width": 1100,
+  "height": 456,
+  "length": 1856,
+  "ean": "2086435121181",
+  "manufacturerNumber": "MPN-BGWK3K17",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch WX0J"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Classic Lengthening Mascara - Black - 8ml"
+}

@@ -1,0 +1,85 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a gray drawstring trash bag showing the gathered cord channel and durable flexible film texture, realistic product detail on a clean white background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A gray drawstring trash bag neatly fitted inside a modern kitchen wastebasket, with the drawstring closure visible around the rim, clean organized kitchen setting, bright natural light, no waste visible."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing e-commerce image of a compact pack of 30 gray drawstring trash bags, simple white and charcoal generic packaging with clear count marking, isolated on a bright white background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gray"
+    },
+    {
+      "group": "Count",
+      "value": "30 bags"
+    },
+    {
+      "group": "Closure",
+      "value": "Drawstring"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.24,
+  "width": 728,
+  "height": 812,
+  "length": 1377,
+  "ean": "2166119853598",
+  "manufacturerNumber": "MPN-XR1VCN1O",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch UP9D"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Drawstring Trash Bags - Gray - 30 Count",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "100ml",
+        "300ml",
+        "1L"
+      ],
+      "priceModifiers": {
+        "100ml": 0.5,
+        "300ml": 1,
+        "1L": 2.5
+      }
+    },
+    {
+      "group": "Count",
+      "selectedOptions": [
+        "30 Count",
+        "15 Count",
+        "45 Count"
+      ],
+      "priceModifiers": {
+        "30 Count": 1,
+        "15 Count": 0.6,
+        "45 Count": 1.4
+      }
+    }
+  ]
+}

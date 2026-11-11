@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side profile of a single pair of dark-brown smooth leather men's Derby shoes, clearly showing open lacing, rounded toe, neat welt stitching, and low heel; clean neutral studio background, realistic premium e-commerce product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Men's dark-brown leather Derby shoes worn with tailored navy trousers in a bright contemporary office setting; shoes remain the clear focus, natural light, refined everyday styling, realistic fashion e-commerce photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product view of dark-brown smooth leather men's Derby shoes, pair aligned neatly to show rounded toes and open-lace construction; crisp studio lighting, pale neutral background, realistic product detail."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dark Brown"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Derby Shoes"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.7,
+  "width": 836,
+  "height": 147,
+  "length": 1986,
+  "ean": "0773617693582",
+  "manufacturerNumber": "MPN-NF9YLT1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch WF5W"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Leather Derby Shoes - Dark Brown - Smooth Leather",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Dark Brown",
+        "Black",
+        "Tan",
+        "Burgundy"
+      ],
+      "priceModifiers": {
+        "Dark Brown": 1,
+        "Black": 1,
+        "Tan": 1,
+        "Burgundy": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XL",
+        "L",
+        "XXXL"
+      ],
+      "priceModifiers": {
+        "XL": 1,
+        "L": 1,
+        "XXXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Dark Brown",
+  "variantColors": [
+    {
+      "name": "Dark Brown",
+      "hex": "#4b2e23",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    }
+  ]
+}

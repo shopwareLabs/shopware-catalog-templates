@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Minimalist analog men's watch with silver-tone case and black dial displayed inside a refined dark presentation box, clean premium product photography, no logo or readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on close product view of a minimalist analog watch with silver-tone case, black dial, clear markers and classic hands; centered on a light neutral studio background, crisp realistic detail."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Man wearing a minimalist silver-tone analog watch with black dial beneath the cuff of a smart casual shirt, natural light, contemporary understated styling, watch clearly visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Material",
+      "value": "Stainless Steel"
+    },
+    {
+      "group": "Type",
+      "value": "Analog"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.98,
+  "width": 426,
+  "height": 599,
+  "length": 270,
+  "ean": "5281281826434",
+  "manufacturerNumber": "MPN-0U8SN40U",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch ZXNL"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Minimalist Analog Watch - Silver - Black Dial, Stainless Steel construction"
+}

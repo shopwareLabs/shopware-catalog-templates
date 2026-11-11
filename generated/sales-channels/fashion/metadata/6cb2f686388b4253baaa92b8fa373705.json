@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Lightweight dusty rose woven scarf folded neatly in simple elegant tissue and a minimal fashion gift box; emphasize subtle fabric texture and fringed edge, soft natural studio lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Woman wearing a lightweight dusty rose scarf loosely draped over a cream coat on a breezy city afternoon; approachable contemporary fashion editorial, scarf clearly visible, natural light."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-view product photograph of a dusty rose woven scarf draped over a simple display form, showing its airy fabric, soft folds, and fine fringe; neutral background, accurate color."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Material",
+      "value": "Woven viscose blend"
+    },
+    {
+      "group": "Type",
+      "value": "Lightweight scarf"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.81,
+  "width": 198,
+  "height": 1198,
+  "length": 563,
+  "ean": "0273900583939",
+  "manufacturerNumber": "MPN-XS19OR1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 2307"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Lightweight Woven Scarf - Dusty Rose - Fringed Edge, Woven viscose blend construction"
+}

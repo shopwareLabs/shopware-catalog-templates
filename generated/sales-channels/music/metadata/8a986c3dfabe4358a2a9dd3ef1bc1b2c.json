@@ -1,0 +1,79 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front cover of a beginner vocal warm-up exercise book, elegant uncluttered design with subtle flowing music staff and abstract singing motif, professional educational publication, white studio background."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a slim printed vocal warm-up book showing its neatly bound spine and modest page thickness, resting upright on a music-room shelf, soft natural light."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Beginner singer seated at a piano stand with an open vocal warm-up book, practicing gently in a bright home music room, calm focused mood, no visible logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Vocal Warm-Up Book"
+    },
+    {
+      "group": "Level",
+      "value": "Beginner"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Book"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.89,
+  "width": 133,
+  "height": 1117,
+  "length": 1794,
+  "ean": "5119056773228",
+  "manufacturerNumber": "MPN-QEVFGQ10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 5U5Q"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Vocal Warm-Up Book - Beginner - Daily Exercises",
+  "variantConfigs": [
+    {
+      "group": "Level",
+      "selectedOptions": [
+        "Elementary",
+        "Beginner",
+        "Early Beginner"
+      ],
+      "priceModifiers": {
+        "Elementary": 1,
+        "Beginner": 1,
+        "Early Beginner": 1
+      }
+    },
+    {
+      "group": "Format",
+      "selectedOptions": [
+        "Paperback",
+        "Spiral-Bound",
+        "eBook EPUB"
+      ],
+      "priceModifiers": {
+        "Paperback": 1,
+        "Spiral-Bound": 1.1,
+        "eBook EPUB": 0.8
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a sage green 5-litre garden watering can, highlighting the removable sprinkler rose, long spout, sturdy handle and smooth UV-resistant plastic finish; clean natural daylight, realistic retail product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "The sage green 5-litre garden watering can presented with its removable rose attachment beside it, tasteful garden-supply packaging with clear product visibility, neutral studio background, realistic e-commerce photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Sage green 5-litre watering can being used to water leafy patio container plants in a bright home garden, gentle morning light, authentic gardening scene, realistic lifestyle product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sage"
+    },
+    {
+      "group": "Capacity",
+      "value": "5 Litre"
+    },
+    {
+      "group": "Material",
+      "value": "UV-Resistant Plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.09,
+  "width": 605,
+  "height": 618,
+  "length": 1767,
+  "ean": "3572914661846",
+  "manufacturerNumber": "MPN-028TIRSF",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch ZLVF"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Watering Can - Sage Green - 5 Litre, UV-Resistant Plastic construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Sage",
+        "Terracotta",
+        "Charcoal",
+        "Ocean Blue"
+      ],
+      "priceModifiers": {
+        "Sage": 1,
+        "Terracotta": 1,
+        "Charcoal": 1,
+        "Ocean Blue": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "5 L",
+        "2 L",
+        "1 L"
+      ],
+      "priceModifiers": {
+        "5 L": 1.5,
+        "2 L": 1.1,
+        "1 L": 0.9
+      }
+    }
+  ],
+  "defaultColor": "Sage",
+  "variantColors": [
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#e2725b",
+      "family": "orange"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Ocean Blue",
+      "hex": "#2f6f91",
+      "family": "blue"
+    }
+  ]
+}

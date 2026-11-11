@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a garden bench in natural acacia wood, highlighting the slatted seat, smooth finish, and visible wood grain; neutral garden background, realistic materials, soft daylight."
+    },
+    {
+      "view": "front",
+      "prompt": "Full front view of a natural acacia garden bench with a clean slatted seat, centered on a simple garden patio with understated greenery; accurate proportions, bright natural daylight, premium e-commerce photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Acacia"
+    },
+    {
+      "group": "Material",
+      "value": "Acacia Wood"
+    },
+    {
+      "group": "Type",
+      "value": "Slatted Bench"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 19.52,
+  "width": 750,
+  "height": 1016,
+  "length": 1260,
+  "ean": "6576956264475",
+  "manufacturerNumber": "MPN-H7Y1DA7H",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch ISEH"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Garden Bench - Natural Acacia - Slatted Seat, Acacia Wood construction"
+}

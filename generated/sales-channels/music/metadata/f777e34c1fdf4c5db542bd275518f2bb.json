@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Musician wearing a colorful woven jacquard guitar strap while playing an electric guitar in a warmly lit rehearsal studio, strap clearly visible, natural candid pose, realistic editorial product photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of an adjustable woven jacquard guitar strap displayed at full length against a neutral background, showing fabric pattern, adjustment slider, and reinforced ends."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the woven jacquard texture, adjustable slider, and reinforced strap end, crisp fibers and stitching, soft studio lighting, no brand text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Woven Jacquard"
+    },
+    {
+      "group": "Size",
+      "value": "Adjustable"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.88,
+  "width": 1379,
+  "height": 273,
+  "length": 1128,
+  "ean": "8932973950094",
+  "manufacturerNumber": "MPN-RF8JT992",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 02R3"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Strap - Woven Jacquard - Adjustable, Multicolor finish"
+}

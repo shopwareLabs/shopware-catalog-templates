@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Pair of black pointed-toe women's ballet flats with small bow details arranged in a neat shoe box with tissue paper, premium retail product photography on a neutral surface."
+    },
+    {
+      "view": "front",
+      "prompt": "Front three-quarter studio view of black pointed-toe ballet flats, featuring a delicate bow on each toe and a slim, low-profile sole, photographed against a clean ivory background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Faux Leather"
+    },
+    {
+      "group": "Toe Shape",
+      "value": "Pointed"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 5.88,
+  "width": 611,
+  "height": 1082,
+  "length": 1496,
+  "ean": "7785895872255",
+  "manufacturerNumber": "MPN-8D5P2A18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 7NYJ"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Pointed-Toe Ballet Flats - Black - Bow Detail, Faux Leather construction"
+}

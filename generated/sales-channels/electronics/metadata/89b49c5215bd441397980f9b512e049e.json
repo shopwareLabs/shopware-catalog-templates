@@ -1,0 +1,64 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail e-commerce photo of a clear flexible smartphone case showing raised camera and screen edges, precise port cutouts, transparent shock-absorbing corner, bright neutral studio lighting, no phone branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle image of a modern smartphone inside a clear protective case resting on a tidy desk, transparent edges and raised camera rim visible, soft natural light, clean contemporary setting, no logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Front-facing product packaging photo for a clear protective smartphone case, case visible through a simple transparent window, generic minimal packaging, white background, no brand names."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Material",
+      "value": "Flexible TPU"
+    },
+    {
+      "group": "Type",
+      "value": "Protective Case"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.75,
+  "width": 536,
+  "height": 459,
+  "length": 738,
+  "ean": "5019103963827",
+  "manufacturerNumber": "MPN-WA1Q2P1G",
+  "packaging": {
+    "unitShortCode": "pc",
+    "purchaseUnit": 2,
+    "referenceUnit": 1,
+    "packUnit": "Pair",
+    "packUnitPlural": "Pairs",
+    "unitName": "Piece"
+  },
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch RRFC"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Protective Smartphone Case - Clear - Shock-Absorbing, Flexible TPU construction"
+}

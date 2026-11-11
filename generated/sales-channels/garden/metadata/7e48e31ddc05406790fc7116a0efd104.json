@@ -1,0 +1,50 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing ecommerce product photograph of a compact black digital garden water timer with a single outlet and readable-looking but non-legible display, isolated against a bright neutral background, realistic detail, no brand logo or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Digital timer"
+    },
+    {
+      "group": "Outlets",
+      "value": "Single"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.29,
+  "width": 466,
+  "height": 582,
+  "length": 760,
+  "ean": "4588082032790",
+  "manufacturerNumber": "MPN-NQZ0321O",
+  "minPurchase": 3,
+  "purchaseSteps": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch G44H"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Digital Water Timer - Single Outlet - Black"
+}

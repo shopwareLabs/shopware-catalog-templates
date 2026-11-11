@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Realistic lifestyle photo of a black rain barrel diverter kit installed between a home's downspout and a rain barrel in a neat home garden, clearly showing the connecting hose and diverter, natural daylight, no people, no labels or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Downspout diverter kit"
+    },
+    {
+      "group": "Material",
+      "value": "UV-resistant plastic"
+    },
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 3.53,
+  "width": 500,
+  "height": 1041,
+  "length": 1784,
+  "ean": "4640983514130",
+  "manufacturerNumber": "MPN-H244PW10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch UU0G"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Rain Barrel Diverter Kit - Universal Fit - Black, UV-resistant plastic construction"
+}

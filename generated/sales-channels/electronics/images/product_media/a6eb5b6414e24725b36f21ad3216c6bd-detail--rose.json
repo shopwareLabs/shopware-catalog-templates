@@ -1,0 +1,10 @@
+{
+  "productId": "a6eb5b6414e24725b36f21ad3216c6bd",
+  "productName": "detail--rose",
+  "generatedAt": "2026-11-10T15:05:43.313Z",
+  "prompt": "Recolour the product to Rose (#e8789a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "61b14a90e843e4ac",
+  "shade": "Rose",
+  "hex": "#e8789a"
+}

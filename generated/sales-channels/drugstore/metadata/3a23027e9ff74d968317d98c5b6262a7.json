@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Bottle of adult daily multivitamin tablets with a clean, legible generic label and a small group of tablets beside it, bright white studio background, realistic pharmacy product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Daily multivitamin"
+    },
+    {
+      "group": "Age Group",
+      "value": "Adults"
+    },
+    {
+      "group": "Format",
+      "value": "Tablets"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.55,
+  "width": 421,
+  "height": 472,
+  "length": 1266,
+  "ean": "0146934866722",
+  "manufacturerNumber": "MPN-FX5HBBTI",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch COQE"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Daily Multivitamin - Adult Formula - 60 Tablets",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "100ml",
+        "500ml",
+        "200ml"
+      ],
+      "priceModifiers": {
+        "100ml": 0.5,
+        "500ml": 1.5,
+        "200ml": 0.75
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Amber",
+        "Blue",
+        "Green"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Amber": 1,
+        "Blue": 1,
+        "Green": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Amber",
+      "hex": "#ffbf00",
+      "family": "orange"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Green",
+      "hex": "#16a34a",
+      "family": "green"
+    }
+  ]
+}

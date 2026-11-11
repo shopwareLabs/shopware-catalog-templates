@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "E-commerce product photograph of a closed black leather bifold wallet presented in a refined, unbranded gift box, packaging and wallet both clearly visible, neutral backdrop, soft premium studio lighting, realistic leather grain, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up e-commerce image of an open black leather bifold wallet showing neatly arranged card slots and note compartment, realistic leather texture and stitching, neutral studio background, no cards with readable information, no text or logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product photograph of a closed black leather men’s bifold wallet, compact classic shape with subtle stitching, isolated on a clean light-gray background, soft shadow, premium realistic finish, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Style",
+      "value": "Bifold"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.46,
+  "width": 976,
+  "height": 631,
+  "length": 1092,
+  "ean": "0955590496385",
+  "manufacturerNumber": "MPN-JNR7KFLL",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 0WFM"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Wallet - Black - Bifold Design"
+}

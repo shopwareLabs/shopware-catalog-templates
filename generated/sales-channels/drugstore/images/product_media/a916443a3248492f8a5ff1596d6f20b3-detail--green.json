@@ -1,0 +1,10 @@
+{
+  "productId": "a916443a3248492f8a5ff1596d6f20b3",
+  "productName": "detail--green",
+  "generatedAt": "2026-11-10T15:06:47.057Z",
+  "prompt": "Recolour the product to Green (#16a34a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "673bad7a653d9bec",
+  "shade": "Green",
+  "hex": "#16a34a"
+}

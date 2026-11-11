@@ -1,0 +1,49 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Natural woven wide-brim women's sun hat presented in protective elegant packaging with tissue, showing the hat's shape and texture, warm neutral studio styling, realistic materials, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Material",
+      "value": "Woven Straw"
+    },
+    {
+      "group": "Type",
+      "value": "Wide-Brim Hat"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 24.26,
+  "width": 744,
+  "height": 553,
+  "length": 1719,
+  "ean": "4082346088863",
+  "manufacturerNumber": "MPN-H7H4CD7H",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 671R"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Woven Sun Hat - Natural - Wide Brim, Woven Straw construction"
+}

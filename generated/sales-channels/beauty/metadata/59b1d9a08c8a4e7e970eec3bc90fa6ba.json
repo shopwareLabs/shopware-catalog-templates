@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Premium body-care lifestyle scene featuring Silkglow Body Lotion bottle on a bright bathroom vanity with folded cream towels and a small dish, soft daylight, inviting clean atmosphere."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product and lotion texture photograph of Silkglow Body Lotion, a neat ribbon of white lotion beside the bottle, refined label, warm neutral studio lighting, realistic premium skincare image."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Packaging-focused front three-quarter image of Silkglow Body Lotion 250ml bottle, elegant minimal label and pump, crisp light background, soft shadows, professional beauty e-commerce photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Body Lotion"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Shea Butter"
+    },
+    {
+      "group": "Size",
+      "value": "250ml"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 5.56,
+  "width": 694,
+  "height": 424,
+  "length": 435,
+  "ean": "8410918703191",
+  "manufacturerNumber": "MPN-5E4OWE1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch AQKG"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Silkglow Body Lotion - Shea Butter - 250ml"
+}

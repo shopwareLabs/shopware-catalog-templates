@@ -1,0 +1,10 @@
+{
+  "productId": "94f1fcb3ae284392848ec69ae27c8e94",
+  "productName": "detail--sand",
+  "generatedAt": "2026-11-10T15:08:25.442Z",
+  "prompt": "Recolour the product to Sand (#c2b280). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "030f704a0e4f24c1",
+  "shade": "Sand",
+  "hex": "#c2b280"
+}

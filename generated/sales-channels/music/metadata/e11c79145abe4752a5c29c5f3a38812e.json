@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product photo of a natural spruce dreadnought acoustic guitar being played at home in a warm, inviting music room; full instrument visible, realistic wood grain, soft daylight, no logos or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Acoustic guitar presented securely in simple protective retail packaging with the natural spruce dreadnought visible through an open presentation area; clean studio lighting, no readable branding or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front product photograph of a full-size dreadnought acoustic guitar with a natural spruce-look top, dark fingerboard, visible strings and sound hole, neutral white background, no logo or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Spruce"
+    },
+    {
+      "group": "Type",
+      "value": "Dreadnought"
+    },
+    {
+      "group": "Instrument Size",
+      "value": "Full Size"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.32,
+  "width": 1027,
+  "height": 960,
+  "length": 1434,
+  "ean": "1588087372856",
+  "manufacturerNumber": "MPN-IQJ0A91G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 1HSW"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Acoustic Guitar - Natural Spruce - Dreadnought"
+}

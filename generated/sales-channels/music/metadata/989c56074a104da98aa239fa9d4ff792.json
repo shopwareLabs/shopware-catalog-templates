@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a compact black electronic drum kit showing the frame, drum pads, cymbal pads, and pedal area clearly; clean studio background, realistic proportions, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Electronic Drum Kit"
+    },
+    {
+      "group": "Configuration",
+      "value": "Compact"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 18.23,
+  "width": 159,
+  "height": 453,
+  "length": 71,
+  "ean": "5388994973414",
+  "manufacturerNumber": "MPN-YQSFRQ1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 58Q7"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Electronic Drum Kit - Black - Compact"
+}

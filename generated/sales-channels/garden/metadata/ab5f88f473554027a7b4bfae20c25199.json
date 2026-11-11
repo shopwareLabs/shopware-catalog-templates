@@ -1,0 +1,95 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product image of a teal seven-pattern garden hose spray gun attached to a hose, watering leafy garden plants in a bright home garden; show the trigger grip and water spray clearly, natural daylight, no text or logo."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Teal"
+    },
+    {
+      "group": "Type",
+      "value": "7-pattern spray gun"
+    },
+    {
+      "group": "Material",
+      "value": "Plastic and metal"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.05,
+  "width": 205,
+  "height": 66,
+  "length": 657,
+  "ean": "8756426238603",
+  "manufacturerNumber": "MPN-VBE8E51B",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 87WF"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Garden Hose Spray Gun - 7 Patterns - Teal, Plastic and metal construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Teal",
+        "Black",
+        "Blue",
+        "Red"
+      ],
+      "priceModifiers": {
+        "Teal": 1,
+        "Black": 1,
+        "Blue": 1,
+        "Red": 1
+      }
+    }
+  ],
+  "defaultColor": "Teal",
+  "variantColors": [
+    {
+      "name": "Teal",
+      "hex": "#008080",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    }
+  ]
+}

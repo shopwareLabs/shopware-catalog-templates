@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a taupe garden parasol fully opened over a patio table, sturdy central pole and canopy clearly visible, bright garden setting, realistic product photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing view of a taupe outdoor garden parasol with its canopy open, centered against a simple patio background, accurate shape and neutral natural lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Taupe"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester Fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Crank-Lift Parasol"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.21,
+  "width": 1175,
+  "height": 1032,
+  "length": 315,
+  "ean": "9448601402068",
+  "manufacturerNumber": "MPN-S707RX4L",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch FAAE"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Garden Parasol - Taupe - Crank Lift, Polyester Fabric construction"
+}

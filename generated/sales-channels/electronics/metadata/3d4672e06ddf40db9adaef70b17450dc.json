@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a compact white indoor Wi-Fi security camera, showing lens and subtle housing details, clean studio background, realistic consumer smart home product photo."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail box for a white 1080p indoor Wi-Fi security camera, neat smart-home electronics packaging with product image, neutral lighting, no legible logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Resolution",
+      "value": "1080p Full HD"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Wi-Fi"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.31,
+  "width": 1011,
+  "height": 359,
+  "length": 1398,
+  "ean": "6868195681923",
+  "manufacturerNumber": "MPN-NCAXUU5J",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch C7QH"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Indoor Wi-Fi Security Camera - White - 1080p"
+}

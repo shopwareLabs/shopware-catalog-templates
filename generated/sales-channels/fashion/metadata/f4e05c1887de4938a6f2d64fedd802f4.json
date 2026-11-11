@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Three-quarter side profile of one dark brown leather men's cap-toe lace-up dress shoe, showing the smooth upper, fine stitching, closed lacing and low heel; premium neutral studio setting with soft directional lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dark Brown"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Lace-Up"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.63,
+  "width": 148,
+  "height": 340,
+  "length": 819,
+  "ean": "4087436773513",
+  "manufacturerNumber": "MPN-93FCGQ18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 69YV"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Dress Shoes - Dark Brown - Cap Toe"
+}

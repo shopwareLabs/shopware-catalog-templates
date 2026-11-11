@@ -1,0 +1,100 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up product image of a blue oscillating lawn sprinkler showing its 18 nozzle openings and adjustment controls, isolated on a clean neutral background, realistic plastic texture, no text or logo."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue"
+    },
+    {
+      "group": "Type",
+      "value": "Oscillating sprinkler"
+    },
+    {
+      "group": "Nozzles",
+      "value": "18"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.82,
+  "width": 808,
+  "height": 1027,
+  "length": 1819,
+  "ean": "6768711423559",
+  "manufacturerNumber": "MPN-XBIPLH1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch MB24"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Oscillating Sprinkler - 18 Nozzles - Blue",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Blue",
+        "Black",
+        "Green",
+        "Orange"
+      ],
+      "priceModifiers": {
+        "Blue": 1,
+        "Black": 1,
+        "Green": 1,
+        "Orange": 1
+      }
+    }
+  ],
+  "defaultColor": "Blue",
+  "variantColors": [
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Green",
+      "hex": "#16a34a",
+      "family": "green"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ea580c",
+      "family": "orange"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "39162cc530af4ea4861e100a7e45325e",
+  "productName": "packaging--nude",
+  "generatedAt": "2026-11-10T15:04:44.252Z",
+  "prompt": "Recolour the product to Nude (#d8b89a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b0363ec279ee9652",
+  "shade": "Nude",
+  "hex": "#d8b89a"
+}

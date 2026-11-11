@@ -1,0 +1,104 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic lifestyle image of a compact slate-blue portable Bluetooth speaker on a clean living-room side table, softly lit modern interior, subtle music-listening atmosphere, no visible logos or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of a slate-blue portable Bluetooth speaker showing its tactile control buttons, fine grille texture, and compact rounded enclosure, neutral studio background, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Blue"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Type",
+      "value": "Portable speaker"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.36,
+  "width": 417,
+  "height": 65,
+  "length": 262,
+  "ean": "9083644741066",
+  "manufacturerNumber": "MPN-0APUDOSZ",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 7GNQ"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Bluetooth Speaker - Slate Blue - Portable",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Slate Blue",
+        "Charcoal",
+        "Forest Green",
+        "Sand"
+      ],
+      "priceModifiers": {
+        "Slate Blue": 1,
+        "Charcoal": 1,
+        "Forest Green": 1,
+        "Sand": 1
+      }
+    }
+  ],
+  "defaultColor": "Slate Blue",
+  "variantColors": [
+    {
+      "name": "Slate Blue",
+      "hex": "#4b6584",
+      "family": "blue"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    },
+    {
+      "name": "Sand",
+      "hex": "#c2b280",
+      "family": "beige"
+    }
+  ]
+}

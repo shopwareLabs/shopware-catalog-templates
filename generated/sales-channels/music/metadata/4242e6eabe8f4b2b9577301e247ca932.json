@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photo of a compact black clip-on chromatic instrument tuner, LCD screen visible and unlit or showing a simple tuning indicator, clip and swivel joint clearly presented, clean white background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Chromatic clip-on"
+    },
+    {
+      "group": "Display",
+      "value": "LCD"
+    },
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.2,
+  "width": 454,
+  "height": 773,
+  "length": 169,
+  "ean": "4955455656172",
+  "manufacturerNumber": "MPN-V1SPC91D",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch ODMD"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Clip-On Tuner - Chromatic - LCD Display, Black finish"
+}

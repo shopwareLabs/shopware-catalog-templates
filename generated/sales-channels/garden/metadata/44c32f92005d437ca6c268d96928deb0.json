@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic lifestyle image of a graphite 200-litre rain barrel positioned beside a garden shed and connected to a downpipe, with a watering can nearby and lush home garden planting, soft daylight, no visible branding."
+    },
+    {
+      "view": "detail",
+      "prompt": "Product detail photograph of a graphite rain barrel showing its top lid, water outlet tap and downpipe inlet area, clean realistic surfaces against a neutral garden setting, no text or logo."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Capacity",
+      "value": "200 L"
+    },
+    {
+      "group": "Material",
+      "value": "UV-resistant plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.72,
+  "width": 453,
+  "height": 480,
+  "length": 1140,
+  "ean": "8280983942999",
+  "manufacturerNumber": "MPN-PRXS8514",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch A8XI"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Rain Barrel - 200L - Graphite, UV-resistant plastic construction"
+}

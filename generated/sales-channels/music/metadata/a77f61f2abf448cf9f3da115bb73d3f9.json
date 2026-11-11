@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Beginning violin student practicing beside a music stand with an open student lesson book, violin held in a relaxed posture, bright home lesson setting, supportive and realistic atmosphere."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a beginner violin lesson book resting on a music stand, showing its slim printed-page edge and simple student-focused cover, soft studio lighting, no brand marks."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Violin Lesson Book"
+    },
+    {
+      "group": "Level",
+      "value": "Beginner"
+    },
+    {
+      "group": "Format",
+      "value": "Student Edition"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.05,
+  "width": 1206,
+  "height": 982,
+  "length": 977,
+  "ean": "4549567562751",
+  "manufacturerNumber": "MPN-RF1BY71K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch 0Y45"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Beginner Violin Lesson Book - First Position - Student Edition"
+}

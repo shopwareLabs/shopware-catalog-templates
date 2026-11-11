@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a concert acoustic guitar in natural mahogany finish, highlighting the wood grain, sound hole, bridge, and strings, high-quality realistic product photography, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Natural mahogany concert acoustic guitar leaning beside a chair in a cozy songwriting corner with a notebook and music stand, warm natural light, inviting realistic lifestyle photography, no readable text or logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a natural mahogany concert acoustic guitar, full instrument centered against a clean neutral background, accurate proportions and clear wood grain, soft studio lighting, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Mahogany"
+    },
+    {
+      "group": "Type",
+      "value": "Concert"
+    },
+    {
+      "group": "Material",
+      "value": "Mahogany"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": true,
+  "weight": 14.95,
+  "width": 268,
+  "height": 1034,
+  "length": 282,
+  "ean": "5877800432080",
+  "manufacturerNumber": "MPN-WCGHM58I",
+  "minPurchase": 10,
+  "purchaseSteps": 10,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch NQ67"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Acoustic Guitar - Natural Mahogany - Concert"
+}

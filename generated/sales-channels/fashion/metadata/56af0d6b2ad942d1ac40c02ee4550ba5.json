@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of black leather men's Chelsea boots emphasizing smooth leather grain, elastic side panel, pull tab, and clean sole construction; neutral studio background, sharp realistic e-commerce photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a pair of black leather men's Chelsea boots, clearly showing ankle-height shape, elastic gussets, pull tabs, and low-profile soles; clean studio setting, balanced lighting, realistic product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Man wearing black leather Chelsea boots with dark tailored trousers on a contemporary city street; boots are prominent and clearly styled, understated smart-casual look, natural light, realistic men's fashion photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Chelsea Boots"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.13,
+  "width": 501,
+  "height": 994,
+  "length": 342,
+  "ean": "0724404466117",
+  "manufacturerNumber": "MPN-ZTAGNAPU",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch GUPD"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Chelsea Boots - Black - Elastic Side Panels"
+}

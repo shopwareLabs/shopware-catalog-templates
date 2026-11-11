@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a dual-ended black brow tool, slim angled synthetic brush at one end and spoolie at the other, placed horizontally on a neutral background, clean beauty product photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a black dual-ended brow brush showing its slim profile, angled bristles and spoolie head, crisp studio lighting on a pale background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of the angled synthetic brow brush tip beside the spiral spoolie head, black handle visible, high-resolution realistic beauty accessory image."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Dual-Ended Brow Brush"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.76,
+  "width": 1352,
+  "height": 684,
+  "length": 382,
+  "ean": "4155583282391",
+  "manufacturerNumber": "MPN-3C79PA14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 8HC2"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Angled Brow Brush - Dual-Ended - Black, Synthetic Bristles construction"
+}

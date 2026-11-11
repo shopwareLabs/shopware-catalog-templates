@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic product image of a 200 ml flexible-hold hair styling gel in a clear cylindrical bottle with a secure flip-top cap, minimal white label and subtle blue accents, upright isolated on a clean white background, front packaging visible, even studio lighting."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a 200 ml hair styling gel bottle showing its clear gel contents and practical flip-top cap, neat generic label, neutral studio background, realistic reflections and soft shadow, no other items."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Flexible Hold Gel"
+    },
+    {
+      "group": "Size",
+      "value": "200 ml"
+    },
+    {
+      "group": "Fragrance",
+      "value": "Unscented"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.91,
+  "width": 1018,
+  "height": 379,
+  "length": 1915,
+  "ean": "7136180623210",
+  "manufacturerNumber": "MPN-SASEXH1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch JMEY"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Flexible Hold Styling Gel - Unscented - 200ml"
+}

@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle image of a midnight blue unlocked Android smartphone placed on a modern cafe table beside a notebook and coffee, screen on with an abstract non-branded interface, natural window light, realistic premium electronics photography."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a midnight blue Android smartphone, large edge-to-edge touchscreen displaying a simple abstract gradient wallpaper, clean white studio background, no logo, no readable text, realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight"
+    },
+    {
+      "group": "Storage Capacity",
+      "value": "128GB"
+    },
+    {
+      "group": "Operating System",
+      "value": "Android"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.86,
+  "width": 73,
+  "height": 1149,
+  "length": 1295,
+  "ean": "0680625386583",
+  "manufacturerNumber": "MPN-LOPATDZS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch UVLY"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Unlocked Android Smartphone - Midnight Blue - 128GB"
+}

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing ecommerce photograph of a clear acrylic vanity organizer with three transparent drawers and an open top, neatly holding a few makeup and skincare items, bright white background, premium realistic product photography, no logos or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Clear three-drawer vanity organizer styled on a bright, elegant dressing table with neatly arranged makeup essentials and a small mirror, soft daylight, refined beauty editorial look, transparent acrylic clearly visible, no readable labels."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Clear acrylic three-drawer vanity organizer shown beside a simple protective retail carton on a clean white surface, understated packaging with no legible words or logos, studio lighting, realistic ecommerce product shot."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Material",
+      "value": "Acrylic"
+    },
+    {
+      "group": "Size",
+      "value": "3 Drawer"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.64,
+  "width": 1281,
+  "height": 943,
+  "length": 1480,
+  "ean": "8387922602775",
+  "manufacturerNumber": "MPN-FAEU3YL3",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch K5LC"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Vanity Organizer - Clear - 3 Drawer, Acrylic construction"
+}

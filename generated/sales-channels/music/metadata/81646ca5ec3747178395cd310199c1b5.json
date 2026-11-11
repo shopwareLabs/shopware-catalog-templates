@@ -1,0 +1,117 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro studio photograph of a medium celluloid guitar pick, showing its smooth rounded triangular outline and tortoiseshell-style pattern, clean neutral background, realistic scale and material."
+    },
+    {
+      "view": "side",
+      "prompt": "Low side-angle product photograph of a medium guitar pick that clearly communicates its thin profile and gently rounded edges, with a subtle tortoiseshell finish and soft studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Celluloid"
+    },
+    {
+      "group": "Size",
+      "value": "Medium"
+    },
+    {
+      "group": "Color",
+      "value": "Tortoiseshell"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.04,
+  "width": 291,
+  "height": 475,
+  "length": 1893,
+  "ean": "5094083628164",
+  "manufacturerNumber": "MPN-04G2D40S",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch VCTH"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Picks - Celluloid - Medium, Tortoiseshell finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Tortoiseshell",
+        "Black",
+        "White",
+        "Red"
+      ],
+      "priceModifiers": {
+        "Tortoiseshell": 1,
+        "Black": 1,
+        "White": 1,
+        "Red": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Wide",
+        "Extra Long",
+        "Kids"
+      ],
+      "priceModifiers": {
+        "Wide": 1.1,
+        "Extra Long": 1.1,
+        "Kids": 0.9
+      }
+    }
+  ],
+  "defaultColor": "Tortoiseshell",
+  "variantColors": [
+    {
+      "name": "Tortoiseshell",
+      "hex": "#6e321d",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    }
+  ]
+}

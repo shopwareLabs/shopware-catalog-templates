@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A realistic lifestyle garden photograph of a blush-pink climbing rose trained up a dark wooden trellis beside a charming cottage garden path, leafy stems and open blooms visible, natural daylight, tasteful home garden setting, no text or labels."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blush Pink"
+    },
+    {
+      "group": "Type",
+      "value": "Climbing Rose"
+    },
+    {
+      "group": "Planting Season",
+      "value": "Dormant Season"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.51,
+  "width": 73,
+  "height": 220,
+  "length": 372,
+  "ean": "5767093371077",
+  "manufacturerNumber": "MPN-U1UBOSME",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch TGHR"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Climbing Rose - Blush Pink - Bare Root"
+}

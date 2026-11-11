@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Sunburst double-cutaway electric guitar held by a musician in a rehearsal room, amplifier and subtle studio atmosphere in the background, expressive but realistic lifestyle product photography, no text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a sunburst double-cutaway electric guitar on a clean stand, showing body thickness, neck, bridge, and hardware with accurate proportions, soft studio lighting, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of a sunburst electric guitar body showing the finish gradient, pickups, strings, bridge, and control knobs, highly realistic fine details, no text or logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sunburst"
+    },
+    {
+      "group": "Type",
+      "value": "Double Cutaway"
+    },
+    {
+      "group": "Material",
+      "value": "Solid wood"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.08,
+  "width": 568,
+  "height": 337,
+  "length": 840,
+  "ean": "0970161653509",
+  "manufacturerNumber": "MPN-B5IHWM1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 0SEE"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Electric Guitar - Sunburst - Double Cutaway, Solid wood construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Sunburst",
+        "Black",
+        "Cherry Red",
+        "Olympic White"
+      ],
+      "priceModifiers": {
+        "Sunburst": 1,
+        "Black": 1,
+        "Cherry Red": 1,
+        "Olympic White": 1
+      }
+    }
+  ],
+  "defaultColor": "Sunburst",
+  "variantColors": [
+    {
+      "name": "Sunburst",
+      "hex": "#b45a2a",
+      "family": "orange"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Cherry Red",
+      "hex": "#c8323e",
+      "family": "red"
+    },
+    {
+      "name": "Olympic White",
+      "hex": "#f5f2e8",
+      "family": "white"
+    }
+  ]
+}

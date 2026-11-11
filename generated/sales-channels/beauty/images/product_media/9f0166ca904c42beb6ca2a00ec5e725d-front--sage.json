@@ -1,0 +1,10 @@
+{
+  "productId": "9f0166ca904c42beb6ca2a00ec5e725d",
+  "productName": "front--sage",
+  "generatedAt": "2026-11-10T15:49:50.017Z",
+  "prompt": "Recolour the product to Sage (#9caf88). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "5f73d0c6942d7ffa",
+  "shade": "Sage",
+  "hex": "#9caf88"
+}

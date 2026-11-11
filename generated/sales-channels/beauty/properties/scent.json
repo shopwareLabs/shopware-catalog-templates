@@ -1,0 +1,23 @@
+{
+  "name": "Scent",
+  "slug": "scent",
+  "displayType": "text",
+  "options": [
+    "Coconut",
+    "Shea Butter",
+    "Vanilla",
+    "Cocoa Butter",
+    "Aloe Vera",
+    "Unscented"
+  ],
+  "priceModifiers": {
+    "Coconut": 1,
+    "Shea Butter": 1,
+    "Vanilla": 1,
+    "Cocoa Butter": 1,
+    "Aloe Vera": 1,
+    "Unscented": 1
+  },
+  "createdAt": "2026-11-10T15:40:59.510Z",
+  "source": "ai-generated"
+}

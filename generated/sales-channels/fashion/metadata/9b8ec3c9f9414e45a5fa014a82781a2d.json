@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up fashion product detail of a dusty rose printed midi wrap dress, focusing on the fabric drape, print, neckline edge and waist tie, soft natural light, realistic textile texture, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle fashion photograph of a woman wearing a dusty rose printed midi wrap dress at a bright garden brunch, natural relaxed pose, understated accessories, full outfit visible, editorial contemporary women's fashion, no logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing studio fashion photograph of a dusty rose printed midi wrap dress on a model, full length visible from neckline to hem, clear wrap shape and waist tie, neutral background, even lighting, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Material",
+      "value": "Viscose"
+    },
+    {
+      "group": "Type",
+      "value": "Wrap Midi Dress"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.77,
+  "width": 1368,
+  "height": 414,
+  "length": 375,
+  "ean": "8632883771788",
+  "manufacturerNumber": "MPN-L9A4CTVW",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 6CC1"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Midi Wrap Dress - Dusty Rose - Printed, Viscose construction"
+}

@@ -1,0 +1,511 @@
+{
+  "salesChannelName": "garden",
+  "pages": [
+    {
+      "name": "Text Elements",
+      "processor": "cms-text",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Make Room to Grow</h1>\n<p style=\"text-align: center;\">Find plants, gardening essentials and outdoor furnishings for every green space</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Everything for Your Garden</h2>\n<p>From healthy plants to practical tools and comfortable patio furniture, find thoughtful picks to help you grow and enjoy your outdoor space. Use our garden essentials to bring a little more green to balconies, backyards and beyond.</p>\n<ul>\n    <li>Plants and supplies for growing</li>\n    <li>Comfortable furniture for outdoor living</li>\n    <li>Ideas for spaces large and small</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Inspiration for Outdoor Living</h2>\n<p style=\"text-align: center;\"><i>Discover thoughtful garden picks to help your outdoor space feel welcoming, green and uniquely yours</i></p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Grow Something Good</h3>\n<p>Choose healthy plants and practical gardening essentials to bring new life to your balcony, backyard or garden beds. Find useful picks for every stage, from planting to everyday care.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Make Time to Unwind</h3>\n<p>Complete your outdoor space with comfortable patio furniture and inviting details. Whether you have a spacious garden or a small balcony, create a spot to sit back and enjoy the fresh air.</p>"
+                }
+              ]
+            },
+            {
+              "type": "html",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Elements",
+      "processor": "cms-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Garden Inspiration</h1>\n<p style=\"text-align: center;\">Explore plants, patio furniture and essentials for every outdoor space</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Garden Highlights</h2>\n<p>Browse a rotating selection of healthy plants, practical gardening tools and comfortable outdoor furniture for balconies and backyards.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-slider",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Outdoor Living Gallery</h2>\n<p>See plants, patio furniture and garden essentials up close, with images that make it easy to find thoughtful picks for your outdoor space.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-gallery",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Elements",
+      "processor": "cms-video",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Garden Video Guides</h1>\n<p style=\"text-align: center;\">Discover videos to help you grow, furnish and enjoy your outdoor space</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">YouTube Garden Tips</h2>\n<p style=\"text-align: center;\">Simple ideas for thriving plants and beautiful gardens</p>"
+                }
+              ]
+            },
+            {
+              "type": "youtube-video",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Outdoor Inspiration</h2>\n<p style=\"text-align: center;\">Explore ideas for making the most of every green space</p>"
+                }
+              ]
+            },
+            {
+              "type": "vimeo-video",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text & Images",
+      "processor": "cms-text-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Make Room to Grow</h1>\n<p style=\"text-align: center;\">Find plants, garden essentials and outdoor comforts for every green space</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Grow a Garden That Feels Like You</h2>\n<p>From healthy plants to practical tools, find the essentials to help your garden flourish. Whether you’re caring for a few pots or tending a backyard, thoughtful choices make every growing season more rewarding.</p>\n<p>Explore useful picks that help you make the most of your outdoor space.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Comfort in Every Corner</h2>\n<p>Bring a little more ease to outdoor living with patio furniture and accessories made for relaxing. A small balcony or spacious backyard can become a welcoming place to unwind.</p>\n<p>Mix greenery and comfortable touches to create an outdoor space you’ll love spending time in.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center;\">Make Your Outdoor Space Your Own</h2>\n<p style=\"text-align: center;\">From thriving plants to inviting places to sit, find thoughtful essentials for balconies, backyards and every green space in between.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 4,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Healthy Plants</h3>\n<p style=\"text-align: center;\">Bring fresh colour and life to your garden with plants ready to grow.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Practical Essentials</h3>\n<p style=\"text-align: center;\">Find helpful gardening must-haves to make planting and tending easier.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Outdoor Comfort</h3>\n<p style=\"text-align: center;\">Create a welcoming spot to relax with comfortable patio furniture.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-on-image",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\">\n<h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Make the Most of Your Outdoors</h2>\n<p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">From a few balcony pots to a backyard retreat, discover plants, gardening essentials and comfortable furniture to help your outdoor space bloom.</p>\n</div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commerce Elements",
+      "processor": "cms-commerce",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Garden Essentials</h1>\n<p style=\"text-align: center;\">Explore plants, gardening tools and outdoor furnishings for every green space</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Featured Garden Picks</h2>\n<p style=\"text-align: center;\">Discover plants, patio pieces and gardening essentials in a three-column layout</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-three-column",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Explore the Collection</h2>\n<p style=\"text-align: center;\">Browse a carousel of garden favorites with easy navigation controls</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Product Gallery + Buy Box</h2>\n<p style=\"text-align: center;\">Explore detailed product images and add plants, tools or outdoor furniture to your cart</p>"
+                }
+              ]
+            },
+            {
+              "type": "gallery-buybox",
+              "position": 6,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 7,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Browse Garden Categories</h2>\n<p style=\"text-align: center;\">Find plants, gardening essentials and patio furnishings with easy category navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "category-navigation",
+              "position": 8,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Elements",
+      "processor": "cms-form",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Form Elements</h1>\n<p style=\"text-align: center;\">Helpful forms for growing your garden and enjoying your outdoor space</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Contact Form</h2>\n<p style=\"text-align: center;\">Ask our team about plants, garden essentials and patio furniture</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Newsletter Signup</h2>\n<p style=\"text-align: center;\">Get garden inspiration, seasonal tips and new arrivals in your inbox</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMS Element Showcase",
+      "processor": "cms-welcome",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Ideas for Every Garden</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Find inspiration for growing, furnishing and enjoying your outdoor space, with thoughtful picks for balconies, backyards and every green space in between.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Plants & Growing</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Healthy plants and practical essentials to help your garden thrive</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Garden Inspiration</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Explore outdoor ideas, from lush borders to compact balcony displays</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Outdoor Living</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Discover patio furniture and finishing touches for relaxing outdoors</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Grow & Style Your Space</h2>\n<p style=\"text-align: center; color: #666;\">Pair useful gardening essentials with inspiring ideas for a space that feels like your own. From planting tips to patio styling, find ways to make every outdoor corner more inviting.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Garden Essentials</h3>\n<p>Find practical picks for growing and caring for your outdoor space:</p>\n<ul style=\"color: #666;\">\n    <li>Plants for gardens and balconies</li>\n    <li>Tools and supplies for everyday gardening</li>\n    <li>Pots and planters for every space</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Comfortable Outdoor Living</h3>\n<p>Make more of your time outside with thoughtful finishing touches:</p>\n<ul style=\"color: #666;\">\n    <li>Patio furniture for relaxing and dining</li>\n    <li>Accessories to add comfort and character</li>\n    <li>Ideas for balconies, backyards and beyond</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Overview",
+      "processor": "cms-testing",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Garden Inspiration</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore ideas and essentials for growing, furnishing and enjoying your outdoor space, from balcony planters to backyard comforts.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Garden Essentials</h2>\n<p>Discover the pieces that help bring every green space to life, with practical picks for planting, relaxing and spending time outdoors:</p>\n<ul>\n<li><strong>Plants</strong> - Healthy greenery, flowers and seasonal favorites</li>\n<li><strong>Growing</strong> - Pots, planters and essentials for planting</li>\n<li><strong>Garden Care</strong> - Useful tools and supplies for everyday upkeep</li>\n<li><strong>Outdoor Living</strong> - Comfortable furniture for patios and balconies</li>\n<li><strong>Decor</strong> - Finishing touches to make your space feel like yours</li>\n<li><strong>Small Spaces</strong> - Thoughtful solutions for compact gardens and balconies</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Find Your Outdoor Favorites</h2>\n<p>Browse garden and outdoor living products suited to different spaces, styles and needs:</p>\n<ul>\n<li><strong>Plants</strong> - Greenery and blooms to suit your space</li>\n<li><strong>Planters</strong> - Options for balconies, patios and gardens</li>\n<li><strong>Patio Furniture</strong> - Comfortable pieces for outdoor relaxing and dining</li>\n</ul>\n<p style=\"margin-top: 16px; color: #666;\">Explore the categories to find thoughtful picks for your garden and outdoor space.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hydratedAt": "2026-11-10T15:36:25.773Z"
+}

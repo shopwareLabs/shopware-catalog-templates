@@ -1,0 +1,103 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic packaging for a slate blue portable Bluetooth speaker, compact retail box with a clear speaker product illustration and understated generic feature icons, clean studio setting, no readable brand names or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of a slate blue portable Bluetooth speaker showing its textured grille, compact controls, and protected charging area, realistic studio lighting, neutral background, no logo."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Slate Blue"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Features",
+      "value": "Water-resistant construction"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Orange"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.23,
+  "width": 1239,
+  "height": 60,
+  "length": 1697,
+  "ean": "1909944624855",
+  "manufacturerNumber": "MPN-QGTYIY10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch XPW5"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Bluetooth Portable Speaker - Slate Blue - Waterproof Design",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Slate Blue",
+        "Black",
+        "Coral",
+        "Forest Green"
+      ],
+      "priceModifiers": {
+        "Slate Blue": 1,
+        "Black": 1,
+        "Coral": 1,
+        "Forest Green": 1
+      }
+    }
+  ],
+  "defaultColor": "Slate Blue",
+  "variantColors": [
+    {
+      "name": "Slate Blue",
+      "hex": "#4b6584",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Coral",
+      "hex": "#ff7f50",
+      "family": "orange"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    }
+  ]
+}

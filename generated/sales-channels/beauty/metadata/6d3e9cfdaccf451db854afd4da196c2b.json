@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a premium 75ml Calming Clay Face Mask tube, clean label with subtle clay-inspired graphics, standing on a matte warm-gray surface, soft studio shadows, realistic skincare packaging."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of creamy clay face mask texture beside the tube opening, smooth pale beige formula, refined product label partially visible, premium beauty editorial lighting, clean composition."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product shot of Calming Clay Face Mask, 75ml tube with crisp readable label and understated natural design, centered against a light neutral background, polished skincare catalog photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Clay Mask"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Kaolin Clay"
+    },
+    {
+      "group": "Size",
+      "value": "75ml"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.56,
+  "width": 1195,
+  "height": 735,
+  "length": 1697,
+  "ean": "1216455561426",
+  "manufacturerNumber": "MPN-CPAODR4Z",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch RTTO"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Calming Clay Face Mask - Kaolin Clay - 75ml"
+}

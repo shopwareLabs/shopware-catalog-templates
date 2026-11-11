@@ -1,0 +1,91 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle beauty photograph of glossy cherry red nail polish bottle beside a polished manicure on a relaxed vanity, clean elegant setting, soft natural light, premium realistic cosmetics photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a single nail polish bottle filled with cherry red lacquer, sleek cap and clean silhouette, neutral studio background, subtle reflections, realistic product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cherry Red"
+    },
+    {
+      "group": "Finish",
+      "value": "Gloss"
+    },
+    {
+      "group": "Type",
+      "value": "Nail Polish"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.19,
+  "width": 1091,
+  "height": 1118,
+  "length": 1867,
+  "ean": "6581485942534",
+  "manufacturerNumber": "MPN-PKDY9514",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch QBHP"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Nail Polish - Cherry Red - Gloss Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cherry Red",
+        "Classic Red",
+        "Burgundy",
+        "Coral Red"
+      ],
+      "priceModifiers": {
+        "Cherry Red": 1,
+        "Classic Red": 1,
+        "Burgundy": 1,
+        "Coral Red": 1
+      }
+    }
+  ],
+  "defaultColor": "Cherry Red",
+  "variantColors": [
+    {
+      "name": "Cherry Red",
+      "hex": "#d2042d",
+      "family": "red"
+    },
+    {
+      "name": "Classic Red",
+      "hex": "#c8102e",
+      "family": "red"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    },
+    {
+      "name": "Coral Red",
+      "hex": "#f05a5f",
+      "family": "red"
+    }
+  ]
+}

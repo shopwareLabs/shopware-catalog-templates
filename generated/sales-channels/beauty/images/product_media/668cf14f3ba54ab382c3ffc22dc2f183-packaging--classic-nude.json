@@ -1,0 +1,10 @@
+{
+  "productId": "668cf14f3ba54ab382c3ffc22dc2f183",
+  "productName": "packaging--classic-nude",
+  "generatedAt": "2026-11-10T15:47:14.042Z",
+  "prompt": "Recolour the product to Classic Nude (#c69c7b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "1886541b6dde2664",
+  "shade": "Classic Nude",
+  "hex": "#c69c7b"
+}

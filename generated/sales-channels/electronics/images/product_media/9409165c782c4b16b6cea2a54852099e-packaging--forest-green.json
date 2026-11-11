@@ -1,0 +1,10 @@
+{
+  "productId": "9409165c782c4b16b6cea2a54852099e",
+  "productName": "packaging--forest-green",
+  "generatedAt": "2026-11-10T15:07:49.894Z",
+  "prompt": "Recolour the product to Forest Green (#228b22). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "6110f248996d8b01",
+  "shade": "Forest Green",
+  "hex": "#228b22"
+}

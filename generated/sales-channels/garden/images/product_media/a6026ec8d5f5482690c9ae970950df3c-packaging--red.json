@@ -1,0 +1,10 @@
+{
+  "productId": "a6026ec8d5f5482690c9ae970950df3c",
+  "productName": "packaging--red",
+  "generatedAt": "2026-11-10T15:44:33.166Z",
+  "prompt": "Recolour the product to Red (#dc2626). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "1675d84d14fe674c",
+  "shade": "Red",
+  "hex": "#dc2626"
+}

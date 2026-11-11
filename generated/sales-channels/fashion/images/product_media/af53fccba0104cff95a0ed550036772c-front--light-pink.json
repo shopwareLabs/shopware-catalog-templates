@@ -1,0 +1,10 @@
+{
+  "productId": "af53fccba0104cff95a0ed550036772c",
+  "productName": "front--light-pink",
+  "generatedAt": "2026-11-10T15:06:25.300Z",
+  "prompt": "Recolour the product to Light Pink (#f7c6d0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "39e013457dcb3936",
+  "shade": "Light Pink",
+  "hex": "#f7c6d0"
+}

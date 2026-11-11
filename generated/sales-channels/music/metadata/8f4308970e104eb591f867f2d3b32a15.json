@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle studio photograph of a coordinated five-piece drum kit in black, showing the drums and hardware clearly against a neutral background, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A black five-piece drum kit set up neatly in a welcoming home rehearsal room, soft natural lighting, instruments arranged realistically, no people, text, or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a black drum kit shell, drumhead, tension lugs, and chrome hardware, crisp realistic product photography, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Five-piece drum kit"
+    },
+    {
+      "group": "Material",
+      "value": "Wood and metal"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.24,
+  "width": 1117,
+  "height": 46,
+  "length": 296,
+  "ean": "1019374182297",
+  "manufacturerNumber": "MPN-0XSTJA1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 3IIF"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Drum Kit - Black - Five-Piece, Wood and metal construction"
+}

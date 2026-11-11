@@ -1,0 +1,10 @@
+{
+  "productId": "90464f0028e74646bd4687a28651a757",
+  "productName": "detail--pale-blue",
+  "generatedAt": "2026-11-10T15:48:29.443Z",
+  "prompt": "Recolour the product to Pale Blue (#c9e2f2). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "ce66804ad7c4f535",
+  "shade": "Pale Blue",
+  "hex": "#c9e2f2"
+}

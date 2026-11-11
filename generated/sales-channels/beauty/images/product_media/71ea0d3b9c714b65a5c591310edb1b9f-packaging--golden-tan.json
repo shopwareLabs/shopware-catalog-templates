@@ -1,0 +1,10 @@
+{
+  "productId": "71ea0d3b9c714b65a5c591310edb1b9f",
+  "productName": "packaging--golden-tan",
+  "generatedAt": "2026-11-10T15:47:54.258Z",
+  "prompt": "Recolour the product to Golden Tan (#b88643). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "7fefff391918a1d2",
+  "shade": "Golden Tan",
+  "hex": "#b88643"
+}

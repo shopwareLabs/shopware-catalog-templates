@@ -1,0 +1,10 @@
+{
+  "productId": "46db30ec3952496b9e6c38ab96d0b9ba",
+  "productName": "detail--blue",
+  "generatedAt": "2026-11-10T15:45:36.396Z",
+  "prompt": "Recolour the product to Blue (#2563eb). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "a9bdab28ec25ecc4",
+  "shade": "Blue",
+  "hex": "#2563eb"
+}

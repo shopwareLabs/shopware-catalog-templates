@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of the natural cedar boards and corner joinery on a rectangular raised garden bed, visible warm wood grain, a little dark garden soil inside, outdoor daylight, realistic product photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of an empty rectangular cedar raised garden bed standing on a level lawn, showing its clean plank construction and open-bottom form, soft natural daylight, uncluttered garden background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A rectangular natural cedar raised bed planted with leafy lettuce, herbs, and a few young vegetables in a sunny home garden, neat mulch paths, inviting realistic lifestyle photography, no people or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Cedar"
+    },
+    {
+      "group": "Color",
+      "value": "Natural Cedar"
+    },
+    {
+      "group": "Shape",
+      "value": "Rectangular"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.39,
+  "width": 1171,
+  "height": 1040,
+  "length": 295,
+  "ean": "6014617363100",
+  "manufacturerNumber": "MPN-NV8H5O1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch GJOD"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Cedar Raised Garden Bed - Natural Cedar - Rectangular"
+}

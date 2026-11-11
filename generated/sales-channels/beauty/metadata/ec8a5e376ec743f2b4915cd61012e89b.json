@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on premium product photograph of a slim liquid eyeliner with fine precision applicator displayed beside it, Jet Black cosmetic product, clean studio backdrop and soft high-end lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Jet Black"
+    },
+    {
+      "group": "Applicator",
+      "value": "Fine Tip"
+    },
+    {
+      "group": "Wear",
+      "value": "Long-Wear"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.54,
+  "width": 773,
+  "height": 825,
+  "length": 1746,
+  "ean": "3489756472090",
+  "manufacturerNumber": "MPN-YEMHCCIX",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 1HPS"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Precision Liquid Eyeliner - Jet Black - Long-Wear"
+}

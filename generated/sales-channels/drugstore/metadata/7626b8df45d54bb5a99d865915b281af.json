@@ -1,0 +1,79 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, tidy laundry room with the Fresh Linen liquid laundry detergent bottle placed beside a neatly folded stack of clean white towels; natural daylight, calm everyday household setting, realistic commercial product photography."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Straight-on premium ecommerce photograph of a 1.5L liquid laundry detergent bottle with a clean white-and-blue Fresh Linen label, cap and measuring pour spout visible, crisp legible generic packaging, isolated on a white background."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the laundry detergent bottle's cap, pour spout, handle and Fresh Linen label texture, soft even studio lighting, realistic product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Fresh Linen"
+    },
+    {
+      "group": "Size",
+      "value": "1.5L"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.91,
+  "width": 532,
+  "height": 183,
+  "length": 1856,
+  "ean": "1981151943455",
+  "manufacturerNumber": "MPN-2Q0RQL1S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch TQ66"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Laundry Detergent - Fresh Linen - 1.5L",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Unscented",
+        "Citrus",
+        "Spring Meadow"
+      ],
+      "priceModifiers": {
+        "Unscented": 1,
+        "Citrus": 1,
+        "Spring Meadow": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Extra Large",
+        "Extra Small",
+        "Large"
+      ],
+      "priceModifiers": {
+        "Extra Large": 1.2,
+        "Extra Small": 0.8,
+        "Large": 1.1
+      }
+    }
+  ]
+}

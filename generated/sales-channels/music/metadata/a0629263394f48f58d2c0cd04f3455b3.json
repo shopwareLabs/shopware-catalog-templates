@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Straight-on ecommerce photograph of a beginner vocal technique workbook with a clean, professional music education cover, breath-support theme suggested through subtle abstract airflow graphics, neutral background, no extra props."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Vocal Technique Workbook"
+    },
+    {
+      "group": "Focus",
+      "value": "Breath Support"
+    },
+    {
+      "group": "Level",
+      "value": "Beginner"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.39,
+  "width": 201,
+  "height": 546,
+  "length": 1641,
+  "ean": "8003321473593",
+  "manufacturerNumber": "MPN-1QEFVP1K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch M4QZ"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Vocal Technique Workbook - Breath Support - Beginner"
+}

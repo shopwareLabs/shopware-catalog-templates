@@ -1,0 +1,113 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Studio product photograph, front view of a compact structured crossbody bag in warm cognac pebbled faux leather, clean rectangular silhouette, understated gold-tone hardware, adjustable strap visible, soft neutral background, realistic texture and refined contemporary styling."
+    },
+    {
+      "view": "side",
+      "prompt": "Studio side-view product photograph of a cognac pebbled faux leather crossbody bag, showing its slim gusset, structured profile, strap attachment and subtle hardware, evenly lit against a pale warm-gray background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Faux Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Structured Crossbody"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.48,
+  "width": 839,
+  "height": 852,
+  "length": 1282,
+  "ean": "8265565723975",
+  "manufacturerNumber": "MPN-H5V86I14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 69Z0"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Structured Crossbody Bag - Cognac - Pebbled Finish, Faux Leather construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cognac",
+        "Black",
+        "Navy",
+        "Taupe"
+      ],
+      "priceModifiers": {
+        "Cognac": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Taupe": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Canvas",
+        "Vegan Leather",
+        "Saffiano Leather"
+      ],
+      "priceModifiers": {
+        "Canvas": 0.9,
+        "Vegan Leather": 0.9,
+        "Saffiano Leather": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Cognac",
+  "variantColors": [
+    {
+      "name": "Cognac",
+      "hex": "#9a4e24",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Taupe",
+      "hex": "#8b7d6b",
+      "family": "brown"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product image of a 750ml citrus kitchen surface spray in a clear trigger bottle with a bright, clean label, isolated against a neutral white background; show the nozzle and label clearly, realistic household cleaning product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Kitchen Surface Spray"
+    },
+    {
+      "group": "Scent",
+      "value": "Citrus"
+    },
+    {
+      "group": "Size",
+      "value": "750ml"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 11.3,
+  "width": 986,
+  "height": 1153,
+  "length": 894,
+  "ean": "3660143991077",
+  "manufacturerNumber": "MPN-A1JTYWMB",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 5BSI"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Kitchen Surface Spray - Citrus - 750ml"
+}

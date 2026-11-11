@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Premium e-commerce front view of a sleek lipstick tube open to reveal a Dusty Rose velvet matte lipstick bullet, clean studio lighting, neutral warm background, accurate elegant packaging, no extra text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Luxury beauty lifestyle scene featuring Dusty Rose lipstick beside a subtle lip swatch on a softly lit vanity, refined neutral styling, premium cosmetics campaign aesthetic."
+    },
+    {
+      "view": "side",
+      "prompt": "Clear side profile of a closed slim lipstick tube with understated premium packaging, softly lit against a clean pale background, product centered and fully visible."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Velvet Matte"
+    },
+    {
+      "group": "Coverage",
+      "value": "Buildable"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 0.42,
+  "width": 667,
+  "height": 355,
+  "length": 504,
+  "ean": "2533562792178",
+  "manufacturerNumber": "MPN-L3HU5D14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch MICE"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Velvet Matte Lipstick - Dusty Rose - Satin Finish"
+}

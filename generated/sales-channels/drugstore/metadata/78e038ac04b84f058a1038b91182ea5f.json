@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Straight-on ecommerce product photograph of a 1L fabric softener bottle with a lavender-colored label and clear Lavender scent identification, clean cap, bright white studio background, realistic packaging."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Lavender"
+    },
+    {
+      "group": "Size",
+      "value": "1L"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 9.37,
+  "width": 504,
+  "height": 1001,
+  "length": 1210,
+  "ean": "7936139481638",
+  "manufacturerNumber": "MPN-0TG1LUOP",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch BKGP"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Fabric Softener - Lavender - 1L"
+}

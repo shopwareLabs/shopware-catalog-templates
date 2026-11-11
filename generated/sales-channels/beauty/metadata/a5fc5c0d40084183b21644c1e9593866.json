@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A compact structured dusty rose beauty storage case styled on an elegant vanity beside a few makeup essentials and brushes, soft natural window light, tasteful premium beauty editorial scene, case clearly in focus, no logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Type",
+      "value": "Structured Storage Case"
+    },
+    {
+      "group": "Material",
+      "value": "Fabric"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": true,
+  "weight": 17.57,
+  "width": 1382,
+  "height": 517,
+  "length": 1647,
+  "ean": "9094804452845",
+  "manufacturerNumber": "MPN-CMRO2618",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch N9WL"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Structured Beauty Storage Case - Dusty Rose - Compact, Fabric construction"
+}

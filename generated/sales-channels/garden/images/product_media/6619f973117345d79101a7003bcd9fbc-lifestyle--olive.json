@@ -1,0 +1,10 @@
+{
+  "productId": "6619f973117345d79101a7003bcd9fbc",
+  "productName": "lifestyle--olive",
+  "generatedAt": "2026-11-10T15:42:51.867Z",
+  "prompt": "Recolour the product to Olive (#808000). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "34e4b07ce5e5909b",
+  "shade": "Olive",
+  "hex": "#808000"
+}

@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view product photograph of a dark recycled-rubber soaker hose arranged in a loose coil, showing its flexible porous construction and garden hose connector, neutral background, realistic retail image."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "15 Metre"
+    },
+    {
+      "group": "Material",
+      "value": "Recycled Rubber"
+    },
+    {
+      "group": "Type",
+      "value": "Porous Soaker Hose"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.11,
+  "width": 1112,
+  "height": 492,
+  "length": 820,
+  "ean": "3136741433009",
+  "manufacturerNumber": "MPN-8YLF9J14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch ZRK6"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Soaker Hose - 15 Metre - Recycled Rubber"
+}

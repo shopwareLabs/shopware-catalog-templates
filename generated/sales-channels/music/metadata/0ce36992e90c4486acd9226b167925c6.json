@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a choral score set showing neatly printed staff notation and vocal labels on crisp white pages, no readable copyrighted lyrics, even studio lighting, realistic paper texture."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Choral Score Set"
+    },
+    {
+      "group": "Voicing",
+      "value": "SATB"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Scores"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 8.55,
+  "width": 123,
+  "height": 345,
+  "length": 410,
+  "ean": "4194633721541",
+  "manufacturerNumber": "MPN-JIF42LHN",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch KSKE"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Choir Rehearsal Score Set - SATB - Choral Collection"
+}

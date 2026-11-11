@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Premium body lotion lifestyle scene with a sleek 250ml lotion bottle on a bright bathroom counter beside a soft cotton towel and subtle greenery, gentle daylight, warm clean atmosphere, understated luxury skincare aesthetic."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-view studio product photo of a tall 250ml body lotion bottle with a clean ivory label and simple dispenser, creamy neutral packaging, soft shadow on a pale background, crisp realistic details."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Key Ingredient",
+      "value": "Shea Butter"
+    },
+    {
+      "group": "Size",
+      "value": "250ml"
+    },
+    {
+      "group": "Finish",
+      "value": "Soft, Non-Greasy"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": true,
+  "salePercentage": 0.15,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.87,
+  "width": 1065,
+  "height": 552,
+  "length": 124,
+  "ean": "0383017022334",
+  "manufacturerNumber": "MPN-N2P1I01O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch CDOG"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Nourishing Body Lotion - Shea Butter - 250ml"
+}

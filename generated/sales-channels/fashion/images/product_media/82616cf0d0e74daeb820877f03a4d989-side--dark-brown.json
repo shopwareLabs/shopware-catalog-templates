@@ -1,0 +1,10 @@
+{
+  "productId": "82616cf0d0e74daeb820877f03a4d989",
+  "productName": "side--dark-brown",
+  "generatedAt": "2026-11-10T15:04:42.544Z",
+  "prompt": "Recolour the product to Dark Brown (#4b2e23). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "22f7347d566c5d0b",
+  "shade": "Dark Brown",
+  "hex": "#4b2e23"
+}

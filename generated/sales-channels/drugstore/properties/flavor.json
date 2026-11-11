@@ -1,0 +1,25 @@
+{
+  "name": "Flavor",
+  "slug": "flavor",
+  "displayType": "text",
+  "options": [
+    "Citrus",
+    "Lemon Lime",
+    "Orange",
+    "Berry",
+    "Watermelon",
+    "Tropical",
+    "Unflavored"
+  ],
+  "priceModifiers": {
+    "Citrus": 1,
+    "Lemon Lime": 1,
+    "Orange": 1,
+    "Berry": 1,
+    "Watermelon": 1,
+    "Tropical": 1,
+    "Unflavored": 1
+  },
+  "createdAt": "2026-11-10T14:58:16.389Z",
+  "source": "ai-generated"
+}

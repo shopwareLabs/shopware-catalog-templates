@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a slim graphite black soundbar paired with a compact wireless subwoofer, arranged against a clean neutral studio background, realistic proportions and subtle soft shadows, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite Black"
+    },
+    {
+      "group": "Type",
+      "value": "Soundbar with wireless subwoofer"
+    },
+    {
+      "group": "Connectivity",
+      "value": "TV audio connection"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 17.8,
+  "width": 763,
+  "height": 693,
+  "length": 443,
+  "ean": "0995832543545",
+  "manufacturerNumber": "MPN-3RFG3L10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 86H4"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "Soundbar - Graphite Black - Wireless Subwoofer",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Graphite Black",
+        "Silver",
+        "White",
+        "Walnut"
+      ],
+      "priceModifiers": {
+        "Graphite Black": 1,
+        "Silver": 1,
+        "White": 1,
+        "Walnut": 1
+      }
+    }
+  ],
+  "defaultColor": "Graphite Black",
+  "variantColors": [
+    {
+      "name": "Graphite Black",
+      "hex": "#25282a",
+      "family": "black"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Walnut",
+      "hex": "#5d432c",
+      "family": "brown"
+    }
+  ]
+}

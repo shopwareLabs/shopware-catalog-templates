@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Ecommerce close-up of colorful music theory flash cards fanned out to show staff notation and note-reading exercises, crisp printed details, balanced colors, plain bright background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Music Theory Flash Cards"
+    },
+    {
+      "group": "Focus",
+      "value": "Note Reading"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.5,
+  "width": 193,
+  "height": 195,
+  "length": 1941,
+  "ean": "5443241863808",
+  "manufacturerNumber": "MPN-0FHTVO1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch Z004"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Music Theory Flash Cards - Note Reading - Multicolor",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Multicolor",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "priceModifiers": {
+        "Multicolor": 1,
+        "Blue": 1,
+        "Green": 1,
+        "Red": 1
+      }
+    }
+  ],
+  "defaultColor": "Multicolor",
+  "variantColors": [
+    {
+      "name": "Multicolor",
+      "family": "multicolor"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Green",
+      "hex": "#16a34a",
+      "family": "green"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    }
+  ]
+}

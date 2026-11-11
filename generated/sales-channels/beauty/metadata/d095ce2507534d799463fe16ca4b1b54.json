@@ -1,0 +1,63 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Premium skincare product detail photograph of a clear glass dropper bottle of Dewdrop Hydrating Serum, minimal refined label, translucent serum visible, soft studio highlights, clean beauty editorial styling, no extra products or text beyond realistic packaging."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, serene bathroom vanity scene featuring a clear Dewdrop Hydrating Serum dropper bottle beside a folded white face towel and a small water glass, soft morning daylight, premium skincare campaign photography, uncluttered and realistic."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Hydrating Serum"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Hyaluronic Acid"
+    },
+    {
+      "group": "Size",
+      "value": "30ml"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 3.46,
+  "width": 1232,
+  "height": 1043,
+  "length": 1777,
+  "ean": "6085487320852",
+  "manufacturerNumber": "MPN-B32MX35N",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 4XNT"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Dewdrop Hydrating Serum - Hyaluronic Acid - 30ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Travel Size",
+        "75ml",
+        "50ml"
+      ],
+      "priceModifiers": {
+        "Travel Size": 0.5,
+        "75ml": 1.3,
+        "50ml": 1
+      }
+    }
+  ]
+}

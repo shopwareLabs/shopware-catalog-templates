@@ -1,0 +1,58 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Matte black open-weave garden dining chair beside a simple outdoor dining table on a leafy patio, inviting yet uncluttered setting, natural daylight, realistic premium lifestyle photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a matte black outdoor dining chair showing its open-weave construction and supportive shape; plain light background, accurate product proportions, studio e-commerce photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close detail of the matte black chair's open-weave texture and clean edge finish, crisp realistic material detail, soft directional light, neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Material",
+      "value": "Woven Resin"
+    },
+    {
+      "group": "Type",
+      "value": "Open-Weave Dining Chair"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.66,
+  "width": 529,
+  "height": 573,
+  "length": 928,
+  "ean": "2873524168857",
+  "manufacturerNumber": "MPN-Z3EP5APS",
+  "minPurchase": 2,
+  "purchaseSteps": 2,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 8Q7R"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Garden Dining Chair - Matte Black - Open Weave, Woven Resin construction"
+}

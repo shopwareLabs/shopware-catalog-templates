@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a black fitness tracker on a wrist, crisp display showing simple generic activity icons and heart-rate symbol without readable text, natural skin detail, soft daylight, realistic product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Active person wearing a sleek black fitness tracker during a relaxed outdoor walk, tracker visible on wrist, bright natural setting, candid wellness lifestyle photography, no logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Tracking Features",
+      "value": "Heart Rate and Activity"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 14.09,
+  "width": 539,
+  "height": 863,
+  "length": 1506,
+  "ean": "8536893243962",
+  "manufacturerNumber": "MPN-3NPJMK10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch W4XS"
+  },
+  "manufacturerName": "Orbinex",
+  "baseImagePrompt": "Fitness Tracker - Black - Heart Rate"
+}

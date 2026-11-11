@@ -1,0 +1,10 @@
+{
+  "productId": "6d1bc1c5c7be4c7ea759b111598fe4a0",
+  "productName": "packaging--dusty-rose",
+  "generatedAt": "2026-11-10T15:08:25.878Z",
+  "prompt": "Recolour the product to Dusty Rose (#c08081). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "3e84a133c3110f43",
+  "shade": "Dusty Rose",
+  "hex": "#c08081"
+}

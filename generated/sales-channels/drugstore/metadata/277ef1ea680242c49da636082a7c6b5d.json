@@ -1,0 +1,56 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing ecommerce image of a slim 150 ml deodorant spray can with a clean white design and pale blue accents evoking fresh cotton, cap and spray format clearly visible, isolated on a neutral white background, no recognizable brand."
+    },
+    {
+      "view": "side",
+      "prompt": "Three-quarter side view of a 150 ml fresh-cotton deodorant spray can, showing its cylindrical profile, clean white packaging, subtle pale blue details, realistic studio lighting, simple background, no logos or extra products."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "150 ml"
+    },
+    {
+      "group": "Fragrance",
+      "value": "Fresh Cotton"
+    },
+    {
+      "group": "Type",
+      "value": "Deodorant Spray"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.56,
+  "width": 1202,
+  "height": 315,
+  "length": 1748,
+  "ean": "8364807733526",
+  "manufacturerNumber": "MPN-NGTMUJ1G",
+  "maxPurchase": 5,
+  "packaging": {
+    "unitShortCode": "pc",
+    "purchaseUnit": 2,
+    "referenceUnit": 1,
+    "packUnit": "Pair",
+    "packUnitPlural": "Pairs",
+    "unitName": "Piece"
+  },
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch SNTN"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Long-Lasting Deodorant Spray - Fresh Cotton - 150ml"
+}

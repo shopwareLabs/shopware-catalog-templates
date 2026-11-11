@@ -1,0 +1,10 @@
+{
+  "productId": "0c910da8c3dd43b3b8266a6dc791f98c",
+  "productName": "packaging--olive",
+  "generatedAt": "2026-11-10T15:08:42.141Z",
+  "prompt": "Recolour the product to Olive (#808000). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "9a6ac47058f8062d",
+  "shade": "Olive",
+  "hex": "#808000"
+}

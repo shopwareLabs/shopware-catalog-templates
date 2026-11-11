@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a premium 250ml Softening Body Lotion bottle with pump, shea butter-inspired label, clean cream and soft green palette, standing against a bright neutral studio background."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Softening Body Lotion displayed on a calm bathroom counter beside a folded towel and a small dish, warm natural daylight, premium self-care lifestyle photography, 250ml pump bottle label clearly visible."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Product packaging shot of Softening Body Lotion, 250ml pump bottle with matching carton, polished understated beauty design, shea butter cue on the label, crisp studio lighting and uncluttered background."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Body Lotion"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Shea Butter"
+    },
+    {
+      "group": "Size",
+      "value": "250ml"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.06,
+  "width": 846,
+  "height": 467,
+  "length": 1272,
+  "ean": "8883386752303",
+  "manufacturerNumber": "MPN-DFB6M61G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch EQAJ"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Softening Body Lotion - Shea Butter - 250ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "75ml",
+        "50ml",
+        "15ml"
+      ],
+      "priceModifiers": {
+        "75ml": 1.3,
+        "50ml": 1,
+        "15ml": 0.5
+      }
+    },
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Ivory",
+        "Soft Pink",
+        "Mint",
+        "Lavender"
+      ],
+      "priceModifiers": {
+        "Ivory": 1,
+        "Soft Pink": 1,
+        "Mint": 1,
+        "Lavender": 1
+      }
+    }
+  ],
+  "defaultColor": "Ivory",
+  "variantColors": [
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    },
+    {
+      "name": "Soft Pink",
+      "hex": "#f4c2c2",
+      "family": "pink"
+    },
+    {
+      "name": "Mint",
+      "hex": "#98d7b5",
+      "family": "green"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    }
+  ]
+}

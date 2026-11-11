@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up photorealistic detail of a slim black 15.6-inch portable monitor showing its thin bezel, side connection ports, and low-profile stand edge, crisp product photography on a neutral studio background, no logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on front product photo of a slim black 15.6-inch portable monitor displaying a tasteful abstract blue-and-teal wallpaper, thin bezels, centered composition on a white studio background, no branding or text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging for a 15.6-inch Full HD portable monitor, slim monitor pictured on a clean white and charcoal box, generic product icons, polished consumer electronics design, no readable brand names."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Screen Size",
+      "value": "15.6 inches"
+    },
+    {
+      "group": "Resolution",
+      "value": "Full HD"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.06,
+  "width": 698,
+  "height": 495,
+  "length": 1975,
+  "ean": "1408734824463",
+  "manufacturerNumber": "MPN-WK9TUY1C",
+  "minPurchase": 5,
+  "purchaseSteps": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch NUW1"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Portable Monitor - 15.6-Inch Display - Full HD, Black finish"
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Elegant lifestyle product photograph of an eight-piece champagne-finish makeup brush set arranged neatly on a clean vanity beside a closed neutral-toned makeup palette; soft natural daylight, premium beauty editorial styling, realistic synthetic bristles and handles, no visible logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Champagne"
+    },
+    {
+      "group": "Size",
+      "value": "8 Piece"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.7,
+  "width": 1117,
+  "height": 704,
+  "length": 147,
+  "ean": "0320285801711",
+  "manufacturerNumber": "MPN-BXPGYH1I",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch WK49"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Makeup Brush Set - Champagne - 8 Piece, Synthetic Bristles construction"
+}

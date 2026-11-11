@@ -1,0 +1,10 @@
+{
+  "productId": "f126e228fd3346b89bcdfebbdfb16c78",
+  "productName": "detail--warm-berry",
+  "generatedAt": "2026-11-10T15:48:21.638Z",
+  "prompt": "Recolour the product to Warm Berry (#9b3e5b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "c2b0bb0bc65850a8",
+  "shade": "Warm Berry",
+  "hex": "#9b3e5b"
+}

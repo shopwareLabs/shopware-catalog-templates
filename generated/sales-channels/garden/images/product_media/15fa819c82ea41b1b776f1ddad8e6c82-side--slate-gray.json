@@ -1,0 +1,10 @@
+{
+  "productId": "15fa819c82ea41b1b776f1ddad8e6c82",
+  "productName": "side--slate-gray",
+  "generatedAt": "2026-11-10T15:43:22.543Z",
+  "prompt": "Recolour the product to Slate Gray (#708090). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "3635ce4c1ffdd0f1",
+  "shade": "Slate Gray",
+  "hex": "#708090"
+}

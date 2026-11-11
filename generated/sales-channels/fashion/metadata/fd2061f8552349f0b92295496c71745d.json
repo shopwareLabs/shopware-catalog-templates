@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail photograph of a dark brown leather belt showing its brushed metal buckle, clean edge finishing, and adjustment holes, refined studio lighting, no logo or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle studio product image of a dark brown classic leather belt arranged in a gentle curve, showing strap thickness and brushed buckle profile, neutral backdrop, no branding."
+    },
+    {
+      "view": "front",
+      "prompt": "Full front-facing product photograph of a dark brown leather belt laid neatly in a straight line with brushed buckle centered, realistic texture, pale neutral background, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dark Brown"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Classic belt"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.19,
+  "width": 1095,
+  "height": 786,
+  "length": 1892,
+  "ean": "2235389132754",
+  "manufacturerNumber": "MPN-3OA6D218",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch GV2L"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Classic Leather Belt - Dark Brown - Brushed Buckle"
+}

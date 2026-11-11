@@ -1,0 +1,10 @@
+{
+  "productId": "858099442bb14faa88b2f4a9cdd86713",
+  "productName": "detail--orange",
+  "generatedAt": "2026-11-10T15:44:51.194Z",
+  "prompt": "Recolour the product to Orange (#ea580c). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "9c651ff6a4f9df66",
+  "shade": "Orange",
+  "hex": "#ea580c"
+}

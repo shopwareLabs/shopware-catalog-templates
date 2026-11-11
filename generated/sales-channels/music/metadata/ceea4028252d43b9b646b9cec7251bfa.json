@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front product image of a natural brown woven guitar strap laid neatly on a light neutral background, adjustment hardware and end tabs visible, detailed realistic photography, no logo or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Brown"
+    },
+    {
+      "group": "Material",
+      "value": "Woven fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable guitar strap"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.23,
+  "width": 1043,
+  "height": 337,
+  "length": 886,
+  "ean": "5560016853663",
+  "manufacturerNumber": "MPN-64S2BN1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch HY83"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Woven Guitar Strap - Natural Brown - Adjustable Length, Woven fabric construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Brown",
+        "Black",
+        "Navy",
+        "Red"
+      ],
+      "priceModifiers": {
+        "Brown": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Red": 1
+      }
+    }
+  ],
+  "defaultColor": "Brown",
+  "variantColors": [
+    {
+      "name": "Brown",
+      "hex": "#78350f",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    }
+  ]
+}

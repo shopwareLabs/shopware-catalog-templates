@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Pair of small polished gold-tone hoop earrings neatly displayed in an elegant cream jewelry box with a minimal fashion label, photographed from above with soft studio lighting."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up macro product photograph of small polished gold-tone hoop earrings, highlighting their smooth rounded profile, reflective finish, and secure hinged closure against a neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Gold-Tone Metal"
+    },
+    {
+      "group": "Style",
+      "value": "Hoop"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 21.92,
+  "width": 605,
+  "height": 215,
+  "length": 693,
+  "ean": "7588982502482",
+  "manufacturerNumber": "MPN-C1Y8YX0C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch JVVF"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Gold-Tone Hoop Earrings - Polished Gold - Small, Gold-Tone Metal construction"
+}

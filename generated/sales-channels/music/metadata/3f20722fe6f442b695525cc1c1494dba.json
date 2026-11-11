@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a natural-finish dreadnought acoustic guitar, highlighting the wood grain, sound hole, bridge, and strings, clean studio lighting, no text or logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on full front view of a classic natural-finish dreadnought acoustic guitar against a simple neutral studio background, realistic proportions and wood grain, no text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A natural-finish dreadnought acoustic guitar safely presented in a plain protective shipping carton with discreet cushioning, product-focused studio photograph, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Type",
+      "value": "Dreadnought acoustic guitar"
+    },
+    {
+      "group": "Material",
+      "value": "Wood"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.69,
+  "width": 701,
+  "height": 457,
+  "length": 586,
+  "ean": "4046774462930",
+  "manufacturerNumber": "MPN-5EJMQ71O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch IG9M"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Acoustic Guitar - Natural - Dreadnought, Wood construction"
+}

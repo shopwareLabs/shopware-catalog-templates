@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a compact black folding guitar stand holding an acoustic guitar, supportive padded contact points visible, clean studio background, realistic music accessory photography, no logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product photo of a black folding guitar stand displayed open and empty, stable base and padded arms clearly visible, neutral background, crisp realistic lighting, no text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A black folding guitar stand holding an electric guitar beside an amplifier in a tidy home practice room, warm natural light, realistic lifestyle photography, no visible branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Metal frame"
+    },
+    {
+      "group": "Type",
+      "value": "Folding guitar stand"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.23,
+  "width": 1044,
+  "height": 117,
+  "length": 1798,
+  "ean": "6861626991585",
+  "manufacturerNumber": "MPN-F8MI0XLP",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 4JPG"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Folding Guitar Stand - Black - Compact Frame, Metal frame construction"
+}

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up of the gray microfiber mop head, showing plush fibers, sturdy attachment points, and practical texture, realistic studio lighting on a clean neutral background."
+    },
+    {
+      "view": "front",
+      "prompt": "Full front view of a modern microfiber floor mop with gray reusable head and adjustable silver-gray handle, assembled upright and centered against a white background, clear product photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of an adjustable microfiber floor mop showing the slim handle, pivoting head connection, and low-profile gray mop pad, isolated on white with soft natural shadow."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gray"
+    },
+    {
+      "group": "Material",
+      "value": "Microfiber"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Floor Mop"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19,
+  "width": 385,
+  "height": 544,
+  "length": 854,
+  "ean": "5292602631408",
+  "manufacturerNumber": "MPN-CMXXIM4E",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch RC70"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Microfiber Floor Mop - Gray - Adjustable Handle"
+}

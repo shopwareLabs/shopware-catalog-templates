@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A black 88-key digital piano set up in a bright, tasteful home music room, a seated player practicing naturally, full keyboard visible, calm daylight and uncluttered decor, realistic proportions, no logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product photograph of a black 88-key digital piano, full keyboard and control panel clearly visible, clean neutral studio background, even soft lighting, no stand, brand marks, or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Key Count",
+      "value": "88"
+    },
+    {
+      "group": "Key Action",
+      "value": "Weighted"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.62,
+  "width": 1493,
+  "height": 775,
+  "length": 1992,
+  "ean": "6394914878232",
+  "manufacturerNumber": "MPN-PY6WYCRR",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch E8UW"
+  },
+  "manufacturerName": "Keylith Instruments",
+  "baseImagePrompt": "Digital Piano - Black - 88-Key Weighted"
+}

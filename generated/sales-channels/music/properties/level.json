@@ -1,0 +1,25 @@
+{
+  "name": "Level",
+  "slug": "level",
+  "displayType": "text",
+  "options": [
+    "Beginner",
+    "Early Beginner",
+    "Late Beginner",
+    "Elementary",
+    "Intermediate",
+    "Upper Intermediate",
+    "Advanced"
+  ],
+  "priceModifiers": {
+    "Beginner": 1,
+    "Early Beginner": 1,
+    "Late Beginner": 1,
+    "Elementary": 1,
+    "Intermediate": 1,
+    "Upper Intermediate": 1,
+    "Advanced": 1
+  },
+  "createdAt": "2026-11-10T15:36:15.358Z",
+  "source": "ai-generated"
+}

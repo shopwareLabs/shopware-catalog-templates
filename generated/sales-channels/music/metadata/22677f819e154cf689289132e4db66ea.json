@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product photograph of a compact soprano ukulele with a natural mahogany finish and visible wood grain, entire instrument upright and centered, soft neutral studio background, no strings accessories, logos, or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Mahogany"
+    },
+    {
+      "group": "Type",
+      "value": "Soprano Ukulele"
+    },
+    {
+      "group": "Body Material",
+      "value": "Mahogany"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.16,
+  "width": 880,
+  "height": 825,
+  "length": 1020,
+  "ean": "9032537161634",
+  "manufacturerNumber": "MPN-KQ9XQQO7",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 77CQ"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Concert Ukulele - Natural Mahogany - Soprano"
+}

@@ -1,0 +1,511 @@
+{
+  "salesChannelName": "fashion",
+  "pages": [
+    {
+      "name": "Text Elements",
+      "processor": "cms-text",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Style for Every Day</h1>\n<p style=\"text-align: center;\">Discover versatile fashion for work, weekends, and every occasion in between</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Everyday Style, Made Easy</h2>\n<p>Find the pieces that make getting dressed feel effortless. From polished layers to relaxed essentials, our collections bring together contemporary style and comfort for women and men.</p>\n<ul>\n    <li>Versatile clothing for every part of life</li>\n    <li>Shoes and accessories to complete your look</li>\n    <li>Easy-to-style favourites for any occasion</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Find Your New Favourites</h2>\n<p style=\"text-align: center;\"><i>Discover thoughtful styles that take you from everyday plans to special occasions</i></p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Polished &amp; Put-Together</h3>\n<p>Build a workwear wardrobe with refined layers, versatile separates, and comfortable shoes designed to move with you throughout the day.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Relaxed &amp; Ready for Anything</h3>\n<p>Explore everyday essentials, standout occasion styles, and finishing accessories to make each look your own. Find fresh options for women and men.</p>"
+                }
+              ]
+            },
+            {
+              "type": "html",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Elements",
+      "processor": "cms-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Style in Every Frame</h1>\n<p style=\"text-align: center;\">Explore versatile looks for workdays, weekends, and special occasions</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Style Slider</h2>\n<p>Browse a carousel of contemporary outfits, from everyday essentials to standout occasionwear, with easy-to-use navigation.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-slider",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Fashion Gallery</h2>\n<p>Explore clothing, shoes, and accessories up close, with a curated gallery that makes it easy to find your next favorite look.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-gallery",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Elements",
+      "processor": "cms-video",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Video Elements</h1>\n<p style=\"text-align: center;\">Explore the latest looks, styling ideas and versatile pieces for every part of life</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">YouTube Video</h2>\n<p style=\"text-align: center;\">Discover effortless outfits for workdays, weekends and every occasion</p>"
+                }
+              ]
+            },
+            {
+              "type": "youtube-video",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Video</h2>\n<p style=\"text-align: center;\">Get inspired by contemporary fashion, from everyday essentials to standout styles</p>"
+                }
+              ]
+            },
+            {
+              "type": "vimeo-video",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text & Images",
+      "processor": "cms-text-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Style for Every Day</h1>\n<p style=\"text-align: center;\">Discover versatile fashion for work, weekends and every occasion in between</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Everyday Essentials</h2>\n<p>Build a wardrobe that works as hard as you do, with contemporary clothing, shoes and accessories designed for everyday wear. From easy layers to polished staples, find pieces that bring comfort and style together.</p>\n<p>Thoughtful fits and versatile designs make it easy to create looks you’ll reach for season after season.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Make It Your Own</h2>\n<p>Bring your look together with pieces that feel unmistakably you. Pair modern wardrobe staples with standout styles to create fresh combinations for any day.</p>\n<p>From a polished office outfit to a relaxed weekend look, discover fashion that moves with you.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center;\">A Look for Every Moment</h2>\n<p style=\"text-align: center;\">Explore versatile clothing, shoes and accessories for the moments that make up your day, from effortless everyday style to special occasions.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 4,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Polished Layers</h3>\n<p style=\"text-align: center;\">Find refined clothing that brings an easy sense of polish to workdays and beyond.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Everyday Comfort</h3>\n<p style=\"text-align: center;\">Discover dependable essentials and comfortable shoes made for your daily routine.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Standout Details</h3>\n<p style=\"text-align: center;\">Finish your look with accessories and occasion-ready styles that make an impression.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-on-image",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\">\n<h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Find Your New Favorites</h2>\n<p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">Explore contemporary fashion for women and men, with versatile pieces to take you from everyday plans to special occasions.</p>\n</div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commerce Elements",
+      "processor": "cms-commerce",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Fashion Essentials</h1>\n<p style=\"text-align: center;\">Explore versatile clothing, shoes and accessories for every occasion</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Featured Styles</h2>\n<p style=\"text-align: center;\">Discover standout clothing and accessories in a three-column layout</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-three-column",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Trending Looks</h2>\n<p style=\"text-align: center;\">Browse a carousel of versatile styles with easy navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Shop the Look</h2>\n<p style=\"text-align: center;\">Explore product details, view every angle and add your favorites to your cart</p>"
+                }
+              ]
+            },
+            {
+              "type": "gallery-buybox",
+              "position": 6,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 7,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Shop by Category</h2>\n<p style=\"text-align: center;\">Find clothing, shoes and accessories with easy category navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "category-navigation",
+              "position": 8,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Elements",
+      "processor": "cms-form",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Form Elements</h1>\n<p style=\"text-align: center;\">Easy ways to connect, discover new arrivals and find your style</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Contact Form</h2>\n<p style=\"text-align: center;\">Get in touch with our team about clothing, shoes and accessories</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Newsletter Signup</h2>\n<p style=\"text-align: center;\">Sign up for new-season styles, outfit inspiration and store updates</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMS Element Showcase",
+      "processor": "cms-welcome",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Style for Every Day</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Discover contemporary clothing, shoes, and accessories for work, weekends, and every occasion in between.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Everyday Style</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Versatile essentials and polished looks for daily wear</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Finishing Touches</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Shoes and accessories to complete every outfit</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Occasion Wear</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Standout styles for celebrations and special moments</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Find Your New Favorites</h2>\n<p style=\"text-align: center; color: #666;\">Explore clothing and accessories in thoughtfully curated collections. Pair timeless wardrobe staples with fresh seasonal pieces for effortless looks from morning to evening.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Clothing & Accessories</h3>\n<p>Build a wardrobe that works for every part of life:</p>\n<ul style=\"color: #666;\">\n    <li>Polished workwear and everyday essentials</li>\n    <li>Contemporary styles for women and men</li>\n    <li>Accessories to finish your look</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Shoes for Every Occasion</h3>\n<p>Step into versatile styles made for everyday plans and special moments:</p>\n<ul style=\"color: #666;\">\n    <li>Comfortable shoes for daily wear</li>\n    <li>Smart styles for work and events</li>\n    <li>Finishing touches for every outfit</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Overview",
+      "processor": "cms-testing",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Style for Every Day</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Discover contemporary clothing, shoes and accessories for work, weekends and every occasion in between.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Build Your Look</h2>\n<p>Explore fashion essentials and standout pieces designed to make getting dressed feel effortless:</p>\n<ul>\n<li><strong>Clothing</strong> - Polished workwear and everyday staples</li>\n<li><strong>Shoes</strong> - Comfortable styles for every occasion</li>\n<li><strong>Accessories</strong> - Finishing touches for any outfit</li>\n<li><strong>Women’s Fashion</strong> - Versatile looks from casual to refined</li>\n<li><strong>Men’s Fashion</strong> - Modern essentials and sharp statement pieces</li>\n<li><strong>Occasionwear</strong> - Memorable styles for special moments</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Find Your Fit</h2>\n<p>Discover versatile fashion in a range of styles and fits, made to suit your wardrobe:</p>\n<ul>\n<li><strong>Everyday Essentials</strong> - Easy-to-wear pieces for daily life</li>\n<li><strong>Workwear</strong> - Refined styles for a polished look</li>\n<li><strong>Statement Styles</strong> - Standout pieces for special occasions</li>\n</ul>\n<p style=\"margin-top: 16px; color: #666;\">Browse each category to find clothing, shoes and accessories for your next look.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hydratedAt": "2026-11-10T14:58:37.843Z"
+}

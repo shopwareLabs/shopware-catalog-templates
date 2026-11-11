@@ -1,0 +1,80 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side angle of a 300 ml nourishing conditioner bottle with a white body and subtle coconut-inspired cream accents, simple generic label, realistic clean hair-care product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up of creamy conditioner texture on a fingertip beside a softly blurred bottle with coconut-inspired packaging, bright neutral studio light, realistic product detail, no brand marks."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A 300 ml bottle of coconut-scented nourishing conditioner shown upright with its cap and label clearly visible, clean white background, professional drugstore product photography, generic branding only."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "300 ml"
+    },
+    {
+      "group": "Scent",
+      "value": "Coconut"
+    },
+    {
+      "group": "Hair Type",
+      "value": "All Hair Types"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.34,
+  "width": 356,
+  "height": 966,
+  "length": 331,
+  "ean": "0371929213339",
+  "manufacturerNumber": "MPN-7TD3RF10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch CE6I"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Nourishing Conditioner - Coconut Scent - 300ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "1L",
+        "100ml",
+        "200ml"
+      ],
+      "priceModifiers": {
+        "1L": 2.5,
+        "100ml": 0.5,
+        "200ml": 0.75
+      }
+    },
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Fresh Linen",
+        "Citrus Breeze",
+        "Ocean Fresh"
+      ],
+      "priceModifiers": {
+        "Fresh Linen": 1,
+        "Citrus Breeze": 1,
+        "Ocean Fresh": 1
+      }
+    }
+  ]
+}

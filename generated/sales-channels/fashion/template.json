@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "name": "fashion",
+  "description": "Discover contemporary fashion for women and men, with versatile clothing, shoes and accessories for every part of life. From polished workwear and everyday essentials to standout styles for special occasions, find pieces that make getting dressed feel effortless.",
+  "createdAt": "2026-11-11T10:27:35.808Z",
+  "generator": {
+    "version": "2.0.0",
+    "commit": "1b5ca46"
+  },
+  "content": {
+    "products": 90,
+    "categories": 75,
+    "languages": [
+      "en",
+      "de-DE"
+    ],
+    "variantProducts": 27,
+    "variants": {
+      "colors": 4,
+      "options": 3,
+      "maxVariants": 24,
+      "share": 0.3
+    }
+  },
+  "steps": {
+    "hydrate": {
+      "at": "2026-11-10T15:08:49.464Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "cca1009"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      },
+      "image": {
+        "provider": "openai",
+        "model": "gpt-image-2.5-flare",
+        "quality": "medium"
+      }
+    },
+    "translate:de-DE": {
+      "at": "2026-11-11T08:18:50.027Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:prices": {
+      "at": "2026-11-11T08:15:42.140Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:names": {
+      "at": "2026-11-11T08:09:35.135Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:manufacturers": {
+      "at": "2026-11-11T08:09:36.974Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    }
+  },
+  "testedOn": [
+    {
+      "lane": "65",
+      "shopwareVersion": "6.5.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "66",
+      "shopwareVersion": "6.6.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "67",
+      "shopwareVersion": "6.7.16.0",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "68",
+      "shopwareVersion": "6.7.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "trunk",
+      "shopwareVersion": "6.7.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    }
+  ],
+  "models": {
+    "text": {
+      "provider": "openai",
+      "model": "gpt-6-luna"
+    },
+    "image": {
+      "provider": "openai",
+      "model": "gpt-image-2.5-flare",
+      "quality": "medium"
+    }
+  }
+}

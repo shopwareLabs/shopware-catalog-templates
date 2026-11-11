@@ -1,0 +1,10 @@
+{
+  "productId": "3f905e2fdf214fc5a29a5e69437fbbca",
+  "productName": "packaging--purple",
+  "generatedAt": "2026-11-10T15:06:07.205Z",
+  "prompt": "Recolour the product to Purple (#9333ea). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "ac831382b18dcc74",
+  "shade": "Purple",
+  "hex": "#9333ea"
+}

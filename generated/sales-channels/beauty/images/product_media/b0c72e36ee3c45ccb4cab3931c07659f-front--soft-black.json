@@ -1,0 +1,10 @@
+{
+  "productId": "b0c72e36ee3c45ccb4cab3931c07659f",
+  "productName": "front--soft-black",
+  "generatedAt": "2026-11-10T15:47:38.484Z",
+  "prompt": "Recolour the product to Soft Black (#262322). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "1892575a9e45d222",
+  "shade": "Soft Black",
+  "hex": "#262322"
+}

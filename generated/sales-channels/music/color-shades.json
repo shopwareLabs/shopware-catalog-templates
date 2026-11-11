@@ -1,0 +1,77 @@
+{
+  "natural": {
+    "name": "Natural",
+    "hex": "#c49a6c",
+    "family": "brown"
+  },
+  "sunburst": {
+    "name": "Sunburst",
+    "hex": "#b45a2a",
+    "family": "orange"
+  },
+  "cherry red": {
+    "name": "Cherry Red",
+    "hex": "#c8323e",
+    "family": "red"
+  },
+  "olympic white": {
+    "name": "Olympic White",
+    "hex": "#f5f2e8",
+    "family": "white"
+  },
+  "natural birch": {
+    "name": "Natural Birch",
+    "hex": "#d6b77a",
+    "family": "beige"
+  },
+  "natural maple": {
+    "name": "Natural Maple",
+    "hex": "#d9ad6c",
+    "family": "beige"
+  },
+  "natural mahogany": {
+    "name": "Natural Mahogany",
+    "hex": "#6b3528",
+    "family": "brown"
+  },
+  "natural spruce": {
+    "name": "Natural Spruce",
+    "hex": "#d8bd83",
+    "family": "beige"
+  },
+  "gloss black": {
+    "name": "Gloss Black",
+    "hex": "#111111",
+    "family": "black"
+  },
+  "sonic blue": {
+    "name": "Sonic Blue",
+    "hex": "#74a9d8",
+    "family": "blue"
+  },
+  "polished ebony": {
+    "name": "Polished Ebony",
+    "hex": "#171311",
+    "family": "black"
+  },
+  "matte black": {
+    "name": "Matte Black",
+    "hex": "#222222",
+    "family": "black"
+  },
+  "tortoiseshell": {
+    "name": "Tortoiseshell",
+    "hex": "#6e321d",
+    "family": "brown"
+  },
+  "satin black": {
+    "name": "Satin Black",
+    "hex": "#1c1c1c",
+    "family": "black"
+  },
+  "natural tan": {
+    "name": "Natural Tan",
+    "hex": "#c79b6b",
+    "family": "beige"
+  }
+}

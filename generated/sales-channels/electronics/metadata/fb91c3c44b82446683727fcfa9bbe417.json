@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle ecommerce photo of a compact forest green Bluetooth speaker on a sunny patio table beside a phone and a glass of water, relaxed outdoor setting, realistic natural light, no logos or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Clean side-view studio product photo of a portable forest green Bluetooth speaker, showing its compact housing and subtle control details; isolated against a pale neutral background, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Type",
+      "value": "Portable Speaker"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Bluetooth"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.68,
+  "width": 1396,
+  "height": 22,
+  "length": 1557,
+  "ean": "4475320392559",
+  "manufacturerNumber": "MPN-L1YKGC14",
+  "maxPurchase": 50,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch I5L0"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "Bluetooth Speaker - Forest Green - Portable"
+}

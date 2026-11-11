@@ -1,0 +1,23 @@
+{
+  "name": "Storage Capacity",
+  "slug": "storage-capacity",
+  "displayType": "text",
+  "options": [
+    "64GB",
+    "128GB",
+    "256GB",
+    "512GB",
+    "1TB",
+    "2TB"
+  ],
+  "priceModifiers": {
+    "64GB": 0.9,
+    "128GB": 1,
+    "256GB": 1.1,
+    "512GB": 1.2,
+    "1TB": 1.3,
+    "2TB": 1.4
+  },
+  "createdAt": "2026-11-10T14:58:25.541Z",
+  "source": "ai-generated"
+}

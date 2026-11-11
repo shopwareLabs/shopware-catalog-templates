@@ -1,0 +1,53 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A fresh set of acoustic guitar strings beside an acoustic guitar on a musician's work surface, warm wood tones and soft daylight, realistic lifestyle product image, packaging unbranded and without readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product shot of a neatly coiled light-gauge phosphor bronze acoustic guitar string set with simple generic packaging, clean neutral background, realistic metal detail, no brand or legible text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Unbranded retail package for light-gauge phosphor bronze acoustic guitar strings, string set visible and orderly, minimal music accessory packaging design, studio lighting, no readable wording or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Phosphor bronze"
+    },
+    {
+      "group": "Gauge",
+      "value": "Light"
+    },
+    {
+      "group": "Type",
+      "value": "Acoustic guitar strings"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.22,
+  "width": 690,
+  "height": 410,
+  "length": 1559,
+  "ean": "5630975752021",
+  "manufacturerNumber": "MPN-4WAKL61G",
+  "minPurchase": 5,
+  "purchaseSteps": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch R4KS"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Acoustic Guitar Strings - Phosphor Bronze - Light Gauge"
+}

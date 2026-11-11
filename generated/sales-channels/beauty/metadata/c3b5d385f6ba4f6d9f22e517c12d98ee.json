@@ -1,0 +1,103 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a soft ivory velour powder puff with a neat finger strap, centered on a light neutral background, premium beauty accessory product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail showing the plush ivory velour texture and finger strap of a powder puff, soft studio lighting, clean macro-style e-commerce photograph."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Ivory"
+    },
+    {
+      "group": "Type",
+      "value": "Velour Powder Puff"
+    },
+    {
+      "group": "Material",
+      "value": "Velour"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.9,
+  "width": 1024,
+  "height": 933,
+  "length": 532,
+  "ean": "4604650424955",
+  "manufacturerNumber": "MPN-HUTP4Y10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch I9C8"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Powder Puff - Ivory - Velour",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Ivory",
+        "Soft Pink",
+        "Black",
+        "Lavender"
+      ],
+      "priceModifiers": {
+        "Ivory": 1,
+        "Soft Pink": 1,
+        "Black": 1,
+        "Lavender": 1
+      }
+    }
+  ],
+  "defaultColor": "Ivory",
+  "variantColors": [
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    },
+    {
+      "name": "Soft Pink",
+      "hex": "#f4c2c2",
+      "family": "pink"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    }
+  ]
+}

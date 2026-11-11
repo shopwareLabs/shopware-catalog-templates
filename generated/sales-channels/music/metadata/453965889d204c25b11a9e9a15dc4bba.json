@@ -1,0 +1,80 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of an open beginner piano method book showing clean, legible-looking staff notation, simple keyboard illustrations, and lesson headings; neutral tabletop, realistic printed paper, no visible brand marks."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product photo of a beginner piano method book with tasteful music-themed cover art, piano keys and staff motifs, title area reading Piano Method Book, isolated on a bright white background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "A beginner piano method book shown as a neatly packaged retail book, front cover visible with subtle piano-key artwork, crisp edges, plain light background, no extra accessories."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Piano Method Book"
+    },
+    {
+      "group": "Level",
+      "value": "Beginner"
+    },
+    {
+      "group": "Format",
+      "value": "Printed Book"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.59,
+  "width": 477,
+  "height": 220,
+  "length": 566,
+  "ean": "4489604381368",
+  "manufacturerNumber": "MPN-H7AYBU3I",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch AQNZ"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Piano Method Book - Beginner - Keyboard Basics",
+  "variantConfigs": [
+    {
+      "group": "Level",
+      "selectedOptions": [
+        "Upper Intermediate",
+        "Intermediate",
+        "Late Beginner"
+      ],
+      "priceModifiers": {
+        "Upper Intermediate": 1,
+        "Intermediate": 1,
+        "Late Beginner": 1
+      }
+    },
+    {
+      "group": "Format",
+      "selectedOptions": [
+        "Spiral-Bound",
+        "eBook PDF",
+        "eBook EPUB"
+      ],
+      "priceModifiers": {
+        "Spiral-Bound": 1.1,
+        "eBook PDF": 0.8,
+        "eBook EPUB": 0.8
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a clear 200 ml flexible-hold hair styling gel container with a clean, modern generic label, photographed against a simple light background, realistic drugstore hair-care product image."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Hold",
+      "value": "Flexible"
+    },
+    {
+      "group": "Finish",
+      "value": "Natural"
+    },
+    {
+      "group": "Size",
+      "value": "200 ml"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 15.69,
+  "width": 1454,
+  "height": 912,
+  "length": 1415,
+  "ean": "0130644470607",
+  "manufacturerNumber": "MPN-3B68BCH6",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch CTG8"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Flexible Hold Styling Gel - Clear - 200ml"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Type",
+  "slug": "type",
+  "displayType": "text",
+  "options": [
+    "20 Plant Kit",
+    "30 Plant Kit",
+    "50 Plant Kit",
+    "Patio Kit",
+    "Greenhouse Kit",
+    "Micro Sprinkler Kit"
+  ],
+  "priceModifiers": {
+    "20 Plant Kit": 1,
+    "30 Plant Kit": 1.2,
+    "50 Plant Kit": 1.5,
+    "Patio Kit": 0.95,
+    "Greenhouse Kit": 1.1,
+    "Micro Sprinkler Kit": 1.05
+  },
+  "createdAt": "2026-11-10T15:36:18.081Z",
+  "source": "ai-generated"
+}

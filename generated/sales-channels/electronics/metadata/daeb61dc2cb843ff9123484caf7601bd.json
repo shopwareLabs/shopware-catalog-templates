@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail package for a black 65W USB-C laptop charger, charger clearly illustrated with generic compatibility and wattage callouts, clean modern packaging, white studio background, realistic electronics product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "USB-C Charger"
+    },
+    {
+      "group": "Power Output",
+      "value": "65W"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.18,
+  "width": 128,
+  "height": 452,
+  "length": 1250,
+  "ean": "3471774562662",
+  "manufacturerNumber": "MPN-AB5LW71S",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch PGDX"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "USB-C Laptop Charger - Black - 65W"
+}

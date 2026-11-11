@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a men's mid blue denim jacket on a clean studio background, showing classic fit, sleeve, side seam and subtle denim texture; realistic garment photography with balanced lighting."
+    },
+    {
+      "view": "front",
+      "prompt": "Full front view of a men's mid blue denim jacket, buttoned, with pointed collar, chest pockets, button cuffs and visible denim seams; neatly presented against a light neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Mid Blue"
+    },
+    {
+      "group": "Material",
+      "value": "Denim"
+    },
+    {
+      "group": "Type",
+      "value": "Classic Fit"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 20.34,
+  "width": 1272,
+  "height": 250,
+  "length": 1159,
+  "ean": "9720426714503",
+  "manufacturerNumber": "MPN-YR8XW2MF",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 5NYY"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Men’s Denim Jacket - Mid Blue - Classic Fit"
+}

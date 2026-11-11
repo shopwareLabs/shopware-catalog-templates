@@ -1,0 +1,23 @@
+{
+  "name": "Size",
+  "slug": "size",
+  "displayType": "text",
+  "options": [
+    "Standard",
+    "Short",
+    "Long",
+    "Extra Long",
+    "Kids",
+    "Wide"
+  ],
+  "priceModifiers": {
+    "Standard": 1,
+    "Short": 1,
+    "Long": 1,
+    "Extra Long": 1.1,
+    "Kids": 0.9,
+    "Wide": 1.1
+  },
+  "createdAt": "2026-11-10T15:36:15.566Z",
+  "source": "ai-generated"
+}

@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Luxury lipstick packaging for a Warm Rose velvet matte lipstick, closed elegant case beside the lipstick bullet, premium minimal presentation on a soft neutral surface, realistic studio product photography, no readable branding."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro detail of a Warm Rose lipstick bullet with smooth velvet matte surface, rich warm pink-rose pigment visible, softly illuminated against a refined neutral background, high-end cosmetics photography, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing hero image of an open velvet matte lipstick in Warm Rose, lipstick bullet upright in a sleek premium case, clean balanced composition and soft studio shadow, realistic product image, no logo or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Warm Rose"
+    },
+    {
+      "group": "Finish",
+      "value": "Velvet Matte"
+    },
+    {
+      "group": "Coverage",
+      "value": "Full"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": true,
+  "weight": 24.2,
+  "width": 1390,
+  "height": 33,
+  "length": 894,
+  "ean": "1184635066293",
+  "manufacturerNumber": "MPN-AM9F0AYB",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch LE75"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Velvet Matte Lipstick - Warm Rose - Full Coverage",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Warm Rose",
+        "Classic Red",
+        "Mauve Nude",
+        "Berry Plum"
+      ],
+      "priceModifiers": {
+        "Warm Rose": 1,
+        "Classic Red": 1,
+        "Mauve Nude": 1,
+        "Berry Plum": 1
+      }
+    }
+  ],
+  "defaultColor": "Warm Rose",
+  "variantColors": [
+    {
+      "name": "Warm Rose",
+      "hex": "#c97878",
+      "family": "pink"
+    },
+    {
+      "name": "Classic Red",
+      "hex": "#c8102e",
+      "family": "red"
+    },
+    {
+      "name": "Mauve Nude",
+      "hex": "#b78483",
+      "family": "brown"
+    },
+    {
+      "name": "Berry Plum",
+      "hex": "#713b56",
+      "family": "purple"
+    }
+  ]
+}

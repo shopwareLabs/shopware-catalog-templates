@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro view of a clear magnetic phone case showing its precise camera cutout, raised protective edge and subtle circular magnet alignment, transparent material on a neutral surface, no logos or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A person holding a modern smartphone fitted with a slim clear magnetic case, original phone color visible through the back, relaxed bright home setting, realistic lifestyle product photography, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Material",
+      "value": "Flexible Polymer"
+    },
+    {
+      "group": "Compatibility",
+      "value": "Magnetic Charging Accessories"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.45,
+  "width": 362,
+  "height": 374,
+  "length": 746,
+  "ean": "0599086323924",
+  "manufacturerNumber": "MPN-JT84JH1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch SNDV"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Magnetic Phone Case - Clear - Wireless Charging Ready, Flexible Polymer construction"
+}

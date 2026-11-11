@@ -1,0 +1,10 @@
+{
+  "productId": "5af8581fd0b141a8b4bd7ff2b63d7664",
+  "productName": "packaging--navy",
+  "generatedAt": "2026-11-10T15:05:58.000Z",
+  "prompt": "Recolour the product to Navy (#1e3a5f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "7cb243aafe41a04d",
+  "shade": "Navy",
+  "hex": "#1e3a5f"
+}

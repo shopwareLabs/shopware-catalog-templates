@@ -1,0 +1,10 @@
+{
+  "productId": "3693f76b981a4da38b67ee657c07b48d",
+  "productName": "front--terracotta",
+  "generatedAt": "2026-11-10T15:44:02.979Z",
+  "prompt": "Recolour the product to Terracotta (#e2725b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "67e8ab099a8bdbd1",
+  "shade": "Terracotta",
+  "hex": "#e2725b"
+}

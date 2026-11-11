@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-11-10T15:36:18.081Z",
+  "count": 5,
+  "groups": [
+    "color",
+    "length",
+    "size",
+    "material",
+    "type"
+  ]
+}

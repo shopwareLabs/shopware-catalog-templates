@@ -1,0 +1,23 @@
+{
+  "name": "Type",
+  "slug": "type",
+  "displayType": "text",
+  "options": [
+    "Original",
+    "Fragrance-Free",
+    "Rosehip Blend",
+    "Vitamin C Blend",
+    "Retinol Blend",
+    "Travel Size"
+  ],
+  "priceModifiers": {
+    "Original": 1,
+    "Fragrance-Free": 1,
+    "Rosehip Blend": 1.1,
+    "Vitamin C Blend": 1.1,
+    "Retinol Blend": 1.2,
+    "Travel Size": 0.7
+  },
+  "createdAt": "2026-11-10T15:40:55.114Z",
+  "source": "ai-generated"
+}

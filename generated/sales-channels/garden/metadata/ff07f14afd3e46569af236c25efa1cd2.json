@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on product photo of an assembled rectangular raised garden bed made from natural cedar-colored wood, empty and neatly finished, on a plain light garden backdrop, clear proportions, no plants, text, or labels."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Raised natural cedar garden bed in a sunny home garden, planted with leafy lettuce, herbs, and a few edible flowers, tidy backyard setting, realistic daylight, inviting but uncluttered, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Cedar"
+    },
+    {
+      "group": "Size",
+      "value": "120 cm"
+    },
+    {
+      "group": "Material",
+      "value": "Cedar Wood"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.1,
+  "width": 408,
+  "height": 451,
+  "length": 1688,
+  "ean": "7903415881062",
+  "manufacturerNumber": "MPN-S1CD6V4F",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch BP0Q"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Raised Garden Bed - Natural Cedar - 120 cm, Cedar Wood construction"
+}

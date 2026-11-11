@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle product photograph of a slim 55-inch 4K LED television, showing its narrow profile and understated stand against a clean neutral studio background, realistic proportions."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "55 inches"
+    },
+    {
+      "group": "Resolution",
+      "value": "4K UHD"
+    },
+    {
+      "group": "Display Type",
+      "value": "LED"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.01,
+  "width": 1083,
+  "height": 833,
+  "length": 1384,
+  "ean": "9269454092080",
+  "manufacturerNumber": "MPN-SYQA1C1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch FFAG"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "Slim 4K TV - 55-Inch - LED"
+}

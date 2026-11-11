@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Clean product image of packaged vocal warm-up cards, front-facing package with tasteful music-themed graphics and readable generic title area, neutral studio background, no brand logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of several vocal warm-up prompt cards fanned neatly to show crisp print, rounded card edges, and clear practice prompts, soft even lighting, realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Warm-Up Card Deck"
+    },
+    {
+      "group": "Use",
+      "value": "Vocal Practice"
+    },
+    {
+      "group": "Format",
+      "value": "Portable Cards"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.83,
+  "width": 975,
+  "height": 343,
+  "length": 822,
+  "ean": "3589373433273",
+  "manufacturerNumber": "MPN-OB5SAJ1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch Z2PF"
+  },
+  "manufacturerName": "Cadentia Press",
+  "baseImagePrompt": "Vocal Warm-Up Cards - Singer Practice - Portable Deck"
+}

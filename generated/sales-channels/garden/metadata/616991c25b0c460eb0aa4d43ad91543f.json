@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle photograph of a home gardener filling a clean patio planter with dark, crumbly peat-free potting mix, young green plants nearby, bright natural garden light, tidy setting, no readable packaging text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle product photograph of a 20-litre bag of organic peat-free potting mix standing upright beside a small scoop of rich dark mix, simple botanical packaging with no readable brand text, neutral garden shed background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Straight-on packaging image of a sealed 20-litre peat-free organic potting mix bag, clear generic gardening design with subtle leaf imagery and blank non-legible label areas, isolated on a clean light background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Potting Mix"
+    },
+    {
+      "group": "Composition",
+      "value": "Peat-Free Organic Blend"
+    },
+    {
+      "group": "Size",
+      "value": "20 L"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.02,
+  "width": 110,
+  "height": 477,
+  "length": 1233,
+  "ean": "8609343671513",
+  "manufacturerNumber": "MPN-LKSW5TV1",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch QCUN"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Organic Potting Mix - Peat-Free Blend - 20 L"
+}

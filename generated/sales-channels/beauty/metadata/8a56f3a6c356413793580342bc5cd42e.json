@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close detail of a gentle face cleanser tube label and smooth gel-cream texture, oat-inspired minimal design, premium skincare studio photography, soft diffused light, neutral background, no additional products."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a 150ml Gentle Daily Face Cleanser tube with clear, refined product label and subtle oat imagery, upright against a pale stone background, realistic shadows, clean premium beauty catalog photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Gel-Cream Cleanser"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Oat Extract"
+    },
+    {
+      "group": "Size",
+      "value": "150ml"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.01,
+  "width": 835,
+  "height": 146,
+  "length": 807,
+  "ean": "8793149442313",
+  "manufacturerNumber": "MPN-77MBI414",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch W32N"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Gentle Daily Face Cleanser - Oat Extract - 150ml"
+}

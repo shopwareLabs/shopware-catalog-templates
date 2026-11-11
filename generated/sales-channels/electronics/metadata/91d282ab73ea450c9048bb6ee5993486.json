@@ -1,0 +1,104 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle photo of a midnight black 2.1-channel soundbar placed below a large television on a tidy media console, matching subwoofer beside it, warm modern living room, realistic lighting, no logos or text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side-angle studio product photo showing a midnight black soundbar and its compact matching subwoofer, clean detailing and proportions, neutral background, no branding or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight Black"
+    },
+    {
+      "group": "Channels",
+      "value": "2.1"
+    },
+    {
+      "group": "Type",
+      "value": "Soundbar with Subwoofer"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7,
+  "width": 129,
+  "height": 857,
+  "length": 1485,
+  "ean": "6920490113360",
+  "manufacturerNumber": "MPN-P6G6GF10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch YRH1"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Soundbar - Midnight Black - 2.1 Channel",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Midnight Black",
+        "Graphite",
+        "Silver",
+        "White"
+      ],
+      "priceModifiers": {
+        "Midnight Black": 1,
+        "Graphite": 1,
+        "Silver": 1,
+        "White": 1
+      }
+    }
+  ],
+  "defaultColor": "Midnight Black",
+  "variantColors": [
+    {
+      "name": "Midnight Black",
+      "hex": "#0b0b0b",
+      "family": "black"
+    },
+    {
+      "name": "Graphite",
+      "hex": "#383838",
+      "family": "gray"
+    },
+    {
+      "name": "Silver",
+      "hex": "#c0c0c0",
+      "family": "silver"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    }
+  ]
+}

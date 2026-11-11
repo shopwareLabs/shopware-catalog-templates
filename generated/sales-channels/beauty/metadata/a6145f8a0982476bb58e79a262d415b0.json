@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up beauty product image of a single soft pink teardrop makeup blending sponge, showing its fine porous foam texture and tapered precision tip, clean neutral studio background, soft diffused lighting, no text or branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Soft Pink"
+    },
+    {
+      "group": "Type",
+      "value": "Teardrop Sponge"
+    },
+    {
+      "group": "Material",
+      "value": "Latex-Free Foam"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.72,
+  "width": 375,
+  "height": 958,
+  "length": 1466,
+  "ean": "1908045733411",
+  "manufacturerNumber": "MPN-MVVMTJ18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch LIX6"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Precision Blending Sponge - Soft Pink - Teardrop, Latex-Free Foam construction"
+}

@@ -1,0 +1,124 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A clear slim-fit phone case shown fitted to a modern smartphone held casually in a bright everyday setting, phone finish visible through the transparent case, natural light, realistic proportions, no visible logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product photo of a transparent flexible phone case showing precise camera cutout, button coverage, smooth edges, and raised screen rim, clean neutral background, realistic material texture."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Material",
+      "value": "Flexible TPU"
+    },
+    {
+      "group": "Fit",
+      "value": "Slim"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.26,
+  "width": 1291,
+  "height": 1088,
+  "length": 1217,
+  "ean": "7834278172014",
+  "manufacturerNumber": "MPN-UVINY814",
+  "packaging": {
+    "unitShortCode": "pc",
+    "purchaseUnit": 2,
+    "referenceUnit": 1,
+    "packUnit": "Pair",
+    "packUnitPlural": "Pairs",
+    "unitName": "Piece"
+  },
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch HXE0"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Everyday Phone Case - Clear - Slim Fit, Flexible TPU construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Transparent",
+        "Smoke Gray",
+        "Lavender",
+        "Rose"
+      ],
+      "priceModifiers": {
+        "Transparent": 1,
+        "Smoke Gray": 1,
+        "Lavender": 1,
+        "Rose": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Frosted TPU",
+        "Hybrid TPU-PC",
+        "Recycled TPU"
+      ],
+      "priceModifiers": {
+        "Frosted TPU": 1,
+        "Hybrid TPU-PC": 1.1,
+        "Recycled TPU": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Transparent",
+  "variantColors": [
+    {
+      "name": "Transparent",
+      "hex": "#f5f5f5",
+      "family": "transparent"
+    },
+    {
+      "name": "Smoke Gray",
+      "hex": "#73808c",
+      "family": "gray"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    },
+    {
+      "name": "Rose",
+      "hex": "#e8789a",
+      "family": "pink"
+    }
+  ]
+}

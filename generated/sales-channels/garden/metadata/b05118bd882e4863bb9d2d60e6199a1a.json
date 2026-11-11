@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a classic acacia wood garden bench with a slatted seat and back, warm natural oak-toned grain, sturdy simple legs, placed on a garden patio with soft greenery; clean product-focused composition, daylight, no people, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Acacia wood"
+    },
+    {
+      "group": "Color",
+      "value": "Natural Oak"
+    },
+    {
+      "group": "Type",
+      "value": "Slatted garden bench"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.31,
+  "width": 1206,
+  "height": 1118,
+  "length": 444,
+  "ean": "1587580614494",
+  "manufacturerNumber": "MPN-ELS9TW1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch L2FG"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Garden Bench - Acacia - Slatted Seat, Acacia wood construction, Natural Oak finish"
+}

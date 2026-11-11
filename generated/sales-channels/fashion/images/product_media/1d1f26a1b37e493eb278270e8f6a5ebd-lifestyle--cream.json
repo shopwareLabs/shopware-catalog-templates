@@ -1,0 +1,10 @@
+{
+  "productId": "1d1f26a1b37e493eb278270e8f6a5ebd",
+  "productName": "lifestyle--cream",
+  "generatedAt": "2026-11-10T15:05:16.112Z",
+  "prompt": "Recolour the product to Cream (#fffdd0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "66649b123c58c808",
+  "shade": "Cream",
+  "hex": "#fffdd0"
+}

@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a soft oatmeal-colored knit beanie with a wide ribbed cuff, clean silhouette, visible knit texture, displayed upright against a light stone background with gentle diffused lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Contemporary cold-weather lifestyle photograph of a person wearing an oatmeal ribbed knit beanie with a neutral coat on a relaxed city walk, natural winter daylight, understated styling, beanie clearly visible."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Oatmeal"
+    },
+    {
+      "group": "Material",
+      "value": "Acrylic Knit"
+    },
+    {
+      "group": "Type",
+      "value": "Ribbed Beanie"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.59,
+  "width": 1406,
+  "height": 909,
+  "length": 956,
+  "ean": "3702973653616",
+  "manufacturerNumber": "MPN-CPMSXM10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch RTD3"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Soft Knit Beanie - Oatmeal - Ribbed Cuff, Acrylic Knit construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Oatmeal",
+        "Black",
+        "Burgundy",
+        "Forest Green"
+      ],
+      "priceModifiers": {
+        "Oatmeal": 1,
+        "Black": 1,
+        "Burgundy": 1,
+        "Forest Green": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XS",
+        "XXXL",
+        "S"
+      ],
+      "priceModifiers": {
+        "XS": 1,
+        "XXXL": 1,
+        "S": 1
+      }
+    }
+  ],
+  "defaultColor": "Oatmeal",
+  "variantColors": [
+    {
+      "name": "Oatmeal",
+      "hex": "#d6c6a8",
+      "family": "beige"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    },
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    }
+  ]
+}

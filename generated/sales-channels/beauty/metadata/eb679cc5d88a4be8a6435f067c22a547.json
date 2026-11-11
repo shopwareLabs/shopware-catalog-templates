@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Premium product photograph of a sleek mascara tube in deep black with the wand shown alongside, clean pale background, soft studio lighting, refined minimal packaging, no readable brand text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Deep Black"
+    },
+    {
+      "group": "Effect",
+      "value": "Volumizing"
+    },
+    {
+      "group": "Type",
+      "value": "Mascara"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.52,
+  "width": 163,
+  "height": 745,
+  "length": 1551,
+  "ean": "2367598793911",
+  "manufacturerNumber": "MPN-51PYST1C",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch Y1FZ"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Volumizing Mascara - Deep Black - Defined Volume"
+}

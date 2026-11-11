@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Detailed close-up product image of a 50ml mineral sunscreen tube, label clearly featuring SPF 30 and Daily Mineral Sunscreen, clean white packaging with subtle warm-yellow accent, soft daylight, realistic texture and sharp focus."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "SPF",
+      "value": "30"
+    },
+    {
+      "group": "Filter Type",
+      "value": "Mineral"
+    },
+    {
+      "group": "Size",
+      "value": "50ml"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.79,
+  "width": 1271,
+  "height": 1178,
+  "length": 1169,
+  "ean": "7269645402416",
+  "manufacturerNumber": "MPN-ISOTTX6M",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch XR24"
+  },
+  "manufacturerName": "Avenelle Derm",
+  "baseImagePrompt": "Daily Mineral Sunscreen - SPF 30 - 50ml"
+}

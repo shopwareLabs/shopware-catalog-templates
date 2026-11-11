@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle view of a premium 250g brown sugar body scrub tub, warm neutral label and visible product texture through a clean design element, softly lit studio setting, realistic beauty product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Relaxing bathroom lifestyle scene featuring a brown sugar body scrub tub on a stone bath ledge with a folded towel and subtle botanical greenery, warm natural light, premium self-care mood, realistic editorial skincare image."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Body Scrub"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Brown Sugar"
+    },
+    {
+      "group": "Size",
+      "value": "250g"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.61,
+  "width": 1181,
+  "height": 647,
+  "length": 1661,
+  "ean": "3757902182828",
+  "manufacturerNumber": "MPN-W7WHFD4K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 30HK"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Polishing Body Scrub - Brown Sugar - 250g"
+}

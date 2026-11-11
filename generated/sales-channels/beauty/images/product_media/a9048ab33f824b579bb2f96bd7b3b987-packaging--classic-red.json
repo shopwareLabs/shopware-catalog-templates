@@ -1,0 +1,10 @@
+{
+  "productId": "a9048ab33f824b579bb2f96bd7b3b987",
+  "productName": "packaging--classic-red",
+  "generatedAt": "2026-11-10T15:46:58.668Z",
+  "prompt": "Recolour the product to Classic Red (#c8102e). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "845dd338adfb139a",
+  "shade": "Classic Red",
+  "hex": "#c8102e"
+}

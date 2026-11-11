@@ -1,0 +1,10 @@
+{
+  "productId": "82345fafa15d4e9c8b4330f6cd8e3833",
+  "productName": "front--ivory",
+  "generatedAt": "2026-11-10T15:49:12.387Z",
+  "prompt": "Recolour the product to Ivory (#fffff0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "777e97b56ac64484",
+  "shade": "Ivory",
+  "hex": "#fffff0"
+}

@@ -1,0 +1,112 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "E-commerce studio product photograph of a men’s pale blue cotton Oxford shirt, front view, buttoned neatly with collar and long sleeves visible, clean neutral background, soft even lighting, accurate fabric texture and color, no model, no text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up e-commerce photograph of the pale blue Oxford shirt showing the basket-weave cotton texture, collar stitching and buttons, crisp natural lighting, neutral background, realistic fabric detail, no text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Pale Blue"
+    },
+    {
+      "group": "Material",
+      "value": "Cotton Oxford"
+    },
+    {
+      "group": "Fit",
+      "value": "Tailored"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.44,
+  "width": 942,
+  "height": 1011,
+  "length": 1449,
+  "ean": "4411721813576",
+  "manufacturerNumber": "MPN-9MV1MG1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch UCDQ"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Oxford Shirt - Pale Blue - Tailored Fit, Cotton Oxford construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Pale Blue",
+        "White",
+        "Navy",
+        "Light Pink"
+      ],
+      "priceModifiers": {
+        "Pale Blue": 1,
+        "White": 1,
+        "Navy": 1,
+        "Light Pink": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "S",
+        "M",
+        "XXXL"
+      ],
+      "priceModifiers": {
+        "S": 1,
+        "M": 1,
+        "XXXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Pale Blue",
+  "variantColors": [
+    {
+      "name": "Pale Blue",
+      "hex": "#c6deeb",
+      "family": "blue"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Light Pink",
+      "hex": "#f7c6d0",
+      "family": "pink"
+    }
+  ]
+}

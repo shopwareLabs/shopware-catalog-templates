@@ -1,0 +1,10 @@
+{
+  "productId": "2a61b92c59554772aec9995f61a5144f",
+  "productName": "packaging--black",
+  "generatedAt": "2026-11-10T15:06:45.774Z",
+  "prompt": "Recolour the product to Black (#1a1a1a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "28d9eb2394041707",
+  "shade": "Black",
+  "hex": "#1a1a1a"
+}

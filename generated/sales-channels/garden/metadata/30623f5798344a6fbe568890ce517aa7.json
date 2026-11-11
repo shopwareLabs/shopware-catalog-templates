@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Garden parasol in sand-colored fabric shown in its retail packaging, product image clearly visible and neatly arranged, clean studio background, realistic e-commerce photography, no invented branding or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Sand"
+    },
+    {
+      "group": "Type",
+      "value": "Crank-Lift Parasol"
+    },
+    {
+      "group": "Material",
+      "value": "Outdoor Fabric"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 14.82,
+  "width": 845,
+  "height": 1011,
+  "length": 50,
+  "ean": "4123959778014",
+  "manufacturerNumber": "MPN-39K5WCHS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch O8PD"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Garden Parasol - Sand - Crank Lift, Outdoor Fabric construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Sand",
+        "Navy",
+        "Sage",
+        "Charcoal"
+      ],
+      "priceModifiers": {
+        "Sand": 1,
+        "Navy": 1,
+        "Sage": 1,
+        "Charcoal": 1
+      }
+    }
+  ],
+  "defaultColor": "Sand",
+  "variantColors": [
+    {
+      "name": "Sand",
+      "hex": "#c2b280",
+      "family": "beige"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Sage",
+      "hex": "#9caf88",
+      "family": "green"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#36454f",
+      "family": "gray"
+    }
+  ]
+}

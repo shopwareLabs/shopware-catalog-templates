@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "27-inch matte black QHD computer monitor on a tidy modern home-office desk, displaying a tasteful abstract desktop wallpaper, keyboard and plant nearby, natural daylight, realistic lifestyle electronics photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Screen Size",
+      "value": "27 inches"
+    },
+    {
+      "group": "Resolution",
+      "value": "QHD"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.74,
+  "width": 392,
+  "height": 458,
+  "length": 240,
+  "ean": "0314767122968",
+  "manufacturerNumber": "MPN-7D9CO014",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch SUH1"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "27-Inch Monitor - Matte Black - QHD"
+}

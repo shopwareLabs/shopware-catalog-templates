@@ -1,0 +1,72 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic e-commerce packaging image of a 1.5-liter bottle of Fresh Linen liquid laundry detergent, clean white bottle with a pale blue cap and simple crisp-linen label, readable generic product labeling, isolated on a bright white background, straight-on product photography, no extra objects."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Fresh Linen"
+    },
+    {
+      "group": "Size",
+      "value": "1.5 L"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid Detergent"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 12.09,
+  "width": 777,
+  "height": 849,
+  "length": 528,
+  "ean": "6784182652328",
+  "manufacturerNumber": "MPN-937UD61K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch ENUC"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Laundry Detergent - Fresh Linen - 1.5 L",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Citrus Breeze",
+        "Fresh Linen",
+        "Ocean Fresh"
+      ],
+      "priceModifiers": {
+        "Citrus Breeze": 1,
+        "Fresh Linen": 1,
+        "Ocean Fresh": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "100ml",
+        "750ml",
+        "1L"
+      ],
+      "priceModifiers": {
+        "100ml": 0.5,
+        "750ml": 2,
+        "1L": 2.5
+      }
+    }
+  ]
+}

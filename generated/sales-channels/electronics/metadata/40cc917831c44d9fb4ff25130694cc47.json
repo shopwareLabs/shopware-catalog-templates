@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of a slim 55-inch 4K UHD television showing crisp colorful landscape imagery, thin black bezel and clean screen finish visible, no logos or text."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on photorealistic product image of a modern 55-inch 4K smart television with slim black bezel and understated feet, screen displaying a vivid nature scene, bright neutral studio background, no brand marks."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "55 inches"
+    },
+    {
+      "group": "Resolution",
+      "value": "4K UHD"
+    },
+    {
+      "group": "Type",
+      "value": "Smart TV"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.29,
+  "width": 1181,
+  "height": 597,
+  "length": 1675,
+  "ean": "4897933421158",
+  "manufacturerNumber": "MPN-5P5AKKRX",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch Y5KS"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "4K UHD Television - 55-Inch - Smart TV"
+}

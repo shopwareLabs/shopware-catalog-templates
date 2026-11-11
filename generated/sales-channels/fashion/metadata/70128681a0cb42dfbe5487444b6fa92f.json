@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium e-commerce packaging photograph of a compact cognac leather crossbody bag in a clean protective dust bag, box and tissue presented neatly, warm neutral studio background, realistic leather grain, soft even lighting, no visible logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Crossbody"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 24.98,
+  "width": 995,
+  "height": 947,
+  "length": 447,
+  "ean": "4120232553948",
+  "manufacturerNumber": "MPN-FOCYQM1O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch GK0W"
+  },
+  "manufacturerName": "Tessaro Goods",
+  "baseImagePrompt": "Leather Crossbody Bag - Cognac - Compact",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cognac",
+        "Black",
+        "Tan",
+        "Deep Burgundy"
+      ],
+      "priceModifiers": {
+        "Cognac": 1,
+        "Black": 1,
+        "Tan": 1,
+        "Deep Burgundy": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Vegan Leather",
+        "Nylon",
+        "Smooth Leather"
+      ],
+      "priceModifiers": {
+        "Vegan Leather": 0.9,
+        "Nylon": 0.9,
+        "Smooth Leather": 1
+      }
+    }
+  ],
+  "defaultColor": "Cognac",
+  "variantColors": [
+    {
+      "name": "Cognac",
+      "hex": "#9a4e24",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    },
+    {
+      "name": "Deep Burgundy",
+      "hex": "#5a1024",
+      "family": "red"
+    }
+  ]
+}

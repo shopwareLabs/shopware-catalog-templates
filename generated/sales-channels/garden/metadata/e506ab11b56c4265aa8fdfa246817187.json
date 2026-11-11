@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic lifestyle scene of an ecru garden parasol shading a simple outdoor dining area on a bright patio, elegant open canopy and visible crank mechanism, garden greenery in the background, no people, natural summer light, no text."
+    },
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a fully open ecru garden parasol with a clean round canopy, central pole and crank-lift detail, shown against a restrained garden backdrop; full product visible, daylight, no furniture blocking it, no people, no text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of the crank-lift mechanism and ecru polyester canopy fabric on a garden parasol, highlighting stitching, pole connection and fabric texture; clean daylight, crisp product detail, no people, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Ecru"
+    },
+    {
+      "group": "Material",
+      "value": "Polyester fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Crank-lift parasol"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 24.61,
+  "width": 451,
+  "height": 850,
+  "length": 458,
+  "ean": "7191051800787",
+  "manufacturerNumber": "MPN-WL1JC189",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch VBKV"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Garden Parasol - Ecru - Crank Lift, Polyester fabric construction"
+}

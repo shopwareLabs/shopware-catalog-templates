@@ -1,0 +1,511 @@
+{
+  "salesChannelName": "music",
+  "pages": [
+    {
+      "name": "Text Elements",
+      "processor": "cms-text",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Find Your Sound</h1>\n<p style=\"text-align: center;\">Explore instruments and music-making essentials for every step of your musical journey</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Gear for Every Musician</h2>\n<p>From your first practice session to the stage or studio, find the instruments and essentials to bring your ideas to life. Explore a thoughtfully chosen range for making music your own.</p>\n<ul>\n    <li>Instruments for beginners and experienced players</li>\n    <li>Accessories for practice, performance, and recording</li>\n    <li>Gear to help you shape your sound</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Make Music Your Way</h2>\n<p style=\"text-align: center;\"><i>Discover the instruments and essentials that inspire your next song</i></p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Start with the Essentials</h3>\n<p>Build a setup that fits your musical goals, with instruments and accessories for learning, regular practice, and exploring new sounds.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Ready for the Next Stage</h3>\n<p>Find reliable gear for rehearsals, live performances, and studio recording, so you can share your sound wherever your music takes you.</p>"
+                }
+              ]
+            },
+            {
+              "type": "html",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Elements",
+      "processor": "cms-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Music Gear Highlights</h1>\n<p style=\"text-align: center;\">Explore instruments and essentials through inspiring images</p>"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Featured Gear Slider</h2>\n<p>Browse a rotating showcase of instruments and music-making essentials, with navigation arrows and dots to explore at your own pace.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-slider",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2>Instrument Gallery</h2>\n<p>See instruments and accessories up close with a collection of detailed images, thumbnails, zoom, and full-screen viewing.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-gallery",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Elements",
+      "processor": "cms-video",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Video Elements</h1>\n<p style=\"text-align: center;\">Explore video guides, performances, and tips to inspire your next musical idea</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">YouTube Video</h2>\n<p style=\"text-align: center;\">Discover your sound with instrument demos and playing tips</p>"
+                }
+              ]
+            },
+            {
+              "type": "youtube-video",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Vimeo Video</h2>\n<p style=\"text-align: center;\">Get inspired by live performances and studio sessions</p>"
+                }
+              ]
+            },
+            {
+              "type": "vimeo-video",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text & Images",
+      "processor": "cms-text-images",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Find Your Sound</h1>\n<p style=\"text-align: center;\">Explore instruments and music essentials for every step of your musical journey</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Gear for Every Sound</h2>\n<p>From expressive guitars and keyboards to the accessories that keep you performance-ready, discover gear to help bring your musical ideas to life.</p>\n<p>Find trusted essentials for practice, recording, and taking your sound to the stage.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Build Your Musical Setup</h2>\n<p>Whether you're choosing your first instrument or adding to a well-loved setup, find options to suit your style and way of playing.</p>\n<p>Pair instruments with practical accessories and make every practice session more rewarding.</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center;\">Make Music Your Way</h2>\n<p style=\"text-align: center;\">From first notes to studio sessions and live performances, explore the instruments and essentials that help you create, play, and share your sound.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 4,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Practice with Confidence</h3>\n<p style=\"text-align: center;\">Choose beginner-friendly instruments and useful accessories to make getting started feel inspiring.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Shape Your Sound</h3>\n<p style=\"text-align: center;\">Explore versatile instruments and gear to bring your musical ideas to life.</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center;\">Ready for the Stage</h3>\n<p style=\"text-align: center;\">Find performance essentials that help you play with confidence wherever the music takes you.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-on-image",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<div style=\"padding: 60px 20px; text-align: center;\">\n<h2 style=\"color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">Turn Up Your Inspiration</h2>\n<p style=\"color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); max-width: 600px; margin: 0 auto;\">Discover instruments and music-making essentials for practice, recording, and live performance—then find the sound that's yours.</p>\n</div>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commerce Elements",
+      "processor": "cms-commerce",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Music Store Essentials</h1>\n<p style=\"text-align: center;\">Explore instruments, accessories, and gear for practice, performance, and recording</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Featured Gear</h2>\n<p style=\"text-align: center;\">Discover instruments and music-making essentials in a three-column layout</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-three-column",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Gear Slider</h2>\n<p style=\"text-align: center;\">Browse a carousel of instruments and accessories with navigation controls</p>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 5,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Gallery + Buy Box</h2>\n<p style=\"text-align: center;\">Explore product photos and details, then add your chosen instrument or gear to your cart</p>"
+                }
+              ]
+            },
+            {
+              "type": "gallery-buybox",
+              "position": 6,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 7,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Shop by Category</h2>\n<p style=\"text-align: center;\">Browse instruments, accessories, and recording gear with easy category navigation</p>"
+                }
+              ]
+            },
+            {
+              "type": "category-navigation",
+              "position": 8,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Elements",
+      "processor": "cms-form",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center;\">Form Elements</h1>\n<p style=\"text-align: center;\">Helpful ways to connect, find your sound, and keep the music going</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-teaser",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Contact Form</h2>\n<p style=\"text-align: center;\">Ask us about instruments, gear, or finding the right setup</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 2,
+              "slots": []
+            },
+            {
+              "type": "text-teaser",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h2 style=\"text-align: center;\">Newsletter Signup</h2>\n<p style=\"text-align: center;\">Get music-making tips, new gear updates, and special offers in your inbox</p>"
+                }
+              ]
+            },
+            {
+              "type": "form",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CMS Element Showcase",
+      "processor": "cms-welcome",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Find Your Sound</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore instruments and music-making essentials for every step of your journey, from first practice to the stage and studio.</p>"
+                }
+              ]
+            },
+            {
+              "type": "image-text-bubble",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Instruments</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Guitars, keyboards, drums, and more for every player</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "center-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Accessories</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Strings, picks, cables, stands, and practice essentials</p>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right-text",
+                  "textContent": "<h3 style=\"text-align: center; margin-bottom: 8px;\">Recording Gear</h3>\n<p style=\"text-align: center; color: #666; font-size: 0.9em;\">Microphones, interfaces, and studio-ready essentials</p>"
+                }
+              ]
+            },
+            {
+              "type": "center-text",
+              "position": 2,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "center",
+                  "textContent": "<h2 style=\"text-align: center; margin-bottom: 12px;\">Gear for Every Musician</h2>\n<p style=\"text-align: center; color: #666;\">Build your setup with instruments and essentials for practice, performance, and recording. Find guitars, keyboards, drums, audio gear, and accessories to help bring your musical ideas to life.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 3,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h3>Instruments & Gear</h3>\n<p>Discover trusted essentials for your setup:</p>\n<ul style=\"color: #666;\">\n    <li>Guitars, keyboards, and drums</li>\n    <li>Amplifiers and recording gear</li>\n    <li>Accessories for practice and performance</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h3>Support for Your Sound</h3>\n<p>Get help choosing gear and making music:</p>\n<ul style=\"color: #666;\">\n    <li>Advice on instruments and accessories</li>\n    <li>Updates on new arrivals and offers</li>\n    <li>Helpful guidance for your next setup</li>\n</ul>"
+                }
+              ]
+            },
+            {
+              "type": "product-slider",
+              "position": 4,
+              "slots": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Overview",
+      "processor": "cms-testing",
+      "sections": [
+        {
+          "blocks": [
+            {
+              "type": "text-hero",
+              "position": 0,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "content",
+                  "textContent": "<h1 style=\"text-align: center; font-size: 2.5em; margin-bottom: 16px;\">Find Your Sound</h1>\n<p style=\"text-align: center; font-size: 1.2em; color: #666; max-width: 600px; margin: 0 auto;\">Explore instruments, accessories, and music-making essentials for practice, recording, and live performance.</p>"
+                }
+              ]
+            },
+            {
+              "type": "text-two-column",
+              "position": 1,
+              "slots": [
+                {
+                  "type": "text",
+                  "slot": "left",
+                  "textContent": "<h2>Explore Music Gear</h2>\n<p>Discover the essentials that help bring your music to life, from first notes to finished performances:</p>\n<ul>\n<li><strong>Instruments</strong> - Guitars, keyboards, drums, and more</li>\n<li><strong>Accessories</strong> - Picks, strings, stands, and cables</li>\n<li><strong>Recording</strong> - Microphones, interfaces, and studio gear</li>\n<li><strong>Sound</strong> - Amplifiers, speakers, and headphones</li>\n<li><strong>Performance</strong> - Live sound and stage essentials</li>\n<li><strong>Learning</strong> - Helpful tools for practice and progress</li>\n</ul>"
+                },
+                {
+                  "type": "text",
+                  "slot": "right",
+                  "textContent": "<h2>Gear for Every Musician</h2>\n<p>Browse music products suited to different needs, setups, and stages of your journey:</p>\n<ul>\n<li><strong>Beginner Gear</strong> - Accessible essentials for getting started</li>\n<li><strong>Performance Gear</strong> - Reliable equipment for rehearsals and shows</li>\n<li><strong>Studio Gear</strong> - Tools for recording and creating at home</li>\n</ul>\n<p style=\"margin-top: 16px; color: #666;\">Explore each category to find the gear that fits your sound.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hydratedAt": "2026-11-10T15:36:26.717Z"
+}

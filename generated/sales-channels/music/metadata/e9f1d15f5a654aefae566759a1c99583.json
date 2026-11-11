@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic product image of a compact unbranded guitar care kit in neat retail packaging, showing a soft cleaning cloth and small maintenance supplies arranged clearly, neutral studio background, no readable text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic lifestyle scene of a musician gently wiping a guitar body with a soft cloth beside a compact care kit on a tidy practice-room table, warm natural light, careful instrument handling, no visible text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Guitar Cleaning Kit"
+    },
+    {
+      "group": "Use",
+      "value": "Routine Instrument Care"
+    },
+    {
+      "group": "Format",
+      "value": "Compact Set"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.49,
+  "width": 1493,
+  "height": 1084,
+  "length": 1836,
+  "ean": "7333089723847",
+  "manufacturerNumber": "MPN-CLRP8I10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch R18K"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Care Kit - Cleaning and Polishing - Compact Set"
+}

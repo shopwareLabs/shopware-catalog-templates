@@ -1,0 +1,23 @@
+{
+  "name": "Voicing",
+  "slug": "voicing",
+  "displayType": "text",
+  "options": [
+    "SATB",
+    "SAB",
+    "SSA",
+    "SSAA",
+    "TTBB",
+    "Two-Part"
+  ],
+  "priceModifiers": {
+    "SATB": 1,
+    "SAB": 1,
+    "SSA": 1,
+    "SSAA": 1,
+    "TTBB": 1,
+    "Two-Part": 0.9
+  },
+  "createdAt": "2026-11-10T15:36:19.121Z",
+  "source": "ai-generated"
+}

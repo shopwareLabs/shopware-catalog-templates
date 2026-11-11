@@ -1,0 +1,10 @@
+{
+  "productId": "e617345dba4b4662884cba510046015d",
+  "productName": "front--natural-tan",
+  "generatedAt": "2026-11-10T15:45:15.417Z",
+  "prompt": "Recolour the product to Natural Tan (#c79b6b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "1bc26881548c41b7",
+  "shade": "Natural Tan",
+  "hex": "#c79b6b"
+}

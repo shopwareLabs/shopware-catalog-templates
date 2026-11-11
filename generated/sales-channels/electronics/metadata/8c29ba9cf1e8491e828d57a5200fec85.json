@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product photograph of a compact silver portable solid-state drive, minimal rectangular enclosure with subtle connection port detail, isolated on a bright white background, soft shadows, realistic electronics catalog photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Type",
+      "value": "Portable SSD"
+    },
+    {
+      "group": "Capacity",
+      "value": "1TB"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 17.26,
+  "width": 860,
+  "height": 829,
+  "length": 323,
+  "ean": "3666025693817",
+  "manufacturerNumber": "MPN-IRYRKT18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch DHGE"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Portable SSD - Silver - 1TB"
+}

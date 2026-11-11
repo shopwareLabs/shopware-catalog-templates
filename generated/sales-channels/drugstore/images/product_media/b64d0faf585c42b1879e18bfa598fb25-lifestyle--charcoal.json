@@ -1,0 +1,10 @@
+{
+  "productId": "b64d0faf585c42b1879e18bfa598fb25",
+  "productName": "lifestyle--charcoal",
+  "generatedAt": "2026-11-10T15:06:45.169Z",
+  "prompt": "Recolour the product to Charcoal (#36454f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "6d3720aba208bc7c",
+  "shade": "Charcoal",
+  "hex": "#36454f"
+}

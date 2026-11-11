@@ -1,0 +1,64 @@
+{
+  "steps": {
+    "hydrate": {
+      "at": "2026-11-10T15:08:43.318Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "cca1009"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      },
+      "image": {
+        "provider": "openai",
+        "model": "gpt-image-2.5-flare",
+        "quality": "medium"
+      }
+    },
+    "translate:de-DE": {
+      "at": "2026-11-11T08:25:09.784Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:prices": {
+      "at": "2026-11-11T08:15:42.387Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:names": {
+      "at": "2026-11-11T08:09:35.599Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:manufacturers": {
+      "at": "2026-11-11T08:09:37.495Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    }
+  }
+}

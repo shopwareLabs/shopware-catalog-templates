@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product detail of a fine precision-tip liquid eyeliner applicator with a glossy Jet Black finish, sharp focus on the tip and clean product surfaces, soft studio lighting, neutral background, no text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Refined beauty lifestyle portrait showing a subtle, precise Jet Black eyeliner wing on a model, natural-looking skin and softly lit eyes, elegant minimal makeup setting, realistic editorial photography, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Jet Black"
+    },
+    {
+      "group": "Applicator",
+      "value": "Precision Tip"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid Eyeliner"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.76,
+  "width": 1495,
+  "height": 125,
+  "length": 374,
+  "ean": "9979447133019",
+  "manufacturerNumber": "MPN-ADA4VI1K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch PQFG"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Liquid Eyeliner - Jet Black - Precision Tip"
+}

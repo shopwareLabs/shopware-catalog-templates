@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging for white wireless earbuds with a compact charging case, generic contemporary electronics box with product illustration, clean studio background, no readable logos or brand names."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "White"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Wireless"
+    },
+    {
+      "group": "Type",
+      "value": "In-ear earbuds"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.78,
+  "width": 437,
+  "height": 217,
+  "length": 1343,
+  "ean": "8475616321917",
+  "manufacturerNumber": "MPN-DG4ZFKB8",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 63XI"
+  },
+  "manufacturerName": "Sonivelle",
+  "baseImagePrompt": "Wireless Earbuds - White - Charging Case",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "White",
+        "Black",
+        "Navy",
+        "Lavender"
+      ],
+      "priceModifiers": {
+        "White": 1,
+        "Black": 1,
+        "Navy": 1,
+        "Lavender": 1
+      }
+    }
+  ],
+  "defaultColor": "White",
+  "variantColors": [
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#b57edc",
+      "family": "purple"
+    }
+  ]
+}

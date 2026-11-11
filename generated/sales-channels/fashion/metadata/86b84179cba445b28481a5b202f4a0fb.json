@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view studio product photograph of black leather women's ankle boots, clearly showing the ankle-height silhouette, smooth leather texture, and sturdy block heel; neutral light background, soft realistic shadows, no text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Black leather women's ankle boots neatly presented in an open kraft shoe box with understated tissue paper, product clearly visible, clean premium e-commerce packaging scene, no readable text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of black leather ankle boots focusing on the leather grain, neat stitching, side construction, and block heel; crisp natural studio lighting, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Heel Type",
+      "value": "Block Heel"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.11,
+  "width": 495,
+  "height": 337,
+  "length": 68,
+  "ean": "6533472463515",
+  "manufacturerNumber": "MPN-H1TS8O14",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch QC43"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Leather Ankle Boots - Black - Block Heel"
+}

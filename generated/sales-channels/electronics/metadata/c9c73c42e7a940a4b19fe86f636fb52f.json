@@ -1,0 +1,99 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of a navy tablet folio case showing its textured faux-leather surface, neat stitching, folded viewing-stand crease, and precise tablet cutouts, clean neutral studio background, no branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Navy"
+    },
+    {
+      "group": "Material",
+      "value": "Faux leather"
+    },
+    {
+      "group": "Type",
+      "value": "Folio case"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 4.16,
+  "width": 1031,
+  "height": 314,
+  "length": 1098,
+  "ean": "0320328904904",
+  "manufacturerNumber": "MPN-JJ3ZRV1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 041T"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Tablet Folio Case - Slim Protective Cover - Navy, Faux leather construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Navy",
+        "Black",
+        "Burgundy",
+        "Gray"
+      ],
+      "priceModifiers": {
+        "Navy": 1,
+        "Black": 1,
+        "Burgundy": 1,
+        "Gray": 1
+      }
+    }
+  ],
+  "defaultColor": "Navy",
+  "variantColors": [
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    },
+    {
+      "name": "Gray",
+      "hex": "#6b7280",
+      "family": "gray"
+    }
+  ]
+}

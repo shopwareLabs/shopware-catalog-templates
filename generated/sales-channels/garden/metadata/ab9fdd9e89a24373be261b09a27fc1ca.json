@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A small home herb garden with several labeled-looking but text-free pots of fresh culinary herbs on a sunny patio table, seed packets nearby with blank packaging, natural light, realistic gardening scene, no readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Culinary Herbs"
+    },
+    {
+      "group": "Variety",
+      "value": "8 Varieties"
+    },
+    {
+      "group": "Use",
+      "value": "Edible Garden"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.42,
+  "width": 1048,
+  "height": 265,
+  "length": 1478,
+  "ean": "4833095642130",
+  "manufacturerNumber": "MPN-DP15S41G",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 2V9N"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Herb Seed Collection - Culinary Mix - 8 Varieties"
+}

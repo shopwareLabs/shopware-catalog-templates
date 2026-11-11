@@ -1,0 +1,10 @@
+{
+  "productId": "00b4d6dd38414aa68ff21425e5853454",
+  "productName": "detail--silver",
+  "generatedAt": "2026-11-10T15:06:25.534Z",
+  "prompt": "Recolour the product to Silver (#c0c0c0). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b8d4ea5d6e4abc10",
+  "shade": "Silver",
+  "hex": "#c0c0c0"
+}

@@ -1,0 +1,67 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A calm nighttime skincare vignette featuring Moonpetal Overnight Cream on a bedside table beside a folded linen cloth and a small sprig of lavender, gentle warm lamplight, premium editorial beauty photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of Moonpetal Overnight Cream 50ml jar with refined lavender-accented label, soft dusky background, subtle studio shadow, realistic luxury skincare packaging."
+    },
+    {
+      "view": "front",
+      "prompt": "Straight-on product shot of Moonpetal Overnight Cream jar, centered on a clean pale lavender background, crisp premium label, soft diffused lighting, polished e-commerce beauty photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Overnight Cream"
+    },
+    {
+      "group": "Scent",
+      "value": "Lavender"
+    },
+    {
+      "group": "Size",
+      "value": "50ml"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.04,
+  "width": 1095,
+  "height": 768,
+  "length": 1238,
+  "ean": "7421039071206",
+  "manufacturerNumber": "MPN-UEFO9SMX",
+  "maxPurchase": 50,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch LHPP"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Moonpetal Overnight Cream - Lavender - 50ml",
+  "variantConfigs": [
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Travel Size",
+        "50ml",
+        "100ml"
+      ],
+      "priceModifiers": {
+        "Travel Size": 0.5,
+        "50ml": 1,
+        "100ml": 1.6
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "E-commerce packaging photograph of a men's black leather belt neatly coiled beside a simple premium kraft presentation box, brushed metal buckle visible, clean neutral backdrop, realistic product styling, no logos, no readable text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Belt"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.64,
+  "width": 1365,
+  "height": 835,
+  "length": 218,
+  "ean": "8132057632568",
+  "manufacturerNumber": "MPN-3P1T26LV",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 887U"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Leather Belt - Black - Brushed Buckle",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Dark Brown",
+        "Tan",
+        "Navy"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Dark Brown": 1,
+        "Tan": 1,
+        "Navy": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XXL",
+        "L",
+        "XXXL"
+      ],
+      "priceModifiers": {
+        "XXL": 1,
+        "L": 1,
+        "XXXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Dark Brown",
+      "hex": "#4b2e23",
+      "family": "brown"
+    },
+    {
+      "name": "Tan",
+      "hex": "#d2b48c",
+      "family": "beige"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    }
+  ]
+}

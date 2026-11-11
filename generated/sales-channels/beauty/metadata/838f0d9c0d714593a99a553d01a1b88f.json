@@ -1,0 +1,103 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Quilted midnight blue makeup bag shown with understated protective retail packaging on a clean light background, premium accessories ecommerce photography, no visible logos or readable text."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product photograph of a closed midnight blue quilted makeup bag with a neat zipper and softly structured shape, centered on a warm white studio background, elegant premium beauty accessory styling, no branding."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Midnight"
+    },
+    {
+      "group": "Material",
+      "value": "Quilted Fabric"
+    },
+    {
+      "group": "Type",
+      "value": "Zip Makeup Bag"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 20.12,
+  "width": 1215,
+  "height": 141,
+  "length": 1201,
+  "ean": "0797879631373",
+  "manufacturerNumber": "MPN-3U4JNMDW",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch WT8J"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Makeup Bag - Midnight Blue - Quilted, Quilted Fabric construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Midnight",
+        "Blush Pink",
+        "Black",
+        "Ivory"
+      ],
+      "priceModifiers": {
+        "Midnight": 1,
+        "Blush Pink": 1,
+        "Black": 1,
+        "Ivory": 1
+      }
+    }
+  ],
+  "defaultColor": "Midnight",
+  "variantColors": [
+    {
+      "name": "Midnight",
+      "hex": "#191970",
+      "family": "blue"
+    },
+    {
+      "name": "Blush Pink",
+      "hex": "#e8a0a8",
+      "family": "pink"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    }
+  ]
+}

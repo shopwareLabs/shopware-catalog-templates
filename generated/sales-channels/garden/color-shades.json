@@ -1,0 +1,122 @@
+{
+  "natural acacia": {
+    "name": "Natural Acacia",
+    "hex": "#b9824b",
+    "family": "brown"
+  },
+  "matte black": {
+    "name": "Matte Black",
+    "hex": "#222222",
+    "family": "black"
+  },
+  "slate gray": {
+    "name": "Slate Gray",
+    "hex": "#708090",
+    "family": "gray"
+  },
+  "natural rattan": {
+    "name": "Natural Rattan",
+    "hex": "#c6a477",
+    "family": "beige"
+  },
+  "natural teak": {
+    "name": "Natural Teak",
+    "hex": "#b8834f",
+    "family": "brown"
+  },
+  "natural": {
+    "name": "Natural",
+    "hex": "#c5a77b",
+    "family": "beige"
+  },
+  "moss green": {
+    "name": "Moss Green",
+    "hex": "#687348",
+    "family": "green"
+  },
+  "ecru": {
+    "name": "Ecru",
+    "hex": "#cdbb9b",
+    "family": "beige"
+  },
+  "warm white": {
+    "name": "Warm White",
+    "hex": "#f5f1e8",
+    "family": "white"
+  },
+  "teak brown": {
+    "name": "Teak Brown",
+    "hex": "#8b5a32",
+    "family": "brown"
+  },
+  "blue stripe": {
+    "name": "Blue Stripe",
+    "hex": "#3b6f9c",
+    "family": "multicolor"
+  },
+  "green stripe": {
+    "name": "Green Stripe",
+    "hex": "#4f7d4b",
+    "family": "multicolor"
+  },
+  "red stripe": {
+    "name": "Red Stripe",
+    "hex": "#b5433f",
+    "family": "multicolor"
+  },
+  "charcoal stripe": {
+    "name": "Charcoal Stripe",
+    "hex": "#424242",
+    "family": "multicolor"
+  },
+  "blush pink": {
+    "name": "Blush Pink",
+    "hex": "#e8b7b8",
+    "family": "pink"
+  },
+  "natural cedar": {
+    "name": "Natural Cedar",
+    "hex": "#a86f4a",
+    "family": "brown"
+  },
+  "deep pink": {
+    "name": "Deep Pink",
+    "hex": "#c2185b",
+    "family": "pink"
+  },
+  "natural wood": {
+    "name": "Natural Wood",
+    "hex": "#b58b5b",
+    "family": "brown"
+  },
+  "dark brown": {
+    "name": "Dark Brown",
+    "hex": "#4b2e20",
+    "family": "brown"
+  },
+  "matte charcoal": {
+    "name": "Matte Charcoal",
+    "hex": "#364047",
+    "family": "gray"
+  },
+  "ocean blue": {
+    "name": "Ocean Blue",
+    "hex": "#2f6f91",
+    "family": "blue"
+  },
+  "sandstone": {
+    "name": "Sandstone",
+    "hex": "#c8aa7a",
+    "family": "beige"
+  },
+  "dusty blue": {
+    "name": "Dusty Blue",
+    "hex": "#7894a8",
+    "family": "blue"
+  },
+  "dark green": {
+    "name": "Dark Green",
+    "hex": "#234b32",
+    "family": "green"
+  }
+}

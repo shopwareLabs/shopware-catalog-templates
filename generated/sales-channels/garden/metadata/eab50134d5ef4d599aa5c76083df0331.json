@@ -1,0 +1,52 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail photograph of bypass pruning shears showing clean stainless-steel blades, pivot joint, and textured soft-grip handle, sharp focus, neutral workshop background, realistic e-commerce product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A pair of bypass pruning shears resting beside freshly trimmed rose stems on a garden bench, leafy plants softly visible behind, natural daylight, safe and tidy gardening scene, no text."
+    },
+    {
+      "view": "side",
+      "prompt": "Full side profile of compact bypass pruning shears with stainless-steel blades and dark soft-grip handles, blades closed, isolated on a light neutral background, accurate proportions and crisp studio lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Stainless Steel"
+    },
+    {
+      "group": "Handle",
+      "value": "Soft Grip"
+    },
+    {
+      "group": "Type",
+      "value": "Bypass Pruning Shears"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.58,
+  "width": 643,
+  "height": 522,
+  "length": 941,
+  "ean": "9387913374710",
+  "manufacturerNumber": "MPN-Q76J4CYI",
+  "maxPurchase": 20,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch XEIH"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Bypass Pruning Shears - Stainless Steel - Soft Grip"
+}

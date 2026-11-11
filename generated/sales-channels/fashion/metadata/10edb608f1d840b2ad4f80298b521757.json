@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product photograph of a black leather women's penny loafer, highlighting the classic strap, polished leather grain, stitching and low-profile sole, clean neutral studio background, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Penny Loafer"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.68,
+  "width": 913,
+  "height": 674,
+  "length": 778,
+  "ean": "6959125863912",
+  "manufacturerNumber": "MPN-HX83YO14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch QGYD"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Leather Loafers - Black - Penny Strap"
+}

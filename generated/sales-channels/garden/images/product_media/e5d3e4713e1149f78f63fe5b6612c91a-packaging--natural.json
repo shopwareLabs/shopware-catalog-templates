@@ -1,0 +1,10 @@
+{
+  "productId": "e5d3e4713e1149f78f63fe5b6612c91a",
+  "productName": "packaging--natural",
+  "generatedAt": "2026-11-10T15:43:05.283Z",
+  "prompt": "Recolour the product to Natural (#c5a77b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "2025628005554082",
+  "shade": "Natural",
+  "hex": "#c5a77b"
+}

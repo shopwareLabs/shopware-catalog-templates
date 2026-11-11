@@ -1,0 +1,10 @@
+{
+  "productId": "e37b7615661e4b65a0910cce6e40dc77",
+  "productName": "packaging--soft-coral",
+  "generatedAt": "2026-11-10T15:04:58.183Z",
+  "prompt": "Recolour the product to Soft Coral (#f28c7a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "99b99860d00babe5",
+  "shade": "Soft Coral",
+  "hex": "#f28c7a"
+}

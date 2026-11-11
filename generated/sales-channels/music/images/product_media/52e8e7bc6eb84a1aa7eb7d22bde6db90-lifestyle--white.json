@@ -1,0 +1,10 @@
+{
+  "productId": "52e8e7bc6eb84a1aa7eb7d22bde6db90",
+  "productName": "lifestyle--white",
+  "generatedAt": "2026-11-10T15:43:44.697Z",
+  "prompt": "Recolour the product to White (#ffffff). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "25c3487d50d53225",
+  "shade": "White",
+  "hex": "#ffffff"
+}

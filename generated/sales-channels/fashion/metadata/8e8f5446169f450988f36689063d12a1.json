@@ -1,0 +1,116 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a structured women's shoulder bag in smooth cognac faux leather, showing its curved shoulder strap, defined gusset, neat stitching, and understated gold-tone hardware; clean studio setting."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Women's cognac structured shoulder bag presented in a premium protective dust bag with simple tissue-paper packaging, neutral backdrop, realistic retail product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Faux leather"
+    },
+    {
+      "group": "Closure",
+      "value": "Top zip"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.05,
+  "width": 1394,
+  "height": 959,
+  "length": 1601,
+  "ean": "6933230432157",
+  "manufacturerNumber": "MPN-HR2DP21C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 2GJE"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Structured Shoulder Bag - Cognac - Smooth Finish, Faux leather construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Cognac",
+        "Black",
+        "Cream",
+        "Burgundy"
+      ],
+      "priceModifiers": {
+        "Cognac": 1,
+        "Black": 1,
+        "Cream": 1,
+        "Burgundy": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Vegan Leather",
+        "Nylon",
+        "Saffiano Leather"
+      ],
+      "priceModifiers": {
+        "Vegan Leather": 0.9,
+        "Nylon": 0.9,
+        "Saffiano Leather": 1.1
+      }
+    }
+  ],
+  "defaultColor": "Cognac",
+  "variantColors": [
+    {
+      "name": "Cognac",
+      "hex": "#9a4e24",
+      "family": "brown"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Cream",
+      "hex": "#fffdd0",
+      "family": "beige"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    }
+  ]
+}

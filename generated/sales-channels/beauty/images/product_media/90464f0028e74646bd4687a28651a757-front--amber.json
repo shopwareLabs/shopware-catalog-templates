@@ -1,0 +1,10 @@
+{
+  "productId": "90464f0028e74646bd4687a28651a757",
+  "productName": "front--amber",
+  "generatedAt": "2026-11-10T15:48:40.428Z",
+  "prompt": "Recolour the product to Amber (#ffbf00). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "ba8d5f533b0c2925",
+  "shade": "Amber",
+  "hex": "#ffbf00"
+}

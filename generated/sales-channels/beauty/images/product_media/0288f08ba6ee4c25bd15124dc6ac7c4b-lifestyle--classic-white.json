@@ -1,0 +1,10 @@
+{
+  "productId": "0288f08ba6ee4c25bd15124dc6ac7c4b",
+  "productName": "lifestyle--classic-white",
+  "generatedAt": "2026-11-10T15:48:01.756Z",
+  "prompt": "Recolour the product to Classic White (#ffffff). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "d5ce2a6a44b7627c",
+  "shade": "Classic White",
+  "hex": "#ffffff"
+}

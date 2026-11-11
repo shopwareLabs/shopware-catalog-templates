@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side view of a black outdoor dining chair with a woven synthetic-fibre seat and supportive woven back, slim sturdy frame, shown against a simple garden patio backdrop with subtle greenery; natural daylight, realistic texture, no people, no text."
+    },
+    {
+      "view": "front",
+      "prompt": "Photorealistic straight-on front view of a black woven outdoor dining chair, clearly showing the textured seat, supportive backrest, and balanced legs; neutral outdoor patio setting, crisp daylight, centered full product, no people, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Woven synthetic fibre"
+    },
+    {
+      "group": "Type",
+      "value": "Dining chair"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.19,
+  "width": 865,
+  "height": 323,
+  "length": 1296,
+  "ean": "1134246824850",
+  "manufacturerNumber": "MPN-IVQ0WY18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch LBY2"
+  },
+  "manufacturerName": "Sunrest Atelier",
+  "baseImagePrompt": "Outdoor Dining Chair - Black - Woven Seat, Woven synthetic fibre construction"
+}

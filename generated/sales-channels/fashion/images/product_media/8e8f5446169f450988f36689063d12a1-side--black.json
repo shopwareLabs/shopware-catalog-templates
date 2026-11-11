@@ -1,0 +1,10 @@
+{
+  "productId": "8e8f5446169f450988f36689063d12a1",
+  "productName": "side--black",
+  "generatedAt": "2026-11-10T15:04:47.795Z",
+  "prompt": "Recolour the product to Black (#1a1a1a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "fe4d0df56b792520",
+  "shade": "Black",
+  "hex": "#1a1a1a"
+}

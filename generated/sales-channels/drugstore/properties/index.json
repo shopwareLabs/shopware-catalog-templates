@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-11-10T14:58:22.600Z",
+  "count": 7,
+  "groups": [
+    "color",
+    "size",
+    "scent",
+    "flavor",
+    "type",
+    "quantity",
+    "count"
+  ]
+}

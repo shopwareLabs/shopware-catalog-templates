@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Macro detail photograph of a black leather bifold wallet partially open, showing card slots, clean stitching, smooth leather grain and finished edges; premium soft studio lighting, no visible branding."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Men's black leather bifold wallet placed neatly beside a notebook and keys on a clean desk, understated contemporary lifestyle scene, natural window light, no logos or readable text."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Black leather bifold wallet presented in a simple elegant gift box with tissue, photographed on a neutral background; refined men's accessory packaging, no logos or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Bifold Wallet"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 7.96,
+  "width": 1330,
+  "height": 917,
+  "length": 947,
+  "ean": "1991931073289",
+  "manufacturerNumber": "MPN-Q1HP7P14",
+  "maxPurchase": 10,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 1WSQ"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Bifold Wallet - Black - Slim Profile"
+}

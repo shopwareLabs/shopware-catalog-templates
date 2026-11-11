@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front studio photograph of a single-outlet mechanical garden hose timer in green, dial and connection points clearly visible, isolated on a bright white background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging presentation for a green mechanical single-outlet hose timer, include a clear product image and simple watering-duration dial graphic, clean readable design on neutral background."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of the green mechanical hose timer showing its tap connector, outlet fitting and compact profile, realistic product photography with soft studio shadow."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Green"
+    },
+    {
+      "group": "Type",
+      "value": "Mechanical hose timer"
+    },
+    {
+      "group": "Outlets",
+      "value": "1"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.05,
+  "width": 456,
+  "height": 416,
+  "length": 184,
+  "ean": "7747709101630",
+  "manufacturerNumber": "MPN-KQ6QUGS6",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 301X"
+  },
+  "manufacturerName": "Dewvale",
+  "baseImagePrompt": "Mechanical Hose Timer - Green - Single Outlet"
+}

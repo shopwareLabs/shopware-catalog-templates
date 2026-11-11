@@ -1,0 +1,107 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging for matte-black over-ear wireless headphones, elegant consumer-electronics box with a clear product image and restrained generic design, front-facing on a white studio background, no readable brand names."
+    },
+    {
+      "view": "front",
+      "prompt": "Photorealistic straight-on product image of matte-black over-ear wireless headphones, softly padded earcups and adjustable headband clearly visible, clean white background, no logos or text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Photorealistic close-up of matte-black wireless headphones highlighting the cushioned earcup, discreet onboard controls, and refined surface texture, studio lighting, no logos or text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Connectivity",
+      "value": "Wireless"
+    },
+    {
+      "group": "Type",
+      "value": "Over-ear headphones"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 0.6,
+  "width": 612,
+  "height": 899,
+  "length": 1018,
+  "ean": "2632194073560",
+  "manufacturerNumber": "MPN-NRBT9P1G",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 8DGD"
+  },
+  "manufacturerName": "Auralith",
+  "baseImagePrompt": "Wireless Headphones - Matte Black - Over-Ear",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Matte Black",
+        "Ivory",
+        "Navy",
+        "Dusty Rose"
+      ],
+      "priceModifiers": {
+        "Matte Black": 1,
+        "Ivory": 1,
+        "Navy": 1,
+        "Dusty Rose": 1
+      }
+    }
+  ],
+  "defaultColor": "Matte Black",
+  "variantColors": [
+    {
+      "name": "Matte Black",
+      "hex": "#1c1c1c",
+      "family": "black"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#fffff0",
+      "family": "white"
+    },
+    {
+      "name": "Navy",
+      "hex": "#1e3a5f",
+      "family": "blue"
+    },
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08081",
+      "family": "pink"
+    }
+  ]
+}

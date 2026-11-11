@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail photograph of a multicolor floral silk square scarf, showing the smooth fabric surface, vivid botanical print, and neatly finished edge, soft neutral background, no text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Multicolor floral silk square scarf folded neatly in elegant understated gift packaging with tissue paper, print clearly visible, refined e-commerce product styling, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Material",
+      "value": "Silk"
+    },
+    {
+      "group": "Pattern",
+      "value": "Floral"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 4.17,
+  "width": 1421,
+  "height": 63,
+  "length": 966,
+  "ean": "8230548522302",
+  "manufacturerNumber": "MPN-HWLMC11C",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch YN5U"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Silk Square Scarf - Multicolor - Floral Print"
+}

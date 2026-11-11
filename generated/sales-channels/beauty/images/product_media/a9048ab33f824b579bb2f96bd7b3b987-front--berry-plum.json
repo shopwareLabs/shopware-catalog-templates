@@ -1,0 +1,10 @@
+{
+  "productId": "a9048ab33f824b579bb2f96bd7b3b987",
+  "productName": "front--berry-plum",
+  "generatedAt": "2026-11-10T15:47:01.719Z",
+  "prompt": "Recolour the product to Berry Plum (#713b56). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "982d6ee951a5dfa4",
+  "shade": "Berry Plum",
+  "hex": "#713b56"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "6059e8d95b0942ad94f24cc6159c03d8",
+  "productName": "packaging--burgundy",
+  "generatedAt": "2026-11-10T15:45:23.793Z",
+  "prompt": "Recolour the product to Burgundy (#722f37). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "2b5ddde6f1c3990c",
+  "shade": "Burgundy",
+  "hex": "#722f37"
+}

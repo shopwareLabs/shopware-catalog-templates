@@ -1,0 +1,120 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a compact folding tripod instrument stand, product illustration and stand visible, photographed cleanly against a neutral studio background, no readable branding."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing product photograph of a black folding tripod instrument stand opened and ready for use, isolated on a white background, padded support points visible."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Black folding instrument stand holding a guitar in a tidy home practice room beside an amplifier, warm natural light, realistic music equipment scene."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Folding Tripod Stand"
+    },
+    {
+      "group": "Material",
+      "value": "Metal Frame"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 11.75,
+  "width": 1030,
+  "height": 138,
+  "length": 449,
+  "ean": "6888548542909",
+  "manufacturerNumber": "MPN-ZV4PN41C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 00RM"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Instrument Stand - Folding Tripod - Black, Metal Frame construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "White": 1,
+        "Red": 1,
+        "Blue": 1
+      }
+    },
+    {
+      "group": "Material",
+      "selectedOptions": [
+        "Nickel Wound",
+        "Coated Nickel",
+        "Titanium Wound"
+      ],
+      "priceModifiers": {
+        "Nickel Wound": 1,
+        "Coated Nickel": 1.2,
+        "Titanium Wound": 1.3
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc2626",
+      "family": "red"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    }
+  ]
+}

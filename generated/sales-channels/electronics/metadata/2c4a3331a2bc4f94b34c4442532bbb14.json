@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing olive rugged Android smartphone with a bright generic home screen, sturdy raised protective frame and reinforced corners visible, clean studio background, realistic electronics product photography, no logos or readable text."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of an olive rugged smartphone showing textured grip edges, reinforced frame and tactile side buttons, evenly lit neutral studio setting, realistic proportions, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Olive"
+    },
+    {
+      "group": "Storage",
+      "value": "128GB"
+    },
+    {
+      "group": "Operating System",
+      "value": "Android"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.57,
+  "width": 706,
+  "height": 818,
+  "length": 996,
+  "ean": "8719652562560",
+  "manufacturerNumber": "MPN-7RX9V714",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch 8DT3"
+  },
+  "manufacturerName": "Telyvra",
+  "baseImagePrompt": "Rugged Smartphone - Olive - 128GB"
+}

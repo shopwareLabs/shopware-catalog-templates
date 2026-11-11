@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-profile product image of a black 61-key portable digital keyboard, showing the slim body, keys, and control panel in a clean studio setting, soft even lighting, no stand, logos, or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Key Count",
+      "value": "61"
+    },
+    {
+      "group": "Type",
+      "value": "Portable Digital Keyboard"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.58,
+  "width": 1299,
+  "height": 999,
+  "length": 1437,
+  "ean": "1396792720271",
+  "manufacturerNumber": "MPN-Y2ZF71MK",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 1H77"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Digital Keyboard - Black - 61-Key Portable"
+}

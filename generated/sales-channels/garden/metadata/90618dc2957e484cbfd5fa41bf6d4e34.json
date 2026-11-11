@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Charcoal grey outdoor storage box with woven-effect exterior shown with its retail packaging, product clearly visible and accurately represented, clean studio ecommerce photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Material",
+      "value": "Weather-Resistant Resin"
+    },
+    {
+      "group": "Type",
+      "value": "Outdoor Storage Box"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.58,
+  "width": 589,
+  "height": 933,
+  "length": 196,
+  "ean": "3882768903604",
+  "manufacturerNumber": "MPN-A04V8F1O",
+  "maxPurchase": 10,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 1DRV"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Storage Box - Charcoal Grey - Woven Effect, Weather-Resistant Resin construction"
+}

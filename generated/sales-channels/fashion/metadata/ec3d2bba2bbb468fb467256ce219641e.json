@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Premium e-commerce studio photograph of a dark brown men’s leather belt arranged in a gentle curve, classic brushed metal buckle clearly visible, neutral warm-gray background, soft controlled lighting, realistic leather grain, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dark Brown"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Buckle",
+      "value": "Classic Metal"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.25,
+  "width": 1402,
+  "height": 478,
+  "length": 1396,
+  "ean": "8068889673953",
+  "manufacturerNumber": "MPN-9CMHCQ18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch U2VF"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Leather Belt - Dark Brown - Classic Buckle"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "bd551ed5327a41418f2689c4e782bb72",
+  "productName": "packaging--mint",
+  "generatedAt": "2026-11-10T15:49:36.235Z",
+  "prompt": "Recolour the product to Mint (#98d7b5). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "dc0b6b5d67cdd369",
+  "shade": "Mint",
+  "hex": "#98d7b5"
+}

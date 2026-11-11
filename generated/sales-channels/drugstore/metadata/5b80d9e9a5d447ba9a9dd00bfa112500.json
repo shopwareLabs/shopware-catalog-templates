@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product photo of a compact 50 ml roll-on deodorant placed on a clean bathroom shelf with a soft white towel, fresh bright lighting, subtle cotton-inspired styling, minimal uncluttered scene, realistic generic packaging."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Roll-On Deodorant"
+    },
+    {
+      "group": "Size",
+      "value": "50 ml"
+    },
+    {
+      "group": "Fragrance",
+      "value": "Fresh Cotton"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 15.43,
+  "width": 271,
+  "height": 304,
+  "length": 1576,
+  "ean": "9909941316045",
+  "manufacturerNumber": "MPN-IONA62IR",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch X32W"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Daily Roll-On Deodorant - Fresh Cotton - 50ml"
+}

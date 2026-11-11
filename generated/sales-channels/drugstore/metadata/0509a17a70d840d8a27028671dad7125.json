@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle ecommerce product photo of a 75 ml nourishing hand cream tube with a clean white package and subtle warm oat-beige accents, cap visible and tube profile clear, on a soft neutral backdrop, realistic lighting, no logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "75 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Hand Cream"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Oat & Shea"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 19.6,
+  "width": 746,
+  "height": 327,
+  "length": 1640,
+  "ean": "5426264243444",
+  "manufacturerNumber": "MPN-S8GXMK1K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 7R6S"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Nourishing Hand Cream - Oat & Shea - 75ml"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "3a23027e9ff74d968317d98c5b6262a7",
+  "productName": "packaging--amber",
+  "generatedAt": "2026-11-10T15:06:25.394Z",
+  "prompt": "Recolour the product to Amber (#ffbf00). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "2f16f65d9138b30e",
+  "shade": "Amber",
+  "hex": "#ffbf00"
+}

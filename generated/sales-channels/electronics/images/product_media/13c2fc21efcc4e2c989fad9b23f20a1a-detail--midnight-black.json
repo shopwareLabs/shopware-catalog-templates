@@ -1,0 +1,10 @@
+{
+  "productId": "13c2fc21efcc4e2c989fad9b23f20a1a",
+  "productName": "detail--midnight-black",
+  "generatedAt": "2026-11-10T15:05:43.497Z",
+  "prompt": "Recolour the product to Midnight Black (#0b0b0b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "509853f287c6c99a",
+  "shade": "Midnight Black",
+  "hex": "#0b0b0b"
+}

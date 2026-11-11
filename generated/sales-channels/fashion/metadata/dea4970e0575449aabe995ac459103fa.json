@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing studio product photograph of a delicate gold-tone chain necklace with a small smooth disc pendant, arranged symmetrically against a warm ivory background, crisp polished finish, soft shadows, no visible logo or text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle close-up of a person wearing a minimalist gold-tone disc pendant necklace with a simple neutral blouse, natural window light, understated contemporary styling, focus on necklace scale and finish, no branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Gold"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Style",
+      "value": "Pendant"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.75,
+  "width": 794,
+  "height": 24,
+  "length": 1692,
+  "ean": "8725929413565",
+  "manufacturerNumber": "MPN-RVI03G1G",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 4L2B"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Minimalist Pendant Necklace - Gold - Disc Charm, Metal construction"
+}

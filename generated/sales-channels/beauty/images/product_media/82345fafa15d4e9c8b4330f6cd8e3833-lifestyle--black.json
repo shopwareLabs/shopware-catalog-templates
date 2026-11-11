@@ -1,0 +1,10 @@
+{
+  "productId": "82345fafa15d4e9c8b4330f6cd8e3833",
+  "productName": "lifestyle--black",
+  "generatedAt": "2026-11-10T15:49:13.398Z",
+  "prompt": "Recolour the product to Black (#1a1a1a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "14aa38665a1f70f6",
+  "shade": "Black",
+  "hex": "#1a1a1a"
+}

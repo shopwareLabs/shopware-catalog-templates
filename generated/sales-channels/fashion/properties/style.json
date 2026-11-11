@@ -1,0 +1,23 @@
+{
+  "name": "Style",
+  "slug": "style",
+  "displayType": "text",
+  "options": [
+    "Classic Square",
+    "Round",
+    "Cat-Eye",
+    "Aviator",
+    "Wayfarer",
+    "Oversized"
+  ],
+  "priceModifiers": {
+    "Classic Square": 1,
+    "Round": 1,
+    "Cat-Eye": 1,
+    "Aviator": 1,
+    "Wayfarer": 1,
+    "Oversized": 1.1
+  },
+  "createdAt": "2026-11-10T14:58:25.539Z",
+  "source": "ai-generated"
+}

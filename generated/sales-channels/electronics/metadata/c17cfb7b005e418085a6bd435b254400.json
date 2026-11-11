@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of a silver 10.5-inch tablet showing its thin bezel, smooth metal-look edge, and touchscreen surface, crisp realistic electronics photography, neutral soft background, no logos or readable text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Silver 10.5-inch tablet used for reading on a bright comfortable sofa, screen displaying a generic book page with no legible text, natural window light, realistic lifestyle product photography, no brand marks."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Silver"
+    },
+    {
+      "group": "Screen Size",
+      "value": "10.5 inches"
+    },
+    {
+      "group": "Type",
+      "value": "Tablet"
+    },
+    {
+      "group": "Color family",
+      "value": "Silver"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.39,
+  "width": 1121,
+  "height": 562,
+  "length": 158,
+  "ean": "3272412822830",
+  "manufacturerNumber": "MPN-EB2QQ11O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch TIDC"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Tablet - 10.5-inch - Silver"
+}

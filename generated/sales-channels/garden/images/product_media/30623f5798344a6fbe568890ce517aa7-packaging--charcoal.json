@@ -1,0 +1,10 @@
+{
+  "productId": "30623f5798344a6fbe568890ce517aa7",
+  "productName": "packaging--charcoal",
+  "generatedAt": "2026-11-10T15:42:11.831Z",
+  "prompt": "Recolour the product to Charcoal (#36454f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "6b9b3f1416f93899",
+  "shade": "Charcoal",
+  "hex": "#36454f"
+}

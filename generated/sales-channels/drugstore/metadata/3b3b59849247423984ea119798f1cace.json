@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Catalog front view of a 250 ml nourishing conditioner bottle with a simple white package, soft cream and warm beige accents suggesting shea butter, crisp generic label, centered on a bright seamless background, no visible brand logo."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "250 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Rinse-Out Conditioner"
+    },
+    {
+      "group": "Key Ingredient",
+      "value": "Shea Butter"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.28,
+  "width": 1164,
+  "height": 496,
+  "length": 924,
+  "ean": "0797584921738",
+  "manufacturerNumber": "MPN-VN3XELTO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch OZ0C"
+  },
+  "manufacturerName": "Velmora",
+  "baseImagePrompt": "Nourishing Conditioner - Shea Butter - 250ml"
+}

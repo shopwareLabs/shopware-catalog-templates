@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Five-piece synthetic eye makeup brush set with coordinated rose gold-tone handles arranged neatly beside refined minimal retail packaging, multiple brush head shapes visible, bright neutral studio lighting, no readable text or logos."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of five rose gold-tone eye brushes arranged in a clean row, showing varied brush head sizes and soft synthetic bristles, pale blush background, premium beauty tool product photography, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Rose Gold"
+    },
+    {
+      "group": "Type",
+      "value": "Five-Piece Eye Brush Set"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 8.25,
+  "width": 1297,
+  "height": 757,
+  "length": 1949,
+  "ean": "4210803831763",
+  "manufacturerNumber": "MPN-DQDGVMB6",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch E3HR"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Essential Eye Brush Set - Rose Gold - Five Piece, Synthetic Bristles construction"
+}

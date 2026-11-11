@@ -1,0 +1,76 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Realistic studio product photograph of a 1-liter liquid fabric softener bottle labeled Lavender Breeze, elegant light purple and white packaging with a secure cap and clean readable generic label, front-facing on a white background, soft even lighting."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Bright, realistic laundry room scene with a bottle of Lavender Breeze fabric softener beside neatly folded towels and fresh linens, soft natural daylight, calm lavender accents, tidy home setting, product label visible, no people."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Lavender"
+    },
+    {
+      "group": "Size",
+      "value": "1 L"
+    },
+    {
+      "group": "Type",
+      "value": "Liquid Fabric Softener"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 10.71,
+  "width": 274,
+  "height": 655,
+  "length": 1788,
+  "ean": "0991750153736",
+  "manufacturerNumber": "MPN-JJJ32M1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch KF71"
+  },
+  "manufacturerName": "Citravelle",
+  "baseImagePrompt": "Fabric Softener - Lavender Breeze - 1 L",
+  "variantConfigs": [
+    {
+      "group": "Scent",
+      "selectedOptions": [
+        "Unscented",
+        "Citrus Breeze",
+        "Lavender"
+      ],
+      "priceModifiers": {
+        "Unscented": 1,
+        "Citrus Breeze": 1,
+        "Lavender": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "500ml",
+        "1L",
+        "750ml"
+      ],
+      "priceModifiers": {
+        "500ml": 1.5,
+        "1L": 2.5,
+        "750ml": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A woman wearing a dusty rose long-sleeve wrap midi dress at a bright, refined outdoor garden gathering, full-length view showing the defined waist and softly flowing skirt, natural daylight, contemporary fashion editorial photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Dusty Rose"
+    },
+    {
+      "group": "Material",
+      "value": "Viscose"
+    },
+    {
+      "group": "Sleeve Length",
+      "value": "Long Sleeve"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 23.83,
+  "width": 742,
+  "height": 328,
+  "length": 563,
+  "ean": "1633371362027",
+  "manufacturerNumber": "MPN-06ZUI71K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch NOHR"
+  },
+  "manufacturerName": "Cavelle Row",
+  "baseImagePrompt": "Wrap Midi Dress - Dusty Rose - Long Sleeve, Viscose construction"
+}

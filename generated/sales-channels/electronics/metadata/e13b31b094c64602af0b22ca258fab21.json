@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging for a compact black 2.4 GHz wireless computer mouse, clean modern electronics package design with a product illustration, neutral background, subtle generic icons, no readable brand names or promotional claims."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Connection",
+      "value": "2.4 GHz wireless"
+    },
+    {
+      "group": "Type",
+      "value": "Optical mouse"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 2.45,
+  "width": 237,
+  "height": 998,
+  "length": 1866,
+  "ean": "7357718148368",
+  "manufacturerNumber": "MPN-KLFTACLL",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch FUZ2"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Wireless Computer Mouse - 2.4 GHz - Black"
+}

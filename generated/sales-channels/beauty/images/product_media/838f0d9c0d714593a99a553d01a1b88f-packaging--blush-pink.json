@@ -1,0 +1,10 @@
+{
+  "productId": "838f0d9c0d714593a99a553d01a1b88f",
+  "productName": "packaging--blush-pink",
+  "generatedAt": "2026-11-10T15:49:42.955Z",
+  "prompt": "Recolour the product to Blush Pink (#e8a0a8). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "3a3cfd5d8034ab1b",
+  "shade": "Blush Pink",
+  "hex": "#e8a0a8"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle e-commerce photograph of a small box of flexible fabric adhesive bandages, showing a tidy product package and clear generic labeling, bright neutral studio surface, realistic proportions, soft shadows."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of one individually wrapped flexible fabric adhesive bandage beside its retail box, highlighting the woven fabric texture and adhesive strip without showing an injury, clean clinical lighting, neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Flexible fabric adhesive bandage"
+    },
+    {
+      "group": "Count",
+      "value": "30 bandages"
+    },
+    {
+      "group": "Size",
+      "value": "Assorted"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.62,
+  "width": 859,
+  "height": 963,
+  "length": 1203,
+  "ean": "4978099586117",
+  "manufacturerNumber": "MPN-F50Z7ET2",
+  "maxPurchase": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch K27O"
+  },
+  "manufacturerName": "Bandarae",
+  "baseImagePrompt": "Flexible Fabric Bandages - Assorted Sizes - 30 Count"
+}

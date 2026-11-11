@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on premium product photograph of a 150ml gentle cream cleanser tube with minimal ivory-and-sage label, clean modern skincare typography, softly lit pale background, realistic packaging and sharp focus."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Key Ingredient",
+      "value": "Oat Extract"
+    },
+    {
+      "group": "Skin Concern",
+      "value": "Sensitive Feel"
+    },
+    {
+      "group": "Size",
+      "value": "150ml"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.95,
+  "width": 1438,
+  "height": 1095,
+  "length": 1708,
+  "ean": "7490603628993",
+  "manufacturerNumber": "MPN-614MC468",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch TM7Y"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Gentle Cream Cleanser - Oat Extract - 150ml"
+}

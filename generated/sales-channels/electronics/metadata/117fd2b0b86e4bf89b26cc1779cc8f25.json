@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail package for a compact black 1TB USB-C external solid-state drive, small drive pictured clearly on minimal charcoal-and-white packaging, generic storage icons, no readable brand names, studio lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Storage Capacity",
+      "value": "1 TB"
+    },
+    {
+      "group": "Interface",
+      "value": "USB-C"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 19.46,
+  "width": 770,
+  "height": 565,
+  "length": 440,
+  "ean": "8234310571369",
+  "manufacturerNumber": "MPN-HKMZXS31",
+  "maxPurchase": 10,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 27PT"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "USB-C External SSD - 1TB - Compact Portable, Black finish"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "A compact lavender silicone makeup brush cleaning pad displayed with neat minimal retail packaging, clearly showing the textured cleaning surface, clean white studio backdrop, premium beauty accessory product photography, no legible text or brand marks."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Lavender"
+    },
+    {
+      "group": "Material",
+      "value": "Silicone"
+    },
+    {
+      "group": "Type",
+      "value": "Brush Cleaning Pad"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 15.24,
+  "width": 964,
+  "height": 1105,
+  "length": 331,
+  "ean": "9270748431294",
+  "manufacturerNumber": "MPN-CTLUAM4R",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch 7YB5"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Compact Brush Cleaning Pad - Lavender - Textured Silicone"
+}

@@ -1,0 +1,48 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle product photo of a beginner piano method book, showing its neatly stacked pages and clean illustrated cover, on a bright music practice desk; realistic print texture, no extra props obscuring the book."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "A beginner student practicing piano with an open illustrated method book on the music stand, hands at the keyboard, warm natural daylight, welcoming home lesson setting, realistic editorial photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Piano Method Book"
+    },
+    {
+      "group": "Level",
+      "value": "Beginner"
+    },
+    {
+      "group": "Format",
+      "value": "Illustrated Lessons"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 1.86,
+  "width": 541,
+  "height": 990,
+  "length": 1571,
+  "ean": "7487902847194",
+  "manufacturerNumber": "MPN-E0GVC1Q2",
+  "maxPurchase": 20,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch TP29"
+  },
+  "manufacturerName": "Notewick Editions",
+  "baseImagePrompt": "Piano Method Book - Beginner Level - Illustrated Lessons"
+}

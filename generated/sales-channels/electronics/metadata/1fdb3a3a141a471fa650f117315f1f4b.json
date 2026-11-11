@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up product image of a charcoal ergonomic wireless computer mouse, highlighting the scroll wheel, click buttons, and smooth contoured shell, soft studio lighting, neutral background."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a charcoal wireless ergonomic mouse showing its curved hand-supporting profile, isolated on a clean white background, realistic e-commerce product photography."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Charcoal ergonomic wireless mouse beside a laptop on a neat modern desk, a hand comfortably using the mouse, natural light, realistic home office scene."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Charcoal"
+    },
+    {
+      "group": "Connection",
+      "value": "Wireless"
+    },
+    {
+      "group": "Type",
+      "value": "Ergonomic Mouse"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": true,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.52,
+  "width": 1202,
+  "height": 640,
+  "length": 1357,
+  "ean": "3935364413081",
+  "manufacturerNumber": "MPN-4X980G1C",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch BZOQ"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Wireless Computer Mouse - Ergonomic Shape - Charcoal"
+}

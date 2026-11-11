@@ -1,0 +1,66 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lifestyle product image of citrus electrolyte drink mix sachets arranged beside a clear glass of pale citrus-colored water on a bright kitchen counter, fresh everyday hydration mood, no health claims, natural daylight."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a slim box of single-serve citrus electrolyte powder sachets, accurate retail packaging proportions, clean generic label, white studio background, crisp commercial lighting."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Straight-on packaging image of a box of citrus electrolyte hydration powder with individual sachet illustration and simple readable generic labeling, isolated on a neutral background, realistic e-commerce photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Electrolyte drink mix"
+    },
+    {
+      "group": "Flavor",
+      "value": "Citrus"
+    },
+    {
+      "group": "Count",
+      "value": "10 sachets"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 18.54,
+  "width": 700,
+  "height": 58,
+  "length": 1234,
+  "ean": "8122540831981",
+  "manufacturerNumber": "MPN-Z02WTML8",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch OL0Y"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Electrolyte Hydration Powder - Citrus Flavor - 10 Sachets",
+  "variantConfigs": [
+    {
+      "group": "Flavor",
+      "selectedOptions": [
+        "Lemon Lime",
+        "Tropical",
+        "Berry"
+      ],
+      "priceModifiers": {
+        "Lemon Lime": 1,
+        "Tropical": 1,
+        "Berry": 1
+      }
+    }
+  ]
+}

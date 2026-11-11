@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a compact four-piece clear travel container set arranged in a neat row, showing varied container shapes and secure closures, bright studio background, clean premium beauty travel accessory photography, no labels or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Size",
+      "value": "4 Piece"
+    },
+    {
+      "group": "Material",
+      "value": "Reusable Plastic"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 22.07,
+  "width": 1052,
+  "height": 547,
+  "length": 569,
+  "ean": "7218990112853",
+  "manufacturerNumber": "MPN-AN93U1YI",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch LHMK"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Travel Container Set - Clear - 4 Piece, Reusable Plastic construction"
+}

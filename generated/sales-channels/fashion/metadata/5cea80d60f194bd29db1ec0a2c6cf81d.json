@@ -1,0 +1,116 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front product view of men's deep-indigo straight-leg jeans laid flat or shown on an invisible mannequin, clearly displaying classic five-pocket construction, waistband, button closure, and straight silhouette; neutral studio background, realistic e-commerce photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of men's indigo straight-leg denim jeans showing the clean straight cut from hip to hem, subtle seams, and authentic denim texture; simple pale background, accurate proportions, realistic apparel product photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of deep-indigo men's jeans showing denim weave, contrast stitching, belt loop, button closure, and pocket construction; crisp realistic product photography with balanced studio lighting."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Indigo"
+    },
+    {
+      "group": "Material",
+      "value": "Denim"
+    },
+    {
+      "group": "Type",
+      "value": "Straight-Leg Jeans"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.84,
+  "width": 196,
+  "height": 1044,
+  "length": 1241,
+  "ean": "2829632204987",
+  "manufacturerNumber": "MPN-FV5TIU1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch 0XT7"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Straight-Leg Jeans - Indigo - Classic Denim",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Indigo",
+        "Black",
+        "Light Blue",
+        "Washed Gray"
+      ],
+      "priceModifiers": {
+        "Indigo": 1,
+        "Black": 1,
+        "Light Blue": 1,
+        "Washed Gray": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "XXXL",
+        "L",
+        "XL"
+      ],
+      "priceModifiers": {
+        "XXXL": 1,
+        "L": 1,
+        "XL": 1
+      }
+    }
+  ],
+  "defaultColor": "Indigo",
+  "variantColors": [
+    {
+      "name": "Indigo",
+      "hex": "#2e3a87",
+      "family": "blue"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Light Blue",
+      "hex": "#add8e6",
+      "family": "blue"
+    },
+    {
+      "name": "Washed Gray",
+      "hex": "#a7a9ac",
+      "family": "gray"
+    }
+  ]
+}

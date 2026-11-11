@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Photorealistic garden lifestyle image of a climbing rose with deep pink blooms growing against a simple wooden trellis in a lush home garden, natural daylight, realistic foliage and flowers, no text or labels."
+    },
+    {
+      "view": "front",
+      "prompt": "Clean front-facing product photograph of a young climbing rose plant in a 2-litre nursery pot, healthy green leaves and several deep pink rose blooms, isolated against a soft neutral background, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Deep Pink"
+    },
+    {
+      "group": "Size",
+      "value": "2 Litre Pot"
+    },
+    {
+      "group": "Type",
+      "value": "Climbing Rose"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.97,
+  "width": 688,
+  "height": 870,
+  "length": 1954,
+  "ean": "8809441568825",
+  "manufacturerNumber": "MPN-D7NURAFG",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch Q3BE"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Climbing Rose Plant - Deep Pink - 2 Litre Pot"
+}

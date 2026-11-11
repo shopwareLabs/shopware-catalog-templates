@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side-view studio image of a 60 cm matte black long-reach garden watering wand, full product visible with angled watering head, ergonomic grip and hose connection, isolated on a bright neutral background, crisp details, no branding or text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Length",
+      "value": "60 cm"
+    },
+    {
+      "group": "Material",
+      "value": "Aluminum and ABS"
+    },
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.25,
+  "width": 1442,
+  "height": 601,
+  "length": 1111,
+  "ean": "0052699782972",
+  "manufacturerNumber": "MPN-P5FNMB10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch YOVV"
+  },
+  "manufacturerName": "Sprigstream",
+  "baseImagePrompt": "Long-Reach Watering Wand - 60 cm - Matte Black, Aluminum and ABS construction"
+}

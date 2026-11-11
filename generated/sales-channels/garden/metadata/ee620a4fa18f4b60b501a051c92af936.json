@@ -1,0 +1,48 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic ecommerce image of a vegetable seed starter kit package featuring six varieties for a home kitchen garden, tasteful vegetable illustrations and clear kit presentation, upright on a clean neutral background, no loose products."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Vegetable seed kit"
+    },
+    {
+      "group": "Varieties",
+      "value": "6 varieties"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 12.15,
+  "width": 1237,
+  "height": 693,
+  "length": 1256,
+  "ean": "1142626353098",
+  "manufacturerNumber": "MPN-IOKEHM1C",
+  "maxPurchase": 10,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch XF4O"
+  },
+  "manufacturerName": "Cedarroot",
+  "baseImagePrompt": "Vegetable Seed Starter Kit - Kitchen Garden - 6 Varieties, Multicolor finish"
+}

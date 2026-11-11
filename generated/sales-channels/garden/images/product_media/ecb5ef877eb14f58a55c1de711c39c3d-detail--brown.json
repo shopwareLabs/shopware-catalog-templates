@@ -1,0 +1,10 @@
+{
+  "productId": "ecb5ef877eb14f58a55c1de711c39c3d",
+  "productName": "detail--brown",
+  "generatedAt": "2026-11-10T15:45:25.419Z",
+  "prompt": "Recolour the product to Brown (#78350f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "c8c90d492ab3ddfb",
+  "shade": "Brown",
+  "hex": "#78350f"
+}

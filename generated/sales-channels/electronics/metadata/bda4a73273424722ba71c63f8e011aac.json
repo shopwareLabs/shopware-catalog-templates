@@ -1,0 +1,56 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Realistic retail packaging for a slim slate gray 14-inch everyday laptop, clean consumer electronics box design, product image visible on the front, neutral studio lighting, no legible brand logos or promotional text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Slate gray 14-inch everyday laptop open on a tidy home desk beside a notebook and coffee, screen showing a generic calendar and document interface, natural window light, realistic consumer electronics photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a slim slate gray 14-inch laptop, clearly showing its thin chassis and understated ports, isolated on a light neutral background, realistic product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Screen Size",
+      "value": "14 in"
+    },
+    {
+      "group": "Color",
+      "value": "Slate Gray"
+    },
+    {
+      "group": "Type",
+      "value": "Everyday Laptop"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": true,
+  "salePercentage": 0.3,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 17.46,
+  "width": 757,
+  "height": 337,
+  "length": 462,
+  "ean": "0264492573958",
+  "manufacturerNumber": "MPN-1PTE2Q1K",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch Q08O"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Everyday Laptop - 14-Inch Display - Slate Gray"
+}

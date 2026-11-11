@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Clear refillable travel containers arranged beside a neatly packed beauty toiletry bag on a bathroom counter, bright natural light, clean modern travel beauty lifestyle photography."
+    },
+    {
+      "view": "side",
+      "prompt": "Side view of a compact set of clear refillable travel bottles and containers, closures visible and forms neatly aligned, neutral studio background with crisp e-commerce lighting."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Transparent"
+    },
+    {
+      "group": "Type",
+      "value": "Refillable Travel Containers"
+    },
+    {
+      "group": "Size",
+      "value": "Travel Size"
+    },
+    {
+      "group": "Color family",
+      "value": "Transparent"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 12.68,
+  "width": 1493,
+  "height": 361,
+  "length": 603,
+  "ean": "0330072524921",
+  "manufacturerNumber": "MPN-3OBYBY1W",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch 0JJK"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Travel Bottle Set - Clear - Refillable"
+}

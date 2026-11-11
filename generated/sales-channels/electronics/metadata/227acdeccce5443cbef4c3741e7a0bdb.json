@@ -1,0 +1,103 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a graphite ergonomic wireless computer mouse, showing a clear product illustration on a neat electronics box with restrained generic design, front-facing package on a white studio background, no logos or readable text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Graphite ergonomic wireless computer mouse beside a laptop on a tidy modern desk, a hand using it naturally, warm daylight, realistic home-office lifestyle photography, no visible brand logos or readable text."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Graphite"
+    },
+    {
+      "group": "Type",
+      "value": "Wireless Mouse"
+    },
+    {
+      "group": "Connection",
+      "value": "Wireless"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "White"
+    },
+    {
+      "group": "Color family",
+      "value": "Gray"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 15.83,
+  "width": 763,
+  "height": 379,
+  "length": 1397,
+  "ean": "3964919091290",
+  "manufacturerNumber": "MPN-WRHOKVWH",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch VDK2"
+  },
+  "manufacturerName": "Veltrion",
+  "baseImagePrompt": "Wireless Computer Mouse - Graphite - Ergonomic",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Graphite",
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "priceModifiers": {
+        "Graphite": 1,
+        "Black": 1,
+        "White": 1,
+        "Blue": 1
+      }
+    }
+  ],
+  "defaultColor": "Graphite",
+  "variantColors": [
+    {
+      "name": "Graphite",
+      "hex": "#383838",
+      "family": "gray"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff",
+      "family": "white"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    }
+  ]
+}

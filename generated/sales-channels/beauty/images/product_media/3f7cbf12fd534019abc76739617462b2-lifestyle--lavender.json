@@ -1,0 +1,10 @@
+{
+  "productId": "3f7cbf12fd534019abc76739617462b2",
+  "productName": "lifestyle--lavender",
+  "generatedAt": "2026-11-10T15:48:58.050Z",
+  "prompt": "Recolour the product to Lavender (#b57edc). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "936074983bc9af77",
+  "shade": "Lavender",
+  "hex": "#b57edc"
+}

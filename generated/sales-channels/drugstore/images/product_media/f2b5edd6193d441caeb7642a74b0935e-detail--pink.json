@@ -1,0 +1,10 @@
+{
+  "productId": "f2b5edd6193d441caeb7642a74b0935e",
+  "productName": "detail--pink",
+  "generatedAt": "2026-11-10T15:05:42.375Z",
+  "prompt": "Recolour the product to Pink (#ec4899). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "96ec7939b05d51fb",
+  "shade": "Pink",
+  "hex": "#ec4899"
+}

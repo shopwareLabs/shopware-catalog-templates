@@ -1,0 +1,10 @@
+{
+  "productId": "eb8d24de2cee4f3aa46f769e97d03f7e",
+  "productName": "side--rose-gold",
+  "generatedAt": "2026-11-10T15:04:39.400Z",
+  "prompt": "Recolour the product to Rose Gold (#b76e79). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "87047642c86ab587",
+  "shade": "Rose Gold",
+  "hex": "#b76e79"
+}

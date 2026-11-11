@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-view e-commerce photograph of a compact digital oral thermometer with flexible tip and clear display, clean white background, realistic scale, screen visible but without a specific temperature reading."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Straight-on retail package image for a digital oral thermometer with flexible tip, generic readable product labeling and a simple product illustration, bright neutral background, crisp drugstore product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Type",
+      "value": "Digital oral thermometer"
+    },
+    {
+      "group": "Display",
+      "value": "Digital screen"
+    },
+    {
+      "group": "Tip",
+      "value": "Flexible"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 10.01,
+  "width": 1416,
+  "height": 266,
+  "length": 525,
+  "ean": "1200079698507",
+  "manufacturerNumber": "MPN-C8UB1G8N",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch NV1K"
+  },
+  "manufacturerName": "Bandarae",
+  "baseImagePrompt": "Digital Oral Thermometer - Flexible Tip - Clear Display"
+}

@@ -1,0 +1,108 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Photorealistic side-angle studio image of a forest green woven cotton guitar strap laid in a loose curve, showing its adjustable slider and reinforced end tabs, clean light background, no text or logos."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Photorealistic retail packaging presentation for a forest green woven cotton guitar strap, strap neatly folded with its texture and end tabs visible through a simple clear-front package, minimal unbranded design, no readable text or logos."
+    },
+    {
+      "view": "front",
+      "prompt": "Photorealistic front product image of a forest green woven cotton guitar strap displayed fully extended against a pale neutral background, clear view of the adjustable length and attachment ends, soft even studio lighting, no text or logos."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Forest Green"
+    },
+    {
+      "group": "Material",
+      "value": "Woven Cotton"
+    },
+    {
+      "group": "Type",
+      "value": "Adjustable Guitar Strap"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": true,
+  "salePercentage": 0.25,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.52,
+  "width": 623,
+  "height": 1068,
+  "length": 634,
+  "ean": "4433801121388",
+  "manufacturerNumber": "MPN-XQI11KB9",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch UYO2"
+  },
+  "manufacturerName": "Tuneridge Works",
+  "baseImagePrompt": "Guitar Strap - Woven Cotton - Forest Green",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Forest Green",
+        "Midnight",
+        "Burgundy",
+        "Natural Tan"
+      ],
+      "priceModifiers": {
+        "Forest Green": 1,
+        "Midnight": 1,
+        "Burgundy": 1,
+        "Natural Tan": 1
+      }
+    }
+  ],
+  "defaultColor": "Forest Green",
+  "variantColors": [
+    {
+      "name": "Forest Green",
+      "hex": "#228b22",
+      "family": "green"
+    },
+    {
+      "name": "Midnight",
+      "hex": "#191970",
+      "family": "blue"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    },
+    {
+      "name": "Natural Tan",
+      "hex": "#c79b6b",
+      "family": "beige"
+    }
+  ]
+}

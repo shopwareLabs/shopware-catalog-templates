@@ -1,0 +1,57 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of an open pressed eyeshadow palette showing coordinated warm sunset neutral pans in light beige, terracotta, and deep brown, crisp realistic powder texture, premium cosmetics photography, no readable labels."
+    },
+    {
+      "view": "side",
+      "prompt": "Slim closed eyeshadow palette photographed from a slightly angled side view, refined neutral casing with subtle premium detailing, clean studio background, soft natural shadows, no legible text."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Warm editorial makeup scene with an open sunset-neutral eyeshadow palette beside a brush and a softly made-up eye, flattering golden daylight, polished premium beauty campaign, uncluttered composition."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Finish",
+      "value": "Soft Matte"
+    },
+    {
+      "group": "Type",
+      "value": "Pressed Eyeshadow"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 22.53,
+  "width": 203,
+  "height": 618,
+  "length": 148,
+  "ean": "9766736124267",
+  "manufacturerNumber": "MPN-ALEBQX1G",
+  "maxPurchase": 10,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch H8ER"
+  },
+  "manufacturerName": "Lunessa Color",
+  "baseImagePrompt": "Pressed Eyeshadow Palette - Sunset Neutrals - Soft Matte, Multicolor finish"
+}

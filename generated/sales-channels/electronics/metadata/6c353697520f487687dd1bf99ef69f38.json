@@ -1,0 +1,43 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Retail packaging for a compact portable 1TB external SSD, with a small sleek drive pictured prominently and a clean generic technology design, front-facing on a neutral studio background, no logos or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Capacity",
+      "value": "1TB"
+    },
+    {
+      "group": "Type",
+      "value": "External SSD"
+    },
+    {
+      "group": "Form Factor",
+      "value": "Portable"
+    }
+  ],
+  "reviewCount": 3,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.07,
+  "width": 256,
+  "height": 301,
+  "length": 104,
+  "ean": "9624790990924",
+  "manufacturerNumber": "MPN-SY60EGCS",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch FFMA"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "External SSD - 1TB - Portable"
+}

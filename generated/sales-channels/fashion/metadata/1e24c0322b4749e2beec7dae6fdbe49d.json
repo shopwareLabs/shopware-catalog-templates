@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Close-up of a slim cognac leather men's card holder showing smooth leather grain, neatly finished edges, card slots, and compact profile; warm neutral studio lighting, realistic premium product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Cognac"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Card Holder"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 0.33,
+  "width": 420,
+  "height": 1080,
+  "length": 313,
+  "ean": "3079020746424",
+  "manufacturerNumber": "MPN-MU1YR7AY",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch TXDA"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Leather Card Holder - Cognac - Slim Profile"
+}

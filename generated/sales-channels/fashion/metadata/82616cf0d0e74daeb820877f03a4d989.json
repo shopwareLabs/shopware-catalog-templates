@@ -1,0 +1,110 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-profile product image of women's black leather ankle boots with a low block heel, rounded toe, clean stitching, and side fastening; neutral studio background, soft even lighting, accurate proportions."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Heel Height",
+      "value": "Low block heel"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    },
+    {
+      "group": "Color family",
+      "value": "Red"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 2.87,
+  "width": 1086,
+  "height": 1119,
+  "length": 89,
+  "ean": "4112547862358",
+  "manufacturerNumber": "MPN-ZAAADBP5",
+  "minPurchase": 5,
+  "purchaseSteps": 5,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2022,
+    "cg_internal_note": "Demo batch 4W21"
+  },
+  "manufacturerName": "Velmora Atelier",
+  "baseImagePrompt": "Leather Ankle Boots - Black - Block Heel",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Black",
+        "Dark Brown",
+        "Burgundy",
+        "Taupe"
+      ],
+      "priceModifiers": {
+        "Black": 1,
+        "Dark Brown": 1,
+        "Burgundy": 1,
+        "Taupe": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "M",
+        "XS",
+        "XXXL"
+      ],
+      "priceModifiers": {
+        "M": 1,
+        "XS": 1,
+        "XXXL": 1
+      }
+    }
+  ],
+  "defaultColor": "Black",
+  "variantColors": [
+    {
+      "name": "Black",
+      "hex": "#1a1a1a",
+      "family": "black"
+    },
+    {
+      "name": "Dark Brown",
+      "hex": "#4b2e23",
+      "family": "brown"
+    },
+    {
+      "name": "Burgundy",
+      "hex": "#722f37",
+      "family": "red"
+    },
+    {
+      "name": "Taupe",
+      "hex": "#8b7d6b",
+      "family": "brown"
+    }
+  ]
+}

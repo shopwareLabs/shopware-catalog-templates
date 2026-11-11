@@ -1,0 +1,10 @@
+{
+  "productId": "d8b1d48dd343424ba56ffe4e8c69e8fd",
+  "productName": "packaging--berry",
+  "generatedAt": "2026-11-10T15:47:28.641Z",
+  "prompt": "Recolour the product to Berry (#8a214f). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "b76e112e5a7d4351",
+  "shade": "Berry",
+  "hex": "#8a214f"
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a compact 150 ml hair styling gel tube with a secure flip cap and clean black-and-blue generic label, photographed against a light neutral background with realistic soft shadows."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Hair styling gel placed on a bathroom counter beside a comb and neatly folded towel, subtle grooming setting, natural window light, clean realistic e-commerce lifestyle photo."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Size",
+      "value": "150ml"
+    },
+    {
+      "group": "Hold",
+      "value": "Flexible"
+    },
+    {
+      "group": "Finish",
+      "value": "Natural"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.71,
+  "width": 282,
+  "height": 977,
+  "length": 274,
+  "ean": "9967475513873",
+  "manufacturerNumber": "MPN-U7FU6G14",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch DA1D"
+  },
+  "manufacturerName": "Silkavelle",
+  "baseImagePrompt": "Flexible Hold Hair Styling Gel - Natural Finish - 150ml"
+}

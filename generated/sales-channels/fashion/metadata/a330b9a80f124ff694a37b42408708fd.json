@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side-angle close-up product photograph of a chestnut-brown woven leather bracelet with a discreet magnetic clasp, arranged in a gentle oval on a neutral matte surface, realistic braided texture and soft studio shadows."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Chestnut"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Woven Bracelet"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.77,
+  "width": 864,
+  "height": 178,
+  "length": 1184,
+  "ean": "1108280443872",
+  "manufacturerNumber": "MPN-UT2LWK10",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch TK3N"
+  },
+  "manufacturerName": "Brelwick Leather",
+  "baseImagePrompt": "Woven Leather Bracelet - Chestnut - Magnetic Clasp"
+}

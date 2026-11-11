@@ -1,0 +1,52 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of an eight-piece makeup brush set with coordinated rose-gold handles and neatly shaped soft bristles, arranged in a clean premium beauty product photograph on a light neutral background."
+    },
+    {
+      "view": "packaging",
+      "prompt": "The eight-piece rose-gold makeup brush set displayed with its elegant retail packaging, brushes visible and aligned neatly, bright studio lighting, refined beauty-store product photography."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Rose Gold"
+    },
+    {
+      "group": "Size",
+      "value": "8-Piece"
+    },
+    {
+      "group": "Type",
+      "value": "Brush Set"
+    },
+    {
+      "group": "Color family",
+      "value": "Gold"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.2,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 16.79,
+  "width": 759,
+  "height": 772,
+  "length": 604,
+  "ean": "9606604713042",
+  "manufacturerNumber": "MPN-KY1RHG1W",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch JCEB"
+  },
+  "manufacturerName": "Mirelle Tools",
+  "baseImagePrompt": "Makeup Brush Set - Rose Gold - 8-Piece"
+}

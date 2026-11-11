@@ -1,0 +1,10 @@
+{
+  "productId": "9fd04be496f34e2ba49c0650905082bb",
+  "productName": "lifestyle--mauve",
+  "generatedAt": "2026-11-10T15:04:56.340Z",
+  "prompt": "Recolour the product to Mauve (#b784a7). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "e69bc1f3c01a7af8",
+  "shade": "Mauve",
+  "hex": "#b784a7"
+}

@@ -1,0 +1,10 @@
+{
+  "productId": "eb6758f7888141f9a6f44215a8a0c0a6",
+  "productName": "front--sand",
+  "generatedAt": "2026-11-10T15:06:43.669Z",
+  "prompt": "Recolour the product to Sand (#c2b280). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "957f7738abc35af8",
+  "shade": "Sand",
+  "hex": "#c2b280"
+}

@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Natural teak rectangular outdoor dining table represented in a tidy retail packaging presentation, product clearly identifiable, neutral studio background, realistic e-commerce imagery without added text."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close detail of the natural teak table top showing the wood grain, neat joints, and smooth finished surface; realistic material rendering and soft daylight."
+    },
+    {
+      "view": "side",
+      "prompt": "Side profile of a rectangular natural teak garden dining table showing its legs and tabletop proportions, isolated in a bright neutral studio, accurate realistic product photograph."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural Teak"
+    },
+    {
+      "group": "Material",
+      "value": "Teak Wood"
+    },
+    {
+      "group": "Type",
+      "value": "Rectangular Dining Table"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.32,
+  "width": 917,
+  "height": 416,
+  "length": 1728,
+  "ean": "1307003338154",
+  "manufacturerNumber": "MPN-YRA9I5MF",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch PU75"
+  },
+  "manufacturerName": "Alderweave",
+  "baseImagePrompt": "Outdoor Dining Table - Natural Teak - Rectangular, Teak Wood construction"
+}

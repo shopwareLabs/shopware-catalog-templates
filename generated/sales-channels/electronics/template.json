@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "name": "electronics",
+  "description": "Discover the latest consumer electronics for work, play and everyday life at electronics. Shop smartphones, laptops, headphones, TVs, smart home devices, gaming gear and practical accessories, with options to suit a range of needs and budgets.",
+  "createdAt": "2026-11-11T10:27:38.277Z",
+  "generator": {
+    "version": "2.0.0",
+    "commit": "1b5ca46"
+  },
+  "content": {
+    "products": 90,
+    "categories": 70,
+    "languages": [
+      "en",
+      "de-DE"
+    ],
+    "variantProducts": 27,
+    "variants": {
+      "colors": 4,
+      "options": 3,
+      "maxVariants": 24,
+      "share": 0.3
+    }
+  },
+  "steps": {
+    "hydrate": {
+      "at": "2026-11-10T15:08:43.318Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "cca1009"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      },
+      "image": {
+        "provider": "openai",
+        "model": "gpt-image-2.5-flare",
+        "quality": "medium"
+      }
+    },
+    "translate:de-DE": {
+      "at": "2026-11-11T08:25:09.784Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:prices": {
+      "at": "2026-11-11T08:15:42.387Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "f05adf0"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:names": {
+      "at": "2026-11-11T08:09:35.599Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    },
+    "hydrate:manufacturers": {
+      "at": "2026-11-11T08:09:37.495Z",
+      "generator": {
+        "version": "2.0.0",
+        "commit": "939723e"
+      },
+      "text": {
+        "provider": "openai",
+        "model": "gpt-6-luna"
+      }
+    }
+  },
+  "testedOn": [
+    {
+      "lane": "65",
+      "shopwareVersion": "6.5.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "66",
+      "shopwareVersion": "6.6.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "67",
+      "shopwareVersion": "6.7.16.0",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "68",
+      "shopwareVersion": "6.7.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    },
+    {
+      "lane": "trunk",
+      "shopwareVersion": "6.7.9999999.9999999-dev",
+      "passed": true,
+      "testedAt": "2026-11-11"
+    }
+  ],
+  "models": {
+    "text": {
+      "provider": "openai",
+      "model": "gpt-6-luna"
+    },
+    "image": {
+      "provider": "openai",
+      "model": "gpt-image-2.5-flare",
+      "quality": "medium"
+    }
+  }
+}

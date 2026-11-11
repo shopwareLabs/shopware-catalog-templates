@@ -1,0 +1,113 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing ecommerce photograph of a medium reusable blue hot and cold gel pack, smooth flexible pouch with simple neutral packaging, centered on a clean white background, realistic product texture and soft studio lighting, no therapeutic claims."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Blue"
+    },
+    {
+      "group": "Size",
+      "value": "Medium"
+    },
+    {
+      "group": "Type",
+      "value": "Reusable hot and cold pack"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    },
+    {
+      "group": "Color family",
+      "value": "Pink"
+    }
+  ],
+  "reviewCount": 0,
+  "hasSalesPrice": true,
+  "salePercentage": 0.1,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 20.88,
+  "width": 407,
+  "height": 423,
+  "length": 662,
+  "ean": "1655859331806",
+  "manufacturerNumber": "MPN-S55K5M86",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch NQFP"
+  },
+  "manufacturerName": "Thermelle",
+  "baseImagePrompt": "Reusable Hot and Cold Pack - Blue - Medium",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Blue",
+        "Pink",
+        "Green",
+        "Purple"
+      ],
+      "priceModifiers": {
+        "Blue": 1,
+        "Pink": 1,
+        "Green": 1,
+        "Purple": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Small",
+        "Large",
+        "Extra Small"
+      ],
+      "priceModifiers": {
+        "Small": 0.9,
+        "Large": 1.1,
+        "Extra Small": 0.8
+      }
+    }
+  ],
+  "defaultColor": "Blue",
+  "variantColors": [
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Pink",
+      "hex": "#ec4899",
+      "family": "pink"
+    },
+    {
+      "name": "Green",
+      "hex": "#16a34a",
+      "family": "green"
+    },
+    {
+      "name": "Purple",
+      "hex": "#9333ea",
+      "family": "purple"
+    }
+  ]
+}

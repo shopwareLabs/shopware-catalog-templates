@@ -1,0 +1,51 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front-facing product photo of a 650 ml bathroom cleaner trigger spray bottle with a fresh blue-and-white Ocean Fresh generic label, clean readable packaging, isolated on a white background, studio lighting."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Realistic packaging-focused image of a 650 ml Ocean Fresh bathroom cleaner bottle, blue trigger nozzle and crisp water-inspired label graphics, upright and centered, plain bright background, no additional items."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Bathroom cleaning scene with an Ocean Fresh spray cleaner beside a sparkling sink and neatly folded white hand towel, cool blue accents and soft daylight, clean contemporary bathroom, bottle label facing camera."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Scent",
+      "value": "Ocean Fresh"
+    },
+    {
+      "group": "Size",
+      "value": "650 ml"
+    },
+    {
+      "group": "Type",
+      "value": "Ready-to-Use Spray"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 21.8,
+  "width": 742,
+  "height": 659,
+  "length": 535,
+  "ean": "4453290883192",
+  "manufacturerNumber": "MPN-X8UL6S1K",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2019,
+    "cg_internal_note": "Demo batch 6A07"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Bathroom Cleaner - Ocean Fresh - 650 ml"
+}

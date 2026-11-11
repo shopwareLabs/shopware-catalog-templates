@@ -1,0 +1,10 @@
+{
+  "productId": "8340425b2288448d8a9c8b29249418ad",
+  "productName": "front--transparent",
+  "generatedAt": "2026-11-10T15:06:44.423Z",
+  "prompt": "Recolour the product to Transparent (#f5f5f5). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "68922993433389ad",
+  "shade": "Transparent",
+  "hex": "#f5f5f5"
+}

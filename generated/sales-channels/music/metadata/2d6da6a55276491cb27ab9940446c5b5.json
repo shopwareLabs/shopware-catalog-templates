@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "A natural spruce-top dreadnought acoustic guitar resting beside a music stand in a warmly lit home practice space, realistic instrument proportions and visible wood grain, inviting musician lifestyle photography, no text or logos."
+    },
+    {
+      "view": "detail",
+      "prompt": "Close-up detail of the acoustic guitar's natural spruce top, sound hole, bridge, and strings, crisp wood grain and realistic construction, neutral studio lighting, no text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Natural"
+    },
+    {
+      "group": "Type",
+      "value": "Dreadnought"
+    },
+    {
+      "group": "Material",
+      "value": "Spruce"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 6.26,
+  "width": 900,
+  "height": 1113,
+  "length": 1643,
+  "ean": "3619844732854",
+  "manufacturerNumber": "MPN-EPQP931O",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch PLFF"
+  },
+  "manufacturerName": "Cedarva Resonance",
+  "baseImagePrompt": "Acoustic Guitar - Natural Spruce - Dreadnought"
+}

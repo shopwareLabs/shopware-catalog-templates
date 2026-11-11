@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Clean e-commerce photograph of a compact men’s leather shoe care kit in neat neutral packaging, contents arranged beside the package with simple brushes and care accessories visible, light studio background, realistic and unbranded, no readable text or logos."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Neutral"
+    },
+    {
+      "group": "Type",
+      "value": "Leather Shoe Care"
+    },
+    {
+      "group": "Use",
+      "value": "Footwear Maintenance"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 14.85,
+  "width": 147,
+  "height": 266,
+  "length": 775,
+  "ean": "7931345221443",
+  "manufacturerNumber": "MPN-WF2L9K44",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch BM77"
+  },
+  "manufacturerName": "Drelmont Wear",
+  "baseImagePrompt": "Leather Care Kit - Neutral - Shoe Essentials"
+}

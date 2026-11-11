@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Product photo of a matte black spring-clamp guitar capo, isolated on a clean white background, shown at a slight angle to reveal the clamp and padded bar, realistic studio lighting."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro close-up of a matte black guitar capo showing spring clamp mechanism, finger grip, and soft padded contact surface, sharp craftsmanship detail against a neutral background."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Spring Clamp Capo"
+    },
+    {
+      "group": "Material",
+      "value": "Metal"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 3.71,
+  "width": 613,
+  "height": 851,
+  "length": 1192,
+  "ean": "7413702209863",
+  "manufacturerNumber": "MPN-Q2A5DCGO",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2024,
+    "cg_internal_note": "Demo batch XB2J"
+  },
+  "manufacturerName": "Straploom Audio",
+  "baseImagePrompt": "Guitar Capo - Spring Clamp - Matte Black, Metal construction"
+}

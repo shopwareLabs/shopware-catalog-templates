@@ -1,0 +1,111 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "detail",
+      "prompt": "Four folded reusable microfiber cleaning cloths in distinct practical colors, stacked neatly on a bright neutral background; show soft woven texture and clean finished edges, realistic household product photography."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Material",
+      "value": "Microfiber"
+    },
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Pack Size",
+      "value": "4 Pack"
+    },
+    {
+      "group": "Color family",
+      "value": "Yellow"
+    },
+    {
+      "group": "Color family",
+      "value": "Green"
+    },
+    {
+      "group": "Color family",
+      "value": "Blue"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 2,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": true,
+  "weight": 6.88,
+  "width": 383,
+  "height": 711,
+  "length": 1324,
+  "ean": "1566417471851",
+  "manufacturerNumber": "MPN-6BL7WSY7",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch DCZ8"
+  },
+  "manufacturerName": "Laundrelis",
+  "baseImagePrompt": "Reusable Cleaning Cloths - Multicolor - 4 Pack, Microfiber construction",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Multicolor",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "priceModifiers": {
+        "Multicolor": 1,
+        "Blue": 1,
+        "Green": 1,
+        "Yellow": 1
+      }
+    },
+    {
+      "group": "Size",
+      "selectedOptions": [
+        "Extra Large",
+        "Small",
+        "Medium"
+      ],
+      "priceModifiers": {
+        "Extra Large": 1.2,
+        "Small": 0.9,
+        "Medium": 1
+      }
+    }
+  ],
+  "defaultColor": "Multicolor",
+  "variantColors": [
+    {
+      "name": "Multicolor",
+      "family": "multicolor"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2563eb",
+      "family": "blue"
+    },
+    {
+      "name": "Green",
+      "hex": "#16a34a",
+      "family": "green"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#eab308",
+      "family": "yellow"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Lavender plant with purple flower spikes growing in a sunny home garden border beside a stone path, natural relaxed planting, warm daylight, lifelike foliage, no text or labels."
+    },
+    {
+      "view": "front",
+      "prompt": "Front-facing nursery product image of a healthy lavender plant in a 1-litre pot, upright purple flower spikes and silvery-green leaves visible, neutral background, realistic commercial garden photography, no text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Purple"
+    },
+    {
+      "group": "Size",
+      "value": "1 Litre Pot"
+    },
+    {
+      "group": "Type",
+      "value": "Lavender"
+    },
+    {
+      "group": "Color family",
+      "value": "Purple"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 13.43,
+  "width": 132,
+  "height": 491,
+  "length": 304,
+  "ean": "6158991001910",
+  "manufacturerNumber": "MPN-1V3KKG32",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch MFHK"
+  },
+  "manufacturerName": "Rosethicket",
+  "baseImagePrompt": "Lavender Plant - Purple - 1 Litre Pot"
+}

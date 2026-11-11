@@ -1,0 +1,51 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "side",
+      "prompt": "Side view of a slim black dual-ended eyebrow grooming tool, angled synthetic brow brush at one end and clean spoolie at the other, isolated on a light neutral background, crisp premium product photography, no text or logo."
+    },
+    {
+      "view": "packaging",
+      "prompt": "Black dual-ended brow grooming brush presented beside simple refined cosmetic packaging, both angled brush and spoolie visible, soft studio lighting, pale beige background, no readable labels or branding."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Type",
+      "value": "Dual-Ended Brow Brush"
+    },
+    {
+      "group": "Material",
+      "value": "Synthetic Bristles"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 10,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 1.24,
+  "width": 705,
+  "height": 287,
+  "length": 1951,
+  "ean": "0845205683326",
+  "manufacturerNumber": "MPN-9U35XR18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2021,
+    "cg_internal_note": "Demo batch MENW"
+  },
+  "manufacturerName": "Tavique Atelier",
+  "baseImagePrompt": "Angled Brow Grooming Tool - Black - Dual-Ended, Synthetic Bristles construction"
+}

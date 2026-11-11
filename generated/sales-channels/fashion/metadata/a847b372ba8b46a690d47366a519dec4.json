@@ -1,0 +1,55 @@
+{
+  "imageCount": 3,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Black woven leather men's belt presented neatly in a refined dark-neutral gift box with the classic buckle visible; premium but minimal packaging, realistic e-commerce product photography, no prominent text or logos."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Close lifestyle view of a black woven leather belt worn with smart charcoal chinos and a crisp shirt; emphasize the woven texture and classic buckle, softly lit contemporary setting, realistic men's fashion photography."
+    },
+    {
+      "view": "detail",
+      "prompt": "Macro product detail of the black woven leather belt showing braided texture, buckle tongue placement, smooth leather tip, and polished classic metal buckle; neutral studio background, sharp realistic detail."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Black"
+    },
+    {
+      "group": "Material",
+      "value": "Leather"
+    },
+    {
+      "group": "Type",
+      "value": "Woven Belt"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 18.65,
+  "width": 100,
+  "height": 591,
+  "length": 1759,
+  "ean": "3071706583897",
+  "manufacturerNumber": "MPN-IVSSRR18",
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch H8RI"
+  },
+  "manufacturerName": "Orvane Tailoring",
+  "baseImagePrompt": "Woven Leather Belt - Black - Classic Buckle"
+}

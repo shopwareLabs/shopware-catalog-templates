@@ -1,0 +1,44 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "lifestyle",
+      "prompt": "Serene evening skincare lifestyle image with an overnight mask jar on a bedside table beside a folded soft towel and a small ceramic dish, warm lamplight, muted blush and cream palette, premium calm beauty editorial styling."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Key Ingredient",
+      "value": "Rose Clay"
+    },
+    {
+      "group": "Size",
+      "value": "75ml"
+    },
+    {
+      "group": "Use",
+      "value": "Overnight"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 9.12,
+  "width": 733,
+  "height": 567,
+  "length": 55,
+  "ean": "3769439938922",
+  "manufacturerNumber": "MPN-KBNRL6W8",
+  "maxPurchase": 50,
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2026,
+    "cg_internal_note": "Demo batch 3RPD"
+  },
+  "manufacturerName": "Nuvielle Skin",
+  "baseImagePrompt": "Overnight Renewal Mask - Rose Clay - 75ml"
+}

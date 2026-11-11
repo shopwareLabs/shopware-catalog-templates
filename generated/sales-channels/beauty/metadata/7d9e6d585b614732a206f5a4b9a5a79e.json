@@ -1,0 +1,53 @@
+{
+  "imageCount": 2,
+  "imageDescriptions": [
+    {
+      "view": "packaging",
+      "prompt": "Premium warm neutral eyeshadow palette shown with its outer packaging, coordinated earthy color palette, elegant minimal design, clean studio surface and soft diffused lighting, realistic cosmetics product photography, no extra items."
+    },
+    {
+      "view": "lifestyle",
+      "prompt": "Warm neutral eyeshadow palette open on a tasteful vanity with a soft brush nearby, flattering natural light, refined beauty editorial styling, realistic product photograph, no visible model or invented brand text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Multicolor"
+    },
+    {
+      "group": "Finish",
+      "value": "Matte & Shimmer"
+    },
+    {
+      "group": "Type",
+      "value": "Eyeshadow Palette"
+    },
+    {
+      "group": "Color family",
+      "value": "Multicolor"
+    }
+  ],
+  "reviewCount": 1,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": false,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 23.46,
+  "width": 1034,
+  "height": 690,
+  "length": 1115,
+  "ean": "6844580143986",
+  "manufacturerNumber": "MPN-V09QEK18",
+  "minPurchase": 3,
+  "purchaseSteps": 3,
+  "customFields": {
+    "cg_featured": false,
+    "cg_launch_year": 2023,
+    "cg_internal_note": "Demo batch G4GV"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Eyeshadow Palette - Warm Neutrals - Matte & Shimmer, Multicolor finish"
+}

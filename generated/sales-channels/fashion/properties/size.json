@@ -1,0 +1,25 @@
+{
+  "name": "Size",
+  "slug": "size",
+  "displayType": "text",
+  "options": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+  ],
+  "priceModifiers": {
+    "XS": 1,
+    "S": 1,
+    "M": 1,
+    "L": 1,
+    "XL": 1,
+    "XXL": 1,
+    "XXXL": 1
+  },
+  "createdAt": "2026-11-10T14:58:18.397Z",
+  "source": "ai-generated"
+}

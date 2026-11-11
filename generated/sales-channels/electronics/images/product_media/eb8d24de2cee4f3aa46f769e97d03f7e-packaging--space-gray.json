@@ -1,0 +1,10 @@
+{
+  "productId": "eb8d24de2cee4f3aa46f769e97d03f7e",
+  "productName": "packaging--space-gray",
+  "generatedAt": "2026-11-10T15:04:42.052Z",
+  "prompt": "Recolour the product to Space Gray (#53565a). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "a69addef2df5dd9d",
+  "shade": "Space Gray",
+  "hex": "#53565a"
+}

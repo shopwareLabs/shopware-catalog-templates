@@ -1,0 +1,91 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Front view of a refined bottle of luminous liquid foundation in warm beige styling, premium minimal cosmetics packaging, soft studio lighting, neutral cream background, realistic high-end beauty product photography, no extra products."
+    }
+  ],
+  "isVariant": true,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Warm Beige"
+    },
+    {
+      "group": "Coverage",
+      "value": "Buildable"
+    },
+    {
+      "group": "Finish",
+      "value": "Luminous"
+    },
+    {
+      "group": "Color family",
+      "value": "Brown"
+    },
+    {
+      "group": "Color family",
+      "value": "Beige"
+    }
+  ],
+  "reviewCount": 5,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": true,
+  "isShippingFree": false,
+  "weight": 23.41,
+  "width": 582,
+  "height": 626,
+  "length": 995,
+  "ean": "2148643121138",
+  "manufacturerNumber": "MPN-XH0H2KBI",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2020,
+    "cg_internal_note": "Demo batch AG83"
+  },
+  "manufacturerName": "Veloura Cosmetics",
+  "baseImagePrompt": "Luminous Liquid Foundation - Warm Beige - Natural Finish",
+  "variantConfigs": [
+    {
+      "group": "Color",
+      "selectedOptions": [
+        "Warm Beige",
+        "Fair Ivory",
+        "Medium Honey",
+        "Deep Cocoa"
+      ],
+      "priceModifiers": {
+        "Warm Beige": 1,
+        "Fair Ivory": 1,
+        "Medium Honey": 1,
+        "Deep Cocoa": 1
+      }
+    }
+  ],
+  "defaultColor": "Warm Beige",
+  "variantColors": [
+    {
+      "name": "Warm Beige",
+      "hex": "#c7a17a",
+      "family": "beige"
+    },
+    {
+      "name": "Fair Ivory",
+      "hex": "#f4e6d5",
+      "family": "beige"
+    },
+    {
+      "name": "Medium Honey",
+      "hex": "#c58b45",
+      "family": "beige"
+    },
+    {
+      "name": "Deep Cocoa",
+      "hex": "#5b3428",
+      "family": "brown"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "imageCount": 1,
+  "imageDescriptions": [
+    {
+      "view": "front",
+      "prompt": "Straight-on front view of a modern 27-inch computer monitor with a thin matte black bezel and simple stand, screen showing a subtle abstract blue gradient, clean studio lighting, realistic product photography, no brand marks or readable text."
+    }
+  ],
+  "isVariant": false,
+  "properties": [
+    {
+      "group": "Color",
+      "value": "Matte Black"
+    },
+    {
+      "group": "Screen Size",
+      "value": "27 inches"
+    },
+    {
+      "group": "Type",
+      "value": "Computer Monitor"
+    },
+    {
+      "group": "Color family",
+      "value": "Black"
+    }
+  ],
+  "reviewCount": 8,
+  "hasSalesPrice": false,
+  "hasTieredPricing": false,
+  "isTopseller": true,
+  "isNew": false,
+  "isShippingFree": false,
+  "weight": 5.48,
+  "width": 858,
+  "height": 878,
+  "length": 1915,
+  "ean": "3088804391668",
+  "manufacturerNumber": "MPN-UZ1IZVI1",
+  "customFields": {
+    "cg_featured": true,
+    "cg_launch_year": 2025,
+    "cg_internal_note": "Demo batch T66I"
+  },
+  "manufacturerName": "Kaventra",
+  "baseImagePrompt": "Computer Monitor - 27-inch - Matte Black"
+}

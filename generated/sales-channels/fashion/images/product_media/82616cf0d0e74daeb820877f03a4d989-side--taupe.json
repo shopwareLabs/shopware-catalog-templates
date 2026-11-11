@@ -1,0 +1,10 @@
+{
+  "productId": "82616cf0d0e74daeb820877f03a4d989",
+  "productName": "side--taupe",
+  "generatedAt": "2026-11-10T15:04:41.978Z",
+  "prompt": "Recolour the product to Taupe (#8b7d6b). Keep shape, materials, logo, background, lighting and packaging layout identical. Only the product's main colour changes.",
+  "imageModel": "openai",
+  "sourceHash": "22f7347d566c5d0b",
+  "shade": "Taupe",
+  "hex": "#8b7d6b"
+}
